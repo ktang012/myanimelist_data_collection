@@ -18,27 +18,45 @@ class Jikan_Collector(Jikan):
     def save_season_data(self, year, season):
         seasonal_animes = self.get_seasonal_animes(year, season)
         for anime_id, title in seasonal_animes.items():
-            metadata = self.get_metadata(anime_id)
-            reviews = self.get_reviews(anime_id)
-            stats = self.get_stats(anime_id)
+            self.save_anime_data(anime_id, season=season, year=year, title=title)
+                                  
+    def save_anime_data(self, anime_id, max_review_pages=10, max_attempts=5,
+                        season="NA", year="NA", title="NA"):
+        anime_path = os.path.join(self.data_path, title + "_" + str(anime_id))
         
-            try:
-                metadata_path = os.path.join(self.data_path, title, "metadata.json")
-                reviews_path = os.path.join(self.data_path, title, "reviews.json")
-                stats_path = os.path.join(self.data_path, title, "stats.json")
+        if not os.path.exists(anime_path):
+            os.mkdir(anime_path)
+        
+        try:
+            metadata = self.get_metadata(anime_id, max_attempts=max_attempts)
+            metadata_path = os.path.join(anime_path, "metadata.json")
+            with open(metadata_path, "w") as f:
+                json.dump(metadata, f, sort_keys=True, indent=4, separators=(',', ': '))
                 
-                with open(metadata_path, "w") as f:
-                    json.dump(metadata, f)
+        except Exception as e:
+            logging.exception(season + str(year) + ": failed to save data for " + 
+                              str(anime_id) + " " + title)
+        
+        try:
+            reviews = self.get_reviews(anime_id, max_attempts=max_attempts,
+                                       max_review_pages=max_review_pages)
+            reviews_path = os.path.join(anime_path, "reviews.json")
+            with open(reviews_path, "w") as f:
+                json.dump(reviews, f, sort_keys=True, indent=4, separators=(',', ': '))
                 
-                with open(reviews_path, "w") as f:
-                    json.dump(reviews, f)
-                    
-                with open(stats_path, "w") as f:
-                    json.dump(stats, f)
-                    
-            except Exception as e:
-                logging.exception(season + str(year) + ": failed to save data for " + 
-                                  str(anime_id) + " " + title)
+        except Exception as e:
+            logging.exception(season + str(year) + ": failed to save data for " + 
+                              str(anime_id) + " " + title)
+        
+        try:
+            stats = self.get_stats(anime_id, max_attempts=max_attempts)
+            stats_path = os.path.join(anime_path, "stats.json")
+            with open(stats_path, "w") as f:
+                json.dump(stats, f, sort_keys=True, indent=4, separators=(',', ': '))
+                
+        except Exception as e:
+            logging.exception(season + str(year) + ": failed to save data for " + 
+                              str(anime_id) + " " + title)
         
     def get_seasonal_animes(self, year, season):
         seasonal_animes = {}
@@ -81,11 +99,11 @@ class Jikan_Collector(Jikan):
         reviews = []
         print(" " * 5, "getting reviews for", str(anime_id))
         attempts = 0
-        page = 1
+        page = 0
         while (attempts < max_attempts):
             try:
-                while (page < MAX_REVIEW_PAGES):
-                    review = self.anime(anime_id, extension='reviews', page=page)['reviews]
+                while (page < max_review_pages):
+                    review = self.anime(anime_id, extension='reviews', page=page)['reviews']
                     if review:
                         reviews.append(review)
                         page += 1
@@ -107,7 +125,7 @@ class Jikan_Collector(Jikan):
         attempts = 0
         while (attempts < max_attempts):
             try:
-                stats = jikan.anime(anime_id, extension='stats')
+                stats = self.anime(anime_id, extension='stats')
                 break
             
             except Exception as e:
@@ -115,6 +133,6 @@ class Jikan_Collector(Jikan):
                 logging.exception(str(anime_id) + ": stats attempt #" + str(attempts))
             
             finally:
-                time.sleep(self.time)
+                time.sleep(self.sleep_time)
         
         return stats
