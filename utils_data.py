@@ -6,6 +6,7 @@ import time
 
 from datetime import datetime
 from jikanpy import Jikan
+from pprint import pprint
 
 logging.basicConfig(level=logging.ERROR, filename="logging_errors.txt")
 
@@ -57,23 +58,22 @@ class Jikan_Collector(Jikan):
         except Exception as e:
             logging.exception(season + str(year) + ": failed to save data for " + 
                               str(anime_id) + " " + title)
-        
-    def get_seasonal_animes(self, year, season):
+    
+    def get_seasonal_animes(self, year, season, min_year=2008, max_year=2018, min_members=70000):
         seasonal_animes = {}
-        try:
-            seasonal_shows = self.season(year=year, season=season)['anime']
-            time.sleep(self.sleep_time)
+        seasonal_shows = self.season(year=year, season=season)['anime']
+        time.sleep(self.sleep_time)
         
-            for show in seasonal_shows:
-                if seasonal_animes:
-                    air_date = datetime.strptime(shows['airing_start'].split("+")[0], 
-                                                 "%Y-%m-%dT%H:%M:%S")
-                    if 2008 <= air_date.year <= 2018 and shows['type'] == 'TV':
-                        seasonal_animes[show['mal_id']] = show['title']
+        for show in seasonal_shows:
+            try:
+                pprint(show)
+                air_date = datetime.strptime(show['airing_start'].split("+")[0], 
+                                             "%Y-%m-%dT%H:%M:%S")
+                if min_year <= air_date.year <= max_year and show['type'] == 'TV' and not show['continuing'] and show['members'] >= min_members:
+                    seasonal_animes[show['mal_id']] = show['title']
                         
-        except Exception as e:
-            logging.exception(season + str(year) + ": failed to get data for " + 
-                              str(anime_id) + " " + title)
+            except Exception as e:
+                continue
                     
         return seasonal_animes
            
