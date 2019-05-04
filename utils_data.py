@@ -19,9 +19,11 @@ class Jikan_Collector(Jikan):
     def save_season_data(self, year, season):
         seasonal_animes = self.get_seasonal_animes(year, season)
         for anime_id, title in seasonal_animes.items():
+            print("collecting data for", title)
             self.save_anime_data(anime_id, season=season, year=year, title=title)
+            print("-"*10)
                                   
-    def save_anime_data(self, anime_id, max_review_pages=10, max_attempts=5,
+    def save_anime_data(self, anime_id, max_review_pages=10, max_attempts=10,
                         season="NA", year="NA", title="NA"):
         anime_path = os.path.join(self.data_path, title + "_" + str(anime_id))
         
@@ -59,14 +61,22 @@ class Jikan_Collector(Jikan):
             logging.exception(season + str(year) + ": failed to save data for " + 
                               str(anime_id) + " " + title)
     
-    def get_seasonal_animes(self, year, season, min_year=2008, max_year=2018, min_members=70000):
+    def get_seasonal_animes(self, year, season, min_year=2008, max_year=2018, min_members=70000, max_attempts=5):
         seasonal_animes = {}
-        seasonal_shows = self.season(year=year, season=season)['anime']
-        time.sleep(self.sleep_time)
+        attempts = 0
+        while (attempts < max_attempts):
+            try:
+                seasonal_shows = self.season(year=year, season=season)['anime']
+                break
+            except:
+                attempts += 1
+            time.sleep(self.sleep_time)
+        
+        if attempts == max_attempts:
+           return seasonal_animes
         
         for show in seasonal_shows:
             try:
-                pprint(show)
                 air_date = datetime.strptime(show['airing_start'].split("+")[0], 
                                              "%Y-%m-%dT%H:%M:%S")
                 if min_year <= air_date.year <= max_year and show['type'] == 'TV' and not show['continuing'] and show['members'] >= min_members:
