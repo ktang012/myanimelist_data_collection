@@ -1,148 +1,89 @@
 import os
-import sys
-import logging
 import json
-import time
+import math
 
-from datetime import datetime
-from jikanpy import Jikan
-from pprint import pprint
+from collections import Counter
+import matplotlib.pyplot as plt
 
-logging.basicConfig(level=logging.ERROR, filename="logging_errors.txt")
-
-class Jikan_Collector(Jikan):
-    def __init__(self, data_path="data"):
-        super().__init__()
-        self.sleep_time = 3
-        self.data_path = data_path
-        
-    def save_season_data(self, year, season):
-        seasonal_animes = self.get_seasonal_animes(year, season)
-        for anime_id, title in seasonal_animes.items():
-            print("collecting data for", title)
-            self.save_anime_data(anime_id, season=season, year=year, title=title)
-            print("-"*10)
-                                  
-    def save_anime_data(self, anime_id, max_review_pages=10, max_attempts=10,
-                        season="NA", year="NA", title="NA"):
-        anime_path = os.path.join(self.data_path, title + "_" + str(anime_id))
-        
-        if not os.path.exists(anime_path):
-            os.mkdir(anime_path)
-        
-        try:
-            metadata = self.get_metadata(anime_id, max_attempts=max_attempts)
-            metadata_path = os.path.join(anime_path, "metadata.json")
-            with open(metadata_path, "w") as f:
-                json.dump(metadata, f, sort_keys=True, indent=4, separators=(',', ': '))
-                
-        except Exception as e:
-            logging.exception(season + str(year) + ": failed to save data for " + 
-                              str(anime_id) + " " + title)
-        
-        try:
-            reviews = self.get_reviews(anime_id, max_attempts=max_attempts,
-                                       max_review_pages=max_review_pages)
-            reviews_path = os.path.join(anime_path, "reviews.json")
-            with open(reviews_path, "w") as f:
-                json.dump(reviews, f, sort_keys=True, indent=4, separators=(',', ': '))
-                
-        except Exception as e:
-            logging.exception(season + str(year) + ": failed to save data for " + 
-                              str(anime_id) + " " + title)
-        
-        try:
-            stats = self.get_stats(anime_id, max_attempts=max_attempts)
-            stats_path = os.path.join(anime_path, "stats.json")
-            with open(stats_path, "w") as f:
-                json.dump(stats, f, sort_keys=True, indent=4, separators=(',', ': '))
-                
-        except Exception as e:
-            logging.exception(season + str(year) + ": failed to save data for " + 
-                              str(anime_id) + " " + title)
+def load_raw_animes_to_memory(path):
+    animes = {}
+    KEYS_TO_DROP = [
+        "request_cached", "request_cache_expiry", "trailer_url",
+        "request_hash", "background", "airing", 
+        "broadcast", "licensors", "type"
+    ]
     
-    def get_seasonal_animes(self, year, season, min_year=2008, max_year=2018, min_members=70000, max_attempts=5):
-        seasonal_animes = {}
-        attempts = 0
-        while (attempts < max_attempts):
-            try:
-                seasonal_shows = self.season(year=year, season=season)['anime']
-                break
-            except:
-                attempts += 1
-            time.sleep(self.sleep_time)
+    for anime_name in os.listdir(path):
+        anime_path = os.path.join(path, anime_name)
         
-        if attempts == max_attempts:
-           return seasonal_animes
+        with open(os.path.join(anime_path, "metadata.json"), "r") as f:
+            metadata = json.load(f)
         
-        for show in seasonal_shows:
-            try:
-                air_date = datetime.strptime(show['airing_start'].split("+")[0], 
-                                             "%Y-%m-%dT%H:%M:%S")
-                if min_year <= air_date.year <= max_year and show['type'] == 'TV' and not show['continuing'] and show['members'] >= min_members:
-                    seasonal_animes[show['mal_id']] = show['title']
-                        
-            except Exception as e:
-                continue
+        with open(os.path.join(anime_path, "reviews.json"), "r") as f:
+            reviews = json.load(f)
+            reviews = [review for page in reviews for review in page]
+            
+        with open(os.path.join(anime_path, "stats.json"), "r") as f:
+            stats = json.load(f)
+        
+        for key in KEYS_TO_DROP:
+            metadata.pop(key, None)
+            stats.pop(key, None)
+        
+        combined = {**metadata, **stats}
+        combined["reviews"] = reviews
+        
+        animes[combined["mal_id"]] = combined
+        
+    return animes
+
+def load_animes_to_memory(path):
+    with open(os.path.join(path, "mal_data.json"), "r") as f:
+        data = json.load(f)
+    return data
+
+def total_num_of_reviews(animes):
+    count = 0
+    for id, anime in animes.items():
+        count += len(anime["reviews"])
+    return count
+    
+def get_normalized_word_count(animes):
+    words = Counter()
+    
+    for mal_id, anime in animes.items():
+        for review in anime["reviews"]:
+            doc = review["content"]
+            doc = doc.split(" ")
+            doc_length = len(doc)
+            for word in doc:
+                word = word.lower()
+                if word not in words:
+                    words[word] = 1/doc_length
                     
-        return seasonal_animes
-           
-    def get_metadata(self, anime_id, max_attempts=5):
-        metadata = None
-        print(" " * 5, "getting metadata for", str(anime_id))
-        attempts = 0
-        while (attempts < max_attempts):
-            try:
-                metadata = self.anime(anime_id)
-                break
-                
-            except Exception as e:
-                attempts += 1
-                logging.exception(str(anime_id) + ": metadata attempt #" + str(attempts))
-                
-            finally:
-                time.sleep(self.sleep_time)
-                
-        return metadata
-   
-    def get_reviews(self, anime_id, max_attempts=5, max_review_pages=10):
-        reviews = []
-        print(" " * 5, "getting reviews for", str(anime_id))
-        attempts = 0
-        page = 0
-        while (attempts < max_attempts):
-            try:
-                while (page < max_review_pages):
-                    review = self.anime(anime_id, extension='reviews', page=page)['reviews']
-                    if review:
-                        reviews.append(review)
-                        page += 1
-                    else:
-                        break
-                    time.sleep(self.sleep_time)
-                break
-                
-            except Exception as e:
-                attempts += 1
-                logging.exception(str(anime_id) + ": reviews attempt #" + str(attempts))
-                time.sleep(self.sleep_time)
-        
-        return reviews
-                
-    def get_stats(self, anime_id, max_attempts=5):
-        stats = None
-        print(" " * 5, "getting stats for", str(anime_id))
-        attempts = 0
-        while (attempts < max_attempts):
-            try:
-                stats = self.anime(anime_id, extension='stats')
-                break
-            
-            except Exception as e:
-                attempts += 1
-                logging.exception(str(anime_id) + ": stats attempt #" + str(attempts))
-            
-            finally:
-                time.sleep(self.sleep_time)
-        
-        return stats
+                else:
+                    words[word] += 1/doc_length
+    return words
+
+def plot_normalized_word_counts(word_counts, most_common=50):
+    words, counts = zip(*[(word[0], math.log(word[1])) for word in word_counts.most_common(most_common)])
+    indexes = list(range(len(words)))
+    
+    fig, ax = plt.subplots()
+    fig.set_size_inches(24,16)
+    ax.set_xlabel("Index", fontsize='24')
+    ax.set_ylabel("log(term frequency)", fontsize='24')
+    ax.scatter(indexes, counts)
+    for i, word in enumerate(words):
+        if i % 4 == 0:
+            xytext = (indexes[i], counts[i] + 2e-1)
+        elif i % 3 == 0:
+            xytext = (indexes[i] - 1.75, counts[i] - 4e-1)
+        elif i % 2 == 0:
+            xytext = (indexes[i], counts[i] + 4e-1)
+        else:
+            xytext=(indexes[i] - 1.75, counts[i] - 2e-1)
+
+        ax.annotate(word, xy=(indexes[i], counts[i]), xytext=xytext,
+                    arrowprops=dict(facecolor="black", arrowstyle='-'),
+                    fontsize='18')
