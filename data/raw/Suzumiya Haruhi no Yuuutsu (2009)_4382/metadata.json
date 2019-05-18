@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2009-05-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 5,
+                "year": 2009
+            },
+            "to": {
+                "day": 11,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "May 22, 2009 to Sep 11, 2009",
+        "to": "2009-09-11T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:40 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tomare! (\u6b62\u30de\u30ec!)\" by Aya Hirano, Yuko Goto, Minori Chihara"
+    ],
+    "episodes": 14,
+    "favorites": 1773,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75377.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 4382,
+    "members": 339884,
+    "opening_themes": [
+        "\"Super Driver\" by Aya Hirano"
+    ],
+    "popularity": 229,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        }
+    ],
+    "rank": 2674,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3083,
+                "name": "Suzumiya Haruhi Series",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3083/Suzumiya_Haruhi_Series"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 849,
+                "name": "Suzumiya Haruhi no Yuuutsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 7311,
+                "name": "Suzumiya Haruhi no Shoushitsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7311/Suzumiya_Haruhi_no_Shoushitsu"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 26351,
+                "name": "Nagato Yuki-chan no Shoushitsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26351/Nagato_Yuki-chan_no_Shoushitsu"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f8345de7a2b468600c43ce547907b516e46355bf",
+    "score": 7.26,
+    "scored_by": 199138,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Kyon has found himself dragged through many adventures as of late\u2014all because of the SOS Brigade club and its excitable leader, Haruhi Suzumiya. He has stopped believing in the supernatural long ago, but after being forced to join this club based solely on that, he has seen things that cannot be explained logically. Joining Kyon on his various misadventures is the shy and soft-spoken Mikuru Asahina, the bookish Yuki Nagato, and the ever-cheerful Itsuki Koizumi. Whether it is summer vacation or a school festival, things involving their club and Haruhi herself always end up becoming strange. [Written by MAL Rewrite]",
+    "title": "Suzumiya Haruhi no Yuuutsu (2009)",
+    "title_english": "The Melancholy of Haruhi Suzumiya Season 2",
+    "title_japanese": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u6182\u9b31",
+    "title_synonyms": [
+        "Suzumiya Haruhi no Yuutsu (2009)",
+        "Endless Eight",
+        "The Sigh of Haruhi Suzumiya"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/9aOcDMV-X68?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4382/Suzumiya_Haruhi_no_Yuuutsu_2009"
+}

@@ -1,0 +1,239 @@
+{
+    "aired": {
+        "from": "2016-07-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 1, 2016 to Sep 16, 2016",
+        "to": "2016-09-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Meimoku no Kanata (\u7791\u76ee\u306e\u5f7c\u65b9)\" by Nagi Yanagi"
+    ],
+    "episodes": 12,
+    "favorites": 1287,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/79352.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 32379,
+    "members": 178704,
+    "opening_themes": [
+        "\"Inferno\" by 9mm Parabellum Bullet"
+    ],
+    "popularity": 547,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 33,
+            "name": "WOWOW",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1123,
+            "name": "Lucent Pictures Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1123/Lucent_Pictures_Entertainment"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1498,
+            "name": "Koei Tecmo Games",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1498/Koei_Tecmo_Games"
+        }
+    ],
+    "rank": 5201,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 2,
+                "name": "Berserk",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/2/Berserk"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 33,
+                "name": "Kenpuu Denki Berserk",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk"
+            },
+            {
+                "mal_id": 12115,
+                "name": "Berserk: Ougon Jidai-hen III - Kourin",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12115/Berserk__Ougon_Jidai-hen_III_-_Kourin"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34055,
+                "name": "Berserk 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34055/Berserk_2nd_Season"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35009,
+                "name": "Berserk Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35009/Berserk_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:a95b00f7003a862c28a79a0491e232df75589190",
+    "score": 6.66,
+    "scored_by": 81249,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1237,
+            "name": "Millepensee",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1237/Millepensee"
+        },
+        {
+            "mal_id": 1381,
+            "name": "GEMBA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1381/GEMBA"
+        }
+    ],
+    "synopsis": "Now branded for death and destined to be hunted by demons until the day he dies, Guts embarks on a journey to defy such a gruesome fate, as waves of beasts relentlessly pursue him. Steeling his resolve, he takes up the monstrous blade Dragonslayer and vows to exact vengeance on the one responsible, hunting down the very man he once looked up to and considered a friend. Along the way, he encounters some unlikely allies, such as a small elf named Puck, and Isidro, a young thief looking to learn swordsmanship from the former mercenary. As the ragtag group slowly comes together after having decided to join Guts in his quest, they will face incredible danger unlike anything they have ever experienced before. [Written by MAL Rewrite]",
+    "title": "Berserk",
+    "title_english": "Berserk",
+    "title_japanese": "\u30d9\u30eb\u30bb\u30eb\u30af",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/XQr7LvFZrlE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32379/Berserk"
+}

@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2012-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 10, 2012 to Mar 27, 2012",
+        "to": "2012-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Pre-screening on 26 December 2011. The regular TV airing started on 09 January 2012.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"anamnesis\" by Annabel"
+    ],
+    "episodes": 12,
+    "favorites": 12549,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 11111,
+    "members": 877136,
+    "opening_themes": [
+        "\"Kyoumu Densen (\u51f6\u5922\u4f1d\u67d3)\" by ALI PROJECT"
+    ],
+    "popularity": 31,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 245,
+            "name": "Toho",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/245/Toho"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 687,
+            "name": "Bandai Namco Live Creative",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/687/Bandai_Namco_Live_Creative"
+        },
+        {
+            "mal_id": 689,
+            "name": "NTT Docomo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+        }
+    ],
+    "rank": 1102,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 29699,
+                "name": "Another",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/29699/Another"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 20365,
+                "name": "Another: Misaki Mei - Shizukani",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20365/Another__Misaki_Mei_-_Shizukani"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11701,
+                "name": "Another: The Other - Inga",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11701/Another__The_Other_-_Inga"
+            }
+        ]
+    },
+    "request_cache_expiry": 31818,
+    "request_cached": true,
+    "request_hash": "request:anime:b0f1dfe6261d08b0038eb614e7403a1d7a736421",
+    "score": 7.71,
+    "scored_by": 528493,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 132,
+            "name": "P.A. Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ],
+    "synopsis": "In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within. Twenty-six years later, 15-year-old Kouichi Sakakibara transfers into class 3-3 of Yomiyama North and soon after discovers that a strange, gloomy mood seems to hang over all the students. He also finds himself drawn to the mysterious, eyepatch-wearing student Mei Misaki; however, the rest of the class and the teachers seem to treat her like she doesn't exist. Paying no heed to warnings from everyone including Mei herself, Kouichi begins to get closer not only to her, but also to the truth behind the gruesome phenomenon plaguing class 3-3 of Yomiyama North. Another follows Kouichi, Mei, and their classmates as they are pulled into the enigma surrounding a series of inevitable, tragic events\u2014but unraveling the horror of Yomiyama may just cost them the ultimate price. [Written by MAL Rewrite]",
+    "title": "Another",
+    "title_english": "Another",
+    "title_japanese": "\u30a2\u30ca\u30b6\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/UGoAl3L13bc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11111/Another"
+}

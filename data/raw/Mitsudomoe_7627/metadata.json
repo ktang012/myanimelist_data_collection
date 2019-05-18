@@ -1,0 +1,142 @@
+{
+    "aired": {
+        "from": "2010-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jul 3, 2010 to Sep 26, 2010",
+        "to": "2010-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first two episodes were shown to a select audience at a special preview airing held in Tokyo on June 20, 2010. The normal broadcast started on July 3, 2010.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Yume-iro no Koi (\u5922\u8272\u306e\u604b)\" by Saori Atsumi"
+    ],
+    "episodes": 13,
+    "favorites": 532,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/53947.jpg",
+    "licensors": [],
+    "mal_id": 7627,
+    "members": 76308,
+    "opening_themes": [
+        "\"Mittsu Kazoete Daishuugou! (\u307f\u3063\u3064\u6570\u3048\u3066\u5927\u96c6\u5408!)\" by Ayahi Takagaki, Satomi Akesaka and Haruka Tomatsu"
+    ],
+    "popularity": 1282,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 619,
+            "name": "Cospa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/619/Cospa"
+        },
+        {
+            "mal_id": 719,
+            "name": "Studio Mausu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+            "mal_id": 1373,
+            "name": "Akita Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+        }
+    ],
+    "rank": 1207,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17641,
+                "name": "Mitsudomoe",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17641/Mitsudomoe"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 9510,
+                "name": "Mitsudomoe Zouryouchuu!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9510/Mitsudomoe_Zouryouchuu"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9396,
+                "name": "Mitsudomoe: Oppai Ippai Mama Genki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9396/Mitsudomoe__Oppai_Ippai_Mama_Genki"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:9e2b91e72d823743e44eb9b1833d28b3c87d54fd",
+    "score": 7.67,
+    "scored_by": 32015,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 397,
+            "name": "Bridge",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/397/Bridge"
+        }
+    ],
+    "synopsis": "The 11-year-old Marui triplets could not be any more different. The oldest one, Mitsuba, is sadistic and kind of mature for her age. The middle one, Futaba, is perverted and very athletic and has the strength of a full-grown man. The youngest one, Hitoha, is generally very quiet and gentle but when push comes to shove, she might just be the strongest, the most perverted and the most sadistic out of the three. The three are all in the same class, led by the newly graduated teacher Yabe Satoshi. He usually gets pushed around by the girls and, on occasion, abused but the triplets also try to lead him and the new school nurse, the clumsy Kuriyama Aiko, together. However, Yabe had no intention of dating Aiko and the methods the triplets use to accomplish their goal are highly unorthodox...",
+    "title": "Mitsudomoe",
+    "title_english": "Mitsudomoe",
+    "title_japanese": "\u307f\u3064\u3069\u3082\u3048",
+    "title_synonyms": [
+        "Three Way Struggle"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7627/Mitsudomoe"
+}

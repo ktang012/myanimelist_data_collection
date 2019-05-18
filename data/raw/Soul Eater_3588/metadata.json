@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2008-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Apr 7, 2008 to Mar 30, 2009",
+        "to": "2009-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 18:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"I Wanna Be\" by STANCE PUNKS (eps 1-13, 51)",
+        "\"Style\" by Kana Nishino (eps 14-26)",
+        "\"Bakusou Yumeuta\" by Diggy-MO' (eps 27-39)",
+        "\"Strength\" by abingdon boys school (eps 40-50)#R1: \"Ao no Kaori\" by Yui Makino (Soul Eater Repeat Show eps 1-13)#R2: \"Northern Lights\" by How Merry Marry (Soul Eater Repeat Show eps 14-)"
+    ],
+    "episodes": 51,
+    "favorites": 19413,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/7804.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 3588,
+    "members": 892094,
+    "opening_themes": [
+        "\"Resonance\" by T.M.Revolution (eps 1-30)",
+        "\"PAPERMOON\" by Tommy heavenly6 (eps 31-50)#R1: \"Counter Identity\" by UNISON SQUARE GARDEN (Soul Eater Repeat Show eps 1-13)#R2: \"Ai ga Hoshii yo\" by Shion Tsuji (Soul Eater Repeat Show eps 14-)"
+    ],
+    "popularity": 27,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        }
+    ],
+    "rank": 573,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 908,
+                "name": "Soul Eater",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/908/Soul_Eater"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 21507,
+                "name": "Soul Eater NOT!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21507/Soul_Eater_NOT"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 21195,
+                "name": "Soul Eater: Late Night Show",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21195/Soul_Eater__Late_Night_Show"
+            }
+        ]
+    },
+    "request_cache_expiry": 13930,
+    "request_cached": true,
+    "request_hash": "request:anime:b299c32386524b8a88360b5056188b5a98175820",
+    "score": 8.01,
+    "scored_by": 465840,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Death City is home to the famous Death Weapon Meister Academy, a technical academy headed by the Shinigami\u2014Lord Death himself. Its mission: to raise \"Death Scythes\" for the Shinigami to wield against the many evils of their fantastical world. These Death Scythes, however, are not made from physical weapons; rather, they are born from human hybrids who have the ability to transform their bodies into Demon Weapons, and only after they have consumed the souls of 99 evil beings and one witch's soul. Soul Eater Evans, a Demon Scythe who only seems to care about what's cool, aims to become a Death Scythe with the help of his straight-laced wielder, or meister, Maka Albarn. The contrasting duo work and study alongside the hot headed Black\u2606Star and his caring weapon Tsubaki, as well as the Shinigami's own son, Death the Kid, an obsessive-compulsive dual wielder of twin pistols Patty and Liz. Soul Eater follows these students of Shibusen as they take on missions to collect souls and protect the city from the world's threats while working together under the snickering sun to become sounder in mind, body, and soul. [Written by MAL Rewrite]",
+    "title": "Soul Eater",
+    "title_english": "Soul Eater",
+    "title_japanese": "\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ZJyKOEabFdo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3588/Soul_Eater"
+}

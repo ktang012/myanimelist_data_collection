@@ -1,0 +1,122 @@
+{
+    "aired": {
+        "from": "2017-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Apr 8, 2017 to Sep 16, 2017",
+        "to": "2017-09-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"gravityWall\" by SawanoHiroyuki[nZk]:Tielle & Gemie (ep 1, 22)",
+        "\"NEWLOOK\" by Mashiro Ayano (ep 2-12)",
+        "\"world \u00c9tude\" by Aki Toyosaki (ep 13)",
+        "\"Rubikon (\u30eb\u30d3\u30b3\u30f3)\" by Sangatsu no Phantasia (eps 14-21)"
+    ],
+    "episodes": 22,
+    "favorites": 2109,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/85469.jpg",
+    "licensors": [],
+    "mal_id": 34561,
+    "members": 261128,
+    "opening_themes": [
+        "\"gravityWall\" by SawanoHiroyuki[nZk]:Tielle & Gemie (eps 2-11, 13)",
+        "\"sh0ut\" by SawanoHiroyuki[nZk]:Tielle & Gemie (eps 14-22)"
+    ],
+    "popularity": 336,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 1430,
+            "name": "Shogakukan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        },
+        {
+            "mal_id": 1500,
+            "name": "ABC Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        }
+    ],
+    "rank": 1262,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 103727,
+                "name": "Re:Creators",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/103727/Re_Creators"
+            }
+        ]
+    },
+    "request_cache_expiry": 888,
+    "request_cached": true,
+    "request_hash": "request:anime:85bdcf302459327ca1cb4801d8e58f5ea064a24f",
+    "score": 7.65,
+    "scored_by": 95144,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1103,
+            "name": "TROYCA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+        }
+    ],
+    "synopsis": "Humans have designed countless worlds\u2014each one born from the unique imagination of its creator. Souta Mizushino is a high school student who aspires to be such a creator by writing and illustrating his own light novel. One day, while watching anime for inspiration, he is briefly transported into a fierce fight scene. When he returns to the real world, he realizes something is amiss: the anime's headstrong heroine, Selesia Yupitilia, has somehow returned with him. Before long, other fictional characters appear in the world, carrying the hopes and scars of their home. A princely knight, a magical girl, a ruthless brawler, and many others now crowd the streets of Japan. However, the most mysterious one is a woman in full military regalia, dubbed \"Gunpuku no Himegimi,\" who knows far more than she should about the creators' world. Despite this, no one knows her true name or the world she is from. Meanwhile, Souta and Selesia work together with Meteora \u00d6sterreich, a calm and composed librarian NPC, to uncover the meaning behind these unnatural events. With powerful forces at play, the once clear line between reality and imagination continues to blur, leading to a fateful meeting between creators and those they created. [Written by MAL Rewrite]",
+    "title": "Re:Creators",
+    "title_english": "Re:CREATORS",
+    "title_japanese": "Re:CREATORS \u3008\u30ec\u30af\u30ea\u30a8\u30a4\u30bf\u30fc\u30ba\u3009",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/5pWvM4JAM8M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34561/Re_Creators"
+}

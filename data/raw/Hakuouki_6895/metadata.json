@@ -1,0 +1,199 @@
+{
+    "aired": {
+        "from": "2010-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2010
+            }
+        },
+        "string": "Apr 4, 2010 to Jun 20, 2010",
+        "to": "2010-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kimi no Kioku (\u541b\u30ce\u8a18\u61b6)\" By Mao"
+    ],
+    "episodes": 12,
+    "favorites": 1883,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 21,
+            "name": "Samurai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/71800.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 6895,
+    "members": 120120,
+    "opening_themes": [
+        "\"Izayoi Namida\" by Aika Yoshioka"
+    ],
+    "popularity": 849,
+    "premiered": "Spring 2010",
+    "producers": [],
+    "rank": 1626,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17836,
+                "name": "Hakuouki Junrenka",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17836/Hakuouki_Junrenka"
+            },
+            {
+                "mal_id": 23352,
+                "name": "Hakuouki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23352/Hakuouki"
+            },
+            {
+                "mal_id": 23353,
+                "name": "Hakuouki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23353/Hakuouki"
+            },
+            {
+                "mal_id": 29375,
+                "name": "Hakuouki Shinsengumi Kitan",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/29375/Hakuouki_Shinsengumi_Kitan"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 13117,
+                "name": "Hakuouki Movie 1: Kyoto Ranbu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13117/Hakuouki_Movie_1__Kyoto_Ranbu"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 11663,
+                "name": "Hakuouki OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11663/Hakuouki_OVA"
+            },
+            {
+                "mal_id": 32011,
+                "name": "Hakuouki: Otogisoushi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32011/Hakuouki__Otogisoushi"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 13115,
+                "name": "Hakuouki Reimeiroku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13115/Hakuouki_Reimeiroku"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 9065,
+                "name": "Hakuouki Hekketsuroku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9065/Hakuouki_Hekketsuroku"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10350,
+                "name": "Hakuouki Sekkaroku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10350/Hakuouki_Sekkaroku"
+            },
+            {
+                "mal_id": 31785,
+                "name": "Hakuouki Shinkai: Kaze no Shou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31785/Hakuouki_Shinkai__Kaze_no_Shou"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 9723,
+                "name": "Hakuouki Hekketsuroku Episode 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9723/Hakuouki_Hekketsuroku_Episode_0"
+            }
+        ]
+    },
+    "request_cache_expiry": 17889,
+    "request_cached": true,
+    "request_hash": "request:anime:328313f25534545446b637fea7d56aaf42a7b9e1",
+    "score": 7.52,
+    "scored_by": 51642,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "In 1864 Japan, a young woman named Chizuru Yukimura is searching for her missing father, Koudou, a doctor by trade whose work often takes him far from home. But with no word from him in months, Chizuru disguises herself as a man and heads to Kyoto in search of him. Attracting the attention of ronin, she tries to hide and ends up witnessing a horrifying sight: the ronin being brutally murdered by crazed white-haired men. In a startling turn of events, members of the Shinsengumi arrive to dispatch the creatures. But Chizuru's safety doesn't last long, as this group of men tie her up and take her back to their headquarters, unsure of whether to let her live or silence her permanently. However, once she reveals the name of her father, the Shinsengumi decide to keep her safe, as they too have been searching for him. But Koudou is more connected to the Shinsengumi than they let on, and soon Chizuru finds herself embroiled in a conflict between the Shinsengumi and their enemies, as well as political tension in Kyoto. [Written by MAL Rewrite]",
+    "title": "Hakuouki",
+    "title_english": "Hakuoki ~Demon of the Fleeting Blossom~",
+    "title_japanese": "\u8584\u685c\u9b3c",
+    "title_synonyms": [
+        "Hakuoki",
+        "Hakuouki: Shinsengumi Kitan"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6895/Hakuouki"
+}

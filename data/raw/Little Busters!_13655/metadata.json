@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2012-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 6,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Oct 6, 2012 to Apr 6, 2013",
+        "to": "2013-04-06T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Alicemagic ~TV animation ver.~\" by Rita (eps 1-5, 7-13, 15-17, 19-22, 24-25)",
+        "\"Alicemagic\" by Rita (eps 6, 18)",
+        "\"Ame nochi Hare (\u96e8\u306e\u3061\u6674\u308c)\" by Rita (eps 14, 23)",
+        "\"Little Busters! ~TV animation ver.~\" by Rita (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 1761,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/43757.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 13655,
+    "members": 192357,
+    "opening_themes": [
+        "\"Little Busters! ~TV animation ver.~\" by Rita"
+    ],
+    "popularity": 500,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 1390,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8677,
+                "name": "Little Busters!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8677/Little_Busters"
+            },
+            {
+                "mal_id": 93220,
+                "name": "Little Busters!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/93220/Little_Busters"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 35960,
+                "name": "Kud Wafter",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35960/Kud_Wafter"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18195,
+                "name": "Little Busters!: Refrain",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18195/Little_Busters__Refrain"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 17643,
+                "name": "Little Busters!: Sekai no Saitou wa Ore ga Mamoru!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17643/Little_Busters__Sekai_no_Saitou_wa_Ore_ga_Mamoru"
+            }
+        ]
+    },
+    "request_cache_expiry": 4013,
+    "request_cached": true,
+    "request_hash": "request:anime:cb45137caff06e02d881fb0cc7723b065f094898",
+    "score": 7.6,
+    "scored_by": 71901,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "As a child, Riki Naoe shut himself from the world, thanks to a diagnosis of narcolepsy following the tragic deaths of his parents. However, Riki is saved when, one fateful day, a boy named Kyousuke recruits him into a team who call themselves the Little Busters. Accompanied by Masato, Kengo, and Rin, these misfits spend their childhood fighting evil and enjoying their youth. Years pass, and even in high school, the well-knit teammates remain together. Kyousuke decides to re-ignite the Little Busters by forming a baseball team as it will be his last school year with them. They have a problem though: there aren't enough members! The tables have turned, for it is now Riki's turn to reach out and recruit new friends into the Little Busters, just like Kyousuke had once done for him. Then, an omen surfaces\u2014Rin finds a strange letter attached to her cat, assigning them the duty of uncovering the \"secret of this world\" by completing specific tasks. Just what is this secret, and why is it being hidden? It's up to the Little Busters to find out! [Written by MAL Rewrite]",
+    "title": "Little Busters!",
+    "title_english": "Little Busters!",
+    "title_japanese": "\u30ea\u30c8\u30eb\u30d0\u30b9\u30bf\u30fc\u30ba!",
+    "title_synonyms": [
+        "LB!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PyJilNDluYw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/13655/Little_Busters"
+}

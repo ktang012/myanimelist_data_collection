@@ -1,0 +1,131 @@
+{
+    "aired": {
+        "from": "2010-01-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Jan 5, 2010 to Mar 23, 2010",
+        "to": "2010-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Alongside  and , So Ra No Wo To was part of the \"Anime no Chikara\" project, a project to create more original anime, not based on any existing media.",
+    "broadcast": "Tuesdays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Girls, Be Ambitious.\" by Haruka Tomatsu"
+    ],
+    "episodes": 12,
+    "favorites": 1292,
+    "genres": [
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/81654.jpg",
+    "licensors": [
+        {
+            "mal_id": 217,
+            "name": "Nozomi Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        }
+    ],
+    "mal_id": 6802,
+    "members": 116779,
+    "opening_themes": [
+        "\"Hikari no Senritsu (\u5149\u306e\u65cb\u5f8b)\" by Kalafina"
+    ],
+    "popularity": 872,
+    "premiered": "Winter 2010",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+    ],
+    "rank": 1435,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17513,
+                "name": "So Ra No Wo To",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17513/So_Ra_No_Wo_To"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 8197,
+                "name": "So Ra No Wo To Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8197/So_Ra_No_Wo_To_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:82e406c83574efb582133464df51e643aba33c44",
+    "score": 7.59,
+    "scored_by": 41003,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "On the outskirts of the country of Helvetia rests the tranquil town of Seize. Upon its cobbled streets, citizens go about their daily lives, undisturbed by the increasingly tense military relations between Helvetia and the neighboring Roman Empire. It is under these circumstances that the 1121st platoon of the Helvetian army, stationed at the Clocktower Fortress in Seize, receives a new recruit in the young and spirited Kanata Sorami. Having joined the military to fulfill her dream of learning to play the bugle, she excitedly accepts the tutelage of the Sergeant Major, Rio Kazumiya, who happens to be a skilled trumpeter. Working alongside them are the aloof mechanic, No\u00ebl Kannagi, the feisty gunner, Kureha Suminoya, and the compassionate Captain Felicia Heideman; together, they experience the beauty of life in Seize and the lasting joy of a community that has persevered in spite of the crumbling world around them. [Written by MAL Rewrite]",
+    "title": "So Ra No Wo To",
+    "title_english": "Sound of the Sky",
+    "title_japanese": "\u30bd\u30fb\u30e9\u30fb\u30ce\u30fb\u30f2\u30fb\u30c8",
+    "title_synonyms": [
+        "So-Ra-No-Wo-To",
+        "Soranowoto",
+        "Sora no Woto"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/jYMVU2qvhvE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6802/So_Ra_No_Wo_To"
+}

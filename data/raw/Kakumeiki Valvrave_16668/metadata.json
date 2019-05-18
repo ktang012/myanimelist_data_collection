@@ -1,0 +1,169 @@
+{
+    "aired": {
+        "from": "2013-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 12, 2013 to Jun 28, 2013",
+        "to": "2013-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kakumeiki Valvrave was the first Anime to receive a Simulcast in Germany.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Preserved Roses\" by T.M.Revolution x Nana Mizuki (ep 1)",
+        "\"Boku ja nai (\u50d5\u3058\u3083\u306a\u3044)\" by angela (eps 2-6)",
+        "\"Soba ni Iru yo\" (\u305d\u3070\u306b\u3044\u308b\u3088) by ELISA (eps 7-12)"
+    ],
+    "episodes": 12,
+    "favorites": 655,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/49251.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 16668,
+    "members": 124946,
+    "opening_themes": [
+        "\"Preserved Roses\" by T.M.Revolution x Nana Mizuki"
+    ],
+    "popularity": 815,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 230,
+            "name": "Bandai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/230/Bandai"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        }
+    ],
+    "rank": 2696,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 52237,
+                "name": "Kakumeiki Valvrave",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/52237/Kakumeiki_Valvrave"
+            },
+            {
+                "mal_id": 57325,
+                "name": "Kakumeiki Valvrave",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/57325/Kakumeiki_Valvrave"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18295,
+                "name": "Kakumeiki Valvrave 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18295/Kakumeiki_Valvrave_2nd_Season"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 21077,
+                "name": "Kakumeiki Valvrave Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21077/Kakumeiki_Valvrave_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 21499,
+    "request_cached": true,
+    "request_hash": "request:anime:4c1bad3fa0c2aef0f70531da6a3a8a42fe3c14b1",
+    "score": 7.25,
+    "scored_by": 60381,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "In the 71st year of the True Era, humans have successfully expanded into space and have started living in independent galactic colonies. The world itself is split between two major nations: the Atlantic Rim United States (ARUS) and the Dorssia Military Pact Federation (Dorssia)\u2014superpowers that wage war against each other on Earth and far into outer space. In this war-torn era, a third faction comprised of Japan and Islands of the Oceanian Republic (JIOR), reside peacefully and prosper economically, maintaining neutrality between themselves and their militant neighbors. Kakumeiki Valvrave commences in an outer space JIOR colony, where 17-year-old Haruto Tokishima's peaceful life is turned upside down as a sudden Dorssian fleet breaches the neutral colony. Their objective is to seize the Valvraves: powerful, but rumored mechanized weapons hidden deep within Haruto's school, Sakimori Academy. In the ensuing chaos, Haruto stumbles upon one of the targeted Valvraves. With his friends' lives in peril, Haruto enters the mecha and seals a contract for its power in exchange for his humanity. With the aid of L-elf\u2014an enigmatic Dorssian agent and gifted strategist\u2014Haruto and the Valvrave initiate a revolution to liberate the world. [Written by MAL Rewrite]",
+    "title": "Kakumeiki Valvrave",
+    "title_english": "Valvrave the Liberator",
+    "title_japanese": "\u9769\u547d\u6a5f\u30f4\u30a1\u30eb\u30f4\u30ec\u30a4\u30f4",
+    "title_synonyms": [
+        "Kakumeiki Valvrave"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/AXsRaWBy03w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16668/Kakumeiki_Valvrave"
+}

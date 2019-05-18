@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2017-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 2, 2017 to Sep 24, 2017",
+        "to": "2017-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 21:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"You & I (\u30e6\u30fc\uff06\u30a2\u30a4)\" by Ayaka Ohashi"
+    ],
+    "episodes": 13,
+    "favorites": 529,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1472/93813.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34104,
+    "members": 120970,
+    "opening_themes": [
+        "\"Hello! My World!!\" by fh\u00e1na"
+    ],
+    "popularity": 843,
+    "premiered": "Summer 2017",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 1287,
+            "name": "Q-Tec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        }
+    ],
+    "rank": 2582,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 59087,
+                "name": "Knight's & Magic",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/59087/Knights___Magic"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:7b4ba439ce807ee8b399204b954a2bc1949c4976",
+    "score": 7.28,
+    "scored_by": 56828,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "A mecha otaku is reincarnated into another world as Ernesti Echevarria, also known as Eru. In this world, huge humanoid weapons known as Silhouette Knights exist. Dreaming of piloting those robots, Eru and his friends, Archid Olter and Adeltrud Olter, aim to become Knight Runners.",
+    "title": "Knight's & Magic",
+    "title_english": "Knight's & Magic",
+    "title_japanese": "\u30ca\u30a4\u30c4&\u30de\u30b8\u30c3\u30af",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/p4gSzsfTsFA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34104/Knights___Magic"
+}

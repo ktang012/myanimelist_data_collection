@@ -1,0 +1,146 @@
+{
+    "aired": {
+        "from": "2018-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Apr 12, 2018 to Sep 27, 2018",
+        "to": "2018-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:35 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"LAST GAME\" by Zwei (eps 2-7, 9-13)",
+        "\"World-Line\" by Asami Imai (eps 14-17, 19-20)"
+    ],
+    "episodes": 23,
+    "favorites": 5367,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1375/93521.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30484,
+    "members": 361024,
+    "opening_themes": [
+        "\"Fatima (\u30d5\u30a1\u30c6\u30a3\u30de)\" by Kanako Itou (eps 2-20)"
+    ],
+    "popularity": 203,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 79,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 107548,
+                "name": "Steins;Gate 0",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/107548/Steins_Gate_0"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 13599,
+                "name": "Robotics;Notes",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13599/Robotics_Notes"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 32188,
+                "name": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 37492,
+                "name": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37492/Steins_Gate_0__Kesshou_Takei_no_Valentine_-_Bittersweet_Intermedio"
+            }
+        ]
+    },
+    "request_cache_expiry": 19273,
+    "request_cached": true,
+    "request_hash": "request:anime:07d8bc7cb3ad502e1e78da4846c1978781d12618",
+    "score": 8.58,
+    "scored_by": 119037,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend Makise Kurisu, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his adventures alone. While working as a receptionist at a college technology forum, Okabe meets the short, spunky Maho Hiyajo, who later turns out to be the interpreter at the forum's presentation, conducted by Professor Alexis Leskinen. In front of a stunned crowd, Alexis and Maho unveil Amadeus\u2014a revolutionary AI capable of storing a person's memories and creating a perfect simulation of that person complete with their personality and quirks. Meeting with Maho and Alexis after the presentation, Okabe learns that the two were Kurisu's colleagues in university, and that they have simulated her in Amadeus. Hired by Alexis to research the simulation's behavior, Okabe is given the chance to interact with the shadow of a long-lost dear friend. Dangerously tangled in the past, Okabe must face the harsh reality and carefully maneuver around the disastrous consequences that come with disturbing the natural flow of time. [Written by MAL Rewrite]",
+    "title": "Steins;Gate 0",
+    "title_english": null,
+    "title_japanese": "\u30b7\u30e5\u30bf\u30a4\u30f3\u30ba\u30fb\u30b2\u30fc\u30c8 \u30bc\u30ed",
+    "title_synonyms": [
+        "Steins Gate Zero"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/NhExBlBnmQI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30484/Steins_Gate_0"
+}

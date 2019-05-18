@@ -1,0 +1,193 @@
+{
+    "aired": {
+        "from": "2017-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 5, 2017 to ?",
+        "to": null
+    },
+    "airing": true,
+    "background": "The airing time was Wednesdays 17:55 between April 5, 2017 - April 25, 2018, and Thursdays 17:25 between May 3, 2018 - September 20, 2018. The airing time is changed to Sundays 17:30 beginning October 7, 2018.",
+    "broadcast": "Sundays at 17:30 (JST)",
+    "duration": "23 min",
+    "ending_themes": [
+        "\"Dreamy Journey (\u30c9\u30ea\u30fc\u30df\u30fc\u30b8\u30e3\u30fc\u30cb\u30fc)\" by The Peggies (eps 1-13)",
+        "\"Sayonara Moon Town (\u30b5\u30e8\u30ca\u30e9\u30e0\u30fc\u30f3\u30bf\u30a6\u30f3)\" by Scenarioart (eps 14-26)",
+        "\"Boku wa Hashiritsuzukeru (\u50d5\u306f\u8d70\u308a\u7d9a\u3051\u308b)\" by Melofloat (\u30e1\u30ed\u30d5\u30ed\u30fc\u30c8) (eps 27-39)",
+        "\"Denshin Tamashii (\u30c7\u30f3\u30b7\u30f3\u30bf\u30de\u30b7\u30a4)\" by Game Jikkyousha Wakuwaku Band (eps 40-51)",
+        "\"Kachou Fuugetsu (\u82b1\u9ce5\u98a8\u6708)\" by Coala Mode. (eps 52-63)",
+        "\"Leica (\u30e9\u30a4\u30ab)\" by Bird Bear Hare and Fish (eps 64-75)",
+        "\"Polaris (\u30dd\u30e9\u30ea\u30b9)\" by hitorie (eps 76-87)",
+        "\"Tsuyogari Loser\" by \u042feaL (eps 88-100)",
+        "\"Ride or Die\" by SkyPeace (eps 101-)"
+    ],
+    "episodes": null,
+    "favorites": 2756,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/84460.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 34566,
+    "members": 288816,
+    "opening_themes": [
+        "\"Baton Road (\u30d0\u30c8\u30f3\u30ed\u30fc\u30c9)\" by KANA-BOON (eps 1-26)",
+        "\"OVER\" by Little Glee Monster (eps 27-51)",
+        "\"It's all in the game\" by Qyoto (eps 52-75)",
+        "\"Lonely Go!\" by Brian the Sun (eps 76-100)",
+        "\"Golden Time\" by Fujifabric (eps 101-)"
+    ],
+    "popularity": 301,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 4822,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 87866,
+                "name": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/87866/Naruto_Gaiden__Nanadaime_Hokage_to_Akairo_no_Hanatsuzuki"
+            },
+            {
+                "mal_id": 95210,
+                "name": "Boruto: Naruto Next Generations",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95210/Boruto__Naruto_Next_Generations"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 28755,
+                "name": "Boruto: Naruto the Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
+            },
+            {
+                "mal_id": 32365,
+                "name": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32365/Boruto__Naruto_the_Movie_-_Naruto_ga_Hokage_ni_Natta_Hi"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 36564,
+                "name": "Kamiusagi Rope x Boruto: Naruto Next Generations",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36564/Kamiusagi_Rope_x_Boruto__Naruto_Next_Generations"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 1735,
+                "name": "Naruto: Shippuuden",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 35072,
+                "name": "Boruto: Jump Festa 2016 Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35072/Boruto__Jump_Festa_2016_Special"
+            }
+        ]
+    },
+    "request_cache_expiry": 13645,
+    "request_cached": true,
+    "request_hash": "request:anime:756b69517d3176fc7459734e4b14c323eabf004e",
+    "score": 6.73,
+    "scored_by": 111995,
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "Following the successful end of the Fourth Shinobi World War, Konohagakure has been enjoying a period of peace, prosperity, and extraordinary technological advancement. This is all due to the efforts of the Allied Shinobi Forces and the village's Seventh Hokage, Naruto Uzumaki. Now resembling a modern metropolis, Konohagakure has changed, particularly the life of a shinobi. Under the watchful eye of Naruto and his old comrades, a new generation of shinobi has stepped up to learn the ways of the ninja. Boruto Uzumaki is often the center of attention as the son of the Seventh Hokage. Despite having inherited Naruto's boisterous and stubborn demeanor, Boruto is considered a prodigy and is able to unleash his potential with the help of supportive friends and family. Unfortunately, this has only worsened his arrogance and his desire to surpass Naruto which, along with his father's busy lifestyle, has strained their relationship. However, a sinister force brewing within the village may threaten Boruto's carefree life. New friends and familiar faces join Boruto as a new story begins in Boruto: Naruto Next Generations. [Written by MAL Rewrite]",
+    "title": "Boruto: Naruto Next Generations",
+    "title_english": "Boruto: Naruto Next Generations",
+    "title_japanese": "BORUTO -NARUTO NEXT GENERATIONS-",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/NnDVX0bc3eI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations"
+}

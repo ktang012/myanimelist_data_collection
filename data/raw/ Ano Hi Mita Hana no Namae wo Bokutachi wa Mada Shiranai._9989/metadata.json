@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2011-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 15, 2011 to Jun 24, 2011",
+        "to": "2011-06-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. reunites the lead production staff of the 2008 anime series  It was first teased in December 2010 as a joint production of Aniplex, Fuji Television, and animation studio A-1 Pictures under the title AnoHana Project. The series is set in the city of Chichibu, Saitama Prefecture.\r\nThe first Blu-ray volume, which went on sale on June 29, 2011, sold more than 31,000 copies in the . At the time, that first week sales figure was the third highest for a first volume Blu-ray release of a television anime, after  (2011) and  (2009). AnoHana received a Jury Selection award in the Animation division of the 15th Japan Media Arts Festival.\r\nA visual novel adaptation for the PlayStation Portable, which diverges from the story of the anime and contains an original ending, was developed by Guyzware and published by 5pb. on August 30, 2012. AnoHana was also adapted into a special live-action television drama, which aired on Fuji Television on September 21, 2015.",
+    "broadcast": "Fridays at 01:15 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"secret base ~Kimi ga Kureta Mono~ (10 years after ver.) (secret base \u301c\u541b\u304c\u304f\u308c\u305f\u3082\u306e\u301c\uff0810 years after Ver.\uff09)\" by Meiko Honma (Ai Kayano), Naruko Anjou (Haruka Tomatsu), Chiriko Tsurumi (Saori Hayami) (eps 1-10)",
+        "\"Aoi Shiori (\u9752\u3044\u681e)\" by Galileo Galilei (ep 11)"
+    ],
+    "episodes": 11,
+    "favorites": 23661,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        },
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 9989,
+    "members": 766452,
+    "opening_themes": [
+        "\"Aoi Shiori (\u9752\u3044\u681e)\" by Galileo Galilei (eps 1-10)#R1: \"Circle Game (\u30b5\u30fc\u30af\u30eb\u30b2\u30fc\u30e0)\" by Galileo Galilei (eps 1-10)"
+    ],
+    "popularity": 48,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        }
+    ],
+    "rank": 97,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35733,
+                "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35733/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai"
+            },
+            {
+                "mal_id": 47957,
+                "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/47957/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 31165,
+                "name": "Meiji x Kokosake & anohana Receipt Oubo Campaign",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31165/Meiji_x_Kokosake___anohana_Receipt_Oubo_Campaign"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 15039,
+                "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15039/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Movie"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 38963,
+                "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38963/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai__Menma_e_no_Tegami"
+            }
+        ]
+    },
+    "request_cache_expiry": 33166,
+    "request_cached": true,
+    "request_hash": "request:anime:aafbd156cea167c78b1704659f0240fb3ad590cb",
+    "score": 8.52,
+    "scored_by": 456251,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Jinta Yadomi is peacefully living as a recluse, spending his days away from school and playing video games at home instead. One hot summer day, his childhood friend, Meiko \"Menma\" Honma, appears and pesters him to grant a forgotten wish. He pays her no mind, which annoys her, but he doesn't really care. After all, Menma already died years ago. At first, Jinta thinks that he is merely hallucinating due to the summer heat, but he is later on convinced that what he sees truly is the ghost of Menma. Jinta and his group of childhood friends grew apart after her untimely death, but they are drawn together once more as they try to lay Menma's spirit to rest. Re-living their pain and guilt, will they be able to find the strength to help not only Menma move on\u2014but themselves as well? [Written by MAL Rewrite]",
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "title_english": "anohana: The Flower We Saw That Day",
+    "title_japanese": "\u3042\u306e\u65e5\u898b\u305f\u82b1\u306e\u540d\u524d\u3092\u50d5\u9054\u306f\u307e\u3060\u77e5\u3089\u306a\u3044\u3002",
+    "title_synonyms": [
+        "AnoHana",
+        "We Still Don't Know the Name of the Flower We Saw That Day."
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3Kw7xjzs17E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai"
+}

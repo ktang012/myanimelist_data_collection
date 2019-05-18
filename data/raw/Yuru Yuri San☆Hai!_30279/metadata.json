@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2015-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 6, 2015 to Dec 22, 2015",
+        "to": "2015-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 02:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Acchu~ma Seishun! (\u3042\u3063\u3061\u3085\uff5e\u307e\u9752\u6625\uff01)\" by Nanamori Chu\u2606Goraku Bu (\u4e03\u68ee\u4e2d\u2606\u3054\u3089\u304f\u90e8)",
+        "\"Kimi ga Kureta Shiny Story (\u304d\u307f\u304c\u304f\u308c\u305f\u30b7\u30e3\u30a4\u30cb\u30fc\u30b9\u30c8\u30fc\u30ea\u30fc)\" by Nanamori Chu\u2606Goraku-bu (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 586,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76667.jpg",
+    "licensors": [],
+    "mal_id": 30279,
+    "members": 76818,
+    "opening_themes": [
+        "\"Chochocho! Yuru Yuri\u2606Capriccio!!! (\u3061\u3087\u3061\u3087\u3061\u3087\uff01\u3086\u308b\u3086\u308a\u2606\u304b\u3077\u308a\u3063\u3061\u3087!!!)\" by Nanamori Chu\u2606Goraku Bu (\u4e03\u68ee\u4e2d\u2606\u3054\u3089\u304f\u90e8)"
+    ],
+    "popularity": 1274,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        }
+    ],
+    "rank": 556,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11593,
+                "name": "Yuru Yuri",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11593/Yuru_Yuri"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 30902,
+                "name": "Yuru Yuri Nachuyachumi!+",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30902/Yuru_Yuri_Nachuyachumi_"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37773,
+                "name": "Yuru Yuri,",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37773/Yuru_Yuri"
+            }
+        ]
+    },
+    "request_cache_expiry": 2717,
+    "request_cached": true,
+    "request_hash": "request:anime:19e0b1a3b38dc54058df9344857c13f33d404985",
+    "score": 8.02,
+    "scored_by": 40873,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 333,
+            "name": "TYO Animations",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/333/TYO_Animations"
+        }
+    ],
+    "synopsis": "Third season of Yuru Yuri.",
+    "title": "Yuru Yuri San\u2606Hai!",
+    "title_english": null,
+    "title_japanese": "\u3086\u308b\u3086\u308a \u3055\u3093\u2606\u30cf\u30a4\uff01",
+    "title_synonyms": [
+        "Yuru Yuri 3rd Season",
+        "Yuru Yuri Third Season",
+        "Yuru Yuri-san High!: YuruYuri S3"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/vVxIv_SglFY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30279/Yuru_Yuri_San\u2606Hai"
+}

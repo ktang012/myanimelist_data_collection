@@ -1,0 +1,193 @@
+{
+    "aired": {
+        "from": "2016-01-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 9,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Jan 16, 2016 to Apr 9, 2016",
+        "to": "2016-04-09T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ajin is scheduled to be streamed by the multinational provider Netflix worldwide after the current run ends.",
+    "broadcast": "Saturdays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"HOW CLOSE YOU ARE\" by Mamoru Miyano"
+    ],
+    "episodes": 13,
+    "favorites": 2136,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/77968.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 31580,
+    "members": 324282,
+    "opening_themes": [
+        "\"Yoru wa Nemureru kai? (\u591c\u306f\u7720\u308c\u308b\u304b\u3044\uff1f)\" by flumpool"
+    ],
+    "popularity": 253,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+    ],
+    "rank": 1299,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 49865,
+                "name": "Ajin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/49865/Ajin"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 32015,
+                "name": "Ajin OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32015/Ajin_OVA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33253,
+                "name": "Ajin 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33253/Ajin_2nd_Season"
+            },
+            {
+                "mal_id": 36625,
+                "name": "Ajin 2nd Season OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36625/Ajin_2nd_Season_OVA"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 30868,
+                "name": "Ajin Part 1: Shoudou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30868/Ajin_Part_1__Shoudou"
+            },
+            {
+                "mal_id": 30869,
+                "name": "Ajin Part 2: Shoutotsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30869/Ajin_Part_2__Shoutotsu"
+            },
+            {
+                "mal_id": 30870,
+                "name": "Ajin Part 3: Shougeki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30870/Ajin_Part_3__Shougeki"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2a77c070bfcd103eaf6ae56d4d7e7d6ebaf752f9",
+    "score": 7.63,
+    "scored_by": 156129,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1023,
+            "name": "Polygon Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ],
+    "synopsis": "Mysterious immortal humans known as \"Ajin\" first appeared 17 years ago in Africa. Upon their discovery, they were labeled as a threat to mankind, as they might use their powers for evil and were incapable of being destroyed. Since then, whenever an Ajin is found within society, they are to be arrested and taken into custody immediately. Studying hard to become a doctor, Kei Nagai is a high schooler who knows very little about Ajin, only having seen them appear in the news every now and then. Students are taught that these creatures are not considered to be human, but Kei doesn't pay much attention in class. As a result, his perilously little grasp on this subject proves to be completely irrelevant when he survives an accident that was supposed to claim his life, signaling his rebirth as an Ajin and the start of his days of torment. However, as he finds himself alone on the run from the entire world, Kei soon realizes that more of his species may be a lot closer than he thinks. [Written by MAL Rewrite]",
+    "title": "Ajin",
+    "title_english": "Ajin: Demi-Human",
+    "title_japanese": "\u4e9c\u4eba",
+    "title_synonyms": [
+        "Ajin"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/V62kcgCXNJU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31580/Ajin"
+}

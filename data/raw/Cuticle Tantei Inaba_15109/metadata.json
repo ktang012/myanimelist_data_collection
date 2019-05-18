@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2013-01-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 4, 2013 to Mar 22, 2013",
+        "to": "2013-03-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Prima Stella (\u30d7\u30ea\u30de\u30fb\u30b9\u30c6\u30e9)\" by Don Valentino (CV: Toru Okawa)"
+    ],
+    "episodes": 12,
+    "favorites": 354,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/73934.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 15109,
+    "members": 70861,
+    "opening_themes": [
+        "\"Haruka, Nichijou no Naka de (\u9065\u304b\u3001\u65e5\u5e38\u306e\u4e2d\u3067)\" by Hiroshi Inaba (CV: Junichi Suwabe) (eps 2-12)"
+    ],
+    "popularity": 1361,
+    "premiered": "Winter 2013",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 789,
+            "name": "BIGLOBE",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/789/BIGLOBE"
+        }
+    ],
+    "rank": 2113,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 15715,
+                "name": "Cuticle Tantei Inaba",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/15715/Cuticle_Tantei_Inaba"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f47d09d8f0107479709ba1946b547e477a622eff",
+    "score": 7.39,
+    "scored_by": 25613,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 218,
+            "name": "Zexcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ],
+    "synopsis": "In a world where half-human, half-animal chimeras live and work alongside normal people, there are sure to be a few bad apples in the bunch. Unfortunately, half-human criminals means non-human clues that often leave the police stumped. That's where lone wolf detectives like Hiroshi Inaba come in. He's literally part wolf and has the amazing ability to extract critical information just by examining or tasting a sample of someone's hair! Of course, that ability has also resulted in Inaba having a little bit of a hair fetish, but that doesn't seem to be a problem for his two assistants. (Well, at least the cross-dressing one isn't complaining much.) And it's nothing compared to the strange tastes of Inaba's nemesis, the omnivorous (and half goat) crime boss Don Valentino, who has an appetite for green legal tender instead of tender young greens! Inaba's sworn to cut Valentino out of the criminal flock before the Don can wolf down more ill-gotten dough, but he's going to have to chew his way through a lot of evidence to get his goat. Can sheer dogged detective work put the baaaaad guys behind bars? (Source: Sentai Filmworks)",
+    "title": "Cuticle Tantei Inaba",
+    "title_english": "Cuticle Detective Inaba",
+    "title_japanese": "\u30ad\u30e5\u30fc\u30c6\u30a3\u30af\u30eb\u63a2\u5075\u56e0\u5e61",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/IB_l2qYBwy8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15109/Cuticle_Tantei_Inaba"
+}

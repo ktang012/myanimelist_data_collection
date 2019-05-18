@@ -1,0 +1,117 @@
+{
+    "aired": {
+        "from": "2014-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 3,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Oct 5, 2014 to Apr 3, 2016",
+        "to": "2016-04-03T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "World Trigger was also adapted into a Japan-only PlayStation Vita action game titled World Trigger: Borderless Mission, and an iOS and Android game titled World Trigger: Smash Borders.",
+    "broadcast": "Sundays at 06:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Ashita no Hikari (\u30a2\u30b7\u30bf\u30ce\u30d2\u30ab\u30ea)\" by AAA (eps 24-26)",
+        "\"Dream Trigger (\u30c9\u30ea\u30fc\u30e0\u30c8\u30ea\u30ac\u30fc)\" by Pile (ep 48, 73)"
+    ],
+    "episodes": 73,
+    "favorites": 1173,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/66705.jpg",
+    "licensors": [],
+    "mal_id": 24405,
+    "members": 173175,
+    "opening_themes": [
+        "\"GIRIGIRI\" by Sonar Pocket (eps 1-23)",
+        "\"Ashita no Hikari (\u30a2\u30b7\u30bf\u30ce\u30d2\u30ab\u30ea)\" by AAA (eps 27-47)",
+        "\"Dream Trigger (\u30c9\u30ea\u30fc\u30e0\u30c8\u30ea\u30ac\u30fc)\" by Pile (eps 49-72)"
+    ],
+    "popularity": 565,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 55,
+            "name": "TV Asahi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        }
+    ],
+    "rank": 1266,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 48151,
+                "name": "World Trigger",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/48151/World_Trigger"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:e21e271ec69dfa5ed913f81ca439a9edcc8c9560",
+    "score": 7.65,
+    "scored_by": 51795,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 18,
+            "name": "Toei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ],
+    "synopsis": "When a gate to another world suddenly opens on Earth, Mikado City is invaded by strange creatures known as \"Neighbors,\" malicious beings impervious to traditional weaponry. In response to their arrival, an organization called the Border Defense Agency has been established to combat the Neighbor menace through special weapons called \"Triggers.\" Even though several years have passed after the gate first opened, Neighbors are still a threat and members of Border remain on guard to ensure the safety of the planet. Despite this delicate situation, members-in-training, such as Osamu Mikumo, are not permitted to use their Triggers outside of headquarters. But when the mysterious new student in his class is dragged into a forbidden area by bullies, they are attacked by Neighbors, and Osamu has no choice but to do what he believes is right. Much to his surprise, however, the transfer student Yuuma Kuga makes short work of the aliens, revealing that he is a humanoid Neighbor in disguise. [Written by MAL Rewrite]",
+    "title": "World Trigger",
+    "title_english": null,
+    "title_japanese": "\u30ef\u30fc\u30eb\u30c9\u30c8\u30ea\u30ac\u30fc",
+    "title_synonyms": [
+        "World Trigger"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/2oui7JLlBpk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/24405/World_Trigger"
+}

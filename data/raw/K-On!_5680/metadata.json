@@ -1,0 +1,168 @@
+{
+    "aired": {
+        "from": "2009-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Apr 3, 2009 to Jun 26, 2009",
+        "to": "2009-06-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The series received a Best TV Animation Award at the 2010 Tokyo International Anime Fair.",
+    "broadcast": "Fridays at 01:59 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Don't say 'lazy'\" by Sakurakou Keion-bu (Aki Toyosaki, Yoko Hisaka, Satomi Satou, Minako Kotobuki)"
+    ],
+    "episodes": 13,
+    "favorites": 14983,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
+    "licensors": [
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        },
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 5680,
+    "members": 562362,
+    "opening_themes": [
+        "\"Cagayake! GIRLS\" by Sakurakou Keion-bu (Aki Toyosaki, Yoko Hisaka, Satomi Satou, Minako Kotobuki)"
+    ],
+    "popularity": 86,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 929,
+            "name": "Animation Do",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/929/Animation_Do"
+        }
+    ],
+    "rank": 794,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13001,
+                "name": "K-On!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13001/K-On"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 7791,
+                "name": "K-On!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7791/K-On"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6862,
+                "name": "K-On!: Live House!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6862/K-On__Live_House"
+            },
+            {
+                "mal_id": 7017,
+                "name": "K-On!: Ura-On!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7017/K-On__Ura-On"
+            }
+        ]
+    },
+    "request_cache_expiry": 5105,
+    "request_cached": true,
+    "request_hash": "request:anime:6acee68ed882a6b4d666053fa0de632d01aed225",
+    "score": 7.86,
+    "scored_by": 310522,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Hirasawa Yui, a young, carefree girl entering high school, has her imagination instantly captured when she sees a poster advertising the \"Light Music Club.\" Being the carefree girl that she is, she quickly signs up; however, Yui has a problem, she is unable to play an instrument. When Yui goes to the clubroom to explain, she's greeted by the other members: Ritsu, Mio, and Tsumugi. Although disheartened at Yui's lack of musical know-how, they still try to convince her to stay to prevent the club's disbandment. After playing Yui a short piece which re-ignites her imagination, they succeed in keeping their new member and guitarist. Along with the tasks of school and homework, Yui begins to learn the guitar with the help of the other band members, experiencing many mishaps along the way. However, with the school festival drawing near and Yui getting stuck with her practice, will the Light Music Club be ready in time for their debut? [Written by MAL Rewrite]",
+    "title": "K-On!",
+    "title_english": "K-ON!",
+    "title_japanese": "\u3051\u3044\u304a\u3093!",
+    "title_synonyms": [
+        "Keion",
+        "K-ON! Season 1"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5680/K-On"
+}

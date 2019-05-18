@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2013-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 6, 2013 to Mar 29, 2014",
+        "to": "2014-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 01:35 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Buchikome!! (\u30d6\u30c1\u30b3\u30e1!!)\" by Shikuramen (\u30b7\u30af\u30e9\u30e1\u30f3)"
+    ],
+    "episodes": 25,
+    "favorites": 752,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/56147.jpg",
+    "licensors": [],
+    "mal_id": 19647,
+    "members": 123186,
+    "opening_themes": [
+        "\"Yakan Hikou (\u591c\u9593\u98db\u884c)\" by Wasureran nee yo (\u5fd8\u308c\u3089\u3093\u306d\u3048\u3088)"
+    ],
+    "popularity": 828,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 56,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7,
+                "name": "Hajime no Ippo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7/Hajime_no_Ippo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 5258,
+                "name": "Hajime no Ippo: New Challenger",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger"
+            }
+        ]
+    },
+    "request_cache_expiry": 19307,
+    "request_cached": true,
+    "request_hash": "request:anime:b2b7bdde5c35b7abe6413723fd50c4a39e9d7e7a",
+    "score": 8.65,
+    "scored_by": 69436,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 569,
+            "name": "MAPPA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ],
+    "synopsis": "Japanese Featherweight Champion Makunouchi Ippo has defended his title belt once more with the help of his devastating signature move: the Dempsey Roll. However, new challengers are rising up left and right, claiming to have an answer for the move responsible for crushing his opponents. Will Ippo be able to step up to the challenge, or will the weight of his pride destroy him before he finds out just what it means to be strong? Meanwhile, fellow Kamogawa Gym mate Aoki Masaru is just a hop, skip, and a Frog Punch away from claiming his own belt, ready to take on the Japanese Lightweight Champion! Hajime no Ippo: Rising continues Ippo's quest to become stronger, featuring the same cast of loveable dimwits from Kamogawa Gym, as they put their bodies and hearts on the line to make their way in the harsh world of professional boxing. With a will of iron, Ippo steps into the ring once again. [Written by MAL Rewrite]",
+    "title": "Hajime no Ippo: Rising",
+    "title_english": "Hajime No Ippo: The Fighting!",
+    "title_japanese": "\u306f\u3058\u3081\u306e\u4e00\u6b69 Rising",
+    "title_synonyms": [
+        "Fighting Spirit: Rising",
+        "Hajime no Ippo 3"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19647/Hajime_no_Ippo__Rising"
+}

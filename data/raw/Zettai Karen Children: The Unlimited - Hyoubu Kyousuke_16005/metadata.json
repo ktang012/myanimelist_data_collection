@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2013-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 8, 2013 to Mar 26, 2013",
+        "to": "2013-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"OUTLAWS\" by eyelis (eps 1-3, 5, 12)",
+        "\"BRIGHTEST LIGHT\" by Karen GUY'S Kouichi Minamoto & Shuuji Sakaki starring Yuuichi Nakamura & Kishou Taniyama (ep 4)",
+        "\"DARKNESS NIGHT\" by Karen GUY'S Kyousuke Hyoubu & Andy Hinomiya starring Kouji Yusa & Junichi Suwabe (ep 6)",
+        "\"BRAND NEW EDEN\" by Kyousuke Hyoubu starring Kouji Yusa (ep 7)",
+        "\"ADVENT\" by Kyousuke Hyoubu starring Kouji Yusa (ep 8)",
+        "\"DARKNESS NIGHT (Hyoubu Arrange)\" by Karen GUY'S Kyousuke Hyoubu & Andy Hinomiya starring Kouji Yusa & Junichi Suwabe (ep 9)",
+        "\"Sora no Hate (\u7a7a\u306e\u6daf\u3066)\" by eyelis (ep 10)",
+        "\"DARKNESS NIGHT (Hinomiya Arrange)\" by Karen GUY'S Kyousuke Hyoubu & Andy Hinomiya starring Kouji Yusa & Junichi Suwabe (ep 11)"
+    ],
+    "episodes": 12,
+    "favorites": 319,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/44522.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 16005,
+    "members": 93795,
+    "opening_themes": [
+        "\"L\u039bST RESOLUTION (English ver.)\" by The Emblem of THE UNLIMITED (eps 1-3, 11-12)",
+        "\"L\u039bST RESOLUTION (Japanese ver.)\" by The Emblem of THE UNLIMITED (eps 4-10)"
+    ],
+    "popularity": 1060,
+    "premiered": "Winter 2013",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 62,
+            "name": "Shogakukan Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan_Productions"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        }
+    ],
+    "rank": 1326,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 49319,
+                "name": "The Unlimited: Hyoubu Kyousuke",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/49319/The_Unlimited__Hyoubu_Kyousuke"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 4038,
+                "name": "Zettai Karen Children",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4038/Zettai_Karen_Children"
+            }
+        ]
+    },
+    "request_cache_expiry": 43089,
+    "request_cached": true,
+    "request_hash": "request:anime:448f8911e272d2d1695999a38a0a485319b19e76",
+    "score": 7.63,
+    "scored_by": 41013,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "Kyousuke Hyoubu, an ESPer who was betrayed many years ago, is now one of the most powerful ESPers\u2014and also a fugitive. However, behind that glare lies a kind heart. His main mission is to save ESPers who are mistreated by humans, even if that be by force. Through his methods, he has saved many ESPer lives and gained the loyalty of those he has saved. The name of his group: P.A.N.D.R.A. (Source: ANN)",
+    "title": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+    "title_english": "Unlimited Psychic Squad",
+    "title_japanese": "\u7d76\u5bfe\u53ef\u6190\u30c1\u30eb\u30c9\u30ec\u30f3 THE UNLIMITED \u5175\u90e8\u4eac\u4ecb",
+    "title_synonyms": [
+        "The Unlimited Hyobu Kyosuke"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/pQjWdEUi-98?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16005/Zettai_Karen_Children__The_Unlimited_-_Hyoubu_Kyousuke"
+}

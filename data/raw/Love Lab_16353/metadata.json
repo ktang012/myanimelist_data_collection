@@ -1,0 +1,121 @@
+{
+    "aired": {
+        "from": "2013-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 5, 2013 to Sep 27, 2013",
+        "to": "2013-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Tokyo on June 30, 2013. Regular broadcasting began on July 5, 2013.",
+    "broadcast": "Fridays at 02:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Best FriendS\" by Fuji-Jo Seitokai Shikkou-Bu"
+    ],
+    "episodes": 13,
+    "favorites": 474,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/50257.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 16353,
+    "members": 125782,
+    "opening_themes": [
+        "\"Love Shitai! (\u604b\u611b\uff08\u30e9\u30d6\uff09\u3057\u305f\u3044\u3063!)\" by Fuji-Jo Seitokai Shikkou-Bu (eps 1-12)"
+    ],
+    "popularity": 811,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 1939,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 28174,
+                "name": "Love Lab",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/28174/Love_Lab"
+            }
+        ]
+    },
+    "request_cache_expiry": 6699,
+    "request_cached": true,
+    "request_hash": "request:anime:a765b0d7a97b6dc3469ab668b94f83eaf5ac60d3",
+    "score": 7.43,
+    "scored_by": 51180,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "At Fujisaki Girls Academy, student council president Natsuo Maki is the epitome of grace and perfection, admired by all the young girls who attend the school. One day, Riko Kurahashi walks into the student council room on an errand, only to discover Natsuo practicing her kissing techniques on a pillow, an act that is neither graceful nor elegant. Riko soon discovers that Natsuo desires more romance in her life, leading her to practice \"romantic situations\" in secret. Sympathizing with her, Riko agrees to help Natsuo with her love research. Named \"Love Lab,\" the project practices the essentials of love and romance, such as bumping into each other \"accidentally\" and holding hands. Soon, the entire student council joins in on the fun in the Love Lab too! Through their research and real life encounters, what will they learn about romance? Weaving together funny characters and comedic situations, Love Lab builds a story of friendship and romance, while never missing a beat with the laughter. [Written by MAL Rewrite]",
+    "title": "Love Lab",
+    "title_english": "Love Lab",
+    "title_japanese": "\u604b\u611b\u30e9\u30dc",
+    "title_synonyms": [
+        "Renai Lab"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ojjXhNR74_c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16353/Love_Lab"
+}

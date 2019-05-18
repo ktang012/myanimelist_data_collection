@@ -1,0 +1,180 @@
+{
+    "aired": {
+        "from": "2016-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 2, 2016 to Sep 24, 2016",
+        "to": "2016-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Rewrite is a Japanese visual novel developed by Key, a brand of VisualArt's. It was released on June 24, 2011 for Windows PCs and is rated for all ages. Rewrite is Key's ninth game, along with other titles such as Kanon, Air, Little Busters!, and Clannad.\r\nThe game ranked as the best-selling PC game sold in Japan for the time of its release, and charted in the national top 50 twice more afterwards. There have been four manga adaptations based on Rewrite published by ASCII Media Works and Ichijinsha. Comic anthologies, light novels and an art book were also published, as were several music albums.\r\n(Source: Wikipedia)",
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Sasayaka na Hajimari (\u3055\u3055\u3084\u304b\u306a\u306f\u3058\u307e\u308a)\" by Runa Mizutani (eps 2-3, 6-7)",
+        "\"Koibumi (\u604b\u6587)\" by Nagi Yanagi (ep 4)",
+        "\"Sunbright (\u30b5\u30f3\u30d6\u30e9\u30a4\u30c8)\" by Ayaka Kitazawa (ep 5)",
+        "\"Word of Dawn\" by Aoi Tada (eps 8-9, 11-12)",
+        "\"Itsuwaranai Kimi e (\u507d\u3089\u306a\u3044\u541b\u3078)\" by Nagi Yanagi (ep 10)",
+        "\"Yami no Kanata e (\u95c7\u306e\u5f7c\u65b9\u3078)\" by Runa Mizutani (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 503,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1827/92122.jpg",
+    "licensors": [],
+    "mal_id": 31716,
+    "members": 137460,
+    "opening_themes": [
+        "\"Philosophyz\" by Runa Mizutani (eps 2-4, 6-7)",
+        "\"End of the World\" by Anri Kumaki (eps 8-12)"
+    ],
+    "popularity": 734,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 203,
+            "name": "Visual Art's",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/203/Visual_Arts"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        }
+    ],
+    "rank": 4561,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 101117,
+                "name": "Rewrite:Side-Terra",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/101117/Rewrite_Side-Terra"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34126,
+                "name": "Rewrite 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34126/Rewrite_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 5656,
+    "request_cached": true,
+    "request_hash": "request:anime:1db30165952e02cc0e2f18d6b053eb6c6f08ee60",
+    "score": 6.8,
+    "scored_by": 55689,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "Kazamatsuri, a modern, well-developed city renowned for its burgeoning greenery and rich Japanese culture, is home to Kotarou Tennouji, a high schooler least privy to the place's shared values. Content to fill his pockets with frivolity, the proud and nosey boy whiles away his time pestering the self-proclaimed delinquent Haruhiko, and indulging in his amorous feelings toward the oddball Kotori. Equipped with the superhuman ability to permanently rewrite any part of his body to multiply his strength or speed, Kotarou is naturally drawn to the supernatural. One special meeting with the lone member and president of the Occult Research Club, the \"Witch\" Akane Senri, leads to Kotarou reviving the Occult Club by recruiting Kotori and three other members: the clumsy transfer student Chihaya, the strict class representative Lucia, and the unassuming Shizuru. As Kotarou unveils hidden secrets of each member of the Occult Club through their shared adventures, he will inevitably encounter a fate that only he might be able to rewrite. [Written by MAL Rewrite]",
+    "title": "Rewrite",
+    "title_english": "Rewrite",
+    "title_japanese": "\u30ea\u30e9\u30a4\u30c8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/sjOyRq2zcjI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31716/Rewrite"
+}

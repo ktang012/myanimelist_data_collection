@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2017-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 8, 2017 to Dec 24, 2017",
+        "to": "2017-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 03:08 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Step Up LOVE (\u30b9\u30c6\u30c3\u30d7\u30a2\u30c3\u30d7LOVE)\" by DAOKO x Yasuyuki Okamura"
+    ],
+    "episodes": 12,
+    "favorites": 923,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/88282.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34451,
+    "members": 195504,
+    "opening_themes": [
+        "\"fake town baby\" by UNISON SQUARE GARDEN"
+    ],
+    "popularity": 493,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 521,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 12994,
+                "name": "Kekkai Sensen",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/12994/Kekkai_Sensen"
+            },
+            {
+                "mal_id": 95964,
+                "name": "Kekkai Sensen: Back 2 Back",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95964/Kekkai_Sensen__Back_2_Back"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 24439,
+                "name": "Kekkai Sensen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24439/Kekkai_Sensen"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 37364,
+                "name": "Kekkai Sensen & Beyond OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37364/Kekkai_Sensen___Beyond_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 26905,
+    "request_cached": true,
+    "request_hash": "request:anime:a0cfc5cc94c967be04113c34a63a710bc6aaad2d",
+    "score": 8.04,
+    "scored_by": 79467,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Three years ago, a gateway between Earth and the Beyond opened in New York City, trapping extradimensional creatures and humans alike in an impermeable bubble. After the city's restoration, monsters, magic, and madness are common findings in the area now known as Hellsalem's Lot. Leonardo Watch, a young photographer who unwillingly obtained the \"All-seeing Eyes of the Gods\" in exchange for his sister's eyesight, came to this paranormal city to find answers to the mysterious power that he possesses. He later finds his life drastically changed when he joins Libra, a secret organization of people with supernatural abilities dedicated to maintaining order in the everyday chaos of Hellsalem's Lot. However, this is only the beginning of Leonardo's unexpected journey ahead. Regardless of the constant threat of otherworldly enemies, he is determined to uncover the secrets of his power and find a way to restore his sister's eyesight. Kekkai Sensen & Beyond follows Leonardo as he sets off on more crazy adventures with his comrades, fighting to ensure peace and order. [Written by MAL Rewrite]",
+    "title": "Kekkai Sensen & Beyond",
+    "title_english": "Blood Blockade Battlefront & Beyond",
+    "title_japanese": "\u8840\u754c\u6226\u7dda & BEYOND",
+    "title_synonyms": [
+        "Bloodline Battlefront & Beyond"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/H3hjyjdHWf4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34451/Kekkai_Sensen___Beyond"
+}

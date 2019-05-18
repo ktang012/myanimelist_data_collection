@@ -1,0 +1,207 @@
+{
+    "aired": {
+        "from": "2015-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 7, 2015 to Sep 29, 2015",
+        "to": "2015-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"L.L.L.\" by MYTH&ROID"
+    ],
+    "episodes": 13,
+    "favorites": 11819,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/88019.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 29803,
+    "members": 639890,
+    "opening_themes": [
+        "\"Clattanoia\" by O\u00d7T (Masayoshi Oishi \u00d7 Tom-H@ck)"
+    ],
+    "popularity": 67,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1254,
+            "name": "Grooove",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1254/Grooove"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+    ],
+    "rank": 477,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 81669,
+                "name": "Overlord",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/81669/Overlord"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 38472,
+                "name": "Isekai Quartet",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38472/Isekai_Quartet"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 36497,
+                "name": "Overlord: Ple Ple Pleiades Theatrical Version",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36497/Overlord__Ple_Ple_Pleiades_Theatrical_Version"
+            },
+            {
+                "mal_id": 36683,
+                "name": "Overlord Movie: Manner Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36683/Overlord_Movie__Manner_Movie"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35073,
+                "name": "Overlord II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35073/Overlord_II"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31138,
+                "name": "Overlord: Ple Ple Pleiades",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades"
+            },
+            {
+                "mal_id": 33372,
+                "name": "Overlord: Ple Ple Pleiades (OVA)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33372/Overlord__Ple_Ple_Pleiades_OVA"
+            },
+            {
+                "mal_id": 37264,
+                "name": "Overlord 6: Drama CD-tsuki Tokusou-ban - Yokoku-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37264/Overlord_6__Drama_CD-tsuki_Tokusou-ban_-_Yokoku-hen"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 34161,
+                "name": "Overlord Movie 1: Fushisha no Ou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou"
+            },
+            {
+                "mal_id": 34428,
+                "name": "Overlord Movie 2: Shikkoku no Eiyuu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu"
+            }
+        ]
+    },
+    "request_cache_expiry": 6435,
+    "request_cached": true,
+    "request_hash": "request:anime:f1136050f3062d355c206a82df6c0a64194e61c6",
+    "score": 8.08,
+    "scored_by": 369506,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "The final hour of the popular virtual reality game Yggdrasil has come. However, Momonga, a powerful wizard and master of the dark guild Ainz Ooal Gown, decides to spend his last few moments in the game as the servers begin to shut down. To his surprise, despite the clock having struck midnight, Momonga is still fully conscious as his character and, moreover, the non-player characters appear to have developed personalities of their own! Confronted with this abnormal situation, Momonga commands his loyal servants to help him investigate and take control of this new world, with the hopes of figuring out what has caused this development and if there may be others in the same predicament. [Written by MAL Rewrite]",
+    "title": "Overlord",
+    "title_english": "Overlord",
+    "title_japanese": "\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/3jE9moHQePI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/29803/Overlord"
+}

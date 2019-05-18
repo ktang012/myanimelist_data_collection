@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2008-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 4, 2008 to Dec 27, 2008",
+        "to": "2008-12-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Musuhi no Toki (\u7523\u5de3\u65e5\u306e\u6642)\" by Haruka Tomatsu (eps 1-9, 11-12)",
+        "\"Theme of Shiligeya\uff08\u3057\u308a\u3052\u3084\u306e\u30c6\u30fc\u30de\uff09\" by Shilige Team (ep 10)",
+        "\"motto\u2606Hade ni ne! (motto\u2606\u6d3e\u624b\u306b\u306d\uff01)\" by Haruka Tomatsu (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 327,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/19724.jpg",
+    "licensors": [
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 3958,
+    "members": 117213,
+    "opening_themes": [
+        "\"motto\u2606Hade ni ne! (motto\u2606\u6d3e\u624b\u306b\u306d\uff01)\" by Haruka Tomatsu"
+    ],
+    "popularity": 868,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 1582,
+            "name": "Ichijinsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        }
+    ],
+    "rank": 2201,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 2893,
+                "name": "Kannagi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/2893/Kannagi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 5978,
+                "name": "Kannagi: Moshimo Kannagi ga Attara...",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5978/Kannagi__Moshimo_Kannagi_ga_Attara"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2e2812146f3b0c76a09ecd02eda76d09ca325d7e",
+    "score": 7.37,
+    "scored_by": 54282,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 334,
+            "name": "Ordet",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/334/Ordet"
+        }
+    ],
+    "synopsis": "Based on a shounen manga by Takenashi Eri, serialised in Comic REX. Our unlucky protagonist, Jin, uses the trunk of a sacred tree to carve a statue for a school project. When he takes it outside, to his surprise it begins absorbing the surrounding earth and transforms into, hold your breath on this one, a girl! So like all similar setups this guardian deity is pretty pissed that her tree was cut down and lives with Jin while she takes out her anger on squashing bugs....er, cleaning the \"Impurities.\"",
+    "title": "Kannagi",
+    "title_english": "Kannagi: Crazy Shrine Maidens",
+    "title_japanese": "\u304b\u3093\u306a\u304e",
+    "title_synonyms": [],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3958/Kannagi"
+}

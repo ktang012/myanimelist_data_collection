@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2010-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 17,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Jul 2, 2010 to Dec 17, 2010",
+        "to": "2010-12-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Advanced screening on June 26, 2010. The regular TV airing started on July 2, 2010.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Truth Of My Destiny\" by Ceui (eps 1-12)",
+        "\"Hikari no Filament (\u5149\u306e\u30d5\u30a3\u30eb\u30e1\u30f3\u30c8)\" by Ayahi Takagaki (eps 13-24)"
+    ],
+    "episodes": 24,
+    "favorites": 1789,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/73651.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 8086,
+    "members": 199172,
+    "opening_themes": [
+        "\"LAMENT: Yagate Yorokobi wo (LAMENT~\u3084\u304c\u3066\u559c\u3073\u3092~)\" by Aira Yuki (eps 1-12)",
+        "\"Last Inferno\" by Ceui (eps 13-24)"
+    ],
+    "popularity": 486,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 685,
+            "name": "Kadokawa Contents Gate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/685/Kadokawa_Contents_Gate"
+        },
+        {
+            "mal_id": 1664,
+            "name": "Fujimi Shobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        }
+    ],
+    "rank": 1049,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 21658,
+                "name": "Densetsu no Yuusha no Densetsu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/21658/Densetsu_no_Yuusha_no_Densetsu"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 10934,
+                "name": "Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10934/Itsuka_Tenma_no_Kuro_Usagi__Kokoro_Utsuri_no_Toukoubi_-_School_Attendance_Day"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 9690,
+                "name": "Densetsu no Yuusha no Densetsu: Iris Report",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9690/Densetsu_no_Yuusha_no_Densetsu__Iris_Report"
+            }
+        ]
+    },
+    "request_cache_expiry": 27758,
+    "request_cached": true,
+    "request_hash": "request:anime:4aee1e36c57e6b82b56137f9f8b18b8408de0a27",
+    "score": 7.73,
+    "scored_by": 94244,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 218,
+            "name": "Zexcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ],
+    "synopsis": "\"Alpha Stigma\" are known to be eyes that can analyze all types of magic. However, they are more infamously known as cursed eyes that can only bring destruction and death to others. Ryner Lute, a talented mage and also an Alpha Stigma bearer, was once a student of the Roland Empire's Magician Academy, an elite school dedicated to training magicians for military purposes. However, after many of his classmates died in a war, he makes an oath to make the nation a more orderly and peaceful place, with fellow survivor and best friend, Sion Astal. Now that Sion is the the king of Roland, he orders Ryner to search for useful relics that will aid the nation. Together with Ferris Eris, a beautiful and highly skilled swordswoman, Ryner goes on a journey to search for relics of legendary heroes from the past, and also uncover the secrets behind his cursed eyes. [Written by MAL Rewrite]",
+    "title": "Densetsu no Yuusha no Densetsu",
+    "title_english": "The Legend of the Legendary Heroes",
+    "title_japanese": "\u4f1d\u8aac\u306e\u52c7\u8005\u306e\u4f1d\u8aac",
+    "title_synonyms": [
+        "DenYuDen",
+        "DenYuuDen",
+        "Densetsu no Yusha no Densetsu",
+        "LOLH"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-KQwoCCvf_0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu"
+}

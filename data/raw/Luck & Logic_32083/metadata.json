@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2016-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 9, 2016 to Mar 26, 2016",
+        "to": "2016-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Meiyaku no Kanata (\u76df\u7d04\u306e\u5f7c\u65b9)\" by Emi Nitta"
+    ],
+    "episodes": 12,
+    "favorites": 133,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/77134.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32083,
+    "members": 77050,
+    "opening_themes": [
+        "\"STORY\" by Kensho Ono"
+    ],
+    "popularity": 1268,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 1678,
+            "name": "Yuhodo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1678/Yuhodo"
+        }
+    ],
+    "rank": 7294,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95982,
+                "name": "Luck & Logic: Paradox Twin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95982/Luck___Logic__Paradox_Twin"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 32084,
+                "name": "Watashitachi, Luck Logic-bu!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32084/Watashitachi_Luck_Logic-bu"
+            },
+            {
+                "mal_id": 34834,
+                "name": "Hina Logi: From Luck & Logic",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34834/Hina_Logi__From_Luck___Logic"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:0bed0829f54d34ce0091865105a516aba3a685b6",
+    "score": 6.21,
+    "scored_by": 29955,
+    "source": "Card game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "In the year L.C. 922, mankind faces an unprecedented crisis. Following the conclusion of a hundred-year war on the mythical world of Tetraheaven, the losing Majins sought a safe haven and invaded the human world Septpia. The government is forced to fight by employing Logicalists belonging to ALCA, a special police that protects the streets from foreigners of another world. Logicalists are given a special power that allows them to enter a trance with Goddesses from the other world. One day, Yoshichika Tsurugi, a civilian who is lacking \"Logic\" and lives peacefully with his family, meets the beautiful goddess Athena while helping people escape from a Majin attack. She wields the \"Logic\" that Yoshichika should have lost. This leads Yoshichika to an unexpected destiny with Athena. The future of the world depends on the \"Luck\" and \"Logic\" and these Logicalists. (Source: MAL News)",
+    "title": "Luck & Logic",
+    "title_english": "Luck & Logic",
+    "title_japanese": "\u30e9\u30af\u30a8\u30f3\u30ed\u30b8\u30c3\u30af",
+    "title_synonyms": [
+        "Luck and Logic"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/RDpYYePeL30?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32083/Luck___Logic"
+}

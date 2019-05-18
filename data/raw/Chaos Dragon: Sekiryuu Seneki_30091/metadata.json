@@ -1,0 +1,129 @@
+{
+    "aired": {
+        "from": "2015-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 2, 2015 to Sep 17, 2015",
+        "to": "2015-09-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Chaos Dragon is based on the role-playing fiction project Red Dragon, a story which was created by five notable character designers: Gen Urobochi (Fate/Zero), Kinoko Nasu (Kara no Kyoukai), Iduki Kougyoku (Mimizuku to Yoru no Ou), Ryohgo Narita (Durarara!!), and Simadoriru (member of the Stripe Pattern doujin circle). The results of their tabletop role-playing game sessions over six days created material for a seven-volume light novel series.",
+    "broadcast": "Thursdays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"ISOtone\" by Natsumi Kon (ep 1)",
+        "\"Delta Decision\" by Eykha (Miyuki Sawashiro), Lou (Maaya Uchida), Meryl (Haruka Terui) (eps 2-11)",
+        "\"Sleep without a memory\" by Natsumi Kon (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 119,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/74375.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30091,
+    "members": 84513,
+    "opening_themes": [
+        "\"ISOtone\" by Natsumi Kon (eps 2-)"
+    ],
+    "popularity": 1148,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        }
+    ],
+    "rank": 8685,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 86658,
+                "name": "Red Dragon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/86658/Red_Dragon"
+            },
+            {
+                "mal_id": 91059,
+                "name": "Chaos Dragon: Sekiryuu Seneki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91059/Chaos_Dragon__Sekiryuu_Seneki"
+            }
+        ]
+    },
+    "request_cache_expiry": 11793,
+    "request_cached": true,
+    "request_hash": "request:anime:cbbd0df4e468e1d0c00c1c14ca678ea9d28e8b78",
+    "score": 5.77,
+    "scored_by": 29699,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        },
+        {
+            "mal_id": 957,
+            "name": "Connect",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/957/Connect"
+        }
+    ],
+    "synopsis": "In 3015, the year of Huanli, two countries, Donatia and Kouran, are embroiled in a war of supremacy that is tearing the world around them apart. The small island Nil Kamui has suffered exceptionally from the war, with lands conquered in the name of each kingdom and stolen away from the people. To make matters worse, their deity, the Red Dragon, has gone mad, rampaging about Nil Kamui burning villages and killing people indiscriminately. Ibuki, a descendant of Nil Kamui's royal family, resides at an orphanage and refuses to take on the role of king. Abhorring conflict, Ibuki desires a peaceful resolution, however the chaotic world will not allow for such pacifism when it is being torn asunder by war. Despite his reluctance, Ibuki is drawn deep into this conflict. Can he rise to the occasion and save his country?",
+    "title": "Chaos Dragon: Sekiryuu Seneki",
+    "title_english": "Chaos Dragon",
+    "title_japanese": "\u30b1\u30a4\u30aa\u30b9\u30c9\u30e9\u30b4\u30f3 \u8d64\u7adc\u6226\u5f79",
+    "title_synonyms": [
+        "Red Dragon War"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/eySLT6OE1FI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30091/Chaos_Dragon__Sekiryuu_Seneki"
+}

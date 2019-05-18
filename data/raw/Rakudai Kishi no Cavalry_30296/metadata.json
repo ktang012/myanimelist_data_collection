@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2015-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 3, 2015 to Dec 19, 2015",
+        "to": "2015-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at Cinemart Shinjuku on September 27, 2015. Regular broadcasting began on October 3, 2015.",
+    "broadcast": "Saturdays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Identity (\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3)\" by Mikio Sakai (ep 1)",
+        "\"Haramitsu Renka (\u6ce2\u7f85\u871c\u604b\u83ef)\" by ALI PROJECT (eps 2-11)"
+    ],
+    "episodes": 12,
+    "favorites": 5104,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76493.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 30296,
+    "members": 414181,
+    "opening_themes": [
+        "\"Identity (\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3)\" by Mikio Sakai (eps 2-3, 5-11)"
+    ],
+    "popularity": 158,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 1093,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 57201,
+                "name": "Rakudai Kishi no Cavalry",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/57201/Rakudai_Kishi_no_Cavalry"
+            }
+        ]
+    },
+    "request_cache_expiry": 34274,
+    "request_cached": true,
+    "request_hash": "request:anime:de5d4fadedc4f049bd2aa6907886f0fbd99fab56",
+    "score": 7.72,
+    "scored_by": 235325,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        },
+        {
+            "mal_id": 852,
+            "name": "Nexus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/852/Nexus"
+        }
+    ],
+    "synopsis": "There exist few humans in this world with the ability to manipulate their souls to form powerful weapons. Dubbed \"Blazers,\" these people study and train at the prestigious Hagun Academy to become Mage-Knights; among the students is so-called failure Ikki Kurogane, the sole F-rated Blazer. However, when the worst student in the academy sees Stella Vermillion, an A-ranked Blazer who also happens to be a princess, naked, she challenges him to a duel with dire stakes\u2014the loser becomes the slave of the winner. There\u2019s no possible way that Stella can lose, right? Rakudai Kishi no Cavalry follows the story of Ikki as he tries to prove his strength to a world that believes him to be the weakest, all the while gaining new friends, wisdom, and experience. [Written by MAL Rewrite]",
+    "title": "Rakudai Kishi no Cavalry",
+    "title_english": "Chivalry of a Failed Knight",
+    "title_japanese": "\u843d\u7b2c\u9a0e\u58eb\u306e\u82f1\u96c4\u8b5a\u300a\u30ad\u30e3\u30d0\u30eb\u30ea\u30a3\u300b",
+    "title_synonyms": [
+        "A Chivalry of the Failed Knight",
+        "Rakudai Kishi no Eiyuutan",
+        "A Tale of Worst One"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/iCKk6qhBkpc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30296/Rakudai_Kishi_no_Cavalry"
+}

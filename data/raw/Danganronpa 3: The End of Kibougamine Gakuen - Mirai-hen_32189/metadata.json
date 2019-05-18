@@ -1,0 +1,136 @@
+{
+    "aired": {
+        "from": "2016-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 11, 2016 to Sep 26, 2016",
+        "to": "2016-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Recall THE END\" by TRUSTRICK"
+    ],
+    "episodes": 12,
+    "favorites": 1359,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/80931.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32189,
+    "members": 169481,
+    "opening_themes": [
+        "\"DEAD OR LIE\" by Maon Kurosaki and feat.TRUSTRICK"
+    ],
+    "popularity": 576,
+    "premiered": "Summer 2016",
+    "producers": [],
+    "rank": 1411,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Other": [
+            {
+                "mal_id": 37103,
+                "name": "Danganronpa 3: Monokuma Gekijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37103/Danganronpa_3__Monokuma_Gekijou"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 16592,
+                "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation"
+            },
+            {
+                "mal_id": 33028,
+                "name": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33028/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Zetsubou-hen"
+            },
+            {
+                "mal_id": 34152,
+                "name": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34152/Super_Danganronpa_25__Komaeda_Nagito_to_Sekai_no_Hakaimono"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34103,
+                "name": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34103/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Kibou-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:9c63ee524ebf5f5ed4d05b8a7423a4547396e9ef",
+    "score": 7.59,
+    "scored_by": 79940,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "After Makoto Naegi and his fellow survivors escaped Hope's Peak Academy to the world beyond, they soon join the Future Foundation, an organization dedicated to combating despair. Just when all seems to be looking up, Naegi is arrested and tried for betrayal due to defending a malicious group of Remnants of Despair. Standing before all of the Future Foundation executives, he finds himself, along with Kyouko Kirigiri and Aoi Asahina, facing an unknown fate. The matter at hand only escalates when the organization's supposedly impenetrable security is hacked into by a familiar face: Monokuma. Much to Naegi's horror, the mechanical bear immediately announces the beginning of a new killing game, as moments later, the first victim appears as a signal for despair to resume its brutal conquest. In the conclusion to Danganronpa's gripping tale of hope and despair, Naegi, the Super High School-Level Lucky Student, must once again unravel the mystery as his colleagues and friends begin falling around him. However, there are no more class trials; among the 16 desperate participants, there is only one killer\u2014and their death means the end of this infernal game. [Written by MAL Rewrite]",
+    "title": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+    "title_english": "Danganronpa 3: The End of Hope's Peak High School - Future Arc",
+    "title_japanese": "\u30c0\u30f3\u30ac\u30f3\u30ed\u30f3\u30d13 -The End of \u5e0c\u671b\u30f6\u5cf0\u5b66\u5712- \u672a\u6765\u7de8",
+    "title_synonyms": [
+        "Danganronpa 3: The End of Hope's Peak Academy - Future Volume"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/0AaOjY0cBzg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32189/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Mirai-hen"
+}

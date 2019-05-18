@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2014-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 8, 2014 to Sep 23, 2014",
+        "to": "2014-09-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "#1 \"Hanayuki (\u82b1\u96ea)\" by smileY inc. (eps 1-11)#2 \"Hanayuki (\u82b1\u96ea)\" by Team \"Hanayamata\" (\u30c1\u30fc\u30e0\"\u30cf\u30ca\u30e4\u30de\u30bf\") [Naru Sekiya (Reina Ueda), Yaya Sasame (Kaya Okuno), Hana N. Fontainestand (Minami Tanaka), Tami Nishigomon (Yuka Ootsubo), Machi Tokiwa (Manami Numakura)] (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 313,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1963/90831.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21681,
+    "members": 79453,
+    "opening_themes": [
+        "\"Hana wa Odore ya Irohaniho (\u82b1\u30cf\u8e0a\u30ec\u30e4\u3044\u308d\u306f\u306b\u307b)\" by Team \"Hanayamata\" (\u30c1\u30fc\u30e0\"\u30cf\u30ca\u30e4\u30de\u30bf\") [Naru Sekiya (Reina Ueda), Hana N. Fontainestand (Minami Tanaka), Yaya Sasame (Kaya Okuno), Tami Nishimikado (Yuka Ootsubo), Machi Tokiwa(Manami Numakura)"
+    ],
+    "popularity": 1233,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1039,
+            "name": "DIVE II Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1039/DIVE_II_Entertainment"
+        },
+        {
+            "mal_id": 1097,
+            "name": "Bandai Namco Games",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+        }
+    ],
+    "rank": 2199,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 34977,
+                "name": "Hanayamata",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/34977/Hanayamata"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:1a4615dd4c4c4a40dee35c853eae101b332d0ebf",
+    "score": 7.37,
+    "scored_by": 27943,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Naru Sekiya is an average 14-year-old girl with average intelligence, average athleticism, and average talents. She once had hopes that starting high school would change all that. Unfortunately, the reality could not be further from the truth and she remains a wallflower. Why can't real life be like fairy tales where a handsome prince lifts a poor girl from obscurity and transforms her into a dazzling princess? Her average student life changes when she meets a blonde girl dancing on top of a gate to a shrine. Naru assumes the girl is a fairy, but it turns out she's just a regular girl, too. But it also just so happens that she's a transfer student named Hana from America who fell in love with yosakoi, a type of dance, and came to Japan with the intention to start her own club! Excited that she's classmates with the girl she met the night before, Hana tries to recruit Naru to become the first member of the brand new yosakoi club. Too bad the thought of dancing in front of everyone terrifies her! Can Hana convince Naru to join the club? Will Naru fall in love with yosakoi? Find out in Hanayamata!",
+    "title": "Hanayamata",
+    "title_english": "Hanayamata",
+    "title_japanese": "\u30cf\u30ca\u30e4\u30de\u30bf",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/GNl47QWGURc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21681/Hanayamata"
+}

@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2017-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 7, 2017 to Jun 30, 2017",
+        "to": "2017-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tsuki ga Kirei (\u6708\u304c\u304d\u308c\u3044)\" by Nao Touyama"
+    ],
+    "episodes": 12,
+    "favorites": 4269,
+    "genres": [
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/85592.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34822,
+    "members": 220438,
+    "opening_themes": [
+        "\"Imakoko (\u30a4\u30de\u30b3\u30b3)\" by Nao Touyama"
+    ],
+    "popularity": 414,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 257,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Side story": [
+            {
+                "mal_id": 36539,
+                "name": "Tsuki ga Kirei Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36539/Tsuki_ga_Kirei_Special"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35602,
+                "name": "Tsuki ga Kirei Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35602/Tsuki_ga_Kirei_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 5032,
+    "request_cached": true,
+    "request_hash": "request:anime:cfbd1bd60a40f29208cfd513fb28f6f909aecaea",
+    "score": 8.3,
+    "scored_by": 100757,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ],
+    "synopsis": "With a new school year comes a new crowd of classmates, and for their final year of junior high, aspiring writer Kotarou Azumi and track team member Akane Mizuno end up in the same class. Though initially complete strangers, a few chance encounters stir an innocent desire within their hearts. A yearning gaze, a fluttering heart\u2014the hallmarks of young love slip into their lives as fate brings their paths to a cross. However, though love is patient and love is kind, Kotarou and Akane discover it is not always straightforward. Despite the comfort they find in each other's company, heartache and anxiety come hand in hand with pursuing the feelings in their hearts. With the uncertainty of how the other truly feels as well as the competing affections of those around them, the road ahead is unclear. Even so, under the shining light of a beautiful full moon, Kotarou gathers his courage to ask Akane a single question, one that forever changes their quiet relationship. [Written by MAL Rewrite]",
+    "title": "Tsuki ga Kirei",
+    "title_english": "Tsukigakirei",
+    "title_japanese": "\u6708\u304c\u304d\u308c\u3044",
+    "title_synonyms": [
+        "The Moon is Beautiful",
+        "As the Moon",
+        "So Beautiful"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/HoEFpyDHZzw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34822/Tsuki_ga_Kirei"
+}

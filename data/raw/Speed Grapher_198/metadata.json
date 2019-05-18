@@ -1,0 +1,120 @@
+{
+    "aired": {
+        "from": "2005-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Apr 8, 2005 to Sep 30, 2005",
+        "to": "2005-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Hinageshi no Oka (Hill of Poppies)\" by Shione Yukawa (eps 1-12)",
+        "\"Break the Cocoon\" By Yoriko (eps 13-24)"
+    ],
+    "episodes": 24,
+    "favorites": 559,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/26128.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 198,
+    "members": 83562,
+    "opening_themes": [
+        "\"Girls on Film\" by Duran Duran\"Shutter Speed\" by Shinkichi Mitsumune [U.S. Version]"
+    ],
+    "popularity": 1167,
+    "premiered": "Spring 2005",
+    "producers": [
+        {
+            "mal_id": 55,
+            "name": "TV Asahi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+            "mal_id": 318,
+            "name": "WAO World",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+        },
+        {
+            "mal_id": 416,
+            "name": "TAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/416/TAP"
+        }
+    ],
+    "rank": 2006,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 5434,
+                "name": "Speed Grapher",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/5434/Speed_Grapher"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:10649de905969366d6b0907e951ba775394a9762",
+    "score": 7.42,
+    "scored_by": 31292,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 3,
+            "name": "Gonzo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ],
+    "synopsis": "Ten years after the Bubble War, the dichotomy between the rich and the poor in the world becomes more prominent and Japan is no exception. The rich seek to satisfy their desires and derive pleasure for themselves, and Tokyo has materialized into such a city as a result. Saiga, once a war photographer, works for Hibara Ginza in the capitalist state of Tokyo. He infiltrates the Roppongi Club, a secretive base located in the red light district of the city, to collect information about them. However, he was caught in the process and brought forward to a girl called Kagura who was in the midst of a ritual. His contact with Kagura awakens his special ability: the power to make things explode when photographed. In order to unravel the mystery behind the Roppongi Club and Kagura, Saiga begins his solitary battle.",
+    "title": "Speed Grapher",
+    "title_english": "Speed Grapher",
+    "title_japanese": "\u30b9\u30d4\u30fc\u30c9\u30b0\u30e9\u30d5\u30a1\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/gxluGU_jnBs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/198/Speed_Grapher"
+}

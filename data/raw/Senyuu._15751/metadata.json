@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2013-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 3,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Jan 9, 2013 to Apr 3, 2013",
+        "to": "2013-04-03T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "4 min per ep",
+    "ending_themes": [
+        "\"Believe ~Eien no Link~ (Believe \uff5e\u6c38\u9060\u306eLink\uff5e)\" by JAM Project"
+    ],
+    "episodes": 13,
+    "favorites": 534,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/44858.jpg",
+    "licensors": [],
+    "mal_id": 15751,
+    "members": 86884,
+    "opening_themes": [
+        "\"THE MONSTERS\" by JAM Project"
+    ],
+    "popularity": 1121,
+    "premiered": "Winter 2013",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 271,
+            "name": "Barnum Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/271/Barnum_Studio"
+        },
+        {
+            "mal_id": 715,
+            "name": "Dwango",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/715/Dwango"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        }
+    ],
+    "rank": 1999,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 42531,
+                "name": "Senyuu.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/42531/Senyuu"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18523,
+                "name": "Senyuu. 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18523/Senyuu_2"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 17391,
+                "name": "Senyuu. Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17391/Senyuu_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c59d28671d48fd07bdddb0319ac65be2f7b6f094",
+    "score": 7.42,
+    "scored_by": 39317,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 334,
+            "name": "Ordet",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/334/Ordet"
+        },
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "Once upon a time, the demon lord Rchimedes spread terror throughout the world, until he was eventually sealed away by the legendary hero Creasion. Since then, a thousand years have passed peacefully. However, a mysterious hole has opened up between the demon and human spheres, and countless demons have surged into the human realm once more. Coming to the conclusion that Rchimedes would soon return to wreak havoc, a human king summons the possible descendants of the legendary hero\u2014all 75 of them. Unfortunately, after so long, it was too difficult to pinpoint his true descendants. Among the lionhearted prospects is the amateur adventurer Alba Fr\u00fchling. His skills may not be top-notch, but he is accompanied by the talented soldier Ross, who helps the young hero whenever he is in a pinch...or at least, he is supposed to. Though undoubtedly a skilled warrior, Ross is actually both sarcastic and sadistic, and hence revels in Alba's suffering. Senyuu. is a comedic adventure following the unlikely duo as they struggle in their endeavor to defeat the demon lord, meeting various eccentrics along the way. [Written by MAL Rewrite]",
+    "title": "Senyuu.",
+    "title_english": null,
+    "title_japanese": "\u6226\u52c7\u3002",
+    "title_synonyms": [
+        "Senyu."
+    ],
+    "trailer_url": "https://www.youtube.com/embed/lk58qiXkC2E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15751/Senyuu"
+}

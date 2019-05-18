@@ -1,0 +1,132 @@
+{
+    "aired": {
+        "from": "2015-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 5, 2015 to Sep 20, 2015",
+        "to": "2015-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Rokka no Yuusha adapts the first novel of Ishio Yamagata's light novel series of the same title.\r\nPony Canyon USA localized the series as Rokka: Braves of the Six Flowers in the US in 2015, but cancelled the standard edition Blu-Ray/DVD version of the series in favor of making the collector\u2019s edition a more attractive purchase for fans.",
+    "broadcast": "Sundays at 02:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Secret Sky\" by MICHI (eps 1-3, 8, 12)",
+        "\"Dance in the Fake\" by Nashetania (Yoko Hikasa) (eps 4-5, 10)",
+        "\"Nameless Heart\" by Fremy (Aoi Yuuki) (eps 6-7, 9, 11)"
+    ],
+    "episodes": 12,
+    "favorites": 1938,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/74374.jpg",
+    "licensors": [
+        {
+            "mal_id": 1201,
+            "name": "Ponycan USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+        }
+    ],
+    "mal_id": 28497,
+    "members": 369574,
+    "opening_themes": [
+        "\"Cry for the Truth\" by MICHI (eps 1-4, 12)",
+        "\"Black Swallowtail\" by UROBOROS (eps 5-11)"
+    ],
+    "popularity": 191,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        }
+    ],
+    "rank": 1727,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 55869,
+                "name": "Rokka no Yuusha",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/55869/Rokka_no_Yuusha"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31593,
+                "name": "Rokka no Yuusha Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31593/Rokka_no_Yuusha_Picture_Drama"
+            }
+        ]
+    },
+    "request_cache_expiry": 22622,
+    "request_cached": true,
+    "request_hash": "request:anime:9877aee9c1410dafa52f3f93f2202fe70a103326",
+    "score": 7.49,
+    "scored_by": 196928,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 911,
+            "name": "Passione",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/911/Passione"
+        }
+    ],
+    "synopsis": "An ancient legend states that with the revival of the Demon God, six heroes\u2014the Braves of the Six Flowers\u2014will be chosen by the Goddess of Fate, granting them power to rise up against the fiends attempting to turn the world into a living hell. Adlet Mayer, self-proclaimed \"Strongest Man in the World,\" has arrived at the continent of Piena in hopes of becoming a Brave. Although it doesn't go as smoothly as he had planned, Adlet is ultimately chosen as one of the six heroes shortly after being greeted by Nashetania Loei Piena Augustra, crown princess and fellow Brave. Rokka no Yuusha follows the two as they embark upon their destined journey to fight the Demon God, intending to meet up with their fellow heroes at a small temple outside of the Land of the Howling Demons, the fiends' domain. However, when they finally unite, seven heroes are present, and soon the others begin to suspect Adlet to be a fraud. Now on the run, Adlet must utilize his unique skill set and wit in a fight for his life to identify which member of the group is the true impostor before it's too late! [Written by MAL Rewrite]",
+    "title": "Rokka no Yuusha",
+    "title_english": "Rokka: Braves of the Six Flowers",
+    "title_japanese": "\u516d\u82b1\u306e\u52c7\u8005",
+    "title_synonyms": [
+        "Rokka no Yusha"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Hi3D3t2bAsM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28497/Rokka_no_Yuusha"
+}

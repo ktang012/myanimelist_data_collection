@@ -1,0 +1,148 @@
+{
+    "aired": {
+        "from": "2018-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Oct 2, 2018 to Mar 19, 2019",
+        "to": "2019-03-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Nameless story\" by Takuma Terashima (ep 1)",
+        "\"Another colony\" by TRUE (eps 2-13)",
+        "\"Little Soldier (\u30ea\u30c8\u30eb\u30bd\u30eb\u30b8\u30e3\u30fc)\" by Azusa Tadokoro (eps 14- )"
+    ],
+    "episodes": 24,
+    "favorites": 5783,
+    "genres": [
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1694/93337.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 37430,
+    "members": 334934,
+    "opening_themes": [
+        "\"Nameless story\" by Takuma Terashima (eps 1-14)",
+        "\"Meguru Mono (\u30e1\u30b0\u30eb\u30e2\u30ce)\" by Takuma Terashima (eps 15-24)"
+    ],
+    "popularity": 239,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1840,
+            "name": "Bandai Namco Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+        },
+        {
+            "mal_id": 1896,
+            "name": "Micro Magazine Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1896/Micro_Magazine_Publishing"
+        }
+    ],
+    "rank": 307,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 87609,
+                "name": "Tensei shitara Slime Datta Ken",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/87609/Tensei_shitara_Slime_Datta_Ken"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 39551,
+                "name": "Tensei shitara Slime Datta Ken 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 38793,
+                "name": "Tensei shitara Slime Datta Ken OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38793/Tensei_shitara_Slime_Datta_Ken_OVA"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 39607,
+                "name": "Tensei shitara Slime Datta Ken - Kanwa: Verudora Nikki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39607/Tensei_shitara_Slime_Datta_Ken_-_Kanwa__Verudora_Nikki"
+            }
+        ]
+    },
+    "request_cache_expiry": 2532,
+    "request_cached": true,
+    "request_hash": "request:anime:df67383ff48eb338f14032d0e98f94335085a9c3",
+    "score": 8.23,
+    "scored_by": 147322,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "Thirty-seven-year-old Satoru Mikami is a typical corporate worker, who is perfectly content with his monotonous lifestyle in Tokyo, other than failing to nail down a girlfriend even once throughout his life. In the midst of a casual encounter with his colleague, he falls victim to a random assailant on the streets and is stabbed. However, while succumbing to his injuries, a peculiar voice echoes in his mind, and recites a bunch of commands which the dying man cannot make sense of. When Satoru regains consciousness, he discovers that he has reincarnated as a goop of slime in an unfamiliar realm. In doing so, he acquires newfound skills\u2014notably, the power to devour anything and mimic its appearance and abilities. He then stumbles upon the sealed Catastrophe-level monster \"Storm Dragon\" Verudora who had been sealed away for the past 300 years for devastating a town to ashes. Sympathetic to his predicament, Satoru befriends him, promising to assist in destroying the seal. In return, Verudora bestows upon him the name Rimuru Tempest to grant him divine protection. Now, liberated from the mundanities of his past life, Rimuru embarks on a fresh journey with a distinct goal in mind. As he grows accustomed to his new physique, his gooey antics ripple throughout the world, gradually altering his fate. [Written by MAL Rewrite]",
+    "title": "Tensei shitara Slime Datta Ken",
+    "title_english": "That Time I Got Reincarnated as a Slime",
+    "title_japanese": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6",
+    "title_synonyms": [
+        "TenSura"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/bkQkyzXEXKE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken"
+}

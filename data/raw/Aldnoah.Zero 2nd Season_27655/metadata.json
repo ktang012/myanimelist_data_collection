@@ -1,0 +1,172 @@
+{
+    "aired": {
+        "from": "2015-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 11, 2015 to Mar 29, 2015",
+        "to": "2015-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"&Z\" by SawanoHiroyuki[nZk]:mizuki (ep 1)",
+        "\"GENESIS\" by Eir Aoi (eps 2-10)",
+        "\"Harmonious\" by Asseylum Vers Allusia starring Sora Amamiya (ep 11)",
+        "\"heavenly blue\" by Kalafina (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 1035,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/71297.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 27655,
+    "members": 221015,
+    "opening_themes": [
+        "\"&Z\" by SawanoHiroyuki[nZk]:mizuki (eps 2-10)"
+    ],
+    "popularity": 411,
+    "premiered": "Winter 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 459,
+            "name": "Nitroplus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1415,
+            "name": "Asahi Broadcasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 3367,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 91562,
+                "name": "Aldnoah.Zero 2nd Season",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91562/AldnoahZero_2nd_Season"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 22729,
+                "name": "Aldnoah.Zero",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22729/AldnoahZero"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:07d5cf236ff1ef5b5d13f8209f1835fb6ef682ef",
+    "score": 7.09,
+    "scored_by": 135168,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 1103,
+            "name": "TROYCA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+        }
+    ],
+    "synopsis": "Seeking revenge, Count Saazbaum, a Martian, attacked the Earth. Later on, the war between the Terrans and Martians ended with Earth's Terrans gaining the victory. However, nineteen months later, the battle between them continues. Martians still continue to invade the Earth and the Terrans continue to protect it.",
+    "title": "Aldnoah.Zero 2nd Season",
+    "title_english": "Aldnoah.Zero",
+    "title_japanese": "\u30a2\u30eb\u30c9\u30ce\u30a2\u30fb\u30bc\u30ed2nd\u30b7\u30fc\u30ba\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/AEn7nqWONC0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/27655/AldnoahZero_2nd_Season"
+}

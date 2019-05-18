@@ -1,0 +1,138 @@
+{
+    "aired": {
+        "from": "2010-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 2, 2010 to Dec 18, 2010",
+        "to": "2010-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Limited screening on September 26th. Regular TV airing started on the 2nd of October.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"More-more LOVERS!!\" by Natsuko Asou (eps 1-11)",
+        "\"Happy Birthday, my holy day\" by Ayana Taketatsu (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 659,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/85871.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 8424,
+    "members": 174343,
+    "opening_themes": [
+        "\"Help!! -Hell side-\" by Ayana Taketatsu (eps 1-4)",
+        "\"Help!! -Heaven side-\" by Ayana Taketatsu and Saori Hayami (ep 5-12)"
+    ],
+    "popularity": 561,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        }
+    ],
+    "rank": 2705,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 15184,
+                "name": "MM!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/15184/MM"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9581,
+                "name": "MM! Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9581/MM_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 26179,
+    "request_cached": true,
+    "request_hash": "request:anime:d41cc928ce4e7e6186b05a99a74b5c30a199ef32",
+    "score": 7.25,
+    "scored_by": 93356,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Taro Sado is a high school student who lives his day to day life with a big secret\u2014he's a masochist! Encouraged by his cross-dressing best friend Tatsukichi Hayama, Taro asks the Second Voluntary Club for help with his problem and ends up joining the club after they vow to \"fix\" him. However, it turns out that all of the members of the club have some serious issues. The club leader Mio Isurugi is a self-designated god who is afraid of cats, Arashiko Yuuno has a severe fear of men, and the club advisor Michiru Onigawara is a sadist who enjoys making people cosplay. Together with other wacky characters such as Yumi Mamiya, a talented masseuse and Yuuno's best friend, and Noa Hiiragi, the president of the invention club, they all learn about the importance of acceptance and kindness. [Written by MAL Rewrite]",
+    "title": "MM!",
+    "title_english": "MM!",
+    "title_japanese": "\u3048\u3080\u3048\u3080\u3063!",
+    "title_synonyms": [
+        "MM! Group",
+        "Emu Emu!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/YAIn8wNFJ6Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8424/MM"
+}

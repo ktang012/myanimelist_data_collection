@@ -1,0 +1,121 @@
+{
+    "aired": {
+        "from": "2018-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Jul 5, 2018 to Sep 20, 2018",
+        "to": "2018-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Based on the light novel series written by Yukiya Murusaki. The light novels have been translated to English under the title How NOT to Summon a Demon Lord, published by J-Novel Club since December 4, 2017. The series has also been adapted to a manga written by Naoto Fukuda, published by Suiyobi no Sirius since June 2015.",
+    "broadcast": "Thursdays at 22:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "#1:\"Saiaku na hi demo Anata ga Suki\" by Yuu Serizawa (eps 1-11)",
+        "\"DeCIDE\" by SUMMONERS 2+ (Yuu Serizawa, Azumi Waki, Yumi Hara, Rumi Ookubo, Emiri Katou) (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 1290,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 551,
+            "name": "Crossphere",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/551/Crossphere"
+        }
+    ],
+    "mal_id": 37210,
+    "members": 223013,
+    "opening_themes": [
+        "\"DeCIDE\" by SUMMONERS 2+ (Yuu Serizawa, Azumi Waki, Yumi Hara, Rumi Ookubo, Emiri Katou)"
+    ],
+    "popularity": 408,
+    "premiered": "Summer 2018",
+    "producers": [],
+    "rank": 2533,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 83225,
+                "name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/83225/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu"
+            }
+        ]
+    },
+    "request_cache_expiry": 13947,
+    "request_cached": true,
+    "request_hash": "request:anime:44e3e45d9c657ed35b5423f4e833c96ff22eacc8",
+    "score": 7.29,
+    "scored_by": 110682,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 30,
+            "name": "Ajia-Do",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ],
+    "synopsis": "When it comes to the fantasy MMORPG Cross Reverie, none can match the power of the Demon King Diablo. Possessing the game's rarest artifacts and an unrivaled player level, he overpowers all foolish enough to confront him. But despite his fearsome reputation, Diablo's true identity is Takuma Sakamoto, a shut-in gamer devoid of any social skills. Defeating hopeless challengers day by day, Takuma cares about nothing else but his virtual life\u2014that is, until a summoning spell suddenly transports him to another world where he has Diablo's appearance! In this new world resembling his favorite game, Takuma is greeted by the two girls who summoned him: Rem Galeu, a petite Pantherian adventurer, and Shera L. Greenwood, a busty Elf summoner. They perform an Enslavement Ritual in an attempt to subjugate him, but the spell backfires and causes them to become his slaves instead. With the situation now becoming more awkward than ever, Takuma decides to accompany the girls in finding a way to unbind their contract while learning to adapt to his new existence as the menacing Demon King. [Written by MAL Rewrite]",
+    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+    "title_english": "How Not to Summon a Demon Lord",
+    "title_japanese": "\u7570\u4e16\u754c\u9b54\u738b\u3068\u53ec\u559a\u5c11\u5973\u306e\u5974\u96b7\u9b54\u8853",
+    "title_synonyms": [
+        "The Otherworldly Demon King and the Summoner Girls' Slave Magic"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/8a0gn8mmnaY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu"
+}

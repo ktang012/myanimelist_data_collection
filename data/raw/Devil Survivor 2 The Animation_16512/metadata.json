@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2013-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 5, 2013 to Jun 28, 2013",
+        "to": "2013-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first episode received a special pre-airing at an event at Cinem@rt Shinjuku on the 2nd of March, 2013. Regular TV airing started on April 5th.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Be\" by Song Riders (eps 1-9, 11-13)",
+        "\"Each and All\" by livetune adding Rin Oikawa (from Q;Indivi) (ep 10)"
+    ],
+    "episodes": 13,
+    "favorites": 512,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/47191.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 16512,
+    "members": 132712,
+    "opening_themes": [
+        "\"Take Your Way\" by livetune adding Fukase (from SEKAI NO OWARI) (eps 1-8, 11-12)"
+    ],
+    "popularity": 763,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 870,
+            "name": "Index",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/870/Index"
+        }
+    ],
+    "rank": 3729,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35959,
+                "name": "Devil Survivor 2: Show Your Free Will",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35959/Devil_Survivor_2__Show_Your_Free_Will"
+            },
+            {
+                "mal_id": 46874,
+                "name": "Devil Survivor 2: The Animation",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/46874/Devil_Survivor_2__The_Animation"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 18799,
+                "name": "Take Your Way",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18799/Take_Your_Way"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f40a8cb80e82bcc9f1c3a87a933183118358c999",
+    "score": 7,
+    "scored_by": 61655,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 397,
+            "name": "Bridge",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/397/Bridge"
+        }
+    ],
+    "synopsis": "The countdown to extinction begins on Sunday with the arrival of the Septentriones, otherworldly invaders set on the eradication of mankind. Caught in the crossfire, Hibiki Kuze and his friends join in the war for humanity's survival by signing contracts with demons to become \"Devil Summoners.\" Soon, their abilities attract the attention of JP's, an underground agency led by Yamato Houtsuin. Once recruited into JP's, Hibiki and his friends fight and bond alongside other ordinary citizens who are Devil Summoners. However, with each new day, another Septentrione appears to wreak havoc upon Japan. Even if many lives are lost in the process, before that night ends, the young summoners must defeat the invaders at all costs. [Written by MAL Rewrite]",
+    "title": "Devil Survivor 2 The Animation",
+    "title_english": "Devil Survivor 2 The Animation",
+    "title_japanese": "\u30c7\u30d3\u30eb\u30b5\u30d0\u30a4\u30d0\u30fc\uff12 THE ANIMATION",
+    "title_synonyms": [
+        "DS2A",
+        "Shin Megami Tensei: Devil Survivor 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/5uA2fk7VKVw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16512/Devil_Survivor_2_The_Animation"
+}

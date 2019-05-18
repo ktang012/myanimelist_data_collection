@@ -1,0 +1,136 @@
+{
+    "aired": {
+        "from": "2012-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 7, 2012 to Sep 29, 2012",
+        "to": "2012-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Natsu no Yakusoku (\u590f\u306e\u7d04\u675f)\" by Yui Horie"
+    ],
+    "episodes": 13,
+    "favorites": 150,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/42105.jpg",
+    "licensors": [],
+    "mal_id": 11783,
+    "members": 75656,
+    "opening_themes": [
+        "\"FEARLESS HERO\" by Nana Mizuki"
+    ],
+    "popularity": 1288,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        }
+    ],
+    "rank": 2818,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Prequel": [
+            {
+                "mal_id": 10155,
+                "name": "Dog Days",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10155/Dog_Days"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16385,
+                "name": "Dog Days''",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16385/Dog_Days"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 17419,
+                "name": "Dog Days' Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17419/Dog_Days_Specials"
+            },
+            {
+                "mal_id": 29413,
+                "name": "Dog Days Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29413/Dog_Days_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 38890,
+    "request_cached": true,
+    "request_hash": "request:anime:569f28e0ab8ddc862df0ae9714471d406f61e2f9",
+    "score": 7.22,
+    "scored_by": 39505,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 35,
+            "name": "Seven Arcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ],
+    "synopsis": "Cinque returns to the land of Flonyard in Dog Days' to resume his duties as the hero of the Biscotti Republic and it's as though he never left! The difference this time is that he's brought two friends with him who become heroes in their own right: childhood best friend Rebecca Anderson, who becomes the hero for the Principality of Pastillage at the urging of their leader Princess Couvert Eschenbach Pastillage, and his cousin Nanami Takatsuki, who becomes the hero for the Galette Lion Dominion. As with the first season though, with so many secrets to be uncovered and mysteries to be solved, will there even be time for the athletic events that these three hyper and athletic teenagers love to participate in so much?",
+    "title": "Dog Days'",
+    "title_english": null,
+    "title_japanese": "\u30c9\u30c3\u30b0\u30c7\u30a4\u30ba'",
+    "title_synonyms": [
+        "Dog Days 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/UPs6C9W-5SE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11783/Dog_Days"
+}

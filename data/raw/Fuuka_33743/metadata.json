@@ -1,0 +1,152 @@
+{
+    "aired": {
+        "from": "2017-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 6, 2017 to Mar 24, 2017",
+        "to": "2017-03-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 22:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Watashi no Sekai (\u30ef\u30bf\u30b7\u30ce\u30bb\u30ab\u30a4)\" by Megumi Nakajima (eps 1-5, 7-11)",
+        "\"Yukihanabi (\u96ea\u82b1\u706b)\" by Koyuki Hinashi (Saori Hayami) (ep 6)"
+    ],
+    "episodes": 12,
+    "favorites": 681,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/83735.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33743,
+    "members": 160914,
+    "opening_themes": [
+        "\"Climber's High!\" by Manami Numakura"
+    ],
+    "popularity": 612,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 210,
+            "name": "Studio Tulip",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 4960,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 67019,
+                "name": "Fuuka",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/67019/Fuuka"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 390,
+                "name": "Suzuka",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/390/Suzuka"
+            }
+        ]
+    },
+    "request_cache_expiry": 19776,
+    "request_cached": true,
+    "request_hash": "request:anime:006b440695f71f59c0d1e8099212b5030cd50455",
+    "score": 6.71,
+    "scored_by": 74355,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "Yuu Haruna just moved into town and loves to use Twitter. Out on his way to buy dinner, he bumps into a mysterious girl, Fuuka Akitsuki, who breaks his phone thinking he was trying to take a picture of her panties. How will his new life change now? (Source: MAL News)",
+    "title": "Fuuka",
+    "title_english": "Fuuka",
+    "title_japanese": "\u98a8\u590f",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/NNv22mAw8KE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33743/Fuuka"
+}

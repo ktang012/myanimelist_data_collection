@@ -1,0 +1,144 @@
+{
+    "aired": {
+        "from": "2018-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 7, 2018 to Mar 25, 2018",
+        "to": "2018-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Poputepipikku is based on bkub Ookawa's 4-koma manga series of the same title. Each episode consists of a 12-minute segment repeated twice. The repeated segment contains a different voiceover by another voice actor with variations on the skits.",
+    "broadcast": "Sundays at 01:00 (JST)",
+    "duration": "12 min per ep",
+    "ending_themes": [
+        "\"POPPY PAPPY DAY\" by1. Popuko (Kenji Akabane), Pipimi (Shunsuke Takeuchi) (eps 1-7)2. Popuko (Yui Makino), Pipimi (Yui Watanabe) (eps 1-7, 12)3. Popuko (Wataru Hatano), Pipimi (Toshiki Masuda) (eps 8-11)4. Popuko (Hiromi Igarashi), Pipimi (Rei Matsuzaki) (eps 8-11)5. Shouta Aoi (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 797,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 5,
+            "name": "Dementia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/5/Dementia"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/88816.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 35330,
+    "members": 124708,
+    "opening_themes": [
+        "\"Twinkling star\" by Drop Stars (ep 1)",
+        "\"POP TEAM EPIC\" by Sumire Uesaka (eps 2-10)"
+    ],
+    "popularity": 819,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+    ],
+    "rank": 2394,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95016,
+                "name": "Poputepipikku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95016/Poputepipikku"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 37622,
+                "name": "Ninja Batman x Poputepipikku Kindan no Collab CM",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37622/Ninja_Batman_x_Poputepipikku_Kindan_no_Collab_CM"
+            },
+            {
+                "mal_id": 37842,
+                "name": "Poputepipikku Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37842/Poputepipikku_Specials"
+            },
+            {
+                "mal_id": 38068,
+                "name": "Poputepipikku Kinen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38068/Poputepipikku_Kinen"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37596,
+                "name": "Poputepipikku Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37596/Poputepipikku_Special"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:54f29b9f7b79aef0affd5441bac0659f109b58f8",
+    "score": 7.33,
+    "scored_by": 50357,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 437,
+            "name": "Kamikaze Douga",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+        }
+    ],
+    "synopsis": "Poputepipikku turns absurdist comedy up to eleven with its pop culture references and surreal hilarity. With two bonafide high school girl protagonists\u2014the short and exceptionally quick to anger Popuko, and the tall and unshakably calm Pipimi\u2014they throw genres against the wall and don't wait to see what sticks. Parody is interlaced with drama, action, crudeness, and the show's overarching goal\u2014to become a real anime. [Written by MAL Rewrite]",
+    "title": "Poputepipikku",
+    "title_english": "Pop Team Epic",
+    "title_japanese": "\u30dd\u30d7\u30c6\u30d4\u30d4\u30c3\u30af",
+    "title_synonyms": [
+        "PPTP"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/xnOHKecWTJY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35330/Poputepipikku"
+}

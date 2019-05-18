@@ -1,0 +1,140 @@
+{
+    "aired": {
+        "from": "2017-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 3, 2017 to Sep 18, 2017",
+        "to": "2017-09-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Taiyou ga Kureta Kisetsu (\u592a\u967d\u304c\u304f\u308c\u305f\u5b63\u7bc0)\" by Fujimi Koukou Soccer-bu [Aoyama-kun (Ryotaro Okiayu), Kaoru Zaizen (Tomokazu Seki), Kazuma Sakai (Soichiro Hoshi), Jin Tsukamoto (Daisuke Sakaguchi), Taichi Yoshioka (Hiroyuki Yoshino)] (eps 1-4",
+        "\"Taiyou ga Kureta Kisetsu (\u592a\u967d\u304c\u304f\u308c\u305f\u5b63\u7bc0)\" by Jin Tsukamoto (Daisuke Sakaguchi) (ep 5)"
+    ],
+    "episodes": 12,
+    "favorites": 147,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/86644.jpg",
+    "licensors": [
+        {
+            "mal_id": 1201,
+            "name": "Ponycan USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+        }
+    ],
+    "mal_id": 34825,
+    "members": 71598,
+    "opening_themes": [
+        "\"White\" by Bentham"
+    ],
+    "popularity": 1346,
+    "premiered": "Summer 2017",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1501,
+            "name": "East Japan Marketing & Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1501/East_Japan_Marketing___Communications"
+        }
+    ],
+    "rank": 3545,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 93440,
+                "name": "Keppeki Danshi! Aoyama-kun",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/93440/Keppeki_Danshi_Aoyama-kun"
+            }
+        ]
+    },
+    "request_cache_expiry": 21257,
+    "request_cached": true,
+    "request_hash": "request:anime:1671a3792bd13921ee265dad11ab0917f9660aba",
+    "score": 7.05,
+    "scored_by": 29388,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 101,
+            "name": "Studio Hibari",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+        }
+    ],
+    "synopsis": "He is charming, cool, athletic, a good cook, but more importantly, he's a clean freak. Aoyama is idolized and respected by everyone, but they can only admire him from afar due to his mysophobia. Despite that, he plays soccer\u2014a rather dirty sport! As the playmaker for Fujimi High School's soccer club, Aoyama avoids physical contact at all cost and cleanly dribbles toward victory. However, the path to Nationals will not be easy for Fujimi's underdog team. But alongside striker Kaoru Zaizen, Aoyama will show everyone that even as a clean freak, there are things he's willing to get dirty for. [Written by MAL Rewrite]",
+    "title": "Keppeki Danshi! Aoyama-kun",
+    "title_english": "Clean Freak! Aoyama-kun",
+    "title_japanese": "\u6f54\u7656\u7537\u5b50\uff01\u9752\u5c71\u304f\u3093",
+    "title_synonyms": [
+        "Cleanliness Boy! Aoyama-kun"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/V3kxzqJI0yk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun"
+}

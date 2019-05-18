@@ -1,0 +1,142 @@
+{
+    "aired": {
+        "from": "2011-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Oct 5, 2011 to Mar 28, 2012",
+        "to": "2012-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Chihayafuru is the anime adaptation of the manga with the same name written and illustrated by Yuki Suetsugu and serialised in the magazine Be Love. Animax Asia released the anime with English subtitles in 2013. The anime will get two live action film adaptations, both scheduled to be released in 2016. The manga won the second Manga Taishou award, and the 35th Kodansha Manga Award in the shoujo category. Chihayafuru has become so popular that it boosted interest in competitive karuta. The manga has sold over 4.5 million copies and has been praised for combining elements of sports and literature.",
+    "broadcast": "Wednesdays at Unknown",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Soshite Ima (\u305d\u3057\u3066\u3044\u307e)\" by Asami Seto (eps 1-24)",
+        "\"YOUTHFUL ~from Studio Yamato~\" by 99RadioService (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 5078,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/35749.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10800,
+    "members": 245089,
+    "opening_themes": [
+        "\"YOUTHFUL\" by 99RadioService"
+    ],
+    "popularity": 364,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 270,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13245,
+                "name": "Chihayafuru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13245/Chihayafuru"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 14397,
+                "name": "Chihayafuru 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14397/Chihayafuru_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:8d0817b43db19c94405c9edd3a1b54f0197062b8",
+    "score": 8.28,
+    "scored_by": 100059,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Chihaya Ayase, a strong-willed and tomboyish girl, grows up under the shadow of her older sister. With no dreams of her own, she is contented with her share in life till she meets Arata Wataya. The quiet transfer student in her elementary class introduces her to competitive karuta, a physically and mentally demanding card game inspired by the classic Japanese anthology of Hundred Poets. Captivated by Arata's passion for the game and inspired by the possibility of becoming the best in Japan, Chihaya quickly falls in love with the world of karuta. Along with the prodigy Arata and her haughty but hard-working friend Taichi Mashima, she joins the local Shiranami Society. The trio spends their idyllic childhood days playing together, until circumstances split them up. Now in high school, Chihaya has grown into a karuta freak. She aims to establish the Municipal Mizusawa High Competitive Karuta Club, setting her sights on the national championship at Omi Jingu. Reunited with the now indifferent Taichi, Chihaya's dream of establishing a karuta team is only one step away from becoming true: she must bring together members with a passion for the game that matches her own. [Written by MAL Rewrite]",
+    "title": "Chihayafuru",
+    "title_english": "Chihayafuru",
+    "title_japanese": "\u3061\u306f\u3084\u3075\u308b",
+    "title_synonyms": [
+        "Chihayafull"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10800/Chihayafuru"
+}

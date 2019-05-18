@@ -1,0 +1,144 @@
+{
+    "aired": {
+        "from": "2018-01-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 13, 2018 to Mar 31, 2018",
+        "to": "2018-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 02:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kedamono Damono (\u30b1\u30c0\u30e2\u30ce\u30c0\u30e2\u30ce)\" by Kitsunetsuki (\u30ad\u30c4\u30cd\u30c4\u30ad)"
+    ],
+    "episodes": 12,
+    "favorites": 265,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/90087.jpg",
+    "licensors": [],
+    "mal_id": 34964,
+    "members": 90105,
+    "opening_themes": [
+        "\"killing bites\" by fripSide"
+    ],
+    "popularity": 1097,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1358,
+            "name": "Fields",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1358/Fields"
+        },
+        {
+            "mal_id": 1787,
+            "name": "KLab",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1787/KLab"
+        }
+    ],
+    "rank": 4488,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 61087,
+                "name": "Killing Bites",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/61087/Killing_Bites"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 37511,
+                "name": "Kedamono Damono",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37511/Kedamono_Damono"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:82e184abaafe0a8e6ad6c76d3fe342d5bfe36471",
+    "score": 6.81,
+    "scored_by": 35860,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "After unknowingly participating in a kidnapping, college student Yuuya Nomoto finds his friends brutally murdered by Hitomi Uzaki, the high school girl they attempted to abduct. Forced to drive her to an undisclosed location, he finds himself being wagered as the prize for a death match between two Therianthropes, superpowered human-animal hybrids created through advanced gene therapy. As one of these hybrids, Hitomi uses the speed and fearlessness she gained from her ratel genes to viciously dispatch her foe and save Yuuya from certain death. Waking up hours later hoping the whole event was only a nightmare, Yuuya realizes that he has become embroiled in a secret proxy war between four large Japanese business conglomerates, with the winner taking control of the economy. As her sole albeit unwilling investor, his life is now directly linked to Hitomi's ability to participate in underground bloodsport matches known only as Killing Bites. [Written by MAL Rewrite]",
+    "title": "Killing Bites",
+    "title_english": "Killing Bites",
+    "title_japanese": "\u30ad\u30ea\u30f3\u30b0\u30d0\u30a4\u30c4",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/gykjd18qxAI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34964/Killing_Bites"
+}

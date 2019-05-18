@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2014-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 2,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Apr 9, 2014 to Jul 2, 2014",
+        "to": "2014-07-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 01:40 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Yuugure Happy Call (\u5915\u66ae\u308c\u30cf\u30c3\u30d4\u30fc\u30b4\u30fc)\" by Tsugumi Harudori (CV: Haruka Chisuga), Meme Tatane (CV: Aoi Yuuki), Anya Hepburn (CV: Saori Hayami)"
+    ],
+    "episodes": 12,
+    "favorites": 189,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/61889.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 21507,
+    "members": 132207,
+    "opening_themes": [
+        "\"monochrome\" by Dancing Dolls!!"
+    ],
+    "popularity": 764,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        }
+    ],
+    "rank": 7422,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23661,
+                "name": "Soul Eater NOT!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23661/Soul_Eater_NOT"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 3588,
+                "name": "Soul Eater",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3588/Soul_Eater"
+            }
+        ]
+    },
+    "request_cache_expiry": 30845,
+    "request_cached": true,
+    "request_hash": "request:anime:e3bffee93d539ba3d2acc32b177d0b84eb457a80",
+    "score": 6.18,
+    "scored_by": 61683,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Soul Eater NOT! is a spin-off and side story that takes place one year prior to the events of the original Soul Eater. At the Death Weapon Meister Academy, humans born with the power to transform into weapons and those with the power to wield these weapons (Meisters) train to hone their natural talent. The characters of the main series are enrolled in the Especially Advantaged Talent class, where they train to become warriors of justice capable of defeating what threats prey on innocent lives\u2014or even the entire world. Other students at the DWMA are less talented. Members of the Normally Overcome Target class focus less on being warriors of justice and more on controlling their powers so they don't hurt themselves or anyone around them. Tsugumi Harudori, a new halberd-transforming student, meets Meisters Meme Tatane and Anya Hepburn and quickly grows indecisive about which of the two new friends should be her partner. As they learn to use these powers and settle in, their lives as everyday students will be far from normal.",
+    "title": "Soul Eater NOT!",
+    "title_english": null,
+    "title_japanese": "\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc\u30ce\u30c3\u30c8\uff01",
+    "title_synonyms": [
+        "SEN!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Z8HSMFelQIU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21507/Soul_Eater_NOT"
+}

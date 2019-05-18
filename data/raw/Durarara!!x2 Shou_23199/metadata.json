@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2015-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 10, 2015 to Mar 28, 2015",
+        "to": "2015-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"NEVER SAY NEVER\" by THREE LIGHTS DOWN KINGS (eps 1-11)"
+    ],
+    "episodes": 12,
+    "favorites": 891,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/67743.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 23199,
+    "members": 296414,
+    "opening_themes": [
+        "\"HEADHUNT\" by OKAMOTO'S"
+    ],
+    "popularity": 293,
+    "premiered": "Winter 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        }
+    ],
+    "rank": 456,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 16816,
+                "name": "Durarara!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16816/Durarara"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 6746,
+                "name": "Durarara!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6746/Durarara"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 27831,
+                "name": "Durarara!!x2 Ten",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27831/Durararax2_Ten"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 30191,
+                "name": "Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30191/Durararax2_Shou__Watashi_no_Kokoro_wa_Nabe_Moyou"
+            }
+        ]
+    },
+    "request_cache_expiry": 24632,
+    "request_cached": true,
+    "request_hash": "request:anime:74cfbe312a31c01e1071782fef436761edc5008c",
+    "score": 8.09,
+    "scored_by": 152057,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1119,
+            "name": "Shuka",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+        }
+    ],
+    "synopsis": "Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police's constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado's true identity. But Ikebukuro's state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym \"Hollywood,\" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos. [Written by MAL Rewrite]",
+    "title": "Durarara!!x2 Shou",
+    "title_english": "Durarara!! x2 Shou",
+    "title_japanese": "\u30c7\u30e5\u30e9\u30e9\u30e9!!\u00d7\uff12 \u627f",
+    "title_synonyms": [
+        "Durarara!! 2nd Season",
+        "DRRR!! 2nd Season",
+        "Durararax2 1st Arc"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/f5yXNsIPw5U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23199/Durararax2_Shou"
+}

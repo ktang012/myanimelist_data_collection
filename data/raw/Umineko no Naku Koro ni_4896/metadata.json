@@ -1,0 +1,175 @@
+{
+    "aired": {
+        "from": "2009-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2009
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Jul 2, 2009 to Dec 24, 2009",
+        "to": "2009-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"la divina tragedia ~Makyoku~ (la divina tragedia~\u9b54\u66f2~)\" by Jimang"
+    ],
+    "episodes": 26,
+    "favorites": 1981,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/17709.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 4896,
+    "members": 159947,
+    "opening_themes": [
+        "\"Katayoku no Tori(\u7247\u7ffc\u306e\u9ce5)\" by Akiko Shikata"
+    ],
+    "popularity": 615,
+    "premiered": "Summer 2009",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 2768,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3749,
+                "name": "Umineko no Naku Koro ni - Episode 1: Legend of the Golden Witch",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3749/Umineko_no_Naku_Koro_ni_-_Episode_1__Legend_of_the_Golden_Witch"
+            },
+            {
+                "mal_id": 9547,
+                "name": "Umineko no Naku Koro ni - Episode 2: Turn of the Golden Witch",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/9547/Umineko_no_Naku_Koro_ni_-_Episode_2__Turn_of_the_Golden_Witch"
+            },
+            {
+                "mal_id": 16081,
+                "name": "Umineko no Naku Koro ni - Episode 3: Banquet of the Golden Witch",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16081/Umineko_no_Naku_Koro_ni_-_Episode_3__Banquet_of_the_Golden_Witch"
+            },
+            {
+                "mal_id": 16144,
+                "name": "Umineko no Naku Koro ni - Episode 4: Alliance of the Golden Witch",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16144/Umineko_no_Naku_Koro_ni_-_Episode_4__Alliance_of_the_Golden_Witch"
+            },
+            {
+                "mal_id": 66517,
+                "name": "Umineko no Naku Koro ni",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66517/Umineko_no_Naku_Koro_ni"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 934,
+                "name": "Higurashi no Naku Koro ni",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 7568,
+                "name": "Umineko no Naku Koro ni Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7568/Umineko_no_Naku_Koro_ni_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:19d53385bda27b53aac21bed33e2a4cfbfb8cb9c",
+    "score": 7.24,
+    "scored_by": 69411,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Considered as the third installment in the highly popular When They Cry series by 07th Expansion, Umineko no Naku Koro ni takes place on the island of Rokkenjima, owned by the immensely wealthy Ushiromiya family. As customary per year, the entire family is gathering on the island for a conference that discusses the current financial situations of each respective person. Because of the family head's poor health, this year involves the topic of the head of the family's inheritance and how it will be distributed. However, the family is unaware that the distribution of his wealth is the least of Ushiromiya Kinzou's (family head) concerns for this year's family conference. After being told that his end was approaching by his longtime friend and physician, Kinzou is desperate to meet his life's true love one last time: the Golden Witch, Beatrice. Having immersed himself in black magic for many of the later years in his life, Kinzou instigates a ceremony to revive his beloved upon his family's arrival on Rokkenjima. Soon after, a violent typhoon traps the family on the island and a string of mysterious murders commence, forcing the eighteen people on the island to fight for their lives in a deadly struggle between fantasy and reality. [Written by MAL Rewrite]",
+    "title": "Umineko no Naku Koro ni",
+    "title_english": "Umineko: When They Cry",
+    "title_japanese": "\u3046\u307f\u306d\u3053\u306e\u306a\u304f\u9803\u306b",
+    "title_synonyms": [
+        "When They Cry 3",
+        "When the Seagulls Cry",
+        "When They Cry: Seagulls"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/dcPNaY3EIUc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4896/Umineko_no_Naku_Koro_ni"
+}

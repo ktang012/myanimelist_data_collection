@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2016-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 7, 2016 to Dec 23, 2016",
+        "to": "2016-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:28 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ima wa Mijikashi Yume Miyo Otome (\u4eca\u306f\u77ed\u3057\u5922\u898b\u3088\u4e59\u5973)\" by Gi(a)rlish Number (eps 2-11)",
+        "\"Ashita e no Tochuu de\" by Gi(a)rlish Number (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 144,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/82291.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 32607,
+    "members": 76278,
+    "opening_themes": [
+        "\"Ketsui no Diamond\" by kohaluna (ep 1)",
+        "\"Bloom\" by Gi(a)rlish Number (eps 2-12)"
+    ],
+    "popularity": 1281,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1331,
+            "name": "i0+",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1331/i0_"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1589,
+            "name": "NichiNare",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+        }
+    ],
+    "rank": 3904,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 96413,
+                "name": "Gi(a)rlish Number",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/96413/Giarlish_Number"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 35380,
+                "name": "Gi(a)rlish Number Shura",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35380/Giarlish_Number_Shura"
+            }
+        ]
+    },
+    "request_cache_expiry": 37494,
+    "request_cached": true,
+    "request_hash": "request:anime:9a323c486489274f0eeb08b04ef8474d3be73446",
+    "score": 6.95,
+    "scored_by": 26685,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "College student Chitose Karasuma is determined not to do boring things as she enters the adult world. To this end, this bad-mannered beauty barges into a facility that trains would-be voice actors and actresses, somehow landing a job at \"Number One Produce,\" a seiyuu agency managed by her older brother, Gojou. In Chitose's mind, she's poised for greatness, but finds herself at a loss when she continues to only get minor roles. As she clashes with other girls in the agency, including a cunning airhead and a girl with a Kansai accent, Chitose is about to learn that there's more to succeeding in this competitive industry than she imagined. (Source: ANN)",
+    "title": "Gi(a)rlish Number",
+    "title_english": "Girlish Number",
+    "title_japanese": "\u30ac\u30fc\u30ea\u30c3\u30b7\u30e5 \u30ca\u30f3\u30d0\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/pRP9KTMQe1g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32607/Giarlish_Number"
+}

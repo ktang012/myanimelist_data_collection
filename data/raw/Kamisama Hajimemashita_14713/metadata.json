@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2012-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 2, 2012 to Dec 25, 2012",
+        "to": "2012-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 02:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kamisama Onegai (\u795e\u69d8\u304a\u9858\u3044)\" by Hanae (eps 1-9, 11-13)",
+        "\"Kamisama Onegai Datenshi\u2606Mix (\u300c\u795e\u69d8\u304a\u9858\u3044\u300d\u5815\u5929\u4f7f\u2606Mix) by KURAMA (Daisuke Kishio) featuring Hanae (ep 10)"
+    ],
+    "episodes": 13,
+    "favorites": 7383,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/85429.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 14713,
+    "members": 304559,
+    "opening_themes": [
+        "\"Kamisama Hajimemashita (\u795e\u69d8\u306f\u3058\u3081\u307e\u3057\u305f)\" by Hanae"
+    ],
+    "popularity": 277,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        }
+    ],
+    "rank": 407,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8157,
+                "name": "Kamisama Hajimemashita",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8157/Kamisama_Hajimemashita"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18661,
+                "name": "Kamisama Hajimemashita OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18661/Kamisama_Hajimemashita_OVA"
+            },
+            {
+                "mal_id": 25681,
+                "name": "Kamisama Hajimemashita\u25ce",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25681/Kamisama_Hajimemashita\u25ce"
+            }
+        ]
+    },
+    "request_cache_expiry": 26446,
+    "request_cached": true,
+    "request_hash": "request:anime:b103eeaea95e8095583f1dc6b144d30c7f98f5e0",
+    "score": 8.13,
+    "scored_by": 156577,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "High schooler Nanami Momozono has quite a few problems of late, beginning with her absentee father being in such extreme debt that they lose everything. Downtrodden and homeless, she runs into a man being harassed by a dog. After helping him, she explains her situation, and to her surprise, he offers her his home in gratitude. But when she discovers that said home is a rundown shrine, she tries to leave; however, she is caught by two shrine spirits and a fox familiar named Tomoe. They mistake her for the man Nanami rescued\u2014the land god of the shrine, Mikage. Realizing that Mikage must have sent her there as a replacement god, Tomoe leaves abruptly, refusing to serve a human. Rather than going back to being homeless, Nanami immerses herself in her divine duties. But if she must keep things running smoothly, she will need the help of a certain hot-headed fox. In her fumbling attempt to seek out Tomoe, she lands in trouble and ends up sealing a contract with him. Now the two must traverse the path of godhood together as god and familiar; but it will not be easy, for new threats arise in the form of a youkai who wants to devour the girl, a snake that wants to marry her, and Nanami's own unexpected feelings for her new familiar. [Written by MAL Rewrite]",
+    "title": "Kamisama Hajimemashita",
+    "title_english": "Kamisama Kiss",
+    "title_japanese": "\u795e\u69d8\u306f\u3058\u3081\u307e\u3057\u305f",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/1XfNOoTrGZQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14713/Kamisama_Hajimemashita"
+}

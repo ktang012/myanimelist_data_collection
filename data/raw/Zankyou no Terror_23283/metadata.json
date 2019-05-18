@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2014-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 11, 2014 to Sep 26, 2014",
+        "to": "2014-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episodes 1 and 2 were previewed at a screening in Los Angeles at Anime Expo on July 5, 2014. Regular broadcasting began on July 11, 2014.\r\nIn an interview with Otaku USA Magazine director Shinichirou Watanabe stated that the music of Icelandic band Sigur R\u00f3s gave him visual images that inspired the series and its soundtrack. He also states that the team went to Iceland to record the music.",
+    "broadcast": "Fridays at 00:50 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Dare ka, Umi wo. (\u8ab0\u304b\u3001\u6d77\u3092\u3002)\" by Aimer"
+    ],
+    "episodes": 11,
+    "favorites": 13579,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/64447.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 23283,
+    "members": 590381,
+    "opening_themes": [
+        "\"Trigger\" by Yuuki Ozaki (from Galileo Galilei)"
+    ],
+    "popularity": 82,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 577,
+            "name": "Tohokushinsha Film Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        }
+    ],
+    "rank": 351,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {},
+    "request_cache_expiry": 31912,
+    "request_cached": true,
+    "request_hash": "request:anime:8c8c2c756c3ccf7d5cb05e6e73cfac3041dc9a57",
+    "score": 8.19,
+    "scored_by": 323225,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 569,
+            "name": "MAPPA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ],
+    "synopsis": "Painted in red, the word \"VON\" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless\u2014until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as \"Sphinx\" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all. Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth. [Written by MAL Rewrite]",
+    "title": "Zankyou no Terror",
+    "title_english": "Terror in Resonance",
+    "title_japanese": "\u6b8b\u97ff\u306e\u30c6\u30ed\u30eb",
+    "title_synonyms": [
+        "Terror in Tokyo",
+        "Terror of Resonance"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/nLVy50LnLMM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23283/Zankyou_no_Terror"
+}

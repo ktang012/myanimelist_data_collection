@@ -1,0 +1,134 @@
+{
+    "aired": {
+        "from": "2011-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 17,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 1, 2011 to Dec 17, 2011",
+        "to": "2011-12-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Endless Story\" by Yukari Tamura (ep 1)",
+        "\"Hana (\u96ea\u83ef\uff08\u306f\u306a\uff09)\" by Eri Kitamura (eps 2-8)",
+        "\"Sympathy of Love\" by Yukari Tamura (eps 9-12)"
+    ],
+    "episodes": 12,
+    "favorites": 242,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/32285.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 10578,
+    "members": 136374,
+    "opening_themes": [
+        "\"Endless Story\" by Yukari Tamura (eps 2-8)",
+        "\"Shirushi (\u7d0b\uff08\u3057\u308b\u3057\uff09)\" by Eri Kitamura (eps 9-12)"
+    ],
+    "popularity": 738,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        }
+    ],
+    "rank": 4662,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25197,
+                "name": "C\u00b3",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25197/C\u00b3"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 12505,
+                "name": "C\u00b3: Rikan Gakkou Confussion!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12505/C\u00b3__Rikan_Gakkou_Confussion"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c946b037064b548b796446c1d6e4be554272a724",
+    "score": 6.77,
+    "scored_by": 62474,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "From the light novel series written by Minase Hazuki, comes a story of love, action, and comedy. Yachi Haruaki is a high school boy who is naturally resistant to curses. After his father sends him a mysterious black cube, Haruaki awakes to find a nude girl named Fear standing in his kitchen. She\u2019s the human form of the cursed black cube \u2013 and an instrument of torture! Utilizing her special abilities, Fear fights alongside Haruaki to defeat other cursed instruments and their owners. (Source: FUNimation)",
+    "title": "C\u00b3",
+    "title_english": "C\u00b3 - CubexCursedxCurious",
+    "title_japanese": "\u30b7\u30fc\u30ad\u30e5\u30fc\u30d6",
+    "title_synonyms": [
+        "C3",
+        "C Cube",
+        "C^3"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/xqad96ZyzNI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10578/C\u00b3"
+}

@@ -1,0 +1,191 @@
+{
+    "aired": {
+        "from": "2015-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 18,
+                "month": 7,
+                "year": 2015
+            }
+        },
+        "string": "Apr 4, 2015 to Jul 18, 2015",
+        "to": "2015-07-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at Kadokawa Cinema Shinjuku on March 22, 2015. Regular broadcasting began on April 4, 2015.",
+    "broadcast": "Saturdays at 01:40 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Arigatou, Daisuki (\u3042\u308a\u304c\u3068\u3046\u3001\u3060\u3044\u3059\u304d)\" by Minori Chihara"
+    ],
+    "episodes": 16,
+    "favorites": 209,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/73527.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 26351,
+    "members": 90192,
+    "opening_themes": [
+        "\"Fure Fure Mirai (\u30d5\u30ec\u964d\u30ec\u30df\u30e9\u30a4)\" by Kitakou Bungei-bu Joshikai (\u5317\u9ad8\u6587\u82b8\u90e8\u5973\u5b50\u4f1a) (eps 2-16)"
+    ],
+    "popularity": 1094,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 665,
+            "name": "chara-ani.com",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/665/chara-anicom"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1311,
+            "name": "Sankyo Planning",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1311/Sankyo_Planning"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        }
+    ],
+    "rank": 4736,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13544,
+                "name": "Nagato Yuki-chan no Shoushitsu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13544/Nagato_Yuki-chan_no_Shoushitsu"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30379,
+                "name": "Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30379/Nagato_Yuki-chan_no_Shoushitsu__Owarenai_Natsuyasumi"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 849,
+                "name": "Suzumiya Haruhi no Yuuutsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu"
+            },
+            {
+                "mal_id": 4382,
+                "name": "Suzumiya Haruhi no Yuuutsu (2009)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4382/Suzumiya_Haruhi_no_Yuuutsu_2009"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:077ae7fef72f726bd7d21c3236c2ce4bddaa7fca",
+    "score": 6.76,
+    "scored_by": 33782,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ],
+    "synopsis": "In an alternate universe, shy, awkward Yuki Nagato attempts to court her crush, Kyon, with the help of her best friend and neighbor, the perky and indomitable Ryoko Asakura. Together, the trio defends their high school literature club from extermination\u2026and from the pestering of their over-the-top classmate Tsuruya and her friend and minion Mikuru. (Source: FUNimation, edited)",
+    "title": "Nagato Yuki-chan no Shoushitsu",
+    "title_english": "The Disappearance of Nagato Yuki-chan",
+    "title_japanese": "\u9577\u9580\u6709\u5e0c\u3061\u3083\u3093\u306e\u6d88\u5931",
+    "title_synonyms": [
+        "The Vanishing of Nagato Yuki-chan"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/nJat0lCwSR0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/26351/Nagato_Yuki-chan_no_Shoushitsu"
+}

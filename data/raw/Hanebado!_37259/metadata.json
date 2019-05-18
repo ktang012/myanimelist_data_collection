@@ -1,0 +1,110 @@
+{
+    "aired": {
+        "from": "2018-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            }
+        },
+        "string": "Jul 2, 2018 to Oct 1, 2018",
+        "to": "2018-10-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Based on the manga series written by Kosuke Hamada, published by Kodansha since 2013.",
+    "broadcast": "Mondays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"High Stepper (\u30cf\u30a4\u30b9\u30c6\u30c3\u30d1\u30fc)\" by Yuiko Ohara (eps 2, 4-13)",
+        "\"High Stepper (Acoustic Ver.) (\u30cf\u30a4\u30b9\u30c6\u30c3\u30d1\u30fc (Acoustic Ver.))\" by Yuiko Ohara (ep 3)"
+    ],
+    "episodes": 13,
+    "favorites": 266,
+    "genres": [
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1288/93432.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 37259,
+    "members": 93536,
+    "opening_themes": [
+        "\"Futari no Hane (\u3075\u305f\u308a\u306e\u7fbd\u6839)\" by YURiKA"
+    ],
+    "popularity": 1062,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        }
+    ],
+    "rank": 3339,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 77989,
+                "name": "Hanebado!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/77989/Hanebado"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f351a4053be2c5d802c4871b5af8410c2bc68fe5",
+    "score": 7.1,
+    "scored_by": 39833,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "After her crushing defeat of 21-0 at the National Junior Badminton Tournament, Nagisa Aragaki's love for her sport begins to distort. Unable to deal with the shame of loss, she starts to terrorize the members of her high school badminton club. Her grueling drills bring some to the verge of tears while others quit the club outright. With the team losing members and new prospects being too terrified to join, the future of the badminton club looks exceptionally grim. That is, until Kentarou Tachibana joins as the new head coach. Not only is he an Olympic-level player, but he also comes bearing a secret weapon: Ayano Hanesaki, the girl who defeated Nagisa six months ago. However, Ayano is not the rival Nagisa remembers, but a girl with conflicted feelings wanting to distance herself from badminton. With her future in sports now on the line, Nagisa must find a way to face her fears of inadequacy, heal her rival's troubled heart, and bring victory to Kitakomachi High School's badminton club. [Written by MAL Rewrite]",
+    "title": "Hanebado!",
+    "title_english": "Hanebado!",
+    "title_japanese": "\u306f\u306d\u30d0\u30c9\uff01",
+    "title_synonyms": [
+        "The Badminton play of Ayano Hanesaki!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/njaPemKHPus?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37259/Hanebado"
+}

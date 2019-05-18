@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2012-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 6, 2012 to Sep 28, 2012",
+        "to": "2012-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Kaze no Naka no Primrose (\u98a8\u306e\u306a\u304b\u306e\u30d7\u30ea\u30e0\u30ed\u30fc\u30ba)\" by Ceui"
+    ],
+    "episodes": 12,
+    "favorites": 345,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/42015.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 12175,
+    "members": 138367,
+    "opening_themes": [
+        "\"Signal Graph (\u30b7\u30b0\u30ca\u30eb\u30b0\u30e9\u30d5)\" by Annabel"
+    ],
+    "popularity": 730,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        }
+    ],
+    "rank": 2830,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 33619,
+                "name": "Koi to Senkyo to Chocolate",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/33619/Koi_to_Senkyo_to_Chocolate"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 18053,
+                "name": "Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18053/Koi_to_Senkyo_to_Chocolate__Ikenai_Hazuki-sensei"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18045,
+                "name": "Koi to Senkyo to Chocolate: Koi Imouto!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18045/Koi_to_Senkyo_to_Chocolate__Koi_Imouto"
+            }
+        ]
+    },
+    "request_cache_expiry": 2748,
+    "request_cached": true,
+    "request_hash": "request:anime:d3f7ae285ddc52266568defbba5f805c5b39edf3",
+    "score": 7.22,
+    "scored_by": 62078,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 436,
+            "name": "AIC Build",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/436/AIC_Build"
+        }
+    ],
+    "synopsis": "In Japan, participation in extra-curricular activities is as fundamental a part of an education as chalk and gym shorts. However, not all students are overachievers, and for those like Yuki Ojima, groups like the Food Research Club are welcome havens in which to slack-off. But what's a slacker to do when the radical new candidate for Student Council president announces her intent to get rid of clubs like the FRC? Well, getting the help of the current Student Council president is a good start, but HIS suggestion is so counter-intuitive that it's crazy: Yuki should run for the Student Council himself? And yet, it's SO crazy that it just might work! Especially when Chisato, the chocolate-adverse president of the FRC (and Yuki's best childhood friend,) and members of other targeted school clubs start to join the swelling FRC army. But can this army of goofs and goof-offs coast all the way to political victory? Or will someone have to step up to the plate and take one for the team? (Source: Sentai Filmworks)",
+    "title": "Koi to Senkyo to Chocolate",
+    "title_english": "Love, Election and Chocolate",
+    "title_japanese": "\u604b\u3068\u9078\u6319\u3068\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8",
+    "title_synonyms": [
+        "Koichoco"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/EgvWa8Le_50?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12175/Koi_to_Senkyo_to_Chocolate"
+}

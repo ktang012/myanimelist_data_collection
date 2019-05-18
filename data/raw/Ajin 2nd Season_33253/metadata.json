@@ -1,0 +1,158 @@
+{
+    "aired": {
+        "from": "2016-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 8, 2016 to Dec 24, 2016",
+        "to": "2016-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 02:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Koutei no Sumi ni Futari, Kaze ga Fuite Ima Nara Ieru ka na (\u6821\u5ead\u306e\u9685\u306b\u4e8c\u4eba\u3001\u98a8\u304c\u5439\u3044\u3066\u4eca\u306a\u3089\u8a00\u3048\u308b\u304b\u306a)\" by CreepHyp"
+    ],
+    "episodes": 13,
+    "favorites": 425,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/81858.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 33253,
+    "members": 161416,
+    "opening_themes": [
+        "\"Boku wa Boku de Atte (\u50d5\u306f\u50d5\u3067\u3042\u3063\u3066)\" by angela x fripSide",
+        "\"The end of escape\" by fripSide x angela"
+    ],
+    "popularity": 611,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+    ],
+    "rank": 818,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 49865,
+                "name": "Ajin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/49865/Ajin"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 30869,
+                "name": "Ajin Part 2: Shoutotsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30869/Ajin_Part_2__Shoutotsu"
+            },
+            {
+                "mal_id": 30870,
+                "name": "Ajin Part 3: Shougeki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30870/Ajin_Part_3__Shougeki"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31580,
+                "name": "Ajin",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31580/Ajin"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32015,
+                "name": "Ajin OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32015/Ajin_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:48af9670a05fed824d5864403e9f3002a9b2890f",
+    "score": 7.84,
+    "scored_by": 88768,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1023,
+            "name": "Polygon Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ],
+    "synopsis": "Second cour of Ajin.",
+    "title": "Ajin 2nd Season",
+    "title_english": null,
+    "title_japanese": "\u4e9c\u4eba \u7b2c2\u30af\u30fc\u30eb",
+    "title_synonyms": [
+        "Ajin: Demi-Human 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/sQAYvPNFZZI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33253/Ajin_2nd_Season"
+}

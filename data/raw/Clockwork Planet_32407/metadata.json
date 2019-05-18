@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2017-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 7, 2017 to Jun 23, 2017",
+        "to": "2017-06-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Anti Clockwise\" by After the Rain (\u305d\u3089\u308b x \u307e\u3075\u307e\u3075)"
+    ],
+    "episodes": 12,
+    "favorites": 308,
+    "genres": [
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/85227.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32407,
+    "members": 106354,
+    "opening_themes": [
+        "\"Clockwork Planet\" by fripSide"
+    ],
+    "popularity": 959,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1589,
+            "name": "NichiNare",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+        },
+        {
+            "mal_id": 1602,
+            "name": "GYAO!",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+        }
+    ],
+    "rank": 5574,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 55887,
+                "name": "Clockwork Planet",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/55887/Clockwork_Planet"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c1821b6366b27ce72cdbfeac94c78226ab60964c",
+    "score": 6.58,
+    "scored_by": 36384,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Legend tells that when the Earth was destroyed, the great clockmaker Y made a replacement from cogs and gears. Naoto Miura is a young boy who aspires to be a great clockmaker. However, despite his unique talent\u2014sensitive hearing that can immediately understand clockwork mechanics from noise alone\u2014he has made little progress. But this changes when a coffin falls from the sky into his apartment, revealing RyuZU, a female automaton forged by Y himself. News of RyuZU's arrival brings Marie Bell Breguet, the gifted heir of a distinguished line of clockmakers, and her cyborg bodyguard Vainney Halter into Naoto's life as well. When she and Naoto both become embroiled in an action-packed battle for their lives, they discover an uncomfortable truth: the clockwork planet that humanity has lived on for over a millennium is beginning to break down\u2014a secret that many people will kill to protect. [Written by MAL Rewrite]",
+    "title": "Clockwork Planet",
+    "title_english": "Clockwork Planet",
+    "title_japanese": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30fb\u30d7\u30e9\u30cd\u30c3\u30c8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/r8AhkWM9uNs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32407/Clockwork_Planet"
+}

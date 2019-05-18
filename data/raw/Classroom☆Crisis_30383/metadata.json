@@ -1,0 +1,122 @@
+{
+    "aired": {
+        "from": "2015-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 4, 2015 to Sep 26, 2015",
+        "to": "2015-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Anemone (\u30a2\u30cd\u30e2\u30cd)\" by ClariS (eps 2-10, 12)",
+        "\"Cobalt (\u30b3\u30d0\u30eb\u30c8)\" by TrySail (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 150,
+    "genres": [
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/74397.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 30383,
+    "members": 81965,
+    "opening_themes": [
+        "\"Cobalt (\u30b3\u30d0\u30eb\u30c8)\" by TrySail (eps 2-10, 11)"
+    ],
+    "popularity": 1192,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 3283,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 91021,
+                "name": "Classroom\u2606Crisis",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91021/Classroom\u2606Crisis"
+            },
+            {
+                "mal_id": 91872,
+                "name": "Classroom\u2606Crisis",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91872/Classroom\u2606Crisis"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31530,
+                "name": "Classroom\u2606Crisis: Tabi no Haji wa Uwanuri",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31530/Classroom\u2606Crisis__Tabi_no_Haji_wa_Uwanuri"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:dc86064ba5d261de7dcca26ff0e71f385a8dbf2f",
+    "score": 7.11,
+    "scored_by": 31337,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1087,
+            "name": "Lay-duce",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+        }
+    ],
+    "synopsis": "In Martian colony Fourth Tokyo lies a classroom of Kirishina Corporation's brightest minds spearheading aerospace development: A-TEC, led by genius engineer Kaito Sera, eagerly anticipating the arrival of their newest member. It soon becomes clear, however, that the transfer student is hardly ordinary\u2014Nagisa Kiryuu, newly appointed chief of A-TEC and the younger brother of the corporation's CEO, is sent to shut the program down. To keep the classroom alive, Kaito and his students desperately work to develop a successor to their most powerful rocket, the X-2; meanwhile, Nagisa climbs the corporate ladder in pursuit of his own mission. In spite of this, their separate battles soon reveal that much more is going on in Kirishina Corporation than meets the eye. Classroom\u2606Crisis follows Kaito and Nagisa, as well as Kaito's younger sister Mizuki and A-TEC's test pilot Iris Shirasaki, in a story of intrigue, political warfare, and, against all odds, romance. As Nagisa and A-TEC are dragged further and further into Kirishina Corporation's conspiracies, friendships grow and pasts are unveiled as they fight to avert their classroom crisis. [Written by MAL Rewrite]",
+    "title": "Classroom\u2606Crisis",
+    "title_english": "Classroom\u2606Crisis",
+    "title_japanese": "\u30af\u30e9\u30b9\u30eb\u30fc\u30e0\u2606\u30af\u30e9\u30a4\u30b7\u30b9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/mWe8qSOEB9U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30383/Classroom\u2606Crisis"
+}

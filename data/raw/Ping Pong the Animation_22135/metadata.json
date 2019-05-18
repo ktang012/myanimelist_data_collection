@@ -1,0 +1,140 @@
+{
+    "aired": {
+        "from": "2014-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 11, 2014 to Jun 20, 2014",
+        "to": "2014-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ping Pong The Animation won the Animation of the Year award in the Television category for the Tokyo Anime Award Festival in 2015.",
+    "broadcast": "Fridays at 00:50 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"'Ano Hero to' Bokura ni Tsuite (\"\u3042\u306e\u30d2\u30fc\u30ed\u30fc\u3068\" \u50d5\u3089\u306b\u3064\u3044\u3066)\" by Merengue (\u30e1\u30ec\u30f3\u30b2) (eps 1-4, 8, 10-11)",
+        "\"'Ano Yoake Mae no' Bokura ni Tsuite (\"\u3042\u306e\u591c\u660e\u3051\u524d\u306e\" \u50d5\u3089\u306b\u3064\u3044\u3066)\" by Merengue (\u30e1\u30ec\u30f3\u30b2) (eps 5-7, 9)"
+    ],
+    "episodes": 11,
+    "favorites": 8172,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/58041.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 22135,
+    "members": 175519,
+    "opening_themes": [
+        "\"Tada Hitori (\u552f\u4e00\u4eba)\" by Bakudan Johnny (\u7206\u5f3e\u30b8\u30e7\u30cb\u30fc)"
+    ],
+    "popularity": 556,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        },
+        {
+            "mal_id": 1591,
+            "name": "Science SARU",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+        }
+    ],
+    "rank": 64,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 5744,
+                "name": "Ping Pong",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/5744/Ping_Pong"
+            }
+        ]
+    },
+    "request_cache_expiry": 41620,
+    "request_cached": true,
+    "request_hash": "request:anime:0f845ad0cb1ebaa141383322b565923c13bac798",
+    "score": 8.64,
+    "scored_by": 85662,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 103,
+            "name": "Tatsunoko Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ],
+    "synopsis": "\"The hero comes. The hero comes. The hero comes. Chant these words in your mind, and I'll surely come to you...\" This mantra is what Makoto Tsukimoto repeats as a source of motivation when he fights through the stress of not only grueling ping pong matches, but also in situations of his life. Makoto doesn't fight alone; he and his friend, Yukata Hoshino, nicknamed Smile and Peco respectively, are two boys who have grown up playing ping pong together nearly every day. Peco, brimming with confidence, aims to be the best table tennis player in the world; Smile, on the other hand, shows little ambition. Nevertheless, the two have always stuck together, with a bond built upon their mutual love for this sport. Every year, students from all across Japan gather for the inter-high table tennis competition to achieve national and international stardom. Through intense training and competition, only the very best persevere. From the avant-garde director of Tatami Galaxy, Masaaki Yuasa, Ping Pong The Animation serves a tale of ambition with its fair share of bumps along the way. Whatever the odds, Peco and Smile will face them together. [Written by MAL Rewrite]",
+    "title": "Ping Pong the Animation",
+    "title_english": "Ping Pong the Animation",
+    "title_japanese": "\u30d4\u30f3\u30dd\u30f3 THE ANIMATION",
+    "title_synonyms": [
+        "PPTA"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ItlDaDfLBn8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation"
+}

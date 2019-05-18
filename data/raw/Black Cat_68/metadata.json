@@ -1,0 +1,146 @@
+{
+    "aired": {
+        "from": "2005-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Oct 7, 2005 to Mar 31, 2006",
+        "to": "2006-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Namidaboshi\" by PUPPYPET (eps 1-12)",
+        "\"Kutsuzure\" by Matsuda Ryouji (eps 13-23)"
+    ],
+    "episodes": 23,
+    "favorites": 1796,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/4197.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 68,
+    "members": 196586,
+    "opening_themes": [
+        "\"Daia no Hana\" by Yorico"
+    ],
+    "popularity": 489,
+    "premiered": "Fall 2005",
+    "producers": [
+        {
+            "mal_id": 42,
+            "name": "GDH",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/42/GDH"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 1597,
+            "name": "Sotsu Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+        }
+    ],
+    "rank": 1780,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 40,
+                "name": "Black Cat",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/40/Black_Cat"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 2589,
+                "name": "Black Cat: Toozakaru Neko",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2589/Black_Cat__Toozakaru_Neko"
+            }
+        ]
+    },
+    "request_cache_expiry": 8095,
+    "request_cached": true,
+    "request_hash": "request:anime:7368ab4435352c9ec22101cb0a75ddc4999ba4f2",
+    "score": 7.47,
+    "scored_by": 94794,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 3,
+            "name": "Gonzo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ],
+    "synopsis": "Completing every job with ruthless accuracy, Train Heartnet is an infamous assassin with no regard for human life. Donning the moniker \"Black Cat\" in the underground world, the elite killer works for the powerful secret organization known only as Chronos. One gloomy night, the blas\u00e9 gunman stumbles upon Saya Minatsuki, an enigmatic bounty hunter, and soon develops an odd friendship with her. Influenced by Saya's positive outlook on life, Train begins to rethink his life. Deciding to abandon his role as the Black Cat, he instead opts to head down a virtuous path as an honest bounty hunter. However, Chronos\u2014and particularly Creed Diskenth, Train's possessive underling\u2014is not impressed with Train's sudden change of heart and vows to resort to extreme measures in order to bring back the emissary of bad luck. This assassin turned \"stray cat\" can only wander so far before the deafening sound of gunfire rings out. [Written by MAL Rewrite]",
+    "title": "Black Cat",
+    "title_english": "Black Cat",
+    "title_japanese": "\u30d6\u30e9\u30c3\u30af\u30ad\u30e3\u30c3\u30c8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/AwHhnVLrTZk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/68/Black_Cat"
+}

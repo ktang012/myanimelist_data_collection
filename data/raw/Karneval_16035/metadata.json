@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2013-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 4, 2013 to Jun 27, 2013",
+        "to": "2013-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Frontier Works Inc. released a drama CD titled Karneval Circus on March 25, 2010. An internet radio show premiered on animate.tv on January 25, 2013, with the character voice of Nai, Hiro Shimono, as the host.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"REASON\" by KAmiYU (eps 1-11, 13)"
+    ],
+    "episodes": 13,
+    "favorites": 1042,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/46639.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 16035,
+    "members": 146593,
+    "opening_themes": [
+        "\"Henai no Rondo (\u504f\u611b\u306e\u8f2a\u821e\u66f2)\" by GRANRODEO (eps 2-12)"
+    ],
+    "popularity": 688,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 1582,
+            "name": "Ichijinsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        }
+    ],
+    "rank": 2580,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 10270,
+                "name": "Karneval",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10270/Karneval"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 16033,
+                "name": "Karneval (PV)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16033/Karneval_PV"
+            },
+            {
+                "mal_id": 23425,
+                "name": "Karneval (TV) Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23425/Karneval_TV_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 9440,
+    "request_cached": true,
+    "request_hash": "request:anime:bf5eee1151eaec4bb4755ab2d4fd89c2a96c4031",
+    "score": 7.28,
+    "scored_by": 61558,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "While in search of his precious friend, a young boy named Nai falls captive to a beautiful woman, whose looks are matched only by her taste for human flesh. Meanwhile Gareki, a clever thief, is in the midst of robbing her luxurious home. After causing a distraction, Gareki agrees to help Nai escape, but they are discovered upon the woman's return. As she transforms into a ghoulish monster, the boys flee. On the run, Nai and Gareki are found by \"Circus,\" a government defense agency that deals with criminal activity too difficult for the police to handle and protects civilians from \"varuga\"\u2014terrible monsters that devour humans for sustenance. In the hope that it will lead Nai to his missing friend, he and Gareki decide to join Circus. On their perilous journey, they face dangerous varuga and begin to uncover the secrets behind a shadowy organization known as Kafka. [Written by MAL Rewrite]",
+    "title": "Karneval",
+    "title_english": "Karneval",
+    "title_japanese": "\u30ab\u30fc\u30cb\u30f4\u30a1\u30eb",
+    "title_synonyms": [
+        "Karneval (2013)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Ir-O5BpLgm8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16035/Karneval"
+}

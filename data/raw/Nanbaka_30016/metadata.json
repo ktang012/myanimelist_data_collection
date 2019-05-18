@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2016-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 5, 2016 to Dec 28, 2016",
+        "to": "2016-12-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 03:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Nanbaka Datsugoku Riron\u266a! (\u30ca\u30f3\u30d0\u30ab\u8131\u7344\u7406\u8ad6\u266a\uff01)\" by Juugo (Yuto Uemura), Uno (Tetsuya Kakihara), Rock (Ire Shiozaki), Nico (Daiki Kobayashi), Hajime Sugoroku (Tomokazu Seki)"
+    ],
+    "episodes": 13,
+    "favorites": 1058,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/81399.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30016,
+    "members": 152065,
+    "opening_themes": [
+        "\"Rin! Rin! Hi! Hi!\" by Hashiguchikanaderiya (\u30cf\u30b7\u30b0\u30c1\u30ab\u30ca\u30c7\u30ea\u30e4) hugs The Super Ball"
+    ],
+    "popularity": 652,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1481,
+            "name": "comico",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1481/comico"
+        },
+        {
+            "mal_id": 1493,
+            "name": "Tokuma Japan Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1493/Tokuma_Japan_Communications"
+        },
+        {
+            "mal_id": 1555,
+            "name": "Nelke Planning",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1555/Nelke_Planning"
+        }
+    ],
+    "rank": 1989,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 93398,
+                "name": "Nanbaka",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/93398/Nanbaka"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34533,
+                "name": "Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34533/Nanbaka__Shusseki_Bangou_no_Tsuita_Baka-tachi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34414,
+                "name": "Nanbaka 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34414/Nanbaka_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 29695,
+    "request_cached": true,
+    "request_hash": "request:anime:868feefae54cee2b5b06831fb050c168be921181",
+    "score": 7.42,
+    "scored_by": 60532,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ],
+    "synopsis": "Nanba is the world's most formidable prison, built to incarcerate criminals who are too slippery to stay in ordinary confinement. The four inmates who occupy Cell 13 are particularly cunning on that behalf, having escaped every other prison with a perfect success rate. There is Juugo, a specialist in locks who has spent the majority of his life in prison; Uno, a gambler with great intuition; Nico, an otaku whose body reacts strangely to drugs; and Rock, a bruiser with a love for food. The daily shenanigans of the four prisoners always cause trouble for the building supervisor, Hajime Sugoroku, who desperately tries to prevent them from breaking out of Nanba. Nanbaka follows the comedic, sparkle-filled exploits of these prisoners and their guards. From three square meals a day to sports festivals, prison life in Nanba isn't actually that bad\u2014and it is the closest these four have to a home. [Written by MAL Rewrite]",
+    "title": "Nanbaka",
+    "title_english": "Nanbaka",
+    "title_japanese": "\u30ca\u30f3\u30d0\u30ab",
+    "title_synonyms": [
+        "Nambaka",
+        "Numbaka",
+        "The Numbers"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/NWyuTZHm1E0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30016/Nanbaka"
+}

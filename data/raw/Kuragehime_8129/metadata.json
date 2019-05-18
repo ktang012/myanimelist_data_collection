@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2010-10-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 15, 2010 to Dec 31, 2010",
+        "to": "2010-12-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kuragehime was simulcast on FUNimation in Fall 2010, and became available as a DVD and Blu-ray release the following year. Kuragehime was also briefly available for streaming on Netflix as Princess Jellyfish.",
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Kimi no Kirei ni Kizuite Okure (\u304d\u307f\u306e\u304d\u308c\u3044\u306b\u6c17\u3065\u3044\u3066\u304a\u304f\u308c)\" by Sambomaster"
+    ],
+    "episodes": 11,
+    "favorites": 3297,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/24865.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 8129,
+    "members": 147717,
+    "opening_themes": [
+        "\"Koko Dake no Hanashi (\u3053\u3053\u3060\u3051\u306e\u8a71)\" by Chatmonchy"
+    ],
+    "popularity": 677,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        }
+    ],
+    "rank": 342,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17904,
+                "name": "Kuragehime",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17904/Kuragehime"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10391,
+                "name": "Kuragehime: Soreike! Amars Tankentai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10391/Kuragehime__Soreike_Amars_Tankentai"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9754,
+                "name": "Kuragehime: Eiyuu Retsuden\u2606",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9754/Kuragehime__Eiyuu_Retsuden\u2606"
+            }
+        ]
+    },
+    "request_cache_expiry": 6505,
+    "request_cached": true,
+    "request_hash": "request:anime:908f7cf07af55bc579ee71aaac61e548f02bf947",
+    "score": 8.19,
+    "scored_by": 74041,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Ever since her late mother took her to an aquarium when she was young, Tsukimi Kurashita has been obsessed with jellyfish, comparing their flowing tentacles to a princess's white dress. Now living with five other unemployed otaku women, 19-year-old Tsukimi spends her days as a social outcast dreaming of becoming an illustrator. However, her life changes forever when one day, a beautiful woman unexpectedly helps her save a jellyfish in a local pet store. From then on, the stranger\u2014confident, fashionable, and the complete opposite of Tsukimi and her roommates\u2014begins to regularly visit the girls' building. This trendy hipster, though appearing shallow at first, harbors some secrets of her own, starting with the fact that \"she\" isn't really a girl at all, but a wealthy male college student named Kuranosuke Koibuchi! [Written by MAL Rewrite]",
+    "title": "Kuragehime",
+    "title_english": "Princess Jellyfish",
+    "title_japanese": "\u6d77\u6708\u59eb",
+    "title_synonyms": [
+        "Kuragehime"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/sipUVHlDbgI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8129/Kuragehime"
+}

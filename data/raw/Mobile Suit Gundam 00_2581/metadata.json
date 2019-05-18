@@ -1,0 +1,191 @@
+{
+    "aired": {
+        "from": "2007-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Oct 6, 2007 to Mar 29, 2008",
+        "to": "2008-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 18:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Wana (\u7f60; Trap)\" by The Back Horn (eps 1-13)",
+        "\"Friends\" by Stephanie (eps 14-24)",
+        "\"DAYBREAK'S BELL\" by L'Arc~en Ciel (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 4051,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/13200.jpg",
+    "licensors": [
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 2581,
+    "members": 156374,
+    "opening_themes": [
+        "\"DAYBREAK'S BELL\" by L'arc~en~Ciel (eps 1-13)",
+        "\"Ash Like Snow\" by the brilliant green (eps 14-25)"
+    ],
+    "popularity": 627,
+    "premiered": "Fall 2007",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 142,
+            "name": "Asatsu DK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        }
+    ],
+    "rank": 329,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 6732,
+                "name": "Kidou Senshi Gundam 00",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/6732/Kidou_Senshi_Gundam_00"
+            },
+            {
+                "mal_id": 11561,
+                "name": "Mobile Suit Gundam 00",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11561/Mobile_Suit_Gundam_00"
+            },
+            {
+                "mal_id": 20467,
+                "name": "Mobile Suit Gundam 00",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/20467/Mobile_Suit_Gundam_00"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 80,
+                "name": "Mobile Suit Gundam",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 3927,
+                "name": "Mobile Suit Gundam 00 Second Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3927/Mobile_Suit_Gundam_00_Second_Season"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 5351,
+                "name": "Mobile Suit Gundam 00: Tenshitachi no Kiseki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5351/Mobile_Suit_Gundam_00__Tenshitachi_no_Kiseki"
+            },
+            {
+                "mal_id": 7270,
+                "name": "Mobile Suit Gundam 00 Special Edition",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7270/Mobile_Suit_Gundam_00_Special_Edition"
+            }
+        ]
+    },
+    "request_cache_expiry": 12965,
+    "request_cached": true,
+    "request_hash": "request:anime:16970b9e43097ca812b4d855e752b953f54e678d",
+    "score": 8.2,
+    "scored_by": 87649,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "In the distant future, mankind's dependence on fossil fuels will lead to their complete depletion, an energy crisis unlike anything the world witnessed. Out of retaliation and fear, humanity began focusing at an alternative source of energy: solar power. Different nations have united together to form three major factions\u2014the Union of Solar Energy and Free Nations, the Advanced European Union, and the Human Reform League. Each of these sectors has access to a solar power generator, which gives them limitless energy. As a result, countries that were once dependent on the sale of fossil fuels are now plunged in poverty, leading to years of warfare and internal strife over the control of solar energy. Amid this chaos, an unknown paramilitary organization appeared identifying themselves as \"Celestial Being,\" aspire to end all warfare through armed intervention by using mysterious and technologically advanced Mobile Suits known as Gundams. Mobile Suit Gundam 00 follows the story of Celestial Being's Gundam Meisters Setsuna F. Seiei, Lockon Stratos, Allelujah Haptism, and Tieria Erde. These four dive into the devastating battle between the three superpowers to accomplish their goal of changing the world. [Written by MAL Rewrite]",
+    "title": "Mobile Suit Gundam 00",
+    "title_english": "Mobile Suit Gundam 00",
+    "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e000",
+    "title_synonyms": [
+        "Kidou Senshi Gundam 00",
+        "Gundam Double O"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/yTGzkTQjGak?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00"
+}

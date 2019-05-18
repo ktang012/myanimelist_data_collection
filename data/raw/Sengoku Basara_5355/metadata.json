@@ -1,0 +1,179 @@
+{
+    "aired": {
+        "from": "2009-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 18,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Apr 2, 2009 to Jun 18, 2009",
+        "to": "2009-06-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Sengoku Basara is a heavily fictionalized account of the Sengoku period of Japanese history, with the series specifically focusing on the later years of this era. Many of the characters in the series are based on historical figures, although numerous changes have been made to their histories and personal relationships.",
+    "broadcast": "Thursdays at 01:29 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Break & Peace\" by Dustz"
+    ],
+    "episodes": 12,
+    "favorites": 1045,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 21,
+            "name": "Samurai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/21849.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 5355,
+    "members": 122659,
+    "opening_themes": [
+        "\"JAP\" by abingdon boys school"
+    ],
+    "popularity": 832,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 1772,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7195,
+                "name": "Sengoku Basara Ranse Ranbu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7195/Sengoku_Basara_Ranse_Ranbu"
+            },
+            {
+                "mal_id": 15539,
+                "name": "Sengoku Basara",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/15539/Sengoku_Basara"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 37657,
+                "name": "Gakuen Basara",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37657/Gakuen_Basara"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6634,
+                "name": "Sengoku Basara Two",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6634/Sengoku_Basara_Two"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6581,
+                "name": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6581/Sengoku_Basara__Setonai_no_Gekitotsu_Hi_wo_Fuku_Umi_no_Daiyousai_-_Fugaku"
+            },
+            {
+                "mal_id": 7857,
+                "name": "Mini Sengoku Basara: Chousokabe-kun to Mouri-kun",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7857/Mini_Sengoku_Basara__Chousokabe-kun_to_Mouri-kun"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:1334ff9c57bef4bf6a5e8a77b110efbf4f4dc118",
+    "score": 7.48,
+    "scored_by": 49456,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "During Japan's Sengoku period, several powerful warlords fought in politics and in arms with hopes of unifying the country under a central government. Nobunaga Oda had asserted himself as being the most powerful of these rulers by possessing the strength and military resource necessary to conquer all of Japan. Shingen Takeda and his trusted warrior Yukimura Sanada led one of the main clans standing in Nobunaga\u2019s way. One night, Sanada had been ordered to lead a sneak attack against General Kenshin Uesugi, which was then thwarted by Masamune Date and his army. Sanada and Date fought to a draw, which forged a heated rivalry out of their newfound admiration for one another. Nobunaga continues to exert his forces in Sengoku Basara by doubling down on his influence across the country. Sanada and Date find themselves having to put their differences aside in order to quell the rise of Nobunaga and save feudal Japan from his tyrannical reign. Magical, militant, and political powers fly forth as these warriors and leaders clash amongst themselves and the armies of Nobunaga.",
+    "title": "Sengoku Basara",
+    "title_english": "Sengoku Basara: Samurai Kings",
+    "title_japanese": "\u6226\u56fdBASARA",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/80bEnMHZcos?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5355/Sengoku_Basara"
+}

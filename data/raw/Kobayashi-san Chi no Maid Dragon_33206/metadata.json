@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2017-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 6,
+                "month": 4,
+                "year": 2017
+            }
+        },
+        "string": "Jan 12, 2017 to Apr 6, 2017",
+        "to": "2017-04-06T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ishukan Communication (\u30a4\u30b7\u30e5\u30ab\u30f3\u30fb\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3)\" by Chorogonzu (\u3061\u3087\u308d\u30b4\u30f3\u305a) [Tooru (Yuuki Kuwahara), Kanna (Maria Naganawa), Elma (Yuuki Takada) & Lucoa (Minami Takahashi)] (eps 2-12)"
+    ],
+    "episodes": 13,
+    "favorites": 8398,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/85434.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33206,
+    "members": 458097,
+    "opening_themes": [
+        "\"Aozora no Rhapsody (\u9752\u7a7a\u306e\u30e9\u30d7\u30bd\u30c7\u30a3)\" by fh\u00e1na"
+    ],
+    "popularity": 132,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 1500,
+            "name": "ABC Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        }
+    ],
+    "rank": 376,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 80119,
+                "name": "Kobayashi-san Chi no Maid Dragon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/80119/Kobayashi-san_Chi_no_Maid_Dragon"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 35145,
+                "name": "Kobayashi-san Chi no Maid Dragon Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35145/Kobayashi-san_Chi_no_Maid_Dragon_Specials"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35363,
+                "name": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35363/Kobayashi-san_Chi_no_Maid_Dragon__Valentine_Soshite_Onsen_-_Amari_Kitai_Shinaide_Kudasai"
+            }
+        ]
+    },
+    "request_cache_expiry": 41371,
+    "request_cached": true,
+    "request_hash": "request:anime:0928996d9675d348c048f6dd664cf1f0213efd59",
+    "score": 8.16,
+    "scored_by": 262014,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "As Kobayashi sets off for another day at work, she opens her apartment door only to be met by an unusually frightening sight\u2014the head of a dragon, staring at her from across the balcony. The dragon immediately transforms into a cute, busty, and energetic young girl dressed in a maid outfit, introducing herself as Tooru. It turns out that the stoic programmer had come across the dragon the previous night on a drunken excursion to the mountains, and since the mythical beast had nowhere else to go, she had offered the creature a place to stay in her home. Thus, Tooru had arrived to cash in on the offer, ready to repay her savior's kindness by working as her personal maidservant. Though deeply regretful of her words and hesitant to follow through on her promise, a mix of guilt and Tooru's incredible dragon abilities convinces Kobayashi to take the girl in. Despite being extremely efficient at her job, the maid's unorthodox methods of housekeeping often end up horrifying Kobayashi and at times bring more trouble than help. Furthermore, the circumstances behind the dragon's arrival on Earth seem to be much more complicated than at first glance, as Tooru bears some heavy emotions and painful memories. To top it all off, Tooru's presence ends up attracting several other mythical beings to her new home, bringing in a host of eccentric personalities. Although Kobayashi makes her best effort to handle the crazy situation that she has found herself in, nothing has prepared her for this new life with a dragon maid. [Written by MAL Rewrite]",
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "title_english": "Miss Kobayashi's Dragon Maid",
+    "title_japanese": "\u5c0f\u6797\u3055\u3093\u3061\u306e\u30e1\u30a4\u30c9\u30e9\u30b4\u30f3",
+    "title_synonyms": [
+        "The maid dragon of Kobayashi-san"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/8JME_Pa8rgY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon"
+}

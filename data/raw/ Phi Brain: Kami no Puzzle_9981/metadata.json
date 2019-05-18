@@ -1,0 +1,129 @@
+{
+    "aired": {
+        "from": "2011-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            }
+        },
+        "string": "Oct 2, 2011 to Apr 1, 2012",
+        "to": "2012-04-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Hologram\" (\u30db\u30ed\u30b0\u30e9\u30e0) by Natsumi Kiyoura"
+    ],
+    "episodes": 25,
+    "favorites": 217,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/34045.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 9981,
+    "members": 83533,
+    "opening_themes": [
+        "\"Brain Diver\" by May'n"
+    ],
+    "popularity": 1165,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+    ],
+    "rank": 2670,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 29427,
+                "name": "Phi Brain: Saigo no Puzzle",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/29427/Phi_Brain__Saigo_no_Puzzle"
+            },
+            {
+                "mal_id": 42769,
+                "name": "Phi Brain: Kami no Puzzle",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/42769/Phi_Brain__Kami_no_Puzzle"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 12753,
+                "name": "Phi Brain: Kami no Puzzle - Orpheus Order-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12753/Phi_Brain__Kami_no_Puzzle_-_Orpheus_Order-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 27265,
+    "request_cached": true,
+    "request_hash": "request:anime:f53922fcb5e0cd7373588b9863f87a411be0434a",
+    "score": 7.26,
+    "scored_by": 32805,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Kaito Daimon would be a completely average high school student except for one thing: he's a 'demon' at solving puzzles. Kaito is so brilliant, in fact, that when he's asked to take some 'special' tests of his unique ability, he immediately suspects that the test itself is a test. Kaito suddenly finds himself caught up in a lethal Philosopher's Puzzle made by the sinister group POG, a murderous maze of trap upon trap, where failing to solve the secret correctly will result in death! Fortunately, Kaito's skills prove up to the first test, both for himself and his childhood friend Nanoha, who is also caught up in the deadly scheme. But now that he has been designated as a Solver, he is pulled into a new life where he must travel the world with other Solvers, attempting to solve the latest deadly riddles left by POG. There's a new conundrum around every corner and each deception could lead to death, but once a riddle has been posed, you can count on Kaito to unfold, unravel and unlock it! (Source: Sentai Filmworks)",
+    "title": "Phi Brain: Kami no Puzzle",
+    "title_english": "Phi-Brain ~ Puzzle of God",
+    "title_japanese": "\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u795e\u306e\u30d1\u30ba\u30eb",
+    "title_synonyms": [
+        "Phi \u03a6 Brain: Kami no Puzzle"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9981/Phi_Brain__Kami_no_Puzzle"
+}

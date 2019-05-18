@@ -1,0 +1,187 @@
+{
+    "aired": {
+        "from": "2017-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 11, 2017 to Mar 29, 2017",
+        "to": "2017-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Chaos Syndrome (\u30ab\u30aa\u30b9\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0)\" by Konomi Suzuki"
+    ],
+    "episodes": 12,
+    "favorites": 175,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1310/90137.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30485,
+    "members": 87916,
+    "opening_themes": [
+        "\"Uncontrollable\" by Kanako Itou"
+    ],
+    "popularity": 1112,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1255,
+            "name": "Glovision",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+            "mal_id": 1425,
+            "name": "5pb.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1425/5pb"
+        }
+    ],
+    "rank": 5867,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 92158,
+                "name": "Ch\u00e4oS;Child",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/92158/Ch\u00e4oS_Child"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 9253,
+                "name": "Steins;Gate",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9253/Steins_Gate"
+            },
+            {
+                "mal_id": 13599,
+                "name": "Robotics;Notes",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13599/Robotics_Notes"
+            },
+            {
+                "mal_id": 30484,
+                "name": "Steins;Gate 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30484/Steins_Gate_0"
+            },
+            {
+                "mal_id": 32962,
+                "name": "Occultic;Nine",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32962/Occultic_Nine"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 4975,
+                "name": "Ch\u00e4oS;HEAd",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4975/Ch\u00e4oS_HEAd"
+            },
+            {
+                "mal_id": 34753,
+                "name": "Ch\u00e4oS;Child Episode 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34753/Ch\u00e4oS_Child_Episode_0"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35315,
+                "name": "Ch\u00e4oS;Child: Silent Sky",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35315/Ch\u00e4oS_Child__Silent_Sky"
+            }
+        ]
+    },
+    "request_cache_expiry": 2695,
+    "request_cached": true,
+    "request_hash": "request:anime:d01973c01d3e23ff993a5f797405ec4ed7fe282b",
+    "score": 6.52,
+    "scored_by": 24226,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "A series of gruesome murders dubbed \"New Generation Madness\" once induced mass hysteria in Shibuya. At its peak during a frenzied riot, a sudden earthquake reduced the district into nothing but rubble, while leaving surrounding wards strangely intact. Six years later, in a newly rebuilt Shibuya, mysterious deaths begin to crop up again. It is not long before third-year student Takuru Miyashiro realizes a connection: the dates of the recent murders match those of the New Generation Madness incidents. He, along with several members of his school's newspaper club, decide to delve deeper into the mystery, only to find themselves stranded in the middle of a new crime scene themselves... [Written by MAL Rewrite]",
+    "title": "Ch\u00e4oS;Child",
+    "title_english": "Ch\u00e4oS;Child",
+    "title_japanese": "CHAOS;CHILD",
+    "title_synonyms": [
+        "Chaos Child"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30485/Ch\u00e4oS_Child"
+}

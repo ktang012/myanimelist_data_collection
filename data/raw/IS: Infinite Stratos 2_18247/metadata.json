@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2013-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 4, 2013 to Dec 20, 2013",
+        "to": "2013-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"BEAUTIFUL SKY\" by Yoko Hikasa, Yukana, Asami Shimoda, Kana Hanazawa, and Marina Inoue (eps 1-8)",
+        "\"BEAUTIFUL SKY\" by Yoko Hikasa, Yukana, Asami Shimoda, Kana Hanazawa, Marina Inoue, and Suzuko Mimori (eps 9-11)",
+        "\"BEAUTIFUL SKY\" by Yoko Hikasa, Yukana, Asami Shimoda, Kana Hanazawa, Marina Inoue, Chiwa Saito, and Suzuko Mimori (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 448,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/49359.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 18247,
+    "members": 229083,
+    "opening_themes": [
+        "\"True Blue Traveler\" by Kuribayashi Minami"
+    ],
+    "popularity": 393,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1443,
+            "name": "Overlap",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1443/Overlap"
+        }
+    ],
+    "rank": 4732,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23881,
+                "name": "IS: Infinite Stratos",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23881/IS__Infinite_Stratos"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 20045,
+                "name": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20045/IS__Infinite_Stratos_2_-_Hitonatsu_no_Omoide"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10794,
+                "name": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10794/IS__Infinite_Stratos_Encore_-_Koi_ni_Kogareru_Rokujuusou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 21653,
+                "name": "IS: Infinite Stratos 2 - World Purge-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21653/IS__Infinite_Stratos_2_-_World_Purge-hen"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33242,
+                "name": "IS: Infinite Stratos 2 - Infinite Wedding",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33242/IS__Infinite_Stratos_2_-_Infinite_Wedding"
+            }
+        ]
+    },
+    "request_cache_expiry": 40650,
+    "request_cached": true,
+    "request_hash": "request:anime:dc056c902c7a803b7e33f37ff2f4af0923391851",
+    "score": 6.76,
+    "scored_by": 129977,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "Second season of Infinite Stratos.",
+    "title": "IS: Infinite Stratos 2",
+    "title_english": "Infinite Stratos 2",
+    "title_japanese": "IS\u3008\u30a4\u30f3\u30d5\u30a3\u30cb\u30c3\u30c8\u30fb\u30b9\u30c8\u30e9\u30c8\u30b9\u30092",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/HF1-h8afKYw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18247/IS__Infinite_Stratos_2"
+}

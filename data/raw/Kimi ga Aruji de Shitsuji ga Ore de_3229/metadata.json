@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2008-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Jan 6, 2008 to Mar 30, 2008",
+        "to": "2008-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Butler Switch On!\" by Yuko Goto"
+    ],
+    "episodes": 13,
+    "favorites": 218,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/21532.jpg",
+    "licensors": [],
+    "mal_id": 3229,
+    "members": 87013,
+    "opening_themes": [
+        "\"Hizamazuku Made 5 Byo Dake!\" by Miyuki Hashimoto"
+    ],
+    "popularity": 1119,
+    "premiered": "Winter 2008",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 829,
+            "name": "Studio Jack",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/829/Studio_Jack"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        }
+    ],
+    "rank": 2652,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8141,
+                "name": "Kimi ga Aruji de Shitsuji ga Ore de",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8141/Kimi_ga_Aruji_de_Shitsuji_ga_Ore_de"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 10213,
+                "name": "Maji de Watashi ni Koi Shinasai!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10213/Maji_de_Watashi_ni_Koi_Shinasai"
+            }
+        ]
+    },
+    "request_cache_expiry": 8736,
+    "request_cached": true,
+    "request_hash": "request:anime:a9adc6b904fe2623f432e72727f1e7b9cc35273a",
+    "score": 7.26,
+    "scored_by": 42151,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 179,
+            "name": "A.C.G.T.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/179/ACGT"
+        }
+    ],
+    "synopsis": "Based On a Visual Novel developed by Minato Soft. Due to family troubles, Ren Uesugi and his sister, Mihato, leave their home. They end up moving to the city but find themselves with a lack of money. Somehow they are able to find work in the form of the Kuonji family's mansion, being employed as servants to the three sisters of the Kuonji family: Shinra, Miyu, and Yume. Being a servant also associates Ren with the mansion's additional servants and the Kuonji sisters' friends. (Source: Wikipedia)",
+    "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+    "title_english": null,
+    "title_japanese": "\u541b\u304c\u4e3b\u3067\u57f7\u4e8b\u304c\u4ffa\u3067",
+    "title_synonyms": [
+        "They Are My Noble Masters",
+        "Kimiaru"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3229/Kimi_ga_Aruji_de_Shitsuji_ga_Ore_de"
+}

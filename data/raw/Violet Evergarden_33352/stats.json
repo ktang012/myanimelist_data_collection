@@ -1,0 +1,53 @@
+{
+    "completed": 256597,
+    "dropped": 17810,
+    "on_hold": 19195,
+    "plan_to_watch": 154801,
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2586de872cf423b06b1ff7bc5c68cda6d771722b",
+    "scores": {
+        "1": {
+            "percentage": 0.3,
+            "votes": 649
+        },
+        "10": {
+            "percentage": 30.6,
+            "votes": 73155
+        },
+        "2": {
+            "percentage": 0.2,
+            "votes": 394
+        },
+        "3": {
+            "percentage": 0.4,
+            "votes": 857
+        },
+        "4": {
+            "percentage": 1,
+            "votes": 2304
+        },
+        "5": {
+            "percentage": 2,
+            "votes": 4870
+        },
+        "6": {
+            "percentage": 4.3,
+            "votes": 10205
+        },
+        "7": {
+            "percentage": 10.5,
+            "votes": 24989
+        },
+        "8": {
+            "percentage": 22.2,
+            "votes": 53069
+        },
+        "9": {
+            "percentage": 28.6,
+            "votes": 68438
+        }
+    },
+    "total": 520500,
+    "watching": 72097
+}

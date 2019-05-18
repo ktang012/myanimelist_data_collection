@@ -1,0 +1,164 @@
+{
+    "aired": {
+        "from": "2005-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Apr 6, 2005 to Mar 19, 2008",
+        "to": "2008-03-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Eyeshield 21 was original scheduled to stream in North America on Toonami Jetstream and NFL Rush in collaboration with the National Football League, but the plan fell through and the anime made its debut only on Toonami Jetstream, which later dropped the series. It would then become available in its entirety on Crunchryroll. Sentai Filmworks later licensed and released the first 52 episodes on DVD from 2010 to 2011.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Be Free\" by Rikken'z (eps 1-13)",
+        "\"Blaze Away\" by TRAX (eps 14-35)",
+        "\"Goal\" by Arashiro Beni (eps 36-64)",
+        "\"Run to Win\" by Mamori (Aya Hirano), Sena (Miyu Irino), Kurita (Koichi Nagano), Rimon (Kappei Yamaguchi) (eps 65 - 100)",
+        "\"A day dreaming...\" by BACK-ON (eps 101-116)",
+        "\"Flower\" by BACK-ON (eps 117-126)",
+        "\"Song of Power\" by SHORT LEG SUMMER (eps 127-144)",
+        "\"Dang Dang\" by ZZ (ep 145)"
+    ],
+    "episodes": 145,
+    "favorites": 1796,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/66961.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        },
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 15,
+    "members": 118658,
+    "opening_themes": [
+        "\"Breakthrough\" by Coming Century (eps 1-35)",
+        "\"Innocence\" by 20th Century (ep 36- 64)",
+        "\"Dang Dang\" by ZZ (eps 65-103)",
+        "\"BLAZE LINE\" by BACK-ON (ep 104-126)",
+        "\"Hanno no Runningback\" by SHORT LEG SUMMER (eps 127-145)"
+    ],
+    "popularity": 859,
+    "premiered": "Spring 2005",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 717,
+            "name": "TV Tokyo Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 533,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 43,
+                "name": "Eyeshield 21",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/43/Eyeshield_21"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 1317,
+                "name": "Eyeshield 21: Maboroshi no Golden Bowl",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1317/Eyeshield_21__Maboroshi_no_Golden_Bowl"
+            },
+            {
+                "mal_id": 6418,
+                "name": "Eyeshield 21: Jump Festa 2005 Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6418/Eyeshield_21__Jump_Festa_2005_Special"
+            }
+        ]
+    },
+    "request_cache_expiry": 13189,
+    "request_cached": true,
+    "request_hash": "request:anime:d6d3d8d372169e61aa0d0a2abba265f99222ef07",
+    "score": 8.03,
+    "scored_by": 53362,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 36,
+            "name": "Studio Gallop",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/36/Studio_Gallop"
+        }
+    ],
+    "synopsis": "Sena is like any other shy kid starting high school; he's just trying to survive. Constantly bullied, he's accustomed to running away. Surviving high school is about to become a lot more difficult after Hiruma, captain of the school's American football team, witnesses Sena's incredible agility and speed during an escape from some bullies. Hiruma schemes to make Sena the running back of his school team, The Devil Bats, hoping that it will turn around the squad's fortunes from being the laughingstock of Japan's high school leagues, to title contender. To protect his precious star player from rivaling recruiters, he enlists Sena as \"team secretary,\" giving him a visored helmet and the nickname \"Eyeshield 21\" to hide his identity. The Devilbats will look to make their way to the Christmas Bowl, an annual tournament attended by the best football teams in Japan, with \"Eyeshield 21\" leading the way. Will they be able to win the Christmas Bowl? Will Sena be able to transform from a timid, undersized freshman to an all-star player? Put on your pads and helmet to find out!",
+    "title": "Eyeshield 21",
+    "title_english": null,
+    "title_japanese": "\u30a2\u30a4\u30b7\u30fc\u30eb\u30c921",
+    "title_synonyms": [
+        "Eyeshield21"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15/Eyeshield_21"
+}

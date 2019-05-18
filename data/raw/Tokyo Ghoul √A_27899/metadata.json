@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2015-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 9, 2015 to Mar 27, 2015",
+        "to": "2015-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at TOHO Cinemas, Nihonbashi on January 4, 2015. Regular broadcasting began on January 9, 2015.",
+    "broadcast": "Fridays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kisetsu wa Tsugitsugi Shindeiku (\u5b63\u7bc0\u306f\u6b21\u3005\u6b7b\u3093\u3067\u3044\u304f)\" by Amazarashi"
+    ],
+    "episodes": 12,
+    "favorites": 8801,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/71777.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 27899,
+    "members": 811932,
+    "opening_themes": [
+        "\"Munou (\u7121\u80fd)\" by \u00f6sterreich"
+    ],
+    "popularity": 43,
+    "premiered": "Winter 2015",
+    "producers": [
+        {
+            "mal_id": 751,
+            "name": "Marvelous AQL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/751/Marvelous_AQL"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 2230,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 33327,
+                "name": "Tokyo Ghoul",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 22319,
+                "name": "Tokyo Ghoul",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 36511,
+                "name": "Tokyo Ghoul:re",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36511/Tokyo_Ghoul_re"
+            }
+        ]
+    },
+    "request_cache_expiry": 23980,
+    "request_cached": true,
+    "request_hash": "request:anime:9425415118ef9a5e7f599ced5a45dc5d9ecfbb4a",
+    "score": 7.37,
+    "scored_by": 535057,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "Ken Kaneki has finally come to accept the monstrous, flesh-craving part of himself that he has feared and despised for so long. After escaping captivity and torture, Kaneki joins Aogiri Tree\u2014the very militant ghoul organization that had abducted him, leading his friends to question his true motive and loyalty. As tension between the government and the ghouls continues to rise, the Commission of Counter Ghoul, the government's specialized anti-ghoul agency, has intensified their efforts to completely purge Tokyo of ghouls. This threatens the transient peace of Kaneki's friends and former comrades\u2014the ghouls at the Anteiku coffee shop. Aware of the dangerous situation, Kaneki faces several battles that puts his precious fleeting humanity on the line. [Written by MAL Rewrite]",
+    "title": "Tokyo Ghoul \u221aA",
+    "title_english": "Tokyo Ghoul \u221aA",
+    "title_japanese": "\u6771\u4eac\u55b0\u7a2e\u221aA",
+    "title_synonyms": [
+        "Tokyo Ghoul Root A",
+        "Tokyo Ghoul 2nd Season",
+        "Tokyo Ghoul Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/M2DObpz2174?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/27899/Tokyo_Ghoul_\u221aA"
+}

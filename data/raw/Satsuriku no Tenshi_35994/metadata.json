@@ -1,0 +1,136 @@
+{
+    "aired": {
+        "from": "2018-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Jul 6, 2018 to Sep 21, 2018",
+        "to": "2018-09-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 20:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Pray\" by Rachel (CV:Haruka Chisuga)"
+    ],
+    "episodes": 12,
+    "favorites": 2467,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35994,
+    "members": 193192,
+    "opening_themes": [
+        "\"Vital\" by Masaaki Endoh"
+    ],
+    "popularity": 499,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+    ],
+    "rank": 4106,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 96525,
+                "name": "Satsuriku no Tenshi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/96525/Satsuriku_no_Tenshi"
+            },
+            {
+                "mal_id": 116459,
+                "name": "Satsuriku no Tenshi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/116459/Satsuriku_no_Tenshi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38366,
+                "name": "Satsuriku no Tenshi ONA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38366/Satsuriku_no_Tenshi_ONA"
+            }
+        ]
+    },
+    "request_cache_expiry": 13897,
+    "request_cached": true,
+    "request_hash": "request:anime:9bbe43eeb52d581731696bf1cb387188cba6ae61",
+    "score": 6.9,
+    "scored_by": 65429,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "With dead and lifeless eyes, Rachel Gardner wishes only to die. Waking up in the basement of a building, she has no idea how or why she's there. She stumbles across a bandaged murderer named Zack, who is trying to escape. After promising to kill her as soon as he is free, Rachel and Zack set out to ascend through the building floor by floor until they escape. However, as they progress upward, they meet more twisted people, and all of them seem familiar with Rachel. What is her connection to the building, and why was she placed in it? Facing a new boss on each floor, can Rachel and Zack both achieve their wishes? [Written by MAL Rewrite]",
+    "title": "Satsuriku no Tenshi",
+    "title_english": "Angels of Death",
+    "title_japanese": "\u6bba\u622e\u306e\u5929\u4f7f",
+    "title_synonyms": [
+        "Angel of Massacre",
+        "Angel of Slaughter"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/sNlAMGWeMiQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35994/Satsuriku_no_Tenshi"
+}

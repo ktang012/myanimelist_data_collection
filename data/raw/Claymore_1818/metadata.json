@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2007-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 4, 2007 to Sep 26, 2007",
+        "to": "2007-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Danzai no Hana~Guilty Sky\" by Riyu Kosaka"
+    ],
+    "episodes": 26,
+    "favorites": 7403,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 1818,
+    "members": 446727,
+    "opening_themes": [
+        "\"Raison D\u2019\u00eatre\" by Nightmare"
+    ],
+    "popularity": 135,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 807,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 583,
+                "name": "Claymore",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/583/Claymore"
+            }
+        ]
+    },
+    "request_cache_expiry": 2075,
+    "request_cached": true,
+    "request_hash": "request:anime:7adf518858cb8a8ec7dee8f4dc3b8eb493ba2829",
+    "score": 7.85,
+    "scored_by": 224231,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "When a shapeshifting demon with a thirst for human flesh, known as \"youma,\" arrives in Raki's village, a lone woman with silver eyes walks into town with only a sword upon her back. She is a \"Claymore,\" a being manufactured as half-human and half-youma, for the express purpose of exterminating these monsters. After Raki's family is killed, the Claymore saves his life, but he is subsequently banished from his home. With nowhere else to go, Raki finds the Claymore, known as Clare, and decides to follow her on her journeys. As the pair travel from town to town, defeating youma along the way, more about Clare's organization and her fellow warriors comes to light. With every town cleansed and every demon destroyed, they come closer to the youma on which Clare has sought vengeance ever since she chose to become a Claymore. [Written by MAL Rewrite]",
+    "title": "Claymore",
+    "title_english": "Claymore",
+    "title_japanese": "\u30af\u30ec\u30a4\u30e2\u30a2",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/2nSMszNWlLI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1818/Claymore"
+}

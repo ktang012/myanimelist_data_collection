@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2017-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 5, 2017 to Dec 28, 2017",
+        "to": "2017-12-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 21:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"behind\" by Mio Natsume (Karin Isobe), Hatsuki Morikawa (Yuna Yoshino), Ena Komiya (Lynn)"
+    ],
+    "episodes": 12,
+    "favorites": 774,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/88234.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 35639,
+    "members": 160558,
+    "opening_themes": [
+        "\"over and over\" by Nagi Yanagi"
+    ],
+    "popularity": 613,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1730,
+            "name": "Moonbell",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1730/Moonbell"
+        },
+        {
+            "mal_id": 1731,
+            "name": "INCS toenter",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1731/INCS_toenter"
+        }
+    ],
+    "rank": 2166,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 111275,
+                "name": "Just Because!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/111275/Just_Because"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:85a784b994937e5d8e51829808c1c1cfb2c57604",
+    "score": 7.38,
+    "scored_by": 61414,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1295,
+            "name": "Pine Jam",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1295/Pine_Jam"
+        }
+    ],
+    "synopsis": "As another school year begins drawing to a close, the third-year high school students move steadily toward the next milestone of their lives: graduation. Among them are Mio Natsume, a girl burdened with lingering feelings; Hazuki Morikawa, a member of the concert band but distant from the others; and Haruto Souma, an athlete obsessed with baseball. Meanwhile, second-year student Ena Komiya seeks to revive the photography club to its former glory, refusing to let the organization be disbanded. Though this group lacks a strong connection with one another, their lives suddenly cross paths with the arrival of a third-year transfer student. While a transfer so close to graduation is unusual for most, it is business as usual for Eita Izumi. Due to his father's work, he has never been able to stay in one place for very long. But as luck would have it, their most recent relocation has returned Eita to his hometown for his final semester of high school. For better or worse, it also sparks the rekindling of old relationships left behind in the past. With graduation already causing its own share of anxieties, Eita's sudden arrival brings these students' carefree days to an abrupt end. Long-forgotten memories, deeply buried emotions, and inspiring new passions\u2014everything is brought to light in their bittersweet final semester. [Written by MAL Rewrite]",
+    "title": "Just Because!",
+    "title_english": "Just Because!",
+    "title_japanese": "Just Because!",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/l5ladXDtjdU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35639/Just_Because"
+}

@@ -1,0 +1,140 @@
+{
+    "aired": {
+        "from": "2016-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Apr 7, 2016 to Sep 29, 2016",
+        "to": "2016-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kuromukuro is the 15th anniversary production of animation studio P.A. Works.",
+    "broadcast": "Thursdays at 21:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Deathtopia (\u30c7\u30b9\u30c8\u30d4\u30a2)\" by Glay (ep 1)",
+        "\"Realistic (\u30ea\u30a2\u30ea\u30fb\u30b9\u30c6\u30a3\u30c3\u30af)\" by MICHI (eps 2-13)",
+        "\"Eien Loop (\u6c38\u9060\u30eb\u30fc\u30d7)\" by Ami Wajima (eps 14-24, 26)"
+    ],
+    "episodes": 26,
+    "favorites": 313,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/82281.jpg",
+    "licensors": [
+        {
+            "mal_id": 1201,
+            "name": "Ponycan USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+        }
+    ],
+    "mal_id": 32245,
+    "members": 87120,
+    "opening_themes": [
+        "\"Deathtopia (\u30c7\u30b9\u30c8\u30d4\u30a2)\" by Glay (eps 2-13)",
+        "\"Chou Onsoku Destiny (\u8d85\u97f3\u901f\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc)\" by Glay (eps 14-23, 25)"
+    ],
+    "popularity": 1118,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1386,
+            "name": "Infinite",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+        }
+    ],
+    "rank": 2416,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {},
+    "request_cache_expiry": 22219,
+    "request_cached": true,
+    "request_hash": "request:anime:bb66d954063189116600dd59d05bca625b878a44",
+    "score": 7.32,
+    "scored_by": 34359,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 132,
+            "name": "P.A. Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ],
+    "synopsis": "During the dawn of the 21st century, the United Nations Kurobe Research Institute was established in Japan to investigate an ancient artifact, which was discovered during the construction of the Kurobe Dam. Scientists from around the world have gathered in the facility to study the object, while their children enjoy their everyday lives attending Mt. Tate International Senior High School. Yukine Shirahane, a reserved high school girl, is the daughter of the facility's head scientist. While visiting her mother at the facility, Yukina manages to solve part of the artifact's puzzle. To her surprise, what appears before her is Kennosuke Tokisada Ouma, a young samurai from the Sengoku era. As a threat approaches from outer space, Yukina, along with Kennosuke, finds herself defending Earth against the invading forces. Along the way, she discovers the mystery behind Kennosuke and the reason he is determined to protect her. [Written by MAL Rewrite]",
+    "title": "Kuromukuro",
+    "title_english": "Kuromukuro",
+    "title_japanese": "\u30af\u30ed\u30e0\u30af\u30ed",
+    "title_synonyms": [
+        "Black Corpse",
+        "Black Relic"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/SinP-fWnv18?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32245/Kuromukuro"
+}

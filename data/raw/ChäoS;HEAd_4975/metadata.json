@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2008-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 9, 2008 to Dec 25, 2008",
+        "to": "2008-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "27 min per ep",
+    "ending_themes": [
+        "''Super Special'' by Kagami Seira"
+    ],
+    "episodes": 12,
+    "favorites": 755,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/15443.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 4975,
+    "members": 229685,
+    "opening_themes": [
+        "\"F.D.D\" by Kanako Itou"
+    ],
+    "popularity": 391,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 158,
+            "name": "Kids Station",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+        }
+    ],
+    "rank": 6052,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7653,
+                "name": "Ch\u00e4oS;HEAd",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7653/Ch\u00e4oS_HEAd"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 9253,
+                "name": "Steins;Gate",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9253/Steins_Gate"
+            },
+            {
+                "mal_id": 13599,
+                "name": "Robotics;Notes",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13599/Robotics_Notes"
+            },
+            {
+                "mal_id": 30484,
+                "name": "Steins;Gate 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30484/Steins_Gate_0"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 34753,
+                "name": "Ch\u00e4oS;Child Episode 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34753/Ch\u00e4oS_Child_Episode_0"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30485,
+                "name": "Ch\u00e4oS;Child",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30485/Ch\u00e4oS_Child"
+            }
+        ]
+    },
+    "request_cache_expiry": 23479,
+    "request_cached": true,
+    "request_hash": "request:anime:aa0e03b753d17224ee65e24b120b0e0210b0e724",
+    "score": 6.48,
+    "scored_by": 122740,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Shibuya, Japan, 2008. Takumi Nishijou, a high school student at the Private Suimei Academy, one day hears about the 'New Gen' murders that have been occurring around the city. Although dismissing the subject because it doesn't involve him, Takumi begins to experience strange mishaps around him, from a horrific picture he received while on his PC, to a mysterious Pink-Haired girl standing at a murder scene. From there on Takumi struggles to cope with the events unfolding around him, and is soon unaware of what is real or a delusion. As his fate opens up before him, the perpetrator behind the 'New Gen' events attempts to find him, leading him into a world where nothing is as it seems.",
+    "title": "Ch\u00e4oS;HEAd",
+    "title_english": "Ch\u00e4oS;HEAd",
+    "title_japanese": "\u30ab\u30aa\u30b9\u30d8\u30c3\u30c9",
+    "title_synonyms": [
+        "ChaoS",
+        "HEAd"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/oikpZ8Wk-Hc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4975/Ch\u00e4oS_HEAd"
+}

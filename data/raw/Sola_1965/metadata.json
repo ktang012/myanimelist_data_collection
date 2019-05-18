@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2007-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2007
+            }
+        },
+        "string": "Apr 7, 2007 to Jun 30, 2007",
+        "to": "2007-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Sola was the first anime written by Hisaya Naoki after leaving game publisher Key.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Mellow Melody\" by Ceui (eps 1-12)",
+        "\"Miageru Ano Sora de (\u898b\u4e0a\u3052\u308b\u3042\u306e\u7a7a\u3067)\" by Aira Yuuki (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 416,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/46119.jpg",
+    "licensors": [
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 1965,
+    "members": 83719,
+    "opening_themes": [
+        "\"Binkan na Fuukei (\u654f\u611f\u306a\u98a8\u666f)\" by Ceui (ep 1)",
+        "\"colorless wind\" by Aira Yuuki (eps 2-13)"
+    ],
+    "popularity": 1163,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        }
+    ],
+    "rank": 2557,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1665,
+                "name": "Sola",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1665/Sola"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 3174,
+                "name": "Sola Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3174/Sola_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 22411,
+    "request_cached": true,
+    "request_hash": "request:anime:caba86eb415a0b934d7c2e9d2313dcff33c3525e",
+    "score": 7.29,
+    "scored_by": 38730,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 70,
+            "name": "Nomad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/70/Nomad"
+        }
+    ],
+    "synopsis": "Yorito Morimiya is obsessed with the sky. He especially loves taking pictures of its array of different faces\u2014sunrises, sunsets, clouds. On one of his early-morning excursions to photograph the sunrise, Yorito meets a strange girl engaged in an argument with a vending machine. By the time that Yorito forces the girl's tomato juice out of the machine, she's vanished without a trace. Sola follows the story of Yorito, his sister Aono, and their childhood friends Mana and Koyori Ishizuki, as well as that of a mysterious girl who appears and disappears, and who seems to harbor a dark secret. In a world where magic and the supernatural are never far below the surface and no one is who they seem to be, love and loneliness vie for supremacy beneath Yorito's sky.",
+    "title": "Sola",
+    "title_english": null,
+    "title_japanese": "sola",
+    "title_synonyms": [
+        "Sky"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/E69m9Qarfz8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1965/Sola"
+}

@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2013-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 6, 2013 to Mar 31, 2013",
+        "to": "2013-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 02:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"String of pain\" by Tetsuya Kakihara (eps 2-12)"
+    ],
+    "episodes": 13,
+    "favorites": 602,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/43007.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 15613,
+    "members": 81215,
+    "opening_themes": [
+        "\"God FATE\" by Faylan"
+    ],
+    "popularity": 1205,
+    "premiered": "Winter 2013",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 1516,
+            "name": "Sony PCL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+        }
+    ],
+    "rank": 1595,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 5685,
+                "name": "Hakkenden: Touhou Hakken Ibun",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/5685/Hakkenden__Touhou_Hakken_Ibun"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18055,
+                "name": "Hakkenden: Touhou Hakken Ibun 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18055/Hakkenden__Touhou_Hakken_Ibun_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 5435,
+    "request_cached": true,
+    "request_hash": "request:anime:24e8abe7bba00f34a21eae5b3af52332e6605fd8",
+    "score": 7.53,
+    "scored_by": 30891,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "The village of Ootsuka\u2014home to Shino Inuzuka, Sousuke Inukawa, and Hamaji\u2014was lit on fire under the preconception that a virus had seen all of its life eradicated. Now surrounded by flames and on the verge of death, the three were approached by a strange man holding a sword. He tells them that they must reach a decision if they want to live. That night changed everything for these children. Five years later, the family of three now lives under the watchful eye of the small Imperial Church in a nearby village. All is fine and dandy until the Church attempts to reclaim the demonic sword of Murasame. To accomplish this, they kidnap Hamaji to lure Shino, now a bearer of Murasame's soul, and Sousuke, who possesses the ability to transform into a dog. The brothers must put their differences aside to rescue their beloved sister from the Church in the Imperial Capital, signalling the beginning of a very difficult journey.",
+    "title": "Hakkenden: Touhou Hakken Ibun",
+    "title_english": "Hakkenden -Eight Dogs of the East-",
+    "title_japanese": "\u516b\u72ac\u4f1d -\u6771\u65b9\u516b\u72ac\u7570\u805e-",
+    "title_synonyms": [
+        "Hakkenden: Touhou Hakken Ibun"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ZPnQQxQRPZE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15613/Hakkenden__Touhou_Hakken_Ibun"
+}

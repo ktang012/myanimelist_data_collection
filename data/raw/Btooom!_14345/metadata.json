@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2012-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 4, 2012 to Dec 20, 2012",
+        "to": "2012-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Aozora (\u30a2\u30aa\u30be\u30e9)\" by May'n (eps 1-11)",
+        "\"No pain, No game\" by Nano (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 3131,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/40977.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 14345,
+    "members": 524926,
+    "opening_themes": [
+        "\"No pain, No game\" by Nano (eps 1-11)",
+        "\"Exist (\u30a8\u30b0\u30b8\u30b9\u30c8)\" by Nano (ep 12)"
+    ],
+    "popularity": 96,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 1524,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 20593,
+                "name": "Btooom!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/20593/Btooom"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:974de94766ba2e83127f0c5642797d1bc8bc769d",
+    "score": 7.55,
+    "scored_by": 306745,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Ryouta Sakamoto is unemployed and lives with his mother, his only real achievement being that he is Japan's top player of the popular online video game, \"Btooom!\" However, his peaceful life is about to change when he finds himself stranded on an island in the middle of nowhere, with a small, green crystal embedded in his left hand and no memory of how he got there. To his shock, someone has decided to recreate the game he is so fond of in real life, with the stakes being life or death. Armed with a bag full of unique bombs known as \"BIM,\" the players are tasked with killing seven of their fellow participants to obtain their green crystals, used as proof of their victory, in order to return home. Initially condemning any form of violence, Ryouta is forced to fight when he realizes that many of the other players are not as welcoming as they may seem. Teaming up with Himiko, a fellow Btooom! player who turns out to be his in-game wife, they attempt to get off of the island together, slowly coming closer and closer to the truth behind this contest of death. [Written by MAL Rewrite]",
+    "title": "Btooom!",
+    "title_english": "BTOOOM!",
+    "title_japanese": "BTOOOM!",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/H92d6YZkVO8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14345/Btooom"
+}

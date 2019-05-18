@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2015-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 4, 2015 to Dec 20, 2015",
+        "to": "2015-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 01:58 (JST)",
+    "duration": "17 min per ep",
+    "ending_themes": [
+        "\"Hangeki no Daichi (\u53cd\u6483\u306e\u5927\u5730)\" by Eren Yeager (Yuuki Kaji), Jean Kirstein (Kishou Taniyama), Mikasa Ackerman (Yui Ishikawa)"
+    ],
+    "episodes": 12,
+    "favorites": 414,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/75467.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31374,
+    "members": 93509,
+    "opening_themes": [
+        "\"Seishun wa Hanabi no You ni (\u9752\u6625\u306f\u82b1\u706b\u306e\u3088\u3046\u306b)\" by Linked Horizon"
+    ],
+    "popularity": 1063,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 1557,
+            "name": "Pony Canyon Enterprise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprise"
+        }
+    ],
+    "rank": 3514,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 36535,
+                "name": "Shingeki! Kyojin Chuugakkou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/36535/Shingeki_Kyojin_Chuugakkou"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 16498,
+                "name": "Shingeki no Kyojin",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin"
+            }
+        ]
+    },
+    "request_cache_expiry": 37511,
+    "request_cached": true,
+    "request_hash": "request:anime:d6cde140f4023d05547e69407711aa131cec03ac",
+    "score": 7.06,
+    "scored_by": 45440,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "On his first day of junior high, Eren Yeager comes face-to-face with a titan\u2014and has his lunch stolen! From that day on, he holds a grudge against titans for taking his favorite food from him, a cheeseburger, vowing to eliminate their kind once and for all. Along with his adoptive sister Mikasa Ackerman and their friend Armin Arlert, the trio traverse the halls of Titan Junior High, encountering familiar faces and participating in various extracurricular activities as part of the Wall Cleanup Club. A parody of the immensely popular parent series, Shingeki! Kyojin Chuugakkou places beloved characters as junior high school students, fighting to protect their lunches from gluttonous titans. [Written by MAL Rewrite]",
+    "title": "Shingeki! Kyojin Chuugakkou",
+    "title_english": "Attack on Titan: Junior High",
+    "title_japanese": "\u9032\u6483\uff01\u5de8\u4eba\u4e2d\u5b66\u6821",
+    "title_synonyms": [
+        "Attack! Titan Junior High"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/696Sl3yz4KY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31374/Shingeki_Kyojin_Chuugakkou"
+}

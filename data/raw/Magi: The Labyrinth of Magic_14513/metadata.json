@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2012-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Oct 7, 2012 to Mar 31, 2013",
+        "to": "2013-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Magi: The Labyrinth of Magic was the first Shounen Sunday manga adaptation in 45 years to be aired by Mainichi Broadcasting since  ended its broadcast in 1967.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Yubi Bouenkyou (\u6307\u671b\u9060\u93e1)\" by Nogizaka 46 (eps 1-12)",
+        "\"The Bravery\" by supercell (eps 13-24)",
+        "\"Matataku Hoshi no Shita de (\u77ac\u304f\u661f\u306e\u4e0b\u3067)\" by Porno Graffitti (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 6829,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 14513,
+    "members": 544037,
+    "opening_themes": [
+        "\"V.I.P\" by SID (eps 1-12)",
+        "\"Matataku Hoshi no Shita de (\u77ac\u304f\u661f\u306e\u4e0b\u3067)\" by Porno Graffitti (eps 13-24)"
+    ],
+    "popularity": 92,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 62,
+            "name": "Shogakukan Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan_Productions"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 1602,
+            "name": "GYAO!",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+        }
+    ],
+    "rank": 344,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14790,
+                "name": "Magi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14790/Magi"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31741,
+                "name": "Magi: Sinbad no Bouken (TV)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31741/Magi__Sinbad_no_Bouken_TV"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18115,
+                "name": "Magi: The Kingdom of Magic",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic"
+            }
+        ]
+    },
+    "request_cache_expiry": 10472,
+    "request_cached": true,
+    "request_hash": "request:anime:603325ccf7d065569ddee5f376b7f6c15409e6c6",
+    "score": 8.19,
+    "scored_by": 286540,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Dispersed around the world, there are several bizarre labyrinths hiding incredible treasures within them. These mysterious places, known as \"Dungeons,\" are said to be the work of Magi, a class of rare magicians, who also help people build their empires by guiding them to a dungeon. Djinns, supernatural beings that rule over the labyrinths, grant successful conquerors access to their immense power and choose them as potential king candidates to rule the world. Having spent life in isolation, Aladdin, a kind and young magician, is eager to explore the world upon finally leaving his home behind. He begins his journey only accompanied by his mentor Ugo\u2014a djinn that Aladdin can summon with his flute. However, Aladdin soon becomes friends with the courageous Alibaba Saluja after causing the destruction of a local merchant's supply cart. In order to pay for the damages, Alibaba suggests that they attempt to conquer the nearest dungeon, taking the first step in an epic adventure that will decide the fate of the world itself. [Written by MAL Rewrite]",
+    "title": "Magi: The Labyrinth of Magic",
+    "title_english": "Magi: The Labyrinth of Magic",
+    "title_japanese": "\u30de\u30ae The labyrinth of magic",
+    "title_synonyms": [
+        "Magi Season 1"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/2E7o26G1T0c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic"
+}

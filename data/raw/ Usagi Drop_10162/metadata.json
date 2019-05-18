@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Sep 16, 2011",
+        "to": "2011-09-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"High High High\" by Kasarinchu"
+    ],
+    "episodes": 11,
+    "favorites": 5121,
+    "genres": [
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/29665.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 10162,
+    "members": 305566,
+    "opening_themes": [
+        "\"Sweet Drops\" by Puffy"
+    ],
+    "popularity": 275,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 577,
+            "name": "Tohokushinsha Film Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        }
+    ],
+    "rank": 112,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3468,
+                "name": "Usagi Drop",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3468/Usagi_Drop"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 11113,
+                "name": "Usagi Drop Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11113/Usagi_Drop_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 17741,
+    "request_cached": true,
+    "request_hash": "request:anime:cb0a0bb23ff135cce7bddc51199739f316ac920e",
+    "score": 8.5,
+    "scored_by": 156430,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Daikichi Kawachi is a 30-year-old bachelor working a respectable job but otherwise wandering aimlessly through life. When his grandfather suddenly passes away, he returns to the family home to pay his respects. Upon arriving at the house, he meets a mysterious young girl named Rin who, to Daikichi\u2019s astonishment, is his grandfather's illegitimate daughter! The shy and unapproachable girl is deemed an embarrassment to the family, and finds herself ostracized by her father's relatives, all of them refusing to take care of her in the wake of his death. Daikichi, angered by their coldness towards Rin, announces that he will take her in\u2014despite the fact that he is a young, single man with no prior childcare experience. Usagi Drop is the story of Daikichi's journey through fatherhood as he raises Rin with his gentle and affectionate nature, as well as an exploration of the warmth and interdependence that are at the heart of a happy, close-knit family. [Written by MAL Rewrite]",
+    "title": "Usagi Drop",
+    "title_english": "Bunny Drop",
+    "title_japanese": "\u3046\u3055\u304e\u30c9\u30ed\u30c3\u30d7",
+    "title_synonyms": [
+        "Usagi Drop"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PlWk-96JHz4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10162/Usagi_Drop"
+}

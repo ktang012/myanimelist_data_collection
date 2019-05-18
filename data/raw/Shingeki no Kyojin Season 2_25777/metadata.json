@@ -1,0 +1,205 @@
+{
+    "aired": {
+        "from": "2017-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 17,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 1, 2017 to Jun 17, 2017",
+        "to": "2017-06-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 22:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Yuugure no Tori (\u5915\u66ae\u308c\u306e\u9ce5)\" by Shinsei Kamattechan"
+    ],
+    "episodes": 12,
+    "favorites": 9155,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/84177.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 25777,
+    "members": 832734,
+    "opening_themes": [
+        "\"Shinzou wo Sasageyo! (\u5fc3\u81d3\u3092\u6367\u3052\u3088\uff01)\" by Linked Horizon"
+    ],
+    "popularity": 40,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1499,
+            "name": "Techno Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1499/Techno_Sound"
+        },
+        {
+            "mal_id": 1557,
+            "name": "Pony Canyon Enterprise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprise"
+        }
+    ],
+    "rank": 147,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23390,
+                "name": "Shingeki no Kyojin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 36702,
+                "name": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36702/Shingeki_no_Kyojin_Season_2_Movie__Kakusei_no_Houkou"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 35267,
+                "name": "Shingeki no Kyojin-ten 360\u00b0 Taikan Theater",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35267/Shingeki_no_Kyojin-ten_360\u00b0_Taikan_Theater"
+            },
+            {
+                "mal_id": 39478,
+                "name": "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39478/Shingeki_no_Kyojin_in_the_Dome__Heishi-tachi_no_Hoshizora"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 16498,
+                "name": "Shingeki no Kyojin",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35760,
+                "name": "Shingeki no Kyojin Season 3",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3"
+            }
+        ]
+    },
+    "request_cache_expiry": 38329,
+    "request_cached": true,
+    "request_hash": "request:anime:ea44f4d17be64a310a191a2d01c448ed08691cf8",
+    "score": 8.43,
+    "scored_by": 472614,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 858,
+            "name": "Wit Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ],
+    "synopsis": "For centuries, humanity has been hunted by giant, mysterious predators known as the Titans. Three mighty walls\u2014Wall Maria, Rose, and Sheena\u2014provided peace and protection for humanity for over a hundred years. That peace, however, was shattered when the Colossus Titan and Armored Titan appeared and destroyed the outermost wall, Wall Maria. Forced to retreat behind Wall Rose, humanity waited with bated breath for the Titans to reappear and destroy their safe haven once more. In Shingeki no Kyojin Season 2, Eren Yeager and others of the 104th Training Corps have just begun to become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose\u2014but all is not as it seems as more mysteries are unraveled. As the Survey Corps races to save the wall, they uncover more about the invading Titans and the dark secrets of their own members. [Written by MAL Rewrite]",
+    "title": "Shingeki no Kyojin Season 2",
+    "title_english": "Attack on Titan Season 2",
+    "title_japanese": "\u9032\u6483\u306e\u5de8\u4eba Season2",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/zLaVP8IhIuc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2"
+}

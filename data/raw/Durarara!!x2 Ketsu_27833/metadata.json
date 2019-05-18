@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2016-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 9, 2016 to Mar 26, 2016",
+        "to": "2016-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Joker ni Yoroshiku (\u30b8\u30e7\u30fc\u30ab\u30fc\u306b\u5b9c\u3057\u304f)\" by PENGUIN RESEARCH (eps 1-11)"
+    ],
+    "episodes": 12,
+    "favorites": 905,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/77838.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 27833,
+    "members": 214105,
+    "opening_themes": [
+        "\"Steppin' out\" by FLOW"
+    ],
+    "popularity": 433,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+    ],
+    "rank": 362,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 16816,
+                "name": "Durarara!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16816/Durarara"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 27831,
+                "name": "Durarara!!x2 Ten",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27831/Durararax2_Ten"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32915,
+                "name": "Durarara!!x2 Ketsu: Dufufufu!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32915/Durararax2_Ketsu__Dufufufu"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:abf9c192f1aa69f9bacaa9fcfa28c165811e9582",
+    "score": 8.17,
+    "scored_by": 100042,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1119,
+            "name": "Shuka",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+        }
+    ],
+    "synopsis": "As Mikado Ryuugamine continues to purge the Dollars from within in accordance with his warped sense of justice, Masaomi Kida hopes to bring his friend back to his senses by bringing the Yellow Scarves together once more. Little do they know that a far more dominant force is about to enter their struggle for power, one that their friend Anri Sonohara is all too familiar with. Meanwhile, the group that has gathered at Shinra Kishitani's apartment realizes that they are on the brink of something life-changing, an event that will throw Ikebukuro into a spiral of confusion. Their anxiety is realized when reports of Celty's head being found in public start to appear all over the news as Kasane Kujiragi begins to make her move. Gone are the brief periods of tranquility as the current turmoil sets the stage for one final performance in this thrilling conclusion to the story of Ikebukuro's finest. [Written by MAL Rewrite]",
+    "title": "Durarara!!x2 Ketsu",
+    "title_english": "Durarara!! x2 Ketsu",
+    "title_japanese": "\u30c7\u30e5\u30e9\u30e9\u30e9!!\u00d72 \u7d50",
+    "title_synonyms": [
+        "Durarara!!x2 Ketsu"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3bDqG6QLxqM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/27833/Durararax2_Ketsu"
+}

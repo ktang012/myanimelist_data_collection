@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2011-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 2, 2011 to Dec 18, 2011",
+        "to": "2011-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 01:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kimi no Shinken o Choudai (\u541b\u306e\u771f\u5263\u3092\u3061\u3087\u3046\u3060\u3044)\" by Asakawa Yuu, Gotou Yuuko, Hyousei, Itou Shizuka, Tomonaga Akane"
+    ],
+    "episodes": 12,
+    "favorites": 478,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/32541.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10213,
+    "members": 181781,
+    "opening_themes": [
+        "\"U-n-d-e-r--STANDING!\" by Endoh Masaaki, Kitadani Hiroshi, Misato Aki"
+    ],
+    "popularity": 535,
+    "premiered": "Fall 2011",
+    "producers": [],
+    "rank": 3994,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 20599,
+                "name": "Maji de Watashi ni Koi Shinasai!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/20599/Maji_de_Watashi_ni_Koi_Shinasai"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 3229,
+                "name": "Kimi ga Aruji de Shitsuji ga Ore de",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3229/Kimi_ga_Aruji_de_Shitsuji_ga_Ore_de"
+            }
+        ]
+    },
+    "request_cache_expiry": 16228,
+    "request_cached": true,
+    "request_hash": "request:anime:86a1da30ad87206f00882228204837807ad65c5d",
+    "score": 6.93,
+    "scored_by": 79790,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "The samurai are a very important part of Japan's history, and to be related to them in any way is probably one of the most inspiring things that a young high school student could hope for. Kawakami City is well-known for having many samurai ancestors among its citizens, and is generally surrounded by an atmosphere of fighting spirit, loyalty, and dedication to work. In Maji de Watashi ni Koi Shinasai!, the students of Kawakami Academy use this knowledge on a daily basis, whether they are studying for exams, competing in sports competitions, or making sure that they take very good care of their traditions. Yamato Naoe is one such student, and his six closest friends (three boys and three girls) make up the perfect team for friendship, rivalry, and motivation. However, even samurai have weaknesses. Although the balance and long friendship of their group has been undisturbed for a long time, when two new girls enter the group, things start to get a lot more interesting. Not only must they maintain what they think is the samurai tradition, but they must now also do it with a lot of \"distractions.\"",
+    "title": "Maji de Watashi ni Koi Shinasai!",
+    "title_english": "Majikoi: Oh! Samurai Girls",
+    "title_japanese": "\u771f\u5263\u3067\u79c1\u306b\u604b\u3057\u306a\u3055\u3044\uff01",
+    "title_synonyms": [
+        "Love Me",
+        "Seriously!!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/EJDTVziipHU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10213/Maji_de_Watashi_ni_Koi_Shinasai"
+}

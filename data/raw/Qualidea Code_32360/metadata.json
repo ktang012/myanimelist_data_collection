@@ -1,0 +1,151 @@
+{
+    "aired": {
+        "from": "2016-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 10, 2016 to Sep 25, 2016",
+        "to": "2016-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Qualidea Code is part of an overall multimedia project by five publishers: Shueisha's Dash X Bunko imprint, Kadokawa's Fujimi Fantasia Bunko imprint, Kadokawa's MF Bunko J imprint, Shogakukan's Gagaga Bunko imprint, and Shueisha's Jump SQ magazine. Speakeasy, a trio of light novel authors consisting of Sou Sagara, Koushi Tachibana, and Wataru Watari, are in charge of the script, with each heading separate characters.",
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Gravity\" by ClariS (eps 1-4)",
+        "\"Yakusoku -Promise code- (\u7d04\u675f -Promise code-)\" by GARNiDELiA (eps 5-7)",
+        "\"clever\" by ClariS x GARNiDELiA (eps 8-12)"
+    ],
+    "episodes": 12,
+    "favorites": 184,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/80823.jpg",
+    "licensors": [],
+    "mal_id": 32360,
+    "members": 104717,
+    "opening_themes": [
+        "\"Brave Freak Out\" by LiSA (eps 1-8)",
+        "\"AxxxiS\" by LiSA (eps 9-12)"
+    ],
+    "popularity": 968,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        },
+        {
+            "mal_id": 1500,
+            "name": "ABC Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        },
+        {
+            "mal_id": 1629,
+            "name": "Japan Sleeve",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1629/Japan_Sleeve"
+        }
+    ],
+    "rank": 5378,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 91166,
+                "name": "Qualidea Code: Itsuka Sekai wo Sukuu Tame ni",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91166/Qualidea_Code__Itsuka_Sekai_wo_Sukuu_Tame_ni"
+            },
+            {
+                "mal_id": 93502,
+                "name": "Qualidea Code: Sonna Sekai wa Kowashiteshimae",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/93502/Qualidea_Code__Sonna_Sekai_wa_Kowashiteshimae"
+            },
+            {
+                "mal_id": 99322,
+                "name": "Qualidea Code: Doudemo Ii Sekai nante",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/99322/Qualidea_Code__Doudemo_Ii_Sekai_nante"
+            },
+            {
+                "mal_id": 99776,
+                "name": "Qualidea Code",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/99776/Qualidea_Code"
+            },
+            {
+                "mal_id": 100302,
+                "name": "Qualidea Code",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/100302/Qualidea_Code"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:866b445de9ed4d36ae9e2ddac8329506d107ae68",
+    "score": 6.63,
+    "scored_by": 41896,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "The story takes place in a world where people continue their war against the \"unknown\"\u2014the enemy of humanity. Children who have been evacuated to a cold sleep facility during the invasion by the \"unknown\" several decades ago wake up from their slumber and learn that their bodies developed some supernatural forces. In order to protect the country from the \"unknown\" emerging from the Tokyo bay gate, the boys and girls wage battles in the defense the cities of Tokyo, Kanagawa, and Chiba. (Source: Official site)",
+    "title": "Qualidea Code",
+    "title_english": null,
+    "title_japanese": "\u30af\u30aa\u30ea\u30c7\u30a3\u30a2\u30fb\u30b3\u30fc\u30c9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/TsC9FaYnBTE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32360/Qualidea_Code"
+}

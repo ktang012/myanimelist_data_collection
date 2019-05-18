@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2013-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 4, 2013 to Mar 28, 2014",
+        "to": "2014-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Tokyo on September 28, 2013. Regular broadcasting began on October 4, 2013.Kill La Kill\u2019s Toshio Ishizaki won the Tokyo Anime Award for Best Character Design in 2014. The series got another Character Design Award along with a Storyboard Award, Soundtrack Award, Theme Song Award (for Sirius), Mascot Awards (for Senketsu and Guts), Female Character Awards (for Ryuuko Matoi and Mako Mankanshoku), and Series Award for TV Broadcast in the 2014 Newtype Anime Awards.",
+    "broadcast": "Fridays at 02:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Sirius (\u30b7\u30ea\u30a6\u30b9)\" by Eir Aoi (eps 1, 15)",
+        "\"Gomen ne, Iiko ja Irarenai. (\u3054\u3081\u3093\u306d\u3001\u3044\u3044\u30b3\u3058\u3083\u3044\u3089\u308c\u306a\u3044\u3002)\" by Miku Sawai (eps 2-14, 24)",
+        "\"Shinsekai Koukyougaku (\u65b0\u4e16\u754c\u4ea4\u97ff\u697d)\" by Sayonara Ponytail (\u3055\u3088\u306a\u3089\u30dd\u30cb\u30fc\u30c6\u30fc\u30eb) (eps 16-23)"
+    ],
+    "episodes": 24,
+    "favorites": 25403,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 18679,
+    "members": 890913,
+    "opening_themes": [
+        "\"Sirius (\u30b7\u30ea\u30a6\u30b9)\" by Eir Aoi (eps 2-14)",
+        "\"ambiguous\" by GARNiDELiA (eps 16-23)"
+    ],
+    "popularity": 28,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 1123,
+            "name": "Lucent Pictures Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1123/Lucent_Pictures_Entertainment"
+        }
+    ],
+    "rank": 356,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 58391,
+                "name": "Kill la Kill",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/58391/Kill_la_Kill"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 32681,
+                "name": "Uchuu Patrol Luluco",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32681/Uchuu_Patrol_Luluco"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 21659,
+                "name": "Kill la Kill Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21659/Kill_la_Kill_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 33722,
+    "request_cached": true,
+    "request_hash": "request:anime:dd653fe5bf25d761a905ddb810aeb7613c2d75dd",
+    "score": 8.18,
+    "scored_by": 477808,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 803,
+            "name": "Trigger",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ],
+    "synopsis": "After the murder of her father, Ryuuko Matoi has been wandering the land in search of his killer. Following her only lead\u2014the missing half of his invention, the Scissor Blade\u2014she arrives at the prestigious Honnouji Academy, a high school unlike any other. The academy is ruled by the imposing and cold-hearted student council president Satsuki Kiryuuin alongside her powerful underlings, the Elite Four. In the school's brutally competitive hierarchy, Satsuki bestows upon those at the top special clothes called \"Goku Uniforms,\" which grant the wearer unique superhuman abilities. Thoroughly beaten in a fight against one of the students in uniform, Ryuuko retreats to her razed home where she stumbles across Senketsu, a rare and sentient \"Kamui,\" or God Clothes. After coming into contact with Ryuuko's blood, Senketsu awakens, latching onto her and providing her with immense power. Now, armed with Senketsu and the Scissor Blade, Ryuuko makes a stand against the Elite Four, hoping to reach Satsuki and uncover the culprit behind her father's murder once and for all. [Written by MAL Rewrite]",
+    "title": "Kill la Kill",
+    "title_english": "KILL la KILL",
+    "title_japanese": "\u30ad\u30eb\u30e9\u30ad\u30eb",
+    "title_synonyms": [
+        "KLK",
+        "Dressed to Kill"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/B98NY8Hfo7I?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18679/Kill_la_Kill"
+}

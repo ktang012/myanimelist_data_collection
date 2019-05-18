@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2016-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 6,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jun 28, 2016 to Sep 20, 2016",
+        "to": "2016-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tobira no Mukou (\u6249\u306e\u5411\u3053\u3046)\" by Hanae Ashiya (Yuki Kaji) and Haruitsuki Abeno (Tomoaki Maeno)"
+    ],
+    "episodes": 13,
+    "favorites": 382,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/80009.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 32696,
+    "members": 79188,
+    "opening_themes": [
+        "\"Tomodachi Meter (\u30c8\u30e2\u30c0\u30c1\u30e1\u30fc\u30c8\u30eb)\" by The Super Ball"
+    ],
+    "popularity": 1235,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1225,
+            "name": "Age Global Networks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1225/Age_Global_Networks"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1492,
+            "name": "Yomiuri TV Enterprise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+        },
+        {
+            "mal_id": 1493,
+            "name": "Tokuma Japan Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1493/Tokuma_Japan_Communications"
+        },
+        {
+            "mal_id": 1494,
+            "name": "Kanon Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1494/Kanon_Sound"
+        },
+        {
+            "mal_id": 1581,
+            "name": "RAY",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1581/RAY"
+        }
+    ],
+    "rank": 1826,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 67401,
+                "name": "Fukigen na Mononokean",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/67401/Fukigen_na_Mononokean"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37958,
+                "name": "Fukigen na Mononokean Tsuzuki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37958/Fukigen_na_Mononokean_Tsuzuki"
+            }
+        ]
+    },
+    "request_cache_expiry": 22015,
+    "request_cached": true,
+    "request_hash": "request:anime:fec87f729a3932a362f097e289f8636b037e9c17",
+    "score": 7.46,
+    "scored_by": 31974,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1129,
+            "name": "Pierrot Plus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+        }
+    ],
+    "synopsis": "The start of Hanae Ashiya's high school career has not been easy\u2014he has spent all of the first week in the infirmary, and his inexplicable condition is only getting worse. The cause of his torment is the mysterious fuzzy creature that has attached itself to him ever since he stumbled upon it the day before school began. As his health continues to decline and the creature grows in size, Hanae comes across a flyer advertising an exorcist who expels youkai. Desperate and with nothing left to lose, he calls the number and is led to the Mononokean, a tea room which suddenly appears next to the infirmary. A morose-sounding man, Haruitsuki Abeno, reluctantly helps Hanae but demands payment afterward. Much to Hanae's dismay, he cannot afford the fee and must become an employee at the Mononokean to work off his debt. And to make things worse, his new boss is actually one of his classmates. If Hanae ever hopes to settle his debt, he must work together with Abeno to guide a variety of dangerous, strange, and interesting youkai back to the Underworld. [Written by MAL Rewrite]",
+    "title": "Fukigen na Mononokean",
+    "title_english": "The Morose Mononokean",
+    "title_japanese": "\u4e0d\u6a5f\u5acc\u306a\u30e2\u30ce\u30ce\u30b1\u5eb5",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/mKIVR5NhYzg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32696/Fukigen_na_Mononokean"
+}

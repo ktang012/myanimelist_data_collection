@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Sep 30, 2011",
+        "to": "2011-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first episode was pre-released on Nico Nico Douga on July 1, 2011. The regular TV airing started on July 8, 2011.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Junketsu Paradox (\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9)\" by Nana Mizuki"
+    ],
+    "episodes": 12,
+    "favorites": 609,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 10490,
+    "members": 183448,
+    "opening_themes": [
+        "\"spiral\" by DUSTZ"
+    ],
+    "popularity": 530,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 715,
+            "name": "Dwango",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/715/Dwango"
+        }
+    ],
+    "rank": 5105,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26182,
+                "name": "Blood-C",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26182/Blood-C"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 150,
+                "name": "Blood+",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/150/Blood_"
+            },
+            {
+                "mal_id": 405,
+                "name": "Blood: The Last Vampire",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10681,
+                "name": "Blood-C: The Last Dark",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 14077,
+                "name": "Blood-C: None-None Gekijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14077/Blood-C__None-None_Gekijou"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 14117,
+                "name": "Blood-C: Special Edition",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14117/Blood-C__Special_Edition"
+            }
+        ]
+    },
+    "request_cache_expiry": 415,
+    "request_cached": true,
+    "request_hash": "request:anime:6e27ad4e77768df0612ca3a34b7467ecdb915603",
+    "score": 6.68,
+    "scored_by": 80657,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Peaceful schoolgirl by day, fearsome monster slayer by night, Saya Kisaragi is leading a split life. Equipped with a ceremonial sword given to her by her father for sacred tasks, she vanquishes every monster who dares threaten her quiet little village. But all too soon, Saya's reality and everything she believes to be true is tested, when she overhears the monsters speak of a broken covenant\u2014something she knows nothing about. And then, unexpectedly, a strange dog appears; it asks her to whom she promised to protect the village, curious as to what would happen if she were to break that promise. Tormented by unexplainable visions and her world unraveling around her, we travel with Saya through her struggle to find a way to the truth in a village where nothing is as it seems. [Written by MAL Rewrite]",
+    "title": "Blood-C",
+    "title_english": "BLOOD-C",
+    "title_japanese": "\u30d6\u30e9\u30c3\u30c9\u30b7\u30fc",
+    "title_synonyms": [
+        "Blood-C"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/8dqn5Ju3hCI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10490/Blood-C"
+}

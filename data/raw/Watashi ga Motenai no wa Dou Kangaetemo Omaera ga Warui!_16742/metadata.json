@@ -1,0 +1,171 @@
+{
+    "aired": {
+        "from": "2013-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 9, 2013 to Sep 24, 2013",
+        "to": "2013-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Akihabara Gamers, Tokyo on June 29, 2013. Regular broadcasting began on July 9, 2013.WataMote was licensed by Sentai Filmworks in North America and MVM Films in the United Kingdom. It was simulcast by Crunchyroll during its original run.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Dou Kangaete mo Watashi wa Warukunai (\u3069\u3046\u8003\u3048\u3066\u3082\u79c1\u306f\u60aa\u304f\u306a\u3044)\" by Tomoko Kuroki (Izumi Kitta) (eps 1, 3, 4, 7-10, 12)",
+        "\"Musou Renka (\u5922\u60f3\u604b\u6b4c)\" by Velvet.kodhy (ep 2)",
+        "\"Yoru no Tobari yo, Sayounara (\u591c\u306e\u3068\u3070\u308a\u3088\u3001\u3055\u3088\u3046\u306a\u3089)\" by Velvet. kodhy (ep 5)",
+        "\"Natsu Matsuri\" (\u590f\u796d\u308a) by Utsu-P & Minatsukitoka, feat. Hatsune Miku (ep 6)",
+        "\"Sokora no Nuigurumi no Fuusen to Watashi (\u305d\u3053\u3089\u306e\u7740\u3050\u308b\u307f\u306e\u98a8\u8239\u3068\u79c1)\" by Velvet.kodhy and Velvet.kodhy and \u03bc and \u03bc (Velvet.kodhy\u3068Velvet.kodhy\u3068u\u3068u) (ep 11)"
+    ],
+    "episodes": 12,
+    "favorites": 3965,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/51619.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 16742,
+    "members": 402027,
+    "opening_themes": [
+        "\"Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui (\u79c1\u304c\u30e2\u30c6\u306a\u3044\u306e\u306f\u3069\u3046\u8003\u3048\u3066\u3082\u304a\u524d\u3089\u304c\u60aa\u3044)\" by Konomi Suzuki n' Kiba of Akiba"
+    ],
+    "popularity": 166,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 135,
+            "name": "MediaNet",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1589,
+            "name": "NichiNare",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+        }
+    ],
+    "rank": 2891,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 28533,
+                "name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/28533/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 20449,
+                "name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20449/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui__Motenaishi_Nazomeite_Miru"
+            }
+        ]
+    },
+    "request_cache_expiry": 39891,
+    "request_cached": true,
+    "request_hash": "request:anime:fa36ff5c80875f75808d52edf5a1abfc608f9dd2",
+    "score": 7.21,
+    "scored_by": 209729,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "After living 50 simulated high school lives and dating over 100 virtual boys, Tomoko Kuroki believes that she is ready to conquer her first year of high school. Little does she know that she is much less prepared than she would like to think. In reality, Tomoko is an introverted and awkward young girl, and she herself is the only one who doesn't realize it! With the help of her best friend, Yuu Naruse, and the support and love of her brother Tomoki, Tomoko attempts to brave the new world of high school life. Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! chronicles the life of a socially awkward and relatively friendless high school otaku as she attempts to overcome her personal barriers in order to live a fulfilling life. [Written by MAL Rewrite]",
+    "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+    "title_english": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!",
+    "title_japanese": "\u79c1\u304c\u30e2\u30c6\u306a\u3044\u306e\u306f\u3069\u3046\u8003\u3048\u3066\u3082\u304a\u524d\u3089\u304c\u60aa\u3044!",
+    "title_synonyms": [
+        "Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!",
+        "It's Not My Fault That I'm Not Popular!",
+        "WataMote"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/IJjsjU0Dwpo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui"
+}

@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2012-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 5, 2012 to Sep 27, 2012",
+        "to": "2012-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Koi Boudou (\u604b\u66b4\u52d5)\" by HAPPY BIRTHDAY (eps 1-12)",
+        "\"Make My Day!\" by Piko (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 1077,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/39333.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 13535,
+    "members": 164872,
+    "opening_themes": [
+        "\"Make My Day!\" by Piko (eps 1-12)",
+        "\"Koi Boudou (\u604b\u66b4\u52d5)\" by HAPPY BIRTHDAY (ep 13)"
+    ],
+    "popularity": 595,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 643,
+            "name": "Trinity Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 829,
+            "name": "Studio Jack",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/829/Studio_Jack"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 898,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 20242,
+                "name": "Binbougami ga!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/20242/Binbougami_ga"
+            }
+        ]
+    },
+    "request_cache_expiry": 34201,
+    "request_cached": true,
+    "request_hash": "request:anime:f1ac018121d316ee8a59410f9dc7a489f76c8087",
+    "score": 7.8,
+    "scored_by": 81402,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Ichiko Sakura lives life on easy mode. Blessed with good fortune, she has everything she has ever wanted, including beauty, intelligence, and wealth. Momiji Binboda is a goddess of poverty. In stark contrast to Ichiko, she is cursed with misfortune, such as a perpetual cast on her arm, a flat chest, and a box under a bridge for a home. Their lives collide when Momiji lives up to her title and delivers some unfortunate news to Ichiko: her large amount of luck is due to her subconsciously draining the luck from those around her! Momiji has been tasked with stealing back Ichiko's fortune before she leaves everyone without enough luck to even survive. But Ichiko, with the help of the wandering monk Bobby Statice, manages to fight off the poverty goddess. This defeat forces the goddess to enlist reinforcements in the form of Kumagai, her teddy bear familiar, and the masochistic dog god, Momoo Inugami. Insanity ensues as Ichiko's quiet life is replaced with daily battles for her fortune. To survive the chaos, Ichiko will need all the luck she can get in Binbougami ga!! [Written by MAL Rewrite]",
+    "title": "Binbougami ga!",
+    "title_english": "Good Luck Girl!",
+    "title_japanese": "\u8ca7\u4e4f\u795e\u304c!",
+    "title_synonyms": [
+        "Binbou Gami ga!",
+        "Binboukami ga!",
+        "Binbogami ga!",
+        "Binbou Kami ga!",
+        "The God Of Poverty is!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/7fsEA2MwMN4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/13535/Binbougami_ga"
+}

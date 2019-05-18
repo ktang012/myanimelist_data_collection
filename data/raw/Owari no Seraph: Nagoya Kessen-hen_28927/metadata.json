@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2015-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 10, 2015 to Dec 26, 2015",
+        "to": "2015-12-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 22:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Orarion (\u30aa\u30e9\u30ea\u30aa\u30f3)\" by Nagi Yanagi (eps 2-12)"
+    ],
+    "episodes": 12,
+    "favorites": 1910,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76632.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 28927,
+    "members": 362944,
+    "opening_themes": [
+        "\"Two souls -toward the truth-\" by fripSide (eps 2-11)"
+    ],
+    "popularity": 201,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 969,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 43661,
+                "name": "Owari no Seraph",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/43661/Owari_no_Seraph"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 31918,
+                "name": "Owari no Seraph: Nagoya Kessen-hen - Owaranai Seraph - Nagoya Kessen-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31918/Owari_no_Seraph__Nagoya_Kessen-hen_-_Owaranai_Seraph_-_Nagoya_Kessen-hen"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 26243,
+                "name": "Owari no Seraph",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26243/Owari_no_Seraph"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ae9f91d29c818c316dae707de7e59d5b4385cf00",
+    "score": 7.77,
+    "scored_by": 210963,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 858,
+            "name": "Wit Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ],
+    "synopsis": "Yuuichirou Hyakuya is finally reunited with his childhood friend Mikaela Hyakuya, whom he had long presumed to be dead. Upon their reunion, however, he discovers that Mikaela has been turned into a vampire. Determined to help his friend, Yuuichirou vows to get stronger so that he can protect Mikaela as well as the comrades in the Moon Demon Company. Kureto Hiiragi receives information that a large group of vampires will be gathering in Nagoya, preparing for their assault on the Imperial Demon Army's main forces in Tokyo. Led by Guren Ichinose, Yuuichirou's team is one of many selected to intercept and eliminate the vampire nobles. With the Nagoya mission quickly approaching, the members of Shinoa squad continue to work towards fully mastering their weapons, while learning how to improve their teamwork. Yuuichirou must gain the power he needs to slay the nobles and save his best friend, before he succumbs to the demon of the Cursed Gear. [Written by MAL Rewrite]",
+    "title": "Owari no Seraph: Nagoya Kessen-hen",
+    "title_english": "Seraph of the End: Battle in Nagoya",
+    "title_japanese": "\u7d42\u308f\u308a\u306e\u30bb\u30e9\u30d5\u3000\u540d\u53e4\u5c4b\u6c7a\u6226\u7de8",
+    "title_synonyms": [
+        "Owari no Seraph 2nd Season",
+        "Seraph of the End 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/KRYkpjKW9sQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28927/Owari_no_Seraph__Nagoya_Kessen-hen"
+}

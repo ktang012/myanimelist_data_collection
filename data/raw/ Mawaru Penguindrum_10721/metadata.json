@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Dec 23, 2011",
+        "to": "2011-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:10 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"DEAR FUTURE\" by coaltar of the deepers (eps 1-9, 11-12)",
+        "\"DEAR FUTURE feat. Yui Horie\" by coaltar of the deepers (ep 10)",
+        "\"Haiiro no Suiyoubi (\u7070\u8272\u306e\u6c34\u66dc\u65e5)\" by Triple H (eps 13, 15, 18)",
+        "\"Bad News Kuroi Yokan (Bad News \u9ed2\u3044\u4e88\u611f)\" by Triple H (eps 14, 17)",
+        "\"Ikarechimattaze!! (\u30a4\u30ab\u30ec\u3061\u307e\u3063\u305f\u305c!!)\" by Triple H (ep 16)",
+        "\"HIDE and SEEK\" by Triple H (ep 19)",
+        "\"Private Girl\" by Triple H (ep 20)",
+        "\"Tamashii Kogashite (\u9b42\u3053\u304c\u3057\u3066)\" by Triple H (ep 21)",
+        "\"Asa no Kageri no Naka de (\u671d\u306e\u304b\u3052\u308a\u306e\u4e2d\u3067)\" by Triple H (ep 22)",
+        "\"HEROES ~Eiyuutachi (HEROES \uff5e\u82f1\u96c4\u305f\u3061)\" by Triple H (ep 23)"
+    ],
+    "episodes": 24,
+    "favorites": 5957,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 5,
+            "name": "Dementia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/5/Dementia"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/30238.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10721,
+    "members": 209750,
+    "opening_themes": [
+        "\"Nornir (\u30ce\u30eb\u30cb\u30eb)\" by Etsuko Yakushimaru Metro Orchestra (eps 1-14)",
+        "\"Shounen yo Ware ni Kaere (\u5c11\u5e74\u3088\u6211\u306b\u5e30\u308c)\" by Etsuko Yakushimaru Metro Orchestra (eps 15-23)"
+    ],
+    "popularity": 445,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 568,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26474,
+                "name": "Mawaru Penguindrum",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26474/Mawaru_Penguindrum"
+            },
+            {
+                "mal_id": 57849,
+                "name": "Mawaru Penguindrum",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/57849/Mawaru_Penguindrum"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:78be550e3884bd495fd4b1b18be5379d24429614",
+    "score": 8.01,
+    "scored_by": 77964,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "For the Takakura family, destiny is an ever-spinning wheel, pointing passionately in their direction with equal tides of joy and sorrow before ticking on to the next wishmaker. With their parents gone, twin brothers Kanba and Shouma live alone with their beloved little sister Himari, whose poor health cannot decline any further. On the day Himari is given permission to temporarily leave the hospital, her brothers take her out to the aquarium to celebrate, where the family's supposed fate is brought forth with her sudden collapse. However, when Himari is inexplicably revived by a penguin hat from the aquarium's souvenir shop, the hand of fate continues to tick faithfully forward. With her miraculous recovery, though, comes a cost: there is a new entity within her body, whose condition for keeping her fate at bay sends the boys on a wild goose chase for the mysterious \"Penguin Drum.\" In their search, the boys will have to follow the threads of fate leading from their own shocking past and into the lives of other wishmakers vying for the Penguin Drum, all hoping to land upon their chosen destiny. [Written by MAL Rewrite]",
+    "title": "Mawaru Penguindrum",
+    "title_english": "Penguindrum",
+    "title_japanese": "\u8f2a\u308b\u30d4\u30f3\u30b0\u30c9\u30e9\u30e0",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Nsqk9WLP0dw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10721/Mawaru_Penguindrum"
+}

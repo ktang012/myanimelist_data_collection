@@ -1,0 +1,225 @@
+{
+    "aired": {
+        "from": "2015-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 12, 2015 to Jun 28, 2015",
+        "to": "2015-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at Cinemart Shinjuku in Tokyo on March 14, 2015. Regular broadcasting began on April 12, 2015.",
+    "broadcast": "Sundays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"CANDY MAGIC\" by MimimemeMIMI (eps 1-11)",
+        "\"Kuchizuke Diamond (\u304f\u3061\u3065\u3051Diamond)\" by WEAVER (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 2690,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/73700.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 28677,
+    "members": 383037,
+    "opening_themes": [
+        "\"Kuchizuke Diamond (\u304f\u3061\u3065\u3051Diamond)\" by WEAVER (eps 1-11)"
+    ],
+    "popularity": 176,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+            "mal_id": 1215,
+            "name": "Daiichikosho",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1215/Daiichikosho"
+        },
+        {
+            "mal_id": 1309,
+            "name": "Lawson HMV Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1309/Lawson_HMV_Entertainment"
+        },
+        {
+            "mal_id": 1313,
+            "name": "Amuse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1313/Amuse"
+        },
+        {
+            "mal_id": 1449,
+            "name": "Animatic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+        },
+        {
+            "mal_id": 1635,
+            "name": "A-Sketch",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1635/A-Sketch"
+        }
+    ],
+    "rank": 894,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35003,
+                "name": "Yamada-kun to 7-nin no Majo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35003/Yamada-kun_to_7-nin_no_Majo"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 20359,
+                "name": "Yamada-kun to 7-nin no Majo PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20359/Yamada-kun_to_7-nin_no_Majo_PV"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24627,
+                "name": "Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24627/Yamada-kun_to_7-nin_no_Majo__Mou_Hitotsu_no_Suzaku-sai"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 30641,
+                "name": "Yankee-kun na Yamada-kun to Megane-chan to Majo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30641/Yankee-kun_na_Yamada-kun_to_Megane-chan_to_Majo"
+            }
+        ]
+    },
+    "request_cache_expiry": 16346,
+    "request_cached": true,
+    "request_hash": "request:anime:b56657ca34b9a00140c5947b06a19833c1595b35",
+    "score": 7.81,
+    "scored_by": 214094,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "When Ryuu Yamada entered high school, he wanted to turn over a new leaf and lead a productive school life. That's why he chose to attend Suzaku High, where no one would know of his violent delinquent reputation. However, much to Ryuu's dismay, he is soon bored; now a second year, Ryuu has reverted to his old ways\u2014lazy with abysmal grades and always getting into fights. One day, back from yet another office visit, Ryuu encounters Urara Shiraishi, a beautiful honors student. A misstep causes them both to tumble down the stairs, ending in an accidental kiss! The pair discover they can switch bodies with a kiss: an ability which will prove to be both convenient and troublesome. Learning of their new power, Toranosuke Miyamura, a student council officer and the single member of the Supernatural Studies Club, recruits them for the club. Soon joined by Miyabi Itou, an eccentric interested in all things supernatural, the group unearths the legend of the Seven Witches of Suzaku High, seven female students who have obtained different powers activated by a kiss. The Supernatural Studies Club embarks on its first quest: to find the identities of all the witches. [Written by MAL Rewrite]",
+    "title": "Yamada-kun to 7-nin no Majo",
+    "title_english": "Yamada-kun and the Seven Witches",
+    "title_japanese": "\u5c71\u7530\u304f\u3093\u30687\u4eba\u306e\u9b54\u5973",
+    "title_synonyms": [
+        "Yamada-kun to Nananin no Majo",
+        "Yamada-kun and the 7 Witches"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/1_n_k5nNA3A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo"
+}

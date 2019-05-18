@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2014-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 8, 2014 to Jun 24, 2014",
+        "to": "2014-06-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:05 (JST)",
+    "duration": "13 min per ep",
+    "ending_themes": [
+        "\"Spica.\" by StylipS (eps 1-11)",
+        "\"Owarinaki Pantsu (\u7d42\u308f\u308a\u306a\u304d\u30d1\u30f3\u30c4)\" by Yuuki Aito (CV: Yoshitsugu Matsuoka) (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 374,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/62219.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21863,
+    "members": 174326,
+    "opening_themes": [
+        "\"Junsui na Fujunbutsu (\u7d14\u7c8b\u306a\u30d5\u30b8\u30e5\u30f3\u30d6\u30c4)\" by StylipS"
+    ],
+    "popularity": 563,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2500,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11294,
+                "name": "Mangaka-san to Assistant-san to",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11294/Mangaka-san_to_Assistant-san_to"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24475,
+                "name": "Mangaka-san to Assistant-san to The Animation Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24475/Mangaka-san_to_Assistant-san_to_The_Animation_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:51b203e7996ce3fd5804e96cf18e3964c9871c56",
+    "score": 7.3,
+    "scored_by": 85358,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 218,
+            "name": "Zexcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ],
+    "synopsis": "The story depicts the work-life of a perverted mangaka, Aito Yuuki, and his assistant, Ashisu Sahoto. Constantly pressured by his editor and lacking experience with girls, Aito asks Ashisu to act as a reference. (Source: AniDB)",
+    "title": "Mangaka-san to Assistant-san to The Animation",
+    "title_english": "The Comic Artist and His Assistants",
+    "title_japanese": "\u30de\u30f3\u30ac\u5bb6\u3055\u3093\u3068\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u3055\u3093\u3068 THE ANIMATION",
+    "title_synonyms": [
+        "Mangaka-san to Assistant-san to",
+        "ManAshi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/sl7Im9HGg5k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21863/Mangaka-san_to_Assistant-san_to_The_Animation"
+}

@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2010-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 2, 2010 to Dec 25, 2010",
+        "to": "2010-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Fallen Angel\" by Mitsunori Ikeda ft. Aimee B"
+    ],
+    "episodes": 13,
+    "favorites": 3654,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 8795,
+    "members": 231773,
+    "opening_themes": [
+        "\"Theme for Panty & Stocking\" by Hoshina Anniversary"
+    ],
+    "popularity": 389,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 685,
+            "name": "Kadokawa Contents Gate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/685/Kadokawa_Contents_Gate"
+        }
+    ],
+    "rank": 970,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 21848,
+                "name": "Panty & Stocking with Garterbelt",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/21848/Panty___Stocking_with_Garterbelt"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10739,
+                "name": "Panty & Stocking in Sanitarybox",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10739/Panty___Stocking_in_Sanitarybox"
+            }
+        ]
+    },
+    "request_cache_expiry": 33348,
+    "request_cached": true,
+    "request_hash": "request:anime:99280602c7bcbc649edd9bbc31af609406915382",
+    "score": 7.77,
+    "scored_by": 116509,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 6,
+            "name": "Gainax",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ],
+    "synopsis": "The \"Anarchy Sisters,\" Panty and Stocking, have been kicked out of Heaven for, to put it mildly, misbehaving. Led by a priest named Garterbelt, these angels must buy their way back by exterminating ghosts in Daten City. But this task requires unconventional weapons for these unorthodox angels\u2014they transform their lingerie into weapons to dispatch the spirits. Unfortunately, neither of them take their duties seriously, as they rather spend their time in pursuit of other \"hobbies\": Panty prefers to sleep with anything that walks, and Stocking favors stuffing her face with sweets than hunting ghosts. Follow these two unruly angels as they battle ghosts, an overflow of bodily fluids, and their own tendency to get side-tracked in Panty & Stocking with Garterbelt. [Written by MAL Rewrite]",
+    "title": "Panty & Stocking with Garterbelt",
+    "title_english": "Panty & Stocking with Garterbelt",
+    "title_japanese": "\u30d1\u30f3\u30c6\u30a3\uff06\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0with\u30ac\u30fc\u30bf\u30fc\u30d9\u30eb\u30c8",
+    "title_synonyms": [
+        "PanSto",
+        "PSG"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/iZbGlVqKXTM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt"
+}

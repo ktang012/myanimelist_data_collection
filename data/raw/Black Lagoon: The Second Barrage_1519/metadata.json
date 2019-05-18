@@ -1,0 +1,142 @@
+{
+    "aired": {
+        "from": "2006-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2006
+            }
+        },
+        "string": "Oct 3, 2006 to Dec 19, 2006",
+        "to": "2006-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Don't Look Behind\" by EDISON (eps 13-14,16-23)",
+        "\"The World of Midnight\" by Minako Obata (ep 15)",
+        "\"Peach Headz Addiction\" by Breath Frequency (ep 24)"
+    ],
+    "episodes": 12,
+    "favorites": 2059,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/83748.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1459,
+            "name": "Geneon Entertainment USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+    ],
+    "mal_id": 1519,
+    "members": 290492,
+    "opening_themes": [
+        "\"Red Fraction\" by MELL"
+    ],
+    "popularity": 299,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 69,
+            "name": "Front Line",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/69/Front_Line"
+        }
+    ],
+    "rank": 288,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 735,
+                "name": "Black Lagoon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/735/Black_Lagoon"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 8440,
+                "name": "Black Lagoon Omake",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8440/Black_Lagoon_Omake"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 889,
+                "name": "Black Lagoon",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/889/Black_Lagoon"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 4901,
+                "name": "Black Lagoon: Roberta's Blood Trail",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4901/Black_Lagoon__Robertas_Blood_Trail"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:590430de47ce5fb784a68e8c29b8a25e43a91634",
+    "score": 8.25,
+    "scored_by": 181334,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Rokurou \"Rock\" Okajima has joined the Lagoon Company, a pirate mercenary group which operates out of Roanapur, Thailand. Despite his initial protests, this filthy slum of depraved souls and merciless criminals now serves as the former salaryman's home. Stranded, with nothing left of his past life but the clothes on his back and his inner morality, Rock is forced to perform jobs alongside the other members of the Lagoon crew. Berated for his lack of spine as he wades through the underbelly of society, he must decide whether to continue on amidst the gunfire and ruthlessness or risk everything he has in an attempt to be free. Whether he chooses the comfort of a familiar land or the freedom of being an outlaw, his decision will have lasting consequences on the crew who gave him a home. [Written by MAL Rewrite]",
+    "title": "Black Lagoon: The Second Barrage",
+    "title_english": "Black Lagoon: The Second Barrage",
+    "title_japanese": "BLACK LAGOON The Second Barrage",
+    "title_synonyms": [
+        "Black Lagoon 2nd Season",
+        "Black Lagoon Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-KgtNdG_zfE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage"
+}

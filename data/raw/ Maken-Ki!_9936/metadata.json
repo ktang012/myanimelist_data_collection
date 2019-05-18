@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2011-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 5, 2011 to Dec 21, 2011",
+        "to": "2011-12-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Baby! Baby!\" by Noriko Shitaya & Iori Nomizu (ep 1)",
+        "\"Baby! Baby!\" by Sayuri Yahagi & Noriko Shitaya (ep 2)",
+        "\"Baby! Baby!\" by Misuzu Togashi & Aya Gouda (ep 3)",
+        "\"Baby! Baby!\" by Sayuri Yahagi & Misuzu Togashi (ep 4)",
+        "\"Baby! Baby!\" by Noriko Shitaya & Shizuka Furuya (ep 5)",
+        "\"Baby! Baby!\" by Iori Nomizu & Sayuri Yahagi (ep 6)",
+        "\"Baby! Baby!\" by Rie Tanaka & Satomi Akesaka (ep 7)",
+        "\"Baby! Baby!\" by Mariya Ise & Rie Tanaka (ep 8)",
+        "\"Baby! Baby!\" by Saeko Zougou & Misato (ep 9)",
+        "\"Baby! Baby!\" by Rina Satou & Rina Hidaka (ep 10)",
+        "\"Baby! Baby!\" by Misuzu Togashi & Noriko Shitaya (ep 11)",
+        "\"Baby! Baby!\" by Noriko Shitaya & Iori Nomizu & Sayuri Yahagi (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 292,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/75234.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 9936,
+    "members": 164324,
+    "opening_themes": [
+        "\"Fly Away\" by Misuzu Togashi"
+    ],
+    "popularity": 600,
+    "premiered": "Fall 2011",
+    "producers": [],
+    "rank": 5546,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7186,
+                "name": "Maken-Ki!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7186/Maken-Ki"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 11209,
+                "name": "Maken-Ki! OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11209/Maken-Ki_OVA"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 12449,
+                "name": "Maken-Ki! Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12449/Maken-Ki_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 23918,
+    "request_cached": true,
+    "request_hash": "request:anime:eee9d0cf59c33c74bbb10b7b7c77143e02494a70",
+    "score": 6.59,
+    "scored_by": 78482,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 48,
+            "name": "AIC",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ],
+    "synopsis": "Based on the manga series by Hiromitsu Takeda, this romantic comedy is about Takeru Ohyama, a typical perverted teenage boy. His new school doesn't require entrance exams, and it just turned co-ed! Unfortunately, his dreams of a happy high school life are dashed when he finds out the school is much more than it seems. All of the students wield a special item\u2014a Maken\u2014to unleash their magical abilities in duels! Can Takeru find a Maken that works for him? Even while trying to fit in at a new school and dealing with all kinds of girl problems? (Source: FUNimation)",
+    "title": "Maken-Ki!",
+    "title_english": null,
+    "title_japanese": "\u30de\u30b1\u30f3\u59eb\u3063\uff01",
+    "title_synonyms": [
+        "Maken-Ki! Battling Venus"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/pBlx0N9eLNY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9936/Maken-Ki"
+}

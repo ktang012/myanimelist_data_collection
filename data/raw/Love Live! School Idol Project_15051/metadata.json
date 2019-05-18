@@ -1,0 +1,213 @@
+{
+    "aired": {
+        "from": "2013-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 6, 2013 to Mar 31, 2013",
+        "to": "2013-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Love Live! School Idol Project is a part of the \"Love Live!\" multimedia franchise, co-developed with Dengeki G's Magazine. In 2015, idol group \u03bc's was Japan's eighth best-selling musical act, selling over eight hundred thousand CDs, DVDs, and Blu-Rays.\r\nThe series also released a mobile rhythm game titled Love Live! School Idol Festival for iOS and Android, developed by KLab, which was released in 2013 for Japan and in 2014 for English users. As of March 22, 2016, the game has surpassed 25 million users worldwide.",
+    "broadcast": "Sundays at 22:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Susume\u2192Tomorrow\" (\u30b9\u30b9\u30e1\u2192\u30c8\u30a5\u30e2\u30ed\u30a6)\" by \u00b5's (ep 1)",
+        "\"Kitto Seishun ga Kikoeru (\u304d\u3063\u3068\u9752\u6625\u304c\u805e\u3053\u3048\u308b)\" by \u03bc's (eps 2-3, 6, 8, 10)",
+        "\"Kitto Seishun ga Kikoeru (\u304d\u3063\u3068\u9752\u6625\u304c\u805e\u3053\u3048\u308b)\" by Maki Nishikino, Hanayo Koizumi, Rin Hoshizora (Pile, Yurika Kubo, Riho Iida) (ep 4)",
+        "\"Kitto Seishun ga Kikoeru (\u304d\u3063\u3068\u9752\u6625\u304c\u805e\u3053\u3048\u308b)\" by Niko Yazawa (Sora Tokui) (ep 5)",
+        "\"Kitto Seishun ga Kikoeru (\u304d\u3063\u3068\u9752\u6625\u304c\u805e\u3053\u3048\u308b)\" by Eri Ayase, Nozomi Toujou (Nanjo Yoshino, Aina Kusuda) (ep 7)",
+        "\"Kitto Seishun ga Kikoeru (\u304d\u3063\u3068\u9752\u6625\u304c\u805e\u3053\u3048\u308b)\" by Kotori Minami (Aya Uchida) (ep 9)",
+        "\"Kitto Seishun ga Kikoeru (\u304d\u3063\u3068\u9752\u6625\u304c\u805e\u3053\u3048\u308b)\" by Honoka Kousaka (Emi Nitta) (ep 12)"
+    ],
+    "episodes": 13,
+    "favorites": 6929,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/56849.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 15051,
+    "members": 268435,
+    "opening_themes": [
+        "\"Bokura wa Ima no Naka de (\u50d5\u3089\u306f\u4eca\u306e\u306a\u304b\u3067)\" by \u03bc's"
+    ],
+    "popularity": 320,
+    "premiered": "Winter 2013",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        }
+    ],
+    "rank": 1456,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 48251,
+                "name": "Love Live!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/48251/Love_Live"
+            },
+            {
+                "mal_id": 60703,
+                "name": "Love Live! School Idol Diary",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/60703/Love_Live_School_Idol_Diary"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 32526,
+                "name": "Love Live! Sunshine!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 9907,
+                "name": "Bokura no Live Kimi to no Life",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9907/Bokura_no_Live_Kimi_to_no_Life"
+            },
+            {
+                "mal_id": 9930,
+                "name": "Snow Halation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9930/Snow_Halation"
+            },
+            {
+                "mal_id": 11033,
+                "name": "Natsu-iro Egao de 1, 2, Jump!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11033/Natsu-iro_Egao_de_1_2_Jump"
+            },
+            {
+                "mal_id": 12637,
+                "name": "Mogyutto \"Love\" de Sekkinchuu!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12637/Mogyutto_Love_de_Sekkinchuu"
+            },
+            {
+                "mal_id": 14951,
+                "name": "Wonderful Rush",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14951/Wonderful_Rush"
+            },
+            {
+                "mal_id": 20877,
+                "name": "Music S.T.A.R.T!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20877/Music_START"
+            },
+            {
+                "mal_id": 32481,
+                "name": "Love Live! Kouhaku Special Anime",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32481/Love_Live_Kouhaku_Special_Anime"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 19111,
+                "name": "Love Live! School Idol Project 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19111/Love_Live_School_Idol_Project_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 20745,
+                "name": "Love Live! School Idol Project OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20745/Love_Live_School_Idol_Project_OVA"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 21853,
+                "name": "Love Live! School Idol Project Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21853/Love_Live_School_Idol_Project_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 25347,
+    "request_cached": true,
+    "request_hash": "request:anime:2af28a07c410d454c4d8de352eae99b08670298f",
+    "score": 7.58,
+    "scored_by": 135259,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Otonokizaka High School is in a crisis! With the number of enrolling students dropping lower and lower every year, the school is set to shut down after its current first years graduate. However, second year Honoka Kousaka refuses to let it go without a fight. Searching for a solution, she comes across popular school idol group A-RISE and sets out to create a school idol group of her own. With the help of her childhood friends Umi Sonoda and Kotori Minami, Honoka forms \u03bc's (pronounced \"muse\") to boost awareness and popularity of her school. Unfortunately, it's all easier said than done. Student council president Eri Ayase vehemently opposes the establishment of a school idol group and will do anything in her power to prevent its creation. Moreover, Honoka and her friends have trouble attracting any additional members. But the Love Live, a competition to determine the best and most beloved school idol groups in Japan, can help them gain the attention they desperately need. With the contest fast approaching, Honoka must act quickly and diligently to try and bring together a school idol group and win the Love Live in order to save Otonokizaka High School. [Written by MAL Rewrite]",
+    "title": "Love Live! School Idol Project",
+    "title_english": "Love Live! School Idol Project",
+    "title_japanese": "\u30e9\u30d6\u30e9\u30a4\u30d6! School idol project",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Yl5Kwi-uqQY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project"
+}

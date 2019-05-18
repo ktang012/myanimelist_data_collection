@@ -1,0 +1,151 @@
+{
+    "aired": {
+        "from": "2014-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 4,
+                "month": 4,
+                "year": 2014
+            }
+        },
+        "string": "Jan 10, 2014 to Apr 4, 2014",
+        "to": "2014-04-04T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ookina Kingyou no Kinoshitade (\u5927\u304d\u306a\u91d1\u9b5a\u306e\u6a39\u306e\u4e0b\u3067)\" by Tokyo Philharmonic Chorus (\u6771\u4eac\u6df7\u58f0\u5408\u5531\u56e3) (ep 1)",
+        "\"Parallax View (\u30d1\u30e9\u30e9\u30c3\u30af\u30b9\u30fb\u30d3\u30e5\u30fc)\" by Sadesper Record feat. Sumire Uesaka (eps 2-7, 9-13)",
+        "\"Caramel Peach Jam 120% (\u30ad\u30e3\u30e9\u30e1\u30eb\u6843\u30b8\u30e3\u30e0120%)\" by Peach Maki (Sumire Uesaka) (ep 8)"
+    ],
+    "episodes": 13,
+    "favorites": 880,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/87177.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 20431,
+    "members": 83347,
+    "opening_themes": [
+        "\"Jigoku no Sata mo Kimi Shidai (\u5730\u7344\u306e\u6c99\u6c70\u3082\u541b\u6b21\u7b2c)\" by Jigoku no Sata All Stars (Hiroki Yasumoto, Takashi Nagasako, Yumiko Kobayashi, Tetsuya Kakihara, Touko Aoyama, Eri Kitamura x YOUR SONG IS GOOD)"
+    ],
+    "popularity": 1171,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        }
+    ],
+    "rank": 821,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 36113,
+                "name": "Hoozuki no Reitetsu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/36113/Hoozuki_no_Reitetsu"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35075,
+                "name": "Hoozuki no Reitetsu 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35075/Hoozuki_no_Reitetsu_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24471,
+                "name": "Hoozuki no Reitetsu OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24471/Hoozuki_no_Reitetsu_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 2953,
+    "request_cached": true,
+    "request_hash": "request:anime:d2e3d04cc5b6834fc9676a5115c1f0bbca692997",
+    "score": 7.84,
+    "scored_by": 28404,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 858,
+            "name": "Wit Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ],
+    "synopsis": "Hell is a bureaucracy, and business is running smoother than ever thanks to the demonic efficiency of Hoozuki, chief deputy to Lord Enma, the King of Hell. Whether offering counsel to the Momotarou of Japanese folklore or receiving diplomatic missions from the Judeo-Christian Hell, the demon who runs the show from behind the king's imposing shadow is ready to beat down any challenges coming his way into a bloody pulp. Metaphorically, of course... The poster boy for micromanagement and armed with negotiation skills worthy of Wall Street, Hoozuki no Reitetsu follows the sadistic and level-headed Hoozuki as he spends his days troubleshooting hell. With an abundance of familiar faces from popular Japanese legends and East Asian mythology working middle management positions, this referential and anachronistic dark comedy brings new meaning to the phrase \"employer liability.\" Just how hard could it be to manage employees from hell, anyway? [Written by MAL Rewrite]",
+    "title": "Hoozuki no Reitetsu",
+    "title_english": "Hozuki's Coolheadedness",
+    "title_japanese": "\u9b3c\u706f\u306e\u51b7\u5fb9",
+    "title_synonyms": [
+        "Cool-headed Hoozuki"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/1vpCZ6si3dM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20431/Hoozuki_no_Reitetsu"
+}

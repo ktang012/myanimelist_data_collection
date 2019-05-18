@@ -1,0 +1,151 @@
+{
+    "aired": {
+        "from": "2018-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Apr 7, 2018 to Sep 29, 2018",
+        "to": "2018-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 17:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Update (\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8)\" by miwa (eps 1-13)",
+        "\"Long Hope Philia <TV Limited> (\u30ed\u30f3\u30b0\u30db\u30fc\u30d7\u30fb\u30d5\u30a3\u30ea\u30a2\uff1cTV Limited\uff1e)\" by Masaki Suda (eps 14-25)"
+    ],
+    "episodes": 25,
+    "favorites": 9409,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 36456,
+    "members": 605007,
+    "opening_themes": [
+        "\"ODD FUTURE\" by UVERworld (eps 1-13)",
+        "\"Make my story\" by Lenny code fiction (eps 14-25)"
+    ],
+    "popularity": 75,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 55,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 75989,
+                "name": "Boku no Hero Academia",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 33486,
+                "name": "Boku no Hero Academia 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38408,
+                "name": "Boku no Hero Academia 4th Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 36896,
+                "name": "Boku no Hero Academia the Movie: Futari no Hero",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie__Futari_no_Hero"
+            }
+        ]
+    },
+    "request_cache_expiry": 18023,
+    "request_cached": true,
+    "request_hash": "request:anime:5c7c0df012003c27720160b75cf5b6aedc3194de",
+    "score": 8.65,
+    "scored_by": 312226,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. Boku no Hero Academia 3rd Season follows Izuku \"Deku\" Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model\u2014All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival. [Written by MAL Rewrite]",
+    "title": "Boku no Hero Academia 3rd Season",
+    "title_english": "My Hero Academia 3",
+    "title_japanese": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 3rd\u30b7\u30fc\u30ba\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/wMCeFIPwrHE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season"
+}

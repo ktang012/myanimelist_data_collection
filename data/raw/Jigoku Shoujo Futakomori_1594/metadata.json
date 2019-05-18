@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2006-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 7,
+                "month": 4,
+                "year": 2007
+            }
+        },
+        "string": "Oct 7, 2006 to Apr 7, 2007",
+        "to": "2007-04-07T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 19:30 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Aizome\" by Mamiko Noto\"Aizome\" by Savage Genius"
+    ],
+    "episodes": 26,
+    "favorites": 661,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/86975.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 1594,
+    "members": 109892,
+    "opening_themes": [
+        "\"NightmaRe\" by SNoW"
+    ],
+    "popularity": 938,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 147,
+            "name": "SKY Perfect Well Think",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/147/SKY_Perfect_Well_Think"
+        }
+    ],
+    "rank": 563,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3243,
+                "name": "Jigoku Shoujo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3243/Jigoku_Shoujo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 228,
+                "name": "Jigoku Shoujo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/228/Jigoku_Shoujo"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 3713,
+                "name": "Jigoku Shoujo Mitsuganae",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3713/Jigoku_Shoujo_Mitsuganae"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:daaac4bbd8031a263c01e723407bb1071ecc3610",
+    "score": 8.01,
+    "scored_by": 48107,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Ai Enma and her companions continue to offer their service of revenge against those who have wronged others, and the price is as steep as ever\u2014for damning the offender to hell, the person exacting vengeance is sent to the abyss as well. As they cast soul after soul into the darkness, a new sinister force is watching them: a little girl named Kikuri. While Ai continues her duties, she meets a boy named Takuma Kurebayashi, known as the \"Devil's Child\" because of the horrific events that occur around him. Unfortunately, Takuma's reputation leads the townspeople to use him as a scapegoat for those who have been ferried off to hell. When things quickly spiral out of control, Ai must find a way to bring an end to this senseless violence, as it poses a threat to her very existence. [Written by MAL Rewrite]",
+    "title": "Jigoku Shoujo Futakomori",
+    "title_english": "Hell Girl: Two Mirrors",
+    "title_japanese": "\u5730\u7344\u5c11\u5973 \u4e8c\u7c60",
+    "title_synonyms": [
+        "Hell Girl 2",
+        "Hell Girl Futakomori",
+        "Hell Girl Second Cage",
+        "Hell Girl: The Two Prisoners",
+        "Jigoku Shoujo: Futagomori"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori"
+}

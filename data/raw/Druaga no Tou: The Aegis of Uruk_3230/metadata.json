@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2008-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2008
+            }
+        },
+        "string": "Apr 5, 2008 to Jun 21, 2008",
+        "to": "2008-06-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"T\u014dch\u014dsha-tachi (\u5854\u9802\u8005\u305f\u3061)\" by Kenn"
+    ],
+    "episodes": 12,
+    "favorites": 206,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75646.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 3230,
+    "members": 91702,
+    "opening_themes": [
+        "\"Swinging\" by Muramasa\u2606"
+    ],
+    "popularity": 1080,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 1597,
+            "name": "Sotsu Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+        }
+    ],
+    "rank": 2607,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Sequel": [
+            {
+                "mal_id": 4726,
+                "name": "Druaga no Tou: The Sword of Uruk",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4726/Druaga_no_Tou__The_Sword_of_Uruk"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 4798,
+                "name": "Druaga no Tou: The Aegis of Uruk - Jil no Bouken",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4798/Druaga_no_Tou__The_Aegis_of_Uruk_-_Jil_no_Bouken"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:1035122bb2ebe7cdc081a686a4ea6c5c37bd31f8",
+    "score": 7.27,
+    "scored_by": 40638,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 3,
+            "name": "Gonzo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ],
+    "synopsis": "It is said that every few years, there is what's known as the \"Summer of Anu.\" During that summer, thanks to the divine protection of the sky-god Anu, all of the demons in the tower lose their power. The country of Uruk has begun an invasion of the tower in order to suppress the demons. They've built up positions inside the tower, with their sights set on getting to the upper levels. The Uruk army knows that this is the third Summer of Anu-a perfect time to launch a mission to suppress the monster Druaga once and for all. The army soldiers aren't the only ones in the tower, though. An enitre city called Meskia has formed inside the tower's first floor. It plays host not just to soldiers, but also to adventurers who have heard rumors about a legendary treasure called the Blue Crystal Rod, which is said to rest at the very top of the tower. With all these different groups in the mix, each with its own agenda, one can only guess how things will play out during this unusual summer. (Source: Newtype Magazine)",
+    "title": "Druaga no Tou: The Aegis of Uruk",
+    "title_english": "Tower of Druaga: The Aegis of Uruk",
+    "title_japanese": "\u30c9\u30eb\u30a2\u30fc\u30ac\u306e\u5854 \u301cthe Aegis of URUK\u301c",
+    "title_synonyms": [
+        "Druaga no Tou: The Aegis of Uruk"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/laQ4b650P4c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3230/Druaga_no_Tou__The_Aegis_of_Uruk"
+}

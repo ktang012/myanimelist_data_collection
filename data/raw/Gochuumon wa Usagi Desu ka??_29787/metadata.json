@@ -1,0 +1,181 @@
+{
+    "aired": {
+        "from": "2015-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 10, 2015 to Dec 26, 2015",
+        "to": "2015-12-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 21:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Tokimeki Poporon\u266a (\u3068\u304d\u3081\u304d\u30dd\u30dd\u30ed\u30f3\u266a)\" by Chimame-tai (Inori Minase, Sora Tokui, Rie Murakawa) (eps 1-11)",
+        "\"Nantonaku Mirai (\u306a\u3093\u3068\u306a\u304f\u30df\u30e9\u30a4)\" by Petit Rabbit's (Ayane Sakura, Inori Minase, Risa Taneda, Satomi Sato, Maaya Uchida) (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 671,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/76702.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 29787,
+    "members": 73054,
+    "opening_themes": [
+        "\"no poi! (\u30ce\u30fc\u30dd\u30a4\u30c3\uff01)\" by Petit Rabbit's (Ayane Sakura, Inori Minase, Risa Taneda, Satomi Sato, Maaya Uchida)"
+    ],
+    "popularity": 1319,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1331,
+            "name": "i0+",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1331/i0_"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1581,
+            "name": "RAY",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1581/RAY"
+        }
+    ],
+    "rank": 673,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 49835,
+                "name": "Gochuumon wa Usagi desu ka?",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/49835/Gochuumon_wa_Usagi_desu_ka"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 21273,
+                "name": "Gochuumon wa Usagi Desu ka?",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33280,
+                "name": "Gochuumon wa Usagi Desu ka??: Dear My Sister",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33280/Gochuumon_wa_Usagi_Desu_ka__Dear_My_Sister"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:e86ef320aa2e237f29d6afcc550a992807632543",
+    "score": 7.92,
+    "scored_by": 32407,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 290,
+            "name": "Kinema Citrus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        },
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "With a new year comes new adventures, especially at the Rabbit House! Since her arrival at the caf\u00e9, Kokoa Hoto has become accustomed to her new life as a waitress even though the Rabbit House isn't the rabbit paradise she initially envisioned it to be. Life is pleasant, and she enjoys spending time both working and playing with her friends and fellow waitresses Chino Kafuu, a cute middle school student with a fuzzy bunny companion named Tippy, and Rize Tedeza, the pig-tailed daughter of a soldier who is readily armed for any scenario. Together with Chiya Ujimatsu and Sharo Kirima, who also work at neighboring caf\u00e9s in town, the Rabbit House crew gets involved in all sorts of crazy adventures. Throughout these adventures, the girls encounter troubled novelists, rival cafes, secret treasure, and... alcoholic chocolates? [Written by MAL Rewrite]",
+    "title": "Gochuumon wa Usagi Desu ka??",
+    "title_english": "Is the Order a Rabbit??",
+    "title_japanese": "\u3054\u6ce8\u6587\u306f\u3046\u3055\u304e\u3067\u3059\u304b??",
+    "title_synonyms": [
+        "Gochuumon wa Usagi desu ka? 2",
+        "GochiUsa 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/awfptUKbWEo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_Desu_ka"
+}

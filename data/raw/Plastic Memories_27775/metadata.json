@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2015-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 5, 2015 to Jun 28, 2015",
+        "to": "2015-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"again & again\" by Melody Chubak (ep 1)",
+        "\"Asayake no Starmine (\u671d\u713c\u3051\u306e\u30b9\u30bf\u30fc\u30de\u30a4\u30f3)\" by Asami Imai (eps 2-7, 9-13)",
+        "\"Ring of Fortune\" by Eri Sasaki (ep 8)"
+    ],
+    "episodes": 13,
+    "favorites": 6478,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/72750.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 27775,
+    "members": 417814,
+    "opening_themes": [
+        "\"Ring of Fortune\" by Eri Sasaki (\u4f50\u3005\u6728\u6075\u68a8) (eps 2-7, 9-13)"
+    ],
+    "popularity": 156,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1415,
+            "name": "Asahi Broadcasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 569,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 90174,
+                "name": "Plastic Memories: Say to Good-bye",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/90174/Plastic_Memories__Say_to_Good-bye"
+            },
+            {
+                "mal_id": 101126,
+                "name": "Plastic Memories: Heartfelt Thanks",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/101126/Plastic_Memories__Heartfelt_Thanks"
+            }
+        ]
+    },
+    "request_cache_expiry": 35736,
+    "request_cached": true,
+    "request_hash": "request:anime:a24fa35b0eb2b19070c367396cc046d358cfb351",
+    "score": 8.01,
+    "scored_by": 206367,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "Eighteen-year-old Tsukasa Mizugaki has failed his college entrance exams, but after pulling some strings, he manages to land a job at the Sion Artificial Intelligence Corporation. SAI Corp is responsible for the creation of \"Giftias\"\u2014highly advanced androids which are almost indiscernible from normal humans. However, unlike humans, Giftias have a maximum lifespan of 81,920 hours, or around nine years and four months. Terminal Service One, the station Tsukasa was assigned to, is responsible for collecting Giftias that have met their expiration date, before they lose their memories and become hostile. Promptly after joining Terminal Service One, Tsukasa is partnered with a beautiful Giftia named Isla. She is a Terminal Service veteran and considered the best in Giftia retrievals, contrary to her petite figure and placid nature. Time is fleeting though, and Tsukasa must come to terms with his feelings for Isla before her time is up. No matter how much someone desires it, nothing lasts forever. [Written by MAL Rewrite]",
+    "title": "Plastic Memories",
+    "title_english": "Plastic Memories",
+    "title_japanese": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30e2\u30ea\u30fc\u30ba",
+    "title_synonyms": [
+        "Plamemo"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Rl6ypQrTzOI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/27775/Plastic_Memories"
+}

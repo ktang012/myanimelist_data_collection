@@ -1,0 +1,161 @@
+{
+    "aired": {
+        "from": "2012-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 6, 2012 to Sep 25, 2012",
+        "to": "2012-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Platinum 17\" by yozuca*"
+    ],
+    "episodes": 12,
+    "favorites": 727,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75102.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 12549,
+    "members": 264836,
+    "opening_themes": [
+        "\"Reason why XXX\" by Sayaka Sasaki"
+    ],
+    "popularity": 327,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1664,
+            "name": "Fujimi Shobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        }
+    ],
+    "rank": 4362,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25597,
+                "name": "Dakara Boku wa, H ga Dekinai.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25597/Dakara_Boku_wa_H_ga_Dekinai"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 14893,
+                "name": "Dakara Boku wa, H ga Dekinai.: Mie Sugi! Mizugi Contest",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14893/Dakara_Boku_wa_H_ga_Dekinai__Mie_Sugi_Mizugi_Contest"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 15325,
+                "name": "Dakara Boku wa, H ga Dekinai. Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15325/Dakara_Boku_wa_H_ga_Dekinai_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 41326,
+    "request_cached": true,
+    "request_hash": "request:anime:be84591c7a21c786e633dd7206aee1278bbbdf06",
+    "score": 6.83,
+    "scored_by": 137402,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ],
+    "synopsis": "NEVER make a deal with a wet goddess you've only just met. That's a lesson Ryosuke Kaga learns the hard way when he foolishly agrees to let Lisara Restole use some of his \"essence\" to stay in this world. Because despite her smoking hot appearance, Lisara's actually a Shinigami, a Goddess of Death. However, she DOESN'T steal years off his life like any decent Shinigami would do. Oh no, instead she sucks him dry of something much more perverse by leeching off his lecherous spirit and draining his ability to enjoy... er... the things that teenage boys normally spend most of their time thinking about! And now that he's been de-debased and de-debauched by her un-dirty trick, the poor regenerated degenerate's only hope of getting his licentiousness renewed is to join the queen of mental-clean on her quest, since when she leaves our mortal plane he regains his normal immorality! But the termination of the probation of his reprobation isn't guaranteed, because Goddesses of Death can be really harsh mistresses and it's going to be anything but easy to go back to being sleazy! (Source: Sentai Filmworks)",
+    "title": "Dakara Boku wa, H ga Dekinai.",
+    "title_english": "So, I Can't Play H!",
+    "title_japanese": "\u3060\u304b\u3089\u50d5\u306f\u3001H\u304c\u3067\u304d\u306a\u3044\u3002",
+    "title_synonyms": [
+        "Dakara boku-ha H ga Dekinai."
+    ],
+    "trailer_url": "https://www.youtube.com/embed/a7QLbvl5iYU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12549/Dakara_Boku_wa_H_ga_Dekinai"
+}

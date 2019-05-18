@@ -1,0 +1,142 @@
+{
+    "aired": {
+        "from": "2018-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 22,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Apr 6, 2018 to Jun 22, 2018",
+        "to": "2018-06-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 21:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Sake to Ikura to 893 to Musume (\u9bad\u3068\u30a4\u30af\u30e9\u3068893\u3068\u5a18)\" by Yoshifumi Nitta (Yoshiki Nakajima)",
+        "\"Shashinchou (\u5199\u771f\u5e16)\" by Yoko Ishida (ep 6)",
+        "\"Taisetsu na Hito (\u305f\u3044\u305b\u3064\u306a\u3072\u3068)\" by Chisuga Haruka (ep 12)",
+        "\"Hajimete no Kimochi (\u521d\u3081\u3066\u306e\u30ad\u30e2\u30c1)\" by Mao (Ozawa Ari) (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 2126,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1580/93526.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 36296,
+    "members": 216366,
+    "opening_themes": [
+        "\"Distance\" by Rie Murakawa"
+    ],
+    "popularity": 429,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        }
+    ],
+    "rank": 219,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 36413,
+                "name": "Hinamatsuri",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/36413/Hinamatsuri"
+            }
+        ]
+    },
+    "request_cache_expiry": 19376,
+    "request_cached": true,
+    "request_hash": "request:anime:8df08a9a19923a52fa598fa3d57078435b978ac6",
+    "score": 8.33,
+    "scored_by": 103345,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ],
+    "synopsis": "While reveling in the successful clinching of a prized vase for his collection, Yoshifumi Nitta, a yakuza member, is rudely interrupted when a large, peculiar capsule suddenly materializes and falls on his head. He opens the capsule to reveal a young, blue-haired girl, who doesn't divulge anything about herself but her name\u2014Hina\u2014and the fact that she possesses immense powers. As if things couldn't get any worse, she loses control and unleashes an explosion if her powers remain unused. Faced with no other choice, Nitta finds himself becoming her caregiver. To let her use her powers freely, Nitta asks Hina to help out with a construction deal, which goes smoothly. But while this is happening, a rival yakuza group covertly attacks his boss. To Nitta's shock, his colleagues later pin the blame on him! Tasked with attacking the rival group in retaliation, Nitta steels himself and arrives at their hideout. But suddenly, Hina unexpectedly steps in and helps him wipe out the entire group. As it turns out, Hina might just become a valuable asset to Nitta and his yakuza business, provided she does not use her powers on him first! And so the strange life of this unusual duo begins. [Written by MAL Rewrite]",
+    "title": "Hinamatsuri",
+    "title_english": null,
+    "title_japanese": "\u30d2\u30ca\u307e\u3064\u308a",
+    "title_synonyms": [
+        "Hina Festival"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/1oTxGJcx04Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36296/Hinamatsuri"
+}

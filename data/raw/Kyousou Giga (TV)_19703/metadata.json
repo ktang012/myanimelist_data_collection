@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2013-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 10, 2013 to Dec 19, 2013",
+        "to": "2013-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:30 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Shissou Ginga (\u75be\u8d70\u9280\u6cb3)\" by TEPPAN"
+    ],
+    "episodes": 10,
+    "favorites": 1520,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/85431.jpg",
+    "licensors": [
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        }
+    ],
+    "mal_id": 19703,
+    "members": 110986,
+    "opening_themes": [
+        "\"Koko (\u30b3\u30b3)\" by Tamurapan (\u305f\u3080\u3089\u3071\u3093)"
+    ],
+    "popularity": 926,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 142,
+            "name": "Asatsu DK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+        },
+        {
+            "mal_id": 715,
+            "name": "Dwango",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/715/Dwango"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1588,
+            "name": "Bandai Channel",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1588/Bandai_Channel"
+        },
+        {
+            "mal_id": 1720,
+            "name": "Aoni Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1720/Aoni_Production"
+        }
+    ],
+    "rank": 795,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Other": [
+            {
+                "mal_id": 15359,
+                "name": "Kyousou Giga (2012)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15359/Kyousou_Giga_2012"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 20723,
+                "name": "Kyousou Giga (TV) Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20723/Kyousou_Giga_TV_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 2216,
+    "request_cached": true,
+    "request_hash": "request:anime:1a8eb4e9ee6cc9938bc786ac0b2bb90537ae57d9",
+    "score": 7.86,
+    "scored_by": 34354,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 18,
+            "name": "Toei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ],
+    "synopsis": "Long ago, there was a monk named Myoue who could bring anything he drew to life. He quietly lived with his wife Koto\u2014a black rabbit in human form\u2014and their three children: Yakushimaru, Kurama, and Yase. One day, the high priest of the land concluded that Myoue's drawings caused too many problems for the locals and ordered him to find a solution. In response, the family secretly fled to an alternate world of Myoue's own creation\u2014the Looking Glass City. Everything was peaceful until Myoue and Koto suddenly vanished. Their three children are left to take care of the city, and Yakushimaru inherits Myoue's name and duties. Stranded in this alternate world, their problems only get worse when a young girl\u2014also named Koto\u2014crashes down from the sky and declares that she is also looking for the older Myoue and Koto. Armed with a giant hammer and two rowdy familiars, Koto just might be the key to releasing everyone from the eternal paper city. [Written by MAL Rewrite]",
+    "title": "Kyousou Giga (TV)",
+    "title_english": "Kyousougiga",
+    "title_japanese": "\u4eac\u9a12\u622f\u753b",
+    "title_synonyms": [
+        "Kyousogiga (TV)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/In4YoCWTKiM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19703/Kyousou_Giga_TV"
+}

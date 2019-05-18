@@ -1,0 +1,189 @@
+{
+    "aired": {
+        "from": "2011-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 3, 2011 to Sep 25, 2011",
+        "to": "2011-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Bandai Entertainment had licensed Nichijou, but on January 2, 2012, it was announced they were leaving the North American anime market with all unreleased titles including Nichijou being cancelled. The series would remain unlicensed until November 4, 2016 when FUNimation Entertainment announced that it had acquired the series, and would be releasing it sub-only in a complete Blu-ray & DVD combo pack.",
+    "broadcast": "Sundays at 02:20 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Zzz\" by Sayaka Sasaki (eps 1, 3-5)",
+        "\"Zzz (Bossa Nova version)\" by Sayaka Sasaki (eps 2, 10-13)",
+        "\"Zzz (Acapella version)\" by Sayaka Sasaki (eps 7-9)",
+        "\"Tsubasa wo Kudasai (\u7ffc\u3092\u304f\u3060\u3055\u3044)\" by Sayaka Sasaki (ep 14)",
+        "\"Kikyuu ni Notte Dokomademo (\u6c17\u7403\u306b\u306e\u3063\u3066\u3069\u3053\u307e\u3067\u3082)\" by Nano Shinonome, Hakase & Sakamoto-san (Shizuka Furuya, Hiromi Konno & Minoru Shiraishi) (ep 15)",
+        "\"My Ballad (\u30de\u30a4\u30d0\u30e9\u30fc\u30c9)\" by Sayaka Sasaki (ep 16)",
+        "\"Kaijuu no Ballad (\u602a\u7363\u306e\u30d0\u30e9\u30fc\u30c9)\" by Yuuko, Mio & Mai (Mariko Honda, Mai Aizawa & Misuzu Togashi) (ep 17)",
+        "\"Green Green (\u30b0\u30ea\u30fc\u30f3\u30b0\u30ea\u30fc\u30f3)\" by Sayaka Sasaki (ep 18)",
+        "\"Yasei no Uma (\u91ce\u751f\u306e\u99ac)\" by Takasaki-sensei, Sakurai-sensei, Nakamura-sensei, Makoto Sakurai, Yuria Sekiguchi, Haruna Annaka & Ogi (Tetsu Inada, Mami Kosuge, Kaoru Mizuhara, Takahiro Hikami, Ai Hirosaka, Kaori Sadohara, Ryouta Takeuchi) (ep 19)",
+        "\"Ano Subarashii Ai o Mou Ichido (\u3042\u306e\u7d20\u6674\u3089\u3057\u3044\u611b\u3092\u3082\u3046\u4e00\u5ea6)\" by Sayaka Sasaki (ep 20)",
+        "\"Sudachi no Uta (\u5de3\u7acb\u3061\u306e\u6b4c)\" by Sasahara, Misato, Nakanojou, Weboshi & Fecchan (Yoshihisa Kawahara, Chika Horikawa, Kazutomi Yamamoto, Youko Tamaoki & Yumi Higuchi) (ep 21)",
+        "\"Aogeba Toutoshi (\u4ef0\u3052\u3070\u5c0a\u3057)\" by Sayaka Sasaki (ep 22)",
+        "\"Sora ga Konna ni Aoi to wa (\u7a7a\u304c\u3053\u3093\u306a\u306b\u9752\u3044\u3068\u306f)\" by Hakase & Mai (Hiromi Konno & Misuzu Togashi) (ep 23)",
+        "\"Yuuki Hitotsu wo Tomo ni Shite (\u52c7\u6c17\u4e00\u3064\u3092\u53cb\u306b\u3057\u3066)\" by Sayaka Sasaki (ep 24)",
+        "\"Let's search for Tomorrow\" by Yuuko, Mio & Mai (Mariko Honda, Mai Aizawa & Misuzu Togashi) (ep 25)",
+        "\"Tabidachi no hi ni (\u65c5\u7acb\u3061\u306e\u65e5\u306b)\" by Yuuko, Mio, Mai, Nano, Hakase & Sakamoto-san (Mariko Honda, Mai Aizawa, Misuzu Togashi, Shizuka Furuya, Hiromi Konno & Minoru Shiraishi) (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 14164,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/75617.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 10165,
+    "members": 445852,
+    "opening_themes": [
+        "\"Hyadain no Kakakata\u2606Kataomoi - C\" by Hyadain (Kenichi Maeyamada) (eps 1-6, 8-13)",
+        "\"Hyadain no Joujou Yuujou (\u30d2\u30e3\u30c0\u30a4\u30f3\u306e\u3058\u3087\u30fc\u3058\u3087\u30fc\u3086\u30fc\u3058\u3087\u30fc)\" by Hyadain (eps 14-16, 18-23, 25)"
+    ],
+    "popularity": 136,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 929,
+            "name": "Animation Do",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/929/Animation_Do"
+        }
+    ],
+    "rank": 104,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3082,
+                "name": "Nichijou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3082/Nichijou"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 8857,
+                "name": "Nichijou: Nichijou no 0-wa",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8857/Nichijou__Nichijou_no_0-wa"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10807,
+                "name": "Nichijou: Original Jikai Yokoku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10807/Nichijou__Original_Jikai_Yokoku"
+            }
+        ]
+    },
+    "request_cache_expiry": 38215,
+    "request_cached": true,
+    "request_hash": "request:anime:7b68f3808252b1447eb0899e3dd82468b3511309",
+    "score": 8.51,
+    "scored_by": 175526,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Nichijou primarily focuses on the daily antics of a trio of childhood friends\u2014high school girls Mio Naganohara, Yuuko Aioi and Mai Minakami\u2014whose stories soon intertwine with the young genius Hakase Shinonome, her robot caretaker Nano, and their talking cat Sakamoto. With every passing day, the lives of these six, as well as of the many people around them, experience both the calms of normal life and the insanity of the absurd. Walking to school, being bitten by a talking crow, spending time with friends, and watching the principal suplex a deer: they are all in a day's work in the extraordinary everyday lives of those in Nichijou. [Written by MAL Rewrite]",
+    "title": "Nichijou",
+    "title_english": "Nichijou - My Ordinary Life",
+    "title_japanese": "\u65e5\u5e38",
+    "title_synonyms": [
+        "Everyday"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/CD6VdVDVDXI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10165/Nichijou"
+}

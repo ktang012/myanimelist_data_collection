@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2012-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Jul 2, 2012 to Dec 24, 2012",
+        "to": "2012-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episodes 1 and 2 were pre-aired on June 29, 2012. The official airing was on July 2, 2012.",
+    "broadcast": "Mondays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Go to the top\" by Kumi Kouda (ep 1)",
+        "\"signs ~Sakutsuki Hitoyo~ (signs \uff5e\u6714\u6708\u4e00\u591c\uff5e)\" by Minami Kuribayashi (eps 2-16, 18, 19, 24)",
+        "\"Snow Maiden (\u30b9\u30ce\u30a6\u30e1\u30f0\u30c7\u30f3)\" by Aki Misato (ep 17)",
+        "\"Revise the World\" by ayami (eps 20-23)"
+    ],
+    "episodes": 24,
+    "favorites": 307,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/44462.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 11021,
+    "members": 70740,
+    "opening_themes": [
+        "\"Go to the top\" by Kumi Kouda (eps 2-19)",
+        "\"Doubt the World\" by Minami Kuribayashi (eps 20-24)"
+    ],
+    "popularity": 1362,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 1577,
+            "name": "Nippon Cultural Broadcasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1577/Nippon_Cultural_Broadcasting"
+        }
+    ],
+    "rank": 3108,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37419,
+                "name": "Muv-Luv Alternative: Total Eclipse",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37419/Muv-Luv_Alternative__Total_Eclipse"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 30806,
+                "name": "Schwarzesmarken",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30806/Schwarzesmarken"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 16335,
+                "name": "Muv-Luv Alternative: Total Eclipse Recap - Climax Chokuzen Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16335/Muv-Luv_Alternative__Total_Eclipse_Recap_-_Climax_Chokuzen_Special"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4ba7cc29c065924809c366185be49b48c336ef8e",
+    "score": 7.16,
+    "scored_by": 31443,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        },
+        {
+            "mal_id": 601,
+            "name": "ixtl",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/601/ixtl"
+        }
+    ],
+    "synopsis": "Since 1973, an invasion of aliens upon Earth known as BETA has driven human civilization to destruction. In order to defend themselves from this enormous mass of enemy force, mankind has developed large humanoid arms called Tactical Surface Fighters and deployed them to its defense lines through out the world. However, its efforts could only slow down the impending defeat, and mankind has been forced to abandon the major areas of the Eurasian Continent. For 30 years, they have been caught in an endless war against BETA without any hopes of victory. Now in 2001, Imperial Japan faces difficulties in the development of the next-generation of Tactical Surface Fighters (TSF) as it defends the front lines of the Far East. The UN has proposed a joint development program between Imperial Japan and the United States as a part of its TSF international mutual development unit, the Prominence Project. Yui Takamura (a surface pilot of the Imperial Royal Guards of Japan) is given the responsibility of the project and sets off to Alaska. Meanwhile, Yuya Bridges, also a surface pilot of the US Army, heads to the same destination. They never had any idea just how drastically their encounter would change their fates. This story of internal dilemma takes place during the development of the new Tactical Surface Fighters, the most crucial and effective weapons against BETA. And this time, the stakes are much higher than a handful of lives and our sanity. All we can do is fight. (Source: Muv-Luv Total Eclipse Official English Website, edited)",
+    "title": "Muv-Luv Alternative: Total Eclipse",
+    "title_english": "Muv-Luv Alternative: Total Eclipse",
+    "title_japanese": "\u30de\u30d6\u30e9\u30f4 \u30aa\u30eb\u30bf\u30cd\u30a4\u30c6\u30a3\u30f4 \u30c8\u30fc\u30bf\u30eb\u30fb\u30a4\u30af\u30ea\u30d7\u30b9",
+    "title_synonyms": [
+        "MuvLuv Alternative Total Eclipse",
+        "MLA TE"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/LQDaJyvnZ2M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11021/Muv-Luv_Alternative__Total_Eclipse"
+}

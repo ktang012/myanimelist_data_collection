@@ -1,0 +1,182 @@
+{
+    "aired": {
+        "from": "2015-07-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 25, 2015 to Sep 26, 2015",
+        "to": "2015-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:40 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Happening\u2606diary (\u30cf\u30d7\u30cb\u30f3\u30b0\u2606\u30c0\u30a4\u30a2\u30ea\u30fc)\" by Yumeha Kouda (eps 1-6)",
+        "\"Wishing diary\" by Yumeha Kouda (eps 7-10)"
+    ],
+    "episodes": 10,
+    "favorites": 187,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75297.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 27525,
+    "members": 79721,
+    "opening_themes": [
+        "\"Wonder Stella (\u30ef\u30f3\u30c0\u30fc\u30b9\u30c6\u30e9)\" by fh\u00e1na"
+    ],
+    "popularity": 1227,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        }
+    ],
+    "rank": 2247,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13856,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13856/Fate_kaleid_liner_Prisma\u2606Illya_2wei"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 20509,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20509/Fate_kaleid_liner_Prisma\u2606Illya_2wei"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31706,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 3rei!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31706/Fate_kaleid_liner_Prisma\u2606Illya_3rei"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31056,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei Herz! Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31056/Fate_kaleid_liner_Prisma\u2606Illya_2wei_Herz_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 2241,
+    "request_cached": true,
+    "request_hash": "request:anime:cd9e49ec762acef4ea773e385cc4eca63b11b417",
+    "score": 7.36,
+    "scored_by": 40423,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "Based on the Fate/Kaleid Liner Prisma\u2606Illya 2wei! manga by Hiroshi Hiroyama, which is a spin-off of the Fate/stay night erotic visual novel by Type-Moon.",
+    "title": "Fate/kaleid liner Prisma\u2606Illya 2wei Herz!",
+    "title_english": "Fate/Kaleid Liner Prisma Illya 2Wei Herz!",
+    "title_japanese": "Fate/kaleid liner \u30d7\u30ea\u30ba\u30de\u2606\u30a4\u30ea\u30e4 \u30c4\u30f4\u30a1\u30a4 \u30d8\u30eb\u30c4\uff01",
+    "title_synonyms": [
+        "Prisma Illya 2wei! Herz"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3nW22u2Ge54?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/27525/Fate_kaleid_liner_Prisma\u2606Illya_2wei_Herz"
+}

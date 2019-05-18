@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2008-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 10, 2008 to Dec 19, 2008",
+        "to": "2008-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"\u6771\u4eac et \u5df4\u91cc (Tokyo and Paris)\" by Emiri Miyamoto x Solita"
+    ],
+    "episodes": 11,
+    "favorites": 292,
+    "genres": [
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/11918.jpg",
+    "licensors": [],
+    "mal_id": 4477,
+    "members": 92591,
+    "opening_themes": [
+        "\"Sky High!\" by The Gospellers"
+    ],
+    "popularity": 1071,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        }
+    ],
+    "rank": 314,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 419,
+                "name": "Nodame Cantabile",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/419/Nodame_Cantabile"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 5656,
+                "name": "PuriGorota: Uchuu no Yuujou Daibouken",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5656/PuriGorota__Uchuu_no_Yuujou_Daibouken"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 1698,
+                "name": "Nodame Cantabile",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1698/Nodame_Cantabile"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 8038,
+                "name": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8038/Nodame_Cantabile__Finale_-_Mine_to_Kiyora_no_Saikai"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6187,
+                "name": "Nodame Cantabile OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6187/Nodame_Cantabile_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c7545484fa7693672438650d7a320a0c8642de61",
+    "score": 8.22,
+    "scored_by": 57690,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Having been given the opportunity to study in Paris, Noda accompanies Chiaki to Europe as he strives to become the accomplished conductor he always dreamt to be. (Source: ANN)",
+    "title": "Nodame Cantabile: Paris-hen",
+    "title_english": null,
+    "title_japanese": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec \u5df4\u91cc\u7de8",
+    "title_synonyms": [
+        "Nodame Cantabile Paris Chapter",
+        "Nodame Cantabile Pari-hen"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4477/Nodame_Cantabile__Paris-hen"
+}

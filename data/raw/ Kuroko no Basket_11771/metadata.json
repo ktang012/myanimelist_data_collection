@@ -1,0 +1,193 @@
+{
+    "aired": {
+        "from": "2012-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Apr 8, 2012 to Sep 22, 2012",
+        "to": "2012-09-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kuroko no Basket also has a series of light novels, audio CDs, and several games for the Nintendo 3DS. Kuroko also appears in the crossover fighting game J-Stars Victory VS.",
+    "broadcast": "Sundays at 01:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Start it right away\" by Hyadain (eps 1-13)",
+        "\"Catal Rhythm (\u30ab\u30bf\u30eb\u30ea\u30ba\u30e0)\" by OLDCODEX (eps 14-25)"
+    ],
+    "episodes": 25,
+    "favorites": 16288,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/50453.jpg",
+    "licensors": [],
+    "mal_id": 11771,
+    "members": 556279,
+    "opening_themes": [
+        "\"Can Do\" by GRANRODEO (eps 1-13)",
+        "\"RIMFIRE\" by GRANRODEO (eps 14-25)"
+    ],
+    "popularity": 90,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1121,
+            "name": "Banpresto",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1121/Banpresto"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 221,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11652,
+                "name": "Kuroko no Basket",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11652/Kuroko_no_Basket"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 15487,
+                "name": "Kuroko no Basket NG-shuu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15487/Kuroko_no_Basket_NG-shuu"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 16916,
+                "name": "Kuroko no Basket: Tip Off",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16916/Kuroko_no_Basket__Tip_Off"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16894,
+                "name": "Kuroko no Basket 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16894/Kuroko_no_Basket_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 17259,
+                "name": "Kuroko no Basket: Oshaberi Shiyokka",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17259/Kuroko_no_Basket__Oshaberi_Shiyokka"
+            },
+            {
+                "mal_id": 19669,
+                "name": "Kuroko no Basket: Baka ja Katenai no yo!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19669/Kuroko_no_Basket__Baka_ja_Katenai_no_yo"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 32869,
+                "name": "Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32869/Kuroko_no_Basket_Movie_1__Winter_Cup_-_Kage_to_Hikari"
+            }
+        ]
+    },
+    "request_cache_expiry": 4143,
+    "request_cached": true,
+    "request_hash": "request:anime:1101637cf4ff6399697f4c2a8cfa6e545ac39e99",
+    "score": 8.33,
+    "scored_by": 326248,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Teikou Junior High School's basketball team is crowned champion three years in a row thanks to five outstanding players who, with their breathtaking and unique skills, leave opponents in despair and fans in admiration. However, after graduating, these teammates, known as \"The Generation of Miracles,\" go their separate ways and now consider each other as rivals. At Seirin High School, two newly recruited freshmen prove that they are not ordinary basketball players: Taiga Kagami, a promising player returning from the US, and Tetsuya Kuroko, a seemingly ordinary student whose lack of presence allows him to move around unnoticed. Although Kuroko is neither athletic nor able to score any points, he was a member of Teikou's basketball team, where he played as the \"Phantom Sixth Man,\" who easily passed the ball and assisted his teammates. Kuroko no Basket follows the journey of Seirin's players as they attempt to become the best Japanese high school team by winning the Interhigh Championship. To reach their goal, they have to cross pathways with several powerful teams, some of which have one of the five players with godlike abilities, whom Kuroko and Taiga make a pact to defeat. [Written by MAL Rewrite]",
+    "title": "Kuroko no Basket",
+    "title_english": "Kuroko's Basketball",
+    "title_japanese": "\u9ed2\u5b50\u306e\u30d0\u30b9\u30b1",
+    "title_synonyms": [
+        "Kuroko no Basuke",
+        "KuroBas"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/FTUIs_SuQfw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
+}

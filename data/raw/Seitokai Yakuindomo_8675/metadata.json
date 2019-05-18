@@ -1,0 +1,122 @@
+{
+    "aired": {
+        "from": "2010-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jul 4, 2010 to Sep 26, 2010",
+        "to": "2010-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Advance screening on May 29th.  The regular TV airing started on July 4th.",
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Aoi Haru (\u84bc\u3044\u6625)\" by angela"
+    ],
+    "episodes": 13,
+    "favorites": 2718,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75550.jpg",
+    "licensors": [],
+    "mal_id": 8675,
+    "members": 315337,
+    "opening_themes": [
+        "\"Yamato Nadeshiko Education (\u5927\u548c\u64ab\u5b50\u30a8\u30c7\u30e5\u30b1\u30a4\u30b7\u30e7\u30f3)\" by Triple Booking"
+    ],
+    "popularity": 265,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 399,
+            "name": "Dream Force",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/399/Dream_Force"
+        }
+    ],
+    "rank": 1229,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14110,
+                "name": "Seitokai Yakuindomo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14110/Seitokai_Yakuindomo"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10119,
+                "name": "Seitokai Yakuindomo OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10119/Seitokai_Yakuindomo_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 13122,
+    "request_cached": true,
+    "request_hash": "request:anime:c48e0251fb154983fcbb174fa85814d2a6ada309",
+    "score": 7.66,
+    "scored_by": 149921,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 309,
+            "name": "GoHands",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+    ],
+    "synopsis": "On his first day of high school at the formerly all-girl's Ousai Private Academy, Takatoshi Tsuda is called out for his untidy uniform by the student council president Shino Amakusa. In apology for delaying Takatoshi for his first class\u2014and stating that the group needs a male point of view to accommodate the arrival of boys at the school\u2014Shino offers him the position of vice president of the student council. Though unwilling, Takatoshi finds himself appointed as the newest member of the student council having yet to even step foot inside the school building. Takatoshi soon realizes that the other student council members who are more than a little strange: President Shino, who is studious and serious in appearance, but actually a huge pervert, fascinated with the erotic and constantly making lewd jokes; the secretary Aria Shichijou, who may seem like a typical sheltered rich girl, but is just as risque as the president, if not more so; and finally, the treasurer Suzu Hagimura, who may act fairly normal, but has the body of an elementary school student and is extremely self-conscious of it. Surrounded by these colorful characters, the new vice president must now work through a nonstop assault of sexual humor and insanity. [Written by MAL Rewrite]",
+    "title": "Seitokai Yakuindomo",
+    "title_english": null,
+    "title_japanese": "\u751f\u5f92\u4f1a\u5f79\u54e1\u5171",
+    "title_synonyms": [
+        "SYD"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/vzfkD0wz7_Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8675/Seitokai_Yakuindomo"
+}

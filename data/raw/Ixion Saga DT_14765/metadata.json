@@ -1,0 +1,114 @@
+{
+    "aired": {
+        "from": "2012-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Oct 8, 2012 to Apr 1, 2013",
+        "to": "2013-04-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Let's Go ED (\u30ec\u30c3\u30c4\u30b4\u30fcED)\" by Golden Ixion Bomber DT (eps 2-12)",
+        "\"Let's Go ED (Erec ver) (\u30ec\u30c3\u30c4\u30b4\u30fcED \uff08\u30a8\u30ec\u30afver\uff09)\" by Golden Ixion Bomber DT (eps 13, 14)",
+        "\"DT Ondo (DT\u97f3\u982d)\" by DT group (eps 15-18)",
+        "\"\u25cb\u25cbTama (\u25cb\u25cb\u305f\u307e)\" by Erec (Hiroshi Kamiya) and \"DT\" by Kon Hokaze (Takuya Eguchi) (ep 19)",
+        "\"Stand Up! ED\" by ED group (eps 20-24)",
+        "\"DT Suteru (DT\u6368\u30c6\u30eb)\" by Golden Ixion Bomber DT (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 286,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/42863.jpg",
+    "licensors": [],
+    "mal_id": 14765,
+    "members": 77631,
+    "opening_themes": [
+        "\"DT Suteru (DT\u6368\u30c6\u30eb)\" by Golden Ixion Bomber DT (eps 1-12)",
+        "\"DT Suteru (Kon ver.) (DT\u6368\u30c6\u30eb\uff08\u7d3aver\uff09)\" by Golden Ixion Bomber DT (eps 13-25)"
+    ],
+    "popularity": 1261,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        }
+    ],
+    "rank": 2491,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 48467,
+                "name": "Ixion Saga ED",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/48467/Ixion_Saga_ED"
+            }
+        ]
+    },
+    "request_cache_expiry": 33891,
+    "request_cached": true,
+    "request_hash": "request:anime:5b7f754a74ec49aa6f73c00c2aed516266b75be0",
+    "score": 7.3,
+    "scored_by": 30871,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "The game and anime follow Kon Hokaze, a boy who embarks on a journey from our world to an alternate world known as Mira, which is full a mysterious energy known as Alma. After saving Princess Ecarlate from attackers, he soon finds himself in the middle of a struggle around Alma.",
+    "title": "Ixion Saga DT",
+    "title_english": null,
+    "title_japanese": "\u30a4\u30af\u30b7\u30aa\u30f3 \u30b5\u30fc\u30ac DT",
+    "title_synonyms": [
+        "Ixion Saga: Dimensional Transfer"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/BTa22fFHlXc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14765/Ixion_Saga_DT"
+}

@@ -1,0 +1,164 @@
+{
+    "aired": {
+        "from": "2009-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Apr 4, 2009 to Sep 19, 2009",
+        "to": "2009-09-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Honjitsu, Mankai Watashi Iro! (\u672c\u65e5\u3001\u6e80\u958b\u30ef\u30bf\u30b7\u8272!)\" by Katsura Hinagiku with Hakuou Academy Student Council Trio starring Itou Shizuka with Yahagi Sayuri & Nakao Eri & Asano Masumi (eps 1-17)",
+        "\"Karakoi ~Dakara Shoujo wa Koi wo Suru~ (\u30ab\u30e9\u30b3\u30a4\uff5e\u3060\u304b\u3089\u5c11\u5973\u306f\u604b\u3092\u3059\u308b\uff5e)\" by Kugimiya Rie and Shiraishi Ryoko (eps 18-24)",
+        "\"Wonder Wind\" by ELISA (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 514,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75212.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 4192,
+    "members": 85180,
+    "opening_themes": [
+        "\"Wonder Wind\" by ELISA (eps 1-17)",
+        "\"daily-daily Dream!!\" by KOTOKO (eps 18-25)"
+    ],
+    "popularity": 1138,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 62,
+            "name": "Shogakukan Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan_Productions"
+        },
+        {
+            "mal_id": 474,
+            "name": "Shogakukan Music & Digital Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+        }
+    ],
+    "rank": 850,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 696,
+                "name": "Hayate no Gotoku!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/696/Hayate_no_Gotoku"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 5521,
+                "name": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5521/Hayate_no_Gotoku__Atsu_ga_Natsuize_-_Mizugi-hen"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 9958,
+                "name": "Hayate no Gotoku! Heaven Is a Place on Earth",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9958/Hayate_no_Gotoku_Heaven_Is_a_Place_on_Earth"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:369174e942ed5a30d72568bfd556309caaa543dd",
+    "score": 7.83,
+    "scored_by": 42437,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Hayate Ayasaki's misfortune continues to hand him the short end of the stick. Now settled into his routine at the Sanzenins' mansion and Hakuou Academy, the butler continues to work as hard as ever in caring for his young mistress Nagi while studying the school's grueling curriculum\u2014all on top of trying his best to survive the multitude of troubles that life relentlessly pushes onto him. The unintentional chick magnet's life is far from quiet, forced to deal not only with Nagi's yet unnoticed infatuation with him, but also the evergrowing string of accidentally seduced girls\u2014most notably, the exceptionally plain Ayumu Nishizawa, a friend of his before he became a butler, and the diligent Hinagiku Katsura, Hakuou's student council president. While one struggles to gain his affection and the other desperately tries to deny her own, both the girls are going to make the boy's life a little more complicated than it already is. [Written by MAL Rewrite]",
+    "title": "Hayate no Gotoku!!",
+    "title_english": "Hayate the Combat Butler!!",
+    "title_japanese": "\u30cf\u30e4\u30c6\u306e\u3054\u3068\u304f!!",
+    "title_synonyms": [
+        "Hayate the Combat Butler Season 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/YYw31bCTnRU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4192/Hayate_no_Gotoku"
+}

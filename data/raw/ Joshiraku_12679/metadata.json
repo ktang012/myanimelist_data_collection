@@ -1,0 +1,128 @@
+{
+    "aired": {
+        "from": "2012-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 6, 2012 to Sep 28, 2012",
+        "to": "2012-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Nippon Egao Hyakkei (\u30cb\u30c3\u30dd\u30f3\u7b11\u9854\u767e\u666f)\" by Momokurotei Ichimon (\u6843\u9ed2\u4ead\u4e00\u9580)"
+    ],
+    "episodes": 13,
+    "favorites": 350,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/48925.jpg",
+    "licensors": [],
+    "mal_id": 12679,
+    "members": 75886,
+    "opening_themes": [
+        "\"Oato ga Yoroshikutte... yo! (\u304a\u5f8c\u304c\u3088\u308d\u3057\u304f\u3063\u3066\u2026\u3088!)\" by Tetora Bouhatei (Nozomi Yamamoto), Marii Buratei (Ayane Sakura), Gankyou Kuurubiyuutei (Yoshino Nanjo), Kigurumi Haroukitei (Kotori Koiwai), Kukuru Anrakutei (Saori Gotou)"
+    ],
+    "popularity": 1285,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        }
+    ],
+    "rank": 1629,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 16104,
+                "name": "Joshiraku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16104/Joshiraku"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 15591,
+                "name": "Joshiraku OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15591/Joshiraku_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 31474,
+    "request_cached": true,
+    "request_hash": "request:anime:0d259f5a045bfdc7eea35d0cc38e7c63adbff8e2",
+    "score": 7.52,
+    "scored_by": 23582,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Joshiraku follows the conversations of five rakugo storyteller girls relating the odd things that happen to them each day. Their comedic and satirical chatting covers all kinds of topics, from pointless observations of everyday life, to politics, manga, and more. Each girl has something new to add to the discussion, and the discourse never ends in the same place it began. Each of the rakugo girls has their own unique personality, with the energetic but immature Marii Buratei; the seemingly cute Kigurumi Haroukitei; the inherently lucky and carefree Tetora Bouhatei; the calm and violent Gankyou Kuurubiyuutei; and the pessimistic and unstable Kukuru Anrakutei. These girls\u2014and their mysterious friend in a wrestling mask\u2014give their observations to the audience, either backstage at the rakugo theater or in various famous locations around Tokyo. [Written by MAL Rewrite]",
+    "title": "Joshiraku",
+    "title_english": "Joshiraku",
+    "title_japanese": "\u3058\u3087\u3057\u3089\u304f",
+    "title_synonyms": [
+        "Rakugo Girls"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/gjUmRgmgq98?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12679/Joshiraku"
+}

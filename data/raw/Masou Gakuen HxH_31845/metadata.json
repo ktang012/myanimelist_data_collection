@@ -1,0 +1,207 @@
+{
+    "aired": {
+        "from": "2016-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 6, 2016 to Sep 21, 2016",
+        "to": "2016-09-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Chi (\u3061\u30c3)\" by Iori Nomizu"
+    ],
+    "episodes": 12,
+    "favorites": 439,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/80262.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 31845,
+    "members": 142094,
+    "opening_themes": [
+        "\"miele paradiso\" by Iori Nomizu"
+    ],
+    "popularity": 708,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 411,
+            "name": "KBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/411/KBS"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+            "mal_id": 1604,
+            "name": "Sun TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1604/Sun_TV"
+        },
+        {
+            "mal_id": 1627,
+            "name": "TV Saitama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1627/TV_Saitama"
+        },
+        {
+            "mal_id": 1628,
+            "name": "Chiba TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1628/Chiba_TV"
+        }
+    ],
+    "rank": 6431,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 67329,
+                "name": "Masou Gakuen HxH",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/67329/Masou_Gakuen_HxH"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34447,
+                "name": "Masou Gakuen HxH Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34447/Masou_Gakuen_HxH_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 34055,
+    "request_cached": true,
+    "request_hash": "request:anime:a3fae8b26fad5297c5d3f6e4243d8b7e2aa4c187",
+    "score": 6.4,
+    "scored_by": 57946,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1053,
+            "name": "Production IMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+        }
+    ],
+    "synopsis": "Hida Kizuna possesses the HHG (Heart Hybrid Gear) ability, but it is not strong enough to make him particularly important. His older sister calls him to transfer to a strategic defense school, where many of the students (many of which are large-breasted girls) use their HHG abilities to fight invaders from another world while wearing extremely skimpy pilot outfits. Kizuna's fighting ability doesn't measure up, but his sister has another plan\u2014apparently having erotic experiences with Kizuna will allow the girls to replenish their energy or power-up. It looks like his new school life is going to be full of embarrassment. (Source: MangaHelpers)",
+    "title": "Masou Gakuen HxH",
+    "title_english": "Hybrid x Heart Magias Academy Ataraxia",
+    "title_japanese": "\u9b54\u88c5\u5b66\u5712H\u00d7H",
+    "title_synonyms": [
+        "Masou Gakuen Hybrid x Heart"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/EUvKVj_dKKU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH"
+}

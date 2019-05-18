@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2010-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 3, 2010 to Dec 26, 2010",
+        "to": "2010-12-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Missing You\" by Lisa Komine"
+    ],
+    "episodes": 13,
+    "favorites": 521,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/35829.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 7662,
+    "members": 99778,
+    "opening_themes": [
+        "\"Key -Phase 1-\" by Jangled Cat (Daisuke Ono) (eps 1-3)",
+        "\"Key -Phase 2-\" by Jangled Cat (Daisuke Ono) (eps 4-6)",
+        "\"Key -Phase 3-\" by Jangled Cat (Daisuke Ono) (eps 7-13)"
+    ],
+    "popularity": 1007,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        },
+        {
+            "mal_id": 161,
+            "name": "Sogo Vision",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+        },
+        {
+            "mal_id": 359,
+            "name": "NHK-BS2",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/359/NHK-BS2"
+        }
+    ],
+    "rank": 2002,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 19357,
+                "name": "Shinrei Tantei Yakumo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/19357/Shinrei_Tantei_Yakumo"
+            }
+        ]
+    },
+    "request_cache_expiry": 12390,
+    "request_cached": true,
+    "request_hash": "request:anime:91883972a63ba6c3e4ea49c8f9029cf2f4429098",
+    "score": 7.42,
+    "scored_by": 43490,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 5,
+            "name": "Bee Train",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+        }
+    ],
+    "synopsis": "Haruka Ozawa's sophomore year is getting seriously scary. One of her friends is possessed, another has committed suicide and Haruka could be the next one to flunk the still-breathing test. Her only way out of this potentially lethal dead end? Yakumo Saito, an enigmatic student born with a mysterious red eye that allows him to see and communicate with the dead. But the deceased don't always desist and some killers are more than ready to kill again to keep dead men from telling any more tales. That doesn't stop Haruka's knack for digging up buried secrets, and there's even more evidence of bodies being exhumed by both Yakumo's police contact and an investigative journalist with a newly made corpse in her closet! Can this pair of anything but normal paranormal detectives solve the ultimate dead case files or will they end up in cold storage themselves? (Source: Sentai Filmworks)",
+    "title": "Shinrei Tantei Yakumo",
+    "title_english": "Psychic Detective Yakumo",
+    "title_japanese": "\u5fc3\u970a\u63a2\u5075 \u516b\u96f2",
+    "title_synonyms": [
+        "Shinrei Tantei Yakumo"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ldZCIMlJQck?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7662/Shinrei_Tantei_Yakumo"
+}

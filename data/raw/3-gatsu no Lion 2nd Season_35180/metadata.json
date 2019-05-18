@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2017-10-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Oct 14, 2017 to Mar 31, 2018",
+        "to": "2018-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:00 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Kafune (\u30ab\u30d5\u30cd)\" by Brian the Sun",
+        "\"I AM STANDING\" by RUANN"
+    ],
+    "episodes": 22,
+    "favorites": 4559,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/88469.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 35180,
+    "members": 134211,
+    "opening_themes": [
+        "\"Flag wo Tatero (\u30d5\u30e9\u30c3\u30b0\u3092\u7acb\u3066\u308d)\" by YUKI",
+        "\"Haru ga Kite Bokura (\u6625\u304c\u6765\u3066\u307c\u304f\u3089)\" by UNISON SQUARE GARDEN"
+    ],
+    "popularity": 751,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 1390,
+            "name": "Toy's Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1390/Toys_Factory"
+        }
+    ],
+    "rank": 9,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1224,
+                "name": "3-gatsu no Lion",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1224/3-gatsu_no_Lion"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 38864,
+                "name": "Lion meets HachiClo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38864/Lion_meets_HachiClo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31646,
+                "name": "3-gatsu no Lion",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31646/3-gatsu_no_Lion"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:a3c22d3c8dc2b12d3244c115b46d9989b5a84546",
+    "score": 9.05,
+    "scored_by": 56850,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 44,
+            "name": "Shaft",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/44/Shaft"
+        }
+    ],
+    "synopsis": "Now in his second year of high school, Rei Kiriyama continues pushing through his struggles in the professional shogi world as well as his personal life. Surrounded by vibrant personalities at the shogi hall, the school club, and in the local community, his solitary shell slowly begins to crack. Among them are the three Kawamoto sisters\u2014Akari, Hinata, and Momo\u2014who forge an affectionate and familial bond with Rei. Through these ties, he realizes that everyone is burdened by their own emotional hardships and begins learning how to rely on others while supporting them in return. Nonetheless, the life of a professional is not easy. Between tournaments, championships, and title matches, the pressure mounts as Rei advances through the ranks and encounters incredibly skilled opponents. As he manages his relationships with those who have grown close to him, the shogi player continues to search for the reason he plays the game that defines his career. [Written by MAL Rewrite]",
+    "title": "3-gatsu no Lion 2nd Season",
+    "title_english": "March Comes In Like A Lion 2nd Season",
+    "title_japanese": "3\u6708\u306e\u30e9\u30a4\u30aa\u30f3 \u7b2c2\u30b7\u30ea\u30fc\u30ba",
+    "title_synonyms": [
+        "Sangatsu no Lion Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/HSC5e_pEeQc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35180/3-gatsu_no_Lion_2nd_Season"
+}

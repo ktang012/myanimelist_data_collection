@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2009-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2009
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Jul 6, 2009 to Sep 21, 2009",
+        "to": "2009-09-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"S.S.D\" by yozuca*"
+    ],
+    "episodes": 12,
+    "favorites": 317,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75519.jpg",
+    "licensors": [],
+    "mal_id": 6201,
+    "members": 143529,
+    "opening_themes": [
+        "\"Princess Primp!\" by Miyuki Hashimoto"
+    ],
+    "popularity": 703,
+    "premiered": "Summer 2009",
+    "producers": [
+        {
+            "mal_id": 399,
+            "name": "Dream Force",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/399/Dream_Force"
+        }
+    ],
+    "rank": 4004,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 15832,
+                "name": "Princess Lover! - Pure My Heart",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/15832/Princess_Lover_-_Pure_My_Heart"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 7468,
+                "name": "Princess Lover! Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7468/Princess_Lover_Picture_Drama"
+            },
+            {
+                "mal_id": 8918,
+                "name": "Princess Lover! OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8918/Princess_Lover_OVA"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 8231,
+                "name": "Princess Lover!: Magical Knight Maria-chan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8231/Princess_Lover__Magical_Knight_Maria-chan"
+            }
+        ]
+    },
+    "request_cache_expiry": 18510,
+    "request_cached": true,
+    "request_hash": "request:anime:39dbb426fd7e6675259bc78b51619bbacd244820",
+    "score": 6.93,
+    "scored_by": 77527,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 309,
+            "name": "GoHands",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+    ],
+    "synopsis": "Following an automobile accident that claims the life of his parents, Teppei Arima is taken in by his grandfather and introduced to the world of the rich and the elite. Compared to his humble upbringing, Isshin Arima's lavish lifestyle surprises and stuns the young teenager. In return for the gracious hospitality, Teppei is expected to continue the family business by replacing his grandfather as the head of Arima Financial Combine, and to prepare him for these responsibilities, he is enrolled into an esteemed high school. Along with his recently acquired celebrity status and affluence, Teppei is informed of an arranged marriage with the equally prosperous Sylvia van Hossen, thus, beginning the thrilling escapades of his new life! [Written by MAL Rewrite]",
+    "title": "Princess Lover!",
+    "title_english": null,
+    "title_japanese": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30e9\u30d0\u30fc!",
+    "title_synonyms": [
+        "Princess Lover!"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6201/Princess_Lover"
+}

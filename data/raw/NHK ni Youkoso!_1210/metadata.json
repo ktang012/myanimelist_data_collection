@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2006-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2006
+            }
+        },
+        "string": "Jul 10, 2006 to Dec 18, 2006",
+        "to": "2006-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Odoru Akachan Ningen\" by Kenji Ohtsuki and Fumihiko Kitsutaka (eps 1-12)",
+        "\"Modokashii Sekai no Ue de\" by Yui Makino (eps 13-22,24)"
+    ],
+    "episodes": 24,
+    "favorites": 17570,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/52675.jpg",
+    "licensors": [
+        {
+            "mal_id": 97,
+            "name": "ADV Films",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 1210,
+    "members": 431367,
+    "opening_themes": [
+        "\"Puzzle\" by ROUND TABLE feat. Nino (eps 1-12)",
+        "\"Puzzle -extra hot mix-\" by ROUND TABLE feat. Nino (eps 13-23)"
+    ],
+    "popularity": 144,
+    "premiered": "Summer 2006",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        },
+        {
+            "mal_id": 123,
+            "name": "Victor Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+        }
+    ],
+    "rank": 192,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 463,
+                "name": "NHK ni Youkoso!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/463/NHK_ni_Youkoso"
+            },
+            {
+                "mal_id": 119553,
+                "name": "NHK ni Youkoso!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/119553/NHK_ni_Youkoso"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:e104893375d76452d6d2b775927d5d9b42d39db4",
+    "score": 8.37,
+    "scored_by": 207927,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 3,
+            "name": "Gonzo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ],
+    "synopsis": "Twenty-two-year-old college dropout Tatsuhiro Satou has been a hikikomori for almost four years now. In his isolation, he has come to believe in many obscure conspiracy theories, but there is one in particular which he holds unshakable faith in: the theory that the evil conspirator behind his shut-in NEET (Not in Employment, Education or Training) status is the Nihon Hikikomori Kyokai (NHK)\u2014an evil and secret organization dedicated to fostering the spread of hikikomori culture. NHK ni Youkoso! is a psychological dramedy that follows Tatsuhiro as he strives to escape from the NHK's wicked machinations and the disease of self-wrought isolation, while struggling to even just leave his apartment and find a job. His unexpected encounter with the mysterious Misaki Nakahara might signal a reversal of fortune for Tatsuhiro, but with this meeting comes the inevitable cost of having to face his greatest fear\u2014society. [Written by MAL Rewrite]",
+    "title": "NHK ni Youkoso!",
+    "title_english": "Welcome to the N.H.K.",
+    "title_japanese": "N\u30fbH\u30fbK\u306b\u3088\u3046\u3053\u305d\uff01",
+    "title_synonyms": [
+        "Welcome to the NHK"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/QYLsjJ8RThQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1210/NHK_ni_Youkoso"
+}

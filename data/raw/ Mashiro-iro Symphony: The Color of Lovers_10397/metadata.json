@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2011-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 5, 2011 to Dec 21, 2011",
+        "to": "2011-12-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 02:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Suisai Candy (\u6c34\u5f69\u30ad\u30e3\u30f3\u30c7\u30a3\u30fc)\" by marble"
+    ],
+    "episodes": 12,
+    "favorites": 456,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/39303.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10397,
+    "members": 109283,
+    "opening_themes": [
+        "\"Authentic symphony\" by Choucho"
+    ],
+    "popularity": 944,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        }
+    ],
+    "rank": 2788,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17328,
+                "name": "Mashiro-iro Symphony",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17328/Mashiro-iro_Symphony"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 13757,
+                "name": "Mashiro-iro Symphony: The Color of Lovers Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13757/Mashiro-iro_Symphony__The_Color_of_Lovers_Picture_Drama"
+            },
+            {
+                "mal_id": 14049,
+                "name": "Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14049/Mashiro-iro_Symphony__Airi_ga_Anata_no_Kanojo_ni"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:0d03cec8aed068e3c58e76eda49823ce762f13b3",
+    "score": 7.23,
+    "scored_by": 54628,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "When boys suddenly get into places where they've never been allowed before, some girls tend to get upset. So when the decision is made to merge the elite Yuihime Girls' Private Academy and the coeducational Kagamidai Private Academy, everyone wants to take extra care in avoiding trouble while bringing the two Privates together. Therefore, rather than just bringing the Kagamidai boys into the Yuihime girls' school all at once, a plan is concocted in which a group of test males will be inserted into the Girls' Private Academy first. Thus, poor young Shingo finds himself being thrown as a sacrificial lamb to the lionesses of Yuihime, who aren't exactly waiting for him with open arms. Will Shingo manage to survive the estrogen soaked death pit that is Yuihime? Can the girls learn to be more receptive to the boys? And just how long until something involving panties will cause emotions to flare, sparks to fly and the battle of the sexes to explode? (Source: Sentai Filmworks, edited)",
+    "title": "Mashiro-iro Symphony: The Color of Lovers",
+    "title_english": "Mashiroiro Symphony: The Color of Lovers",
+    "title_japanese": "\u307e\u3057\u308d\u8272\u30b7\u30f3\u30d5\u30a9\u30cb\u30fc -The color of lovers-",
+    "title_synonyms": [
+        "Mashiro-iro Symphony: Love Is Pure White",
+        "Mashiroiro Symphony: The Color of Lovers",
+        "Pure White Symphony"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10397/Mashiro-iro_Symphony__The_Color_of_Lovers"
+}

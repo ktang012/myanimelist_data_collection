@@ -1,0 +1,156 @@
+{
+    "aired": {
+        "from": "2008-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Jan 9, 2008 to Mar 26, 2008",
+        "to": "2008-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Note: This entry contains all Spice and Wolf episodes, including the DVD-only episode #7. \r\nMore Info:",
+    "broadcast": "Wednesdays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ringo Biyori (\u30ea\u30f3\u30b4\u65e5\u548c \uff5eThe Wolf Whistling Song)\" by ROCKY CHACK",
+        "\"Tabi no Tochuu (\u65c5\u306e\u9014\u4e2d)\" by Kiyoura Natsumi (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 14376,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 262,
+            "name": "Kadokawa Pictures USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/262/Kadokawa_Pictures_USA"
+        }
+    ],
+    "mal_id": 2966,
+    "members": 499227,
+    "opening_themes": [
+        "\"Tabi no Tochuu (\u65c5\u306e\u9014\u4e2d)\" by Kiyoura Natsumi"
+    ],
+    "popularity": 104,
+    "premiered": "Winter 2008",
+    "producers": [
+        {
+            "mal_id": 123,
+            "name": "Victor Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        }
+    ],
+    "rank": 224,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 9115,
+                "name": "Ookami to Koushinryou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/9115/Ookami_to_Koushinryou"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 38026,
+                "name": "Ookami to Koushinryou VR",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38026/Ookami_to_Koushinryou_VR"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6007,
+                "name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6007/Ookami_to_Koushinryou_II__Ookami_to_Kohakuiro_no_Yuuutsu"
+            }
+        ]
+    },
+    "request_cache_expiry": 25141,
+    "request_cached": true,
+    "request_hash": "request:anime:b328c39adbceb338d2f61cca4ad77902dd8f422e",
+    "score": 8.33,
+    "scored_by": 249632,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 75,
+            "name": "Imagin",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/75/Imagin"
+        }
+    ],
+    "synopsis": "Holo is a powerful wolf deity who is celebrated and revered in the small town of Pasloe for blessing the annual harvest. Yet as years go by and the villagers become more self-sufficient, Holo, who stylizes herself as the \"Wise Wolf of Yoitsu,\" has been reduced to a mere folk tale. When a traveling merchant named Kraft Lawrence stops at Pasloe, Holo offers to become his business partner if he eventually takes her to her northern home of Yoitsu. The savvy trader recognizes Holo's unusual ability to evaluate a person's character and accepts her proposition. Now in the possession of both sharp business skills and a charismatic negotiator, Lawrence inches closer to his goal of opening his own shop. However, as Lawrence travels the countryside with Holo in search of economic opportunities, he begins to realize that his aspirations are slowly morphing into something unexpected. Based on the popular light novel of the same name, Ookami to Koushinryou, also known as Spice and Wolf, fuses the two polar genres of economics and romance to create an enthralling story abundant with elaborate schemes, sharp humor, and witty dialogue. Ookami to Koushinryou is more than just a story of bartering; it turns into a journey of searching for a lost identity in an ever-changing world. [Written by MAL Rewrite]",
+    "title": "Ookami to Koushinryou",
+    "title_english": "Spice and Wolf",
+    "title_japanese": "\u72fc\u3068\u9999\u8f9b\u6599",
+    "title_synonyms": [
+        "Ookami to Koushinryou"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PEXSppSq25Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2966/Ookami_to_Koushinryou"
+}

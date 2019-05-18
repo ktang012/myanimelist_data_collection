@@ -1,0 +1,131 @@
+{
+    "aired": {
+        "from": "2015-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 10, 2015 to Mar 28, 2015",
+        "to": "2015-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Death Parade spawned from the short film Death Billiards, which was part of the Young Animator Training Project's Anime Mirai 2013.",
+    "broadcast": "Saturdays at 01:58 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Last Theater\" by NoisyCell"
+    ],
+    "episodes": 12,
+    "favorites": 15002,
+    "genres": [
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 28223,
+    "members": 773603,
+    "opening_themes": [
+        "\"Flyers\" by BRADIO"
+    ],
+    "popularity": 46,
+    "premiered": "Winter 2015",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 296,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Alternative version": [
+            {
+                "mal_id": 14353,
+                "name": "Death Billiards",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14353/Death_Billiards"
+            }
+        ]
+    },
+    "request_cache_expiry": 20492,
+    "request_cached": true,
+    "request_hash": "request:anime:4adb048bcf0d54c128a37d165bfb122588163869",
+    "score": 8.24,
+    "scored_by": 439456,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "After death, there is no heaven or hell, only a bar that stands between reincarnation and oblivion. There the attendant will, one after another, challenge pairs of the recently deceased to a random game in which their fate of either ascending into reincarnation or falling into the void will be wagered. Whether it's bowling, darts, air hockey, or anything in between, each person's true nature will be revealed in a ghastly parade of death and memories, dancing to the whims of the bar's master. Welcome to Quindecim, where Decim, arbiter of the afterlife, awaits! Death Parade expands upon the original one-shot intended to train young animators. It follows yet more people receiving judgment\u2014until a strange, black-haired guest causes Decim to begin questioning his own rulings. [Written by MAL Rewrite]",
+    "title": "Death Parade",
+    "title_english": "Death Parade",
+    "title_japanese": "\u30c7\u30b9\u30fb\u30d1\u30ec\u30fc\u30c9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/O1X6czI74UQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28223/Death_Parade"
+}

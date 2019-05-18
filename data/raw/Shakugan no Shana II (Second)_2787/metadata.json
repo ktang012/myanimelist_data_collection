@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2007-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Oct 5, 2007 to Mar 28, 2008",
+        "to": "2008-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Triangle\" by Kawada Mami (eps 1-15)",
+        "\"Sociometry\" by KOTOKO (eps 16-23)",
+        "\"Sense\" by Kawada Mami (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 1099,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/18669.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 2787,
+    "members": 236365,
+    "opening_themes": [
+        "\"JOINT\" by Mami Kawada (eps 1-15)",
+        "\"BLAZE\" by KOTOKO (16-24)"
+    ],
+    "popularity": 381,
+    "premiered": "Fall 2007",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        }
+    ],
+    "rank": 1136,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3074,
+                "name": "Shakugan no Shana",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3074/Shakugan_no_Shana"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 355,
+                "name": "Shakugan no Shana",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/355/Shakugan_no_Shana"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6572,
+                "name": "Shakugan no Shana S",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6572/Shakugan_no_Shana_S"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 3956,
+                "name": "Shakugan no Shana II (Second) Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3956/Shakugan_no_Shana_II_Second_Specials"
+            },
+            {
+                "mal_id": 14957,
+                "name": "Shakugan no Shana: Friagne to Marianne no Naze Nani Shana! Nandemo Shitsumonbako! 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14957/Shakugan_no_Shana__Friagne_to_Marianne_no_Naze_Nani_Shana_Nandemo_Shitsumonbako_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 10311,
+    "request_cached": true,
+    "request_hash": "request:anime:ff0f44171f8ccea78bb8b445d978d33e67fbfb1d",
+    "score": 7.7,
+    "scored_by": 133470,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "The heated bond between Shana and Yuji is tested as their paranormal adventures continue. The Flame Haze fends off supernatural foes by night. By day, she contends with a classmate who's also after Yuji's heart. Emotions flare as a suspicious transfer student who resembles a recently defeated Denizen clings to Yuji. His training rises in intensity when they catch wind of a revered warrior in search of her lost lover\u2014who will stop at nothing to extract the power keeping Yuji alive! (Source: FUNimation)",
+    "title": "Shakugan no Shana II (Second)",
+    "title_english": "Shakugan no Shana: Season II",
+    "title_japanese": "\u707c\u773c\u306e\u30b7\u30e3\u30caII \u2013Second\u2013",
+    "title_synonyms": [
+        "Shakugan no Shana 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/MHNV0nLHLno?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2787/Shakugan_no_Shana_II_Second"
+}

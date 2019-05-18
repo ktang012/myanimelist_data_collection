@@ -1,0 +1,182 @@
+{
+    "aired": {
+        "from": "2014-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 11,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 10, 2014 to Sep 11, 2014",
+        "to": "2014-09-11T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:35 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"TWO BY TWO\" by Yumeha Kouda"
+    ],
+    "episodes": 10,
+    "favorites": 219,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/64175.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 20509,
+    "members": 96311,
+    "opening_themes": [
+        "\"moving soul\" by Minami Kuribayashi"
+    ],
+    "popularity": 1039,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        }
+    ],
+    "rank": 2023,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13856,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13856/Fate_kaleid_liner_Prisma\u2606Illya_2wei"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 14829,
+                "name": "Fate/kaleid liner Prisma\u2606Illya",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14829/Fate_kaleid_liner_Prisma\u2606Illya"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 27525,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei Herz!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27525/Fate_kaleid_liner_Prisma\u2606Illya_2wei_Herz"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 25011,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei! Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25011/Fate_kaleid_liner_Prisma\u2606Illya_2wei_Specials"
+            },
+            {
+                "mal_id": 26057,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26057/Fate_kaleid_liner_Prisma\u2606Illya_2wei__Mahou_Shoujo_in_Onsen_Ryokou"
+            }
+        ]
+    },
+    "request_cache_expiry": 9724,
+    "request_cached": true,
+    "request_hash": "request:anime:ab5876f33e07fe888559ee380401c516cada7256",
+    "score": 7.41,
+    "scored_by": 50667,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "The magical girls are back, and ready for another round of adventure! After successfully recovering the Class Cards, fifth graders-turned magical girls Illya and Miyu think they can finally take it easy. But as fate would have it, the girls are once again called back into active duty when they find out that the Cards have left some very nasty side effects on their world. However, their seemingly easy mission goes totally awry with the appearance of a dark stranger who looks just like Illya! Who is this new but familiar face, where did she come from, and what does she want from Illya? With the arrival of this new foe, it seems like Illya's finally met her match when her everyday life takes one dark turn! (Source: Crunchyroll)",
+    "title": "Fate/kaleid liner Prisma\u2606Illya 2wei!",
+    "title_english": "Fate/Kaleid Liner Prisma Illya 2Wei!",
+    "title_japanese": "Fate/kaleid liner \u30d7\u30ea\u30ba\u30de\u2606\u30a4\u30ea\u30e4 \u30c4\u30f4\u30a1\u30a4!",
+    "title_synonyms": [
+        "Prisma Illya 2wei!",
+        "Prisma\u2606Illya 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/DgDPgDzgC3s?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20509/Fate_kaleid_liner_Prisma\u2606Illya_2wei"
+}

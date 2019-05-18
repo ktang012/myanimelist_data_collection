@@ -1,0 +1,183 @@
+{
+    "aired": {
+        "from": "2012-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Apr 8, 2012 to Jun 24, 2012",
+        "to": "2012-06-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Sora wa Takaku Kaze wa Utau (\u7a7a\u306f\u9ad8\u304f\u98a8\u306f\u6b4c\u3046)\" by Luna Haruna (eps 1-4, 7-11)",
+        "\"Manten (\u6e80\u5929)\" by Kalafina (eps 5, 6)",
+        "\"to the beginning\" by Kalafina (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 12289,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/41125.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 11741,
+    "members": 575592,
+    "opening_themes": [
+        "\"to the beginning\" by Kalafina (eps 1-4, 7-11)"
+    ],
+    "popularity": 85,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 459,
+            "name": "Nitroplus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+        },
+        {
+            "mal_id": 701,
+            "name": "Seikaisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/701/Seikaisha"
+        },
+        {
+            "mal_id": 703,
+            "name": "Notes",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/703/Notes"
+        }
+    ],
+    "rank": 58,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3649,
+                "name": "Fate/Zero",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3649/Fate_Zero"
+            },
+            {
+                "mal_id": 36803,
+                "name": "Heart of Freaks",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/36803/Heart_of_Freaks"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10087,
+                "name": "Fate/Zero",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10087/Fate_Zero"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 356,
+                "name": "Fate/stay night",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/356/Fate_stay_night"
+            },
+            {
+                "mal_id": 6922,
+                "name": "Fate/stay night Movie: Unlimited Blade Works",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6922/Fate_stay_night_Movie__Unlimited_Blade_Works"
+            },
+            {
+                "mal_id": 25537,
+                "name": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_-_I_Presage_Flower"
+            },
+            {
+                "mal_id": 27821,
+                "name": "Fate/stay night: Unlimited Blade Works Prologue",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27821/Fate_stay_night__Unlimited_Blade_Works_Prologue"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 13263,
+                "name": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13263/Fate_Zero__Onegai_Einzbern_Soudanshitsu"
+            }
+        ]
+    },
+    "request_cache_expiry": 20494,
+    "request_cached": true,
+    "request_hash": "request:anime:5f6475bd6d110571111a39cc2cd7344167433ae9",
+    "score": 8.64,
+    "scored_by": 356906,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 43,
+            "name": "ufotable",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ],
+    "synopsis": "As the Fourth Holy Grail War rages on with no clear victor in sight, the remaining Servants and their Masters are called upon by Church supervisor Risei Kotomine, in order to band together and confront an impending threat that could unravel the Grail War and bring about the destruction of Fuyuki City. The uneasy truce soon collapses as Masters demonstrate that they will do anything in their power, no matter how despicable, to win. Seeds of doubt are sown between Kiritsugu Emiya and Saber, his Servant, as their conflicting ideologies on heroism and chivalry clash. Meanwhile, an ominous bond forms between Kirei Kotomine, who still seeks to find his purpose in life, and one of the remaining Servants. As the countdown to the end of the war reaches zero, the cost of winning begins to blur the line between victory and defeat. [Written by MAL Rewrite]",
+    "title": "Fate/Zero 2nd Season",
+    "title_english": "Fate/Zero Season 2",
+    "title_japanese": "\u30d5\u30a7\u30a4\u30c8/\u30bc\u30ed 2nd\u30b7\u30fc\u30ba\u30f3",
+    "title_synonyms": [
+        "Fate/Zero Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/FkZ1euZ-S-Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11741/Fate_Zero_2nd_Season"
+}

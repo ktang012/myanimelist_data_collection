@@ -1,0 +1,187 @@
+{
+    "aired": {
+        "from": "2007-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 8, 2007 to Sep 17, 2007",
+        "to": "2007-09-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Lucky Star also has audio CDs, light novels, and a musical adaptation.",
+    "broadcast": "Mondays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Uchuu Tetsujin Kyoodain (\u5b87\u5b99\u9244\u4eba\u30ad\u30e7\u30fc\u30c0\u30a4\u30f3)\" by Aya Hirano (ep 1)",
+        "\"Shouri da! Akumaizer 3 (\u52dd\u5229\u3060!\u30a2\u30af\u30de\u30a4\u30b6\u30fc3)\" by Aya Hirano (ep 2)",
+        "\"Sore ga, Ai Deshou (\u305d\u308c\u304c, \u611b\u3067\u3057\u3087\u3046)\" by Aya Hirano (ep 3)",
+        "\"Sailor Fuku to Kikanjuu (\u30bb\u30fc\u30e9\u30fc\u670d\u3068\u6a5f\u95a2\u9283)\" by Emiri Kato (ep 4)",
+        "\"Cha-La Head-Cha-La\" by Aya Hirano (ep 5)",
+        "\"Valentine Kiss (\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30fb\u30ad\u30c3\u30b9)\" by Kaori Fukuhara (ep 6)",
+        "\"Chijou no Hoshi (\u5730\u4e0a\u306e\u661f)\" by Aya Endo (ep 7)",
+        "\"Monkey Magic\" by Aya Hirano (ep 8)",
+        "\"Kogarashi ni Dakarete (\u6728\u67af\u3057\u306b\u62b1\u304b\u308c\u3066)\" by Aya Hirano (ep 9)",
+        "\"I'm Proud\" by Emiri Kato (ep 10)",
+        "\"Doraemon no Uta (\u30c9\u30e9\u3048\u3082\u3093\u306e\u3046\u305f)\" by Kaori Fukuhara, Aya Endo, Aya Hirano, Emiri Kato (ep 11)",
+        "\"Ike! Godman (\u884c\u3051!\u30b4\u30c3\u30c9\u30de\u30f3)\" by Aya Hirano (ep 12)",
+        "\"Makenaide (\u8ca0\u3051\u306a\u3044\u3067)\" by Kaori Fukuhara, Aya Endo, Aya Hirano, Emiri Kato (ep 12)",
+        "\"Ore no Wasuremono (\u4ffa\u306e\u5fd8\u308c\u7269)\" by Minoru Shiraishi (ep 13)",
+        "\"Hare Hare Yukai (\u30cf\u30ec\u6674\u30ec\u30e6\u30ab\u30a4)\" by Minoru Shiraishi (ep 14)",
+        "\"Koi no Minoru Densetsu (\u604b\u306e\u30df\u30ce\u30eb\u4f1d\u8aac)\" by Minoru Shiraishi (ep 15)",
+        "\"Misoji Misaki (\u4e09\u5341\u8def\u5cac)\" by Hiromi Konno (ep 16)",
+        "\"Motteke! Sailor Fuku (Aimai Sunshine Ver.) (\u3082\u3063\u3066\u3051!\u30bb\u30fc\u30e9\u30fc\u3075\u304f(\u66d6\u6627\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3ver.))\" by Minoru Shiraishi (ep 17)",
+        "\"Kaorin no Theme (\u304b\u304a\u308a\u3093\u306e\u30c6\u30fc\u30de)\" by Minoru Shiraishi (ep 18)",
+        "\"Otoko no Iki-sama (\u7537\u306e\u751f\u304d\u69d8)\" by Minoru Shiraishi (ep 19)",
+        "\"Omuko Rumba (\u304a\u5a7f\u30eb\u30f3\u30d0)\" by Minoru Shiraishi (ep 20)",
+        "\"Shikaidaa no Uta (\u30b7\u30ab\u30a4\u30c0\u30fc\u306e\u5504)\" by Minoru Shiraishi (ep 21)",
+        "\"Shiraishi Medley (\u767d\u77f3\u30e1\u30c9\u30ec\u30fc)\" by Minoru Shiraishi (ep 22)",
+        "\"Mikuru Henshin! Soshite Sentou! (\u30df\u30af\u30eb\u5909\u8eab!\u305d\u3057\u3066\u6226\u95d8!)\" by Minoru Shiraishi (ep 23)",
+        "\"Ai wa Boomerang (\u611b\u306f\u30d6\u30fc\u30e1\u30e9\u30f3)\" by Minoru Shiraishi (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 12238,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/15010.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        },
+        {
+            "mal_id": 262,
+            "name": "Kadokawa Pictures USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/262/Kadokawa_Pictures_USA"
+        }
+    ],
+    "mal_id": 1887,
+    "members": 418702,
+    "opening_themes": [
+        "\"Motteke! Sailor Fuku\" by Aya Hirano, Emiri Katou, Kaori Fukuhara & Aya Endou"
+    ],
+    "popularity": 154,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 657,
+            "name": "Lucky Paradise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/657/Lucky_Paradise"
+        }
+    ],
+    "rank": 872,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 587,
+                "name": "Lucky\u2606Star",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/587/Lucky\u2606Star"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 3080,
+                "name": "Anime Tenchou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3080/Anime_Tenchou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 4472,
+                "name": "Lucky\u2606Star: Original na Visual to Animation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4472/Lucky\u2606Star__Original_na_Visual_to_Animation"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 17637,
+                "name": "Miyakawa-ke no Kuufuku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17637/Miyakawa-ke_no_Kuufuku"
+            }
+        ]
+    },
+    "request_cache_expiry": 10939,
+    "request_cached": true,
+    "request_hash": "request:anime:b69286582156e7f4ccb3fcc29fba708628c6348b",
+    "score": 7.82,
+    "scored_by": 202658,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Lucky\u2606Star follows the daily lives of four cute high school girls\u2014Konata Izumi, the lazy otaku; the Hiiragi twins, Tsukasa and Kagami (sugar and spice, respectively); and the smart and well-mannered Miyuki Takara. As they go about their lives at school and beyond, they develop their eccentric and lively friendship and making humorous observations about the world around them. Be it Japanese tradition, the intricacies of otaku culture, academics, or the correct way of preparing and eating various foods\u2014no subject is safe from their musings. [Written by MAL Rewrite]",
+    "title": "Lucky\u2606Star",
+    "title_english": "Lucky\u2606Star",
+    "title_japanese": "\u3089\u304d\u2606\u3059\u305f",
+    "title_synonyms": [
+        "Lucky Star"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/b8bSIgE8epA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1887/Lucky\u2606Star"
+}

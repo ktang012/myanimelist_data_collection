@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2016-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Jul 9, 2016 to Oct 1, 2016",
+        "to": "2016-10-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Rain or Shine\" by ELISA"
+    ],
+    "episodes": 12,
+    "favorites": 3107,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 32998,
+    "members": 305206,
+    "opening_themes": [
+        "\"Signal\" by TK from Ling Tosite Sigure"
+    ],
+    "popularity": 276,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1626,
+            "name": "Shochiku Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1626/Shochiku_Music_Publishing"
+        }
+    ],
+    "rank": 738,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Sequel": [
+            {
+                "mal_id": 34777,
+                "name": "91 Days Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34777/91_Days_Special"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 36756,
+                "name": "91 Daze",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36756/91_Daze"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 33964,
+                "name": "91 Days Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33964/91_Days_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 8403,
+    "request_cached": true,
+    "request_hash": "request:anime:e14981c7fd32e1ae12fd0b707b55a913437533ef",
+    "score": 7.88,
+    "scored_by": 136720,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1119,
+            "name": "Shuka",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+        }
+    ],
+    "synopsis": "As a child living in the town of Lawless, Angelo Lagusa has witnessed a tragedy: his parents and younger brother have been mercilessly slaughtered by the Vanetti mafia family. Losing everything he holds dear, he leaves both his name and hometown behind, adopting the new identity of Avilio Bruno. Seven years later, Avilio finally has his chance for revenge when he receives a mysterious letter prompting him to return to Lawless. Obliging, he soon encounters the Vanetti don's son, Nero, and seeks to befriend him using the skills he has quietly honed for years. Set during the Prohibition era, 91 Days tells the story of Avilio's dark, bloodstained path to vengeance, as he slowly ends each of the men involved in the killing of his family. [Written by MAL Rewrite]",
+    "title": "91 Days",
+    "title_english": "91 Days",
+    "title_japanese": "91Days",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/-NLxTEFb2pk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32998/91_Days"
+}

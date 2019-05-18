@@ -1,0 +1,129 @@
+{
+    "aired": {
+        "from": "2014-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 12, 2014 to Sep 27, 2014",
+        "to": "2014-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Rokujouma no Shinryakusha!? adapts the first 7 novels of Takehaya's light novel series of the same title.",
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Koi wa Milk Tea (\u604b\u306f\u307f\u308b\u304f\u3066\u3043)\" by petit milady"
+    ],
+    "episodes": 12,
+    "favorites": 330,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/62655.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 22865,
+    "members": 120021,
+    "opening_themes": [
+        "\"Koukan win-win Mujouken (\u597d\u611fwin-win\u7121\u6761\u4ef6)\" by Heart\u2661Invader (\u30cf\u30fc\u30c8\u2661\u30a4\u30f3\u30d9\u30fc\u30c0\u30fc)"
+    ],
+    "popularity": 850,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2626,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 61307,
+                "name": "Rokujouma no Shinryakusha!?",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/61307/Rokujouma_no_Shinryakusha"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 26019,
+                "name": "Rokujouma no Shinryakusha!? PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26019/Rokujouma_no_Shinryakusha_PV"
+            }
+        ]
+    },
+    "request_cache_expiry": 12187,
+    "request_cached": true,
+    "request_hash": "request:anime:980364e222a6db77cbd4b55c9518f5a0aec6d2b8",
+    "score": 7.27,
+    "scored_by": 57046,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "After Koutarou Satomi's father is suddenly relocated for his job, the first-year high school student is faced with finding a cheap place to live by himself. Naturally, he jumps at the chance to move into Corona House's Room 106 for a mere five thousand yen a month. But while everything goes well at first, Koutarou soon gets a lot more than he bargained for after stumbling upon a mysterious cave while working his part-time job. The following night, Koutarou is visited by various seemingly mythical figures, all of whom claim ownership of the poor student's apartment. Among the invaders are Sanae Higashihongan, a ghost supposedly haunting the room, magical girl Yurika, alien princess Theiamillis Gre Fortorthe, and Kiriha Kurano, a direct descendant of the Earth People. But more importantly, each of these four girls needs Koutarou's apartment for her own reasons and won\u2019t back down without a fight! Rokujouma no Shinryakusha!? is a comedic battle royale over a six-tatami mat apartment involving supernatural beings, romantic high school hijinks, and a deceptively cordial landlady. [Written by MAL Rewrite]",
+    "title": "Rokujouma no Shinryakusha!?",
+    "title_english": "Invaders of the Rokujyoma!?",
+    "title_japanese": "\u516d\u7573\u9593\u306e\u4fb5\u7565\u8005\uff01\uff1f",
+    "title_synonyms": [
+        "Rokujouma no Shinryakusha!?"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/8ZKg5HOSuF4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22865/Rokujouma_no_Shinryakusha"
+}

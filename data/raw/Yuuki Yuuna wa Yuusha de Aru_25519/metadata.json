@@ -1,0 +1,186 @@
+{
+    "aired": {
+        "from": "2014-10-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 17, 2014 to Dec 26, 2014",
+        "to": "2014-12-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:19 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hoshi to Hana (\u30db\u30b7\u30c8\u30cf\u30ca)\" by Sanshuu Chuugaku Yuusha-bu (\u8b83\u5dde\u4e2d\u5b66\u52c7\u8005\u90e8) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa) (ep 1)",
+        "\"Aurora Days\" by Sanshuu Chuugaku Yuusha-bu (\u8b83\u5dde\u4e2d\u5b66\u52c7\u8005\u90e8) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa) (ep 2)",
+        "\"Aurora Days\" by Sanshuu Chuugaku Yuusha-bu (\u8b83\u5dde\u4e2d\u5b66\u52c7\u8005\u90e8) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa, Juri Nagatsuma) (eps 3, 5-8, 12)",
+        "\"Inori no Uta acoustic guitar ver (\u7948\u308a\u306e\u6b4c acoustic guitar ver)\" by Itsuki Inubouzaki (Tomoyo Kurosawa) (ep 4)",
+        "\"Inori no Uta (\u7948\u308a\u306e\u6b4c)\" by Itsuki Inubouzaki (Tomoyo Kurosawa) (ep 9)",
+        "\"Aurora Days\" by Mimori Tougou (Suzuko Mimori) (ep 10)",
+        "\"Aurora Days\" by Yuuna Yuuki (Haruka Terui) (ep 11)"
+    ],
+    "episodes": 12,
+    "favorites": 986,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/77057.jpg",
+    "licensors": [
+        {
+            "mal_id": 1201,
+            "name": "Ponycan USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+        }
+    ],
+    "mal_id": 25519,
+    "members": 98207,
+    "opening_themes": [
+        "\"Hoshi to Hana (\u30db\u30b7\u30c8\u30cf\u30ca)\" by Sanshuu Chuugaku Yuusha-bu (\u8b83\u5dde\u4e2d\u5b66\u52c7\u8005\u90e8) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa) (ep 2-3)",
+        "\"Hoshi to Hana (\u30db\u30b7\u30c8\u30cf\u30ca)\" by Sanshuu Chuugaku Yuusha-bu (\u8b83\u5dde\u4e2d\u5b66\u52c7\u8005\u90e8) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa, Juri Nagatsuma) (ep 4-12)"
+    ],
+    "popularity": 1022,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        }
+    ],
+    "rank": 1880,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 82411,
+                "name": "Yuuki Yuuna wa Yuusha de Aru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/82411/Yuuki_Yuuna_wa_Yuusha_de_Aru"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 32826,
+                "name": "Yuuki no Baton",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32826/Yuuki_no_Baton"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 34284,
+                "name": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34284/Yuuki_Yuuna_wa_Yuusha_de_Aru__Washio_Sumi_no_Shou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34445,
+                "name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34445/Yuuki_Yuuna_wa_Yuusha_de_Aru__Yuusha_no_Shou"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 36798,
+                "name": "Yuuki Yuuna wa Yuusha de Aru: Hidamari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36798/Yuuki_Yuuna_wa_Yuusha_de_Aru__Hidamari"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:607a366a9a869f0db43ac8e525d098564d8a1db8",
+    "score": 7.45,
+    "scored_by": 36253,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 418,
+            "name": "Studio Gokumi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+        }
+    ],
+    "synopsis": "In her everyday life, Yuuna Yuuki is a hero. As proof, she is in her middle school's Hero Club, where she does her best to help others and bring a smile to everyone's face. But Yuuna, always up to any task, is about to become an even bigger hero. Mysterious destructive forces called Vertexes begin threatening the world she loves, and the Hero Club is called upon by a strange phone app to save it. Along with her best friend Mimori Tougou, as well as sisters Fuu and Itsuki Inubouzaki, they must transform into magical girls in order to battle the Vertexes. In between studying and putting on shows for kids, Yuuna and the Hero Club must fight for the very existence of their world and face the harsh truths behind their own powers, all the while discovering what it truly means to be a hero. [Written by MAL Rewrite]",
+    "title": "Yuuki Yuuna wa Yuusha de Aru",
+    "title_english": "Yuki Yuna is a Hero",
+    "title_japanese": "\u7d50\u57ce\u53cb\u5948\u306f\u52c7\u8005\u3067\u3042\u308b",
+    "title_synonyms": [
+        "Yuki Yuna wa Yusha de Aru",
+        "Yuuki Yuuna is a Hero",
+        "YuYuYu"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/lKCTBiIS8RQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/25519/Yuuki_Yuuna_wa_Yuusha_de_Aru"
+}

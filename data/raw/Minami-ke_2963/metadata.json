@@ -1,0 +1,129 @@
+{
+    "aired": {
+        "from": "2007-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Oct 8, 2007 to Dec 31, 2007",
+        "to": "2007-12-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Colorful DAYS (\u30ab\u30e9\u30d5\u30ebDAYS)\" by Rina Satou, Marina Inoue and Minori Chihara"
+    ],
+    "episodes": 13,
+    "favorites": 1122,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/75279.jpg",
+    "licensors": [],
+    "mal_id": 2963,
+    "members": 133158,
+    "opening_themes": [
+        "\"Keikenchi Joushouchuu\u2606 (\u7d4c\u9a13\u5024\u4e0a\u6607\u4e2d\u2606)\" by Rina Satou, Marina Inoue and Minori Chihara"
+    ],
+    "popularity": 758,
+    "premiered": "Fall 2007",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 759,
+            "name": "Eye Move",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/759/Eye_Move"
+        },
+        {
+            "mal_id": 761,
+            "name": "Sunny Side Up",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/761/Sunny_Side_Up"
+        }
+    ],
+    "rank": 1008,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 2629,
+                "name": "Minami-ke",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/2629/Minami-ke"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 3225,
+                "name": "Minami-ke Okawari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3225/Minami-ke_Okawari"
+            }
+        ]
+    },
+    "request_cache_expiry": 24337,
+    "request_cached": true,
+    "request_hash": "request:anime:cb9f740ecfd12e8b22335c7136fe3e8359be4a38",
+    "score": 7.75,
+    "scored_by": 57421,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 39,
+            "name": "Daume",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/39/Daume"
+        }
+    ],
+    "synopsis": "The Minami residence is home to three sisters: the strict and diligent eldest sister Haruka; air-headed and lively Kana; and the youngest, Chiaki, whose sharp tongue spares no one. Living without adult supervision, the sisters share the workload of cooking and laundry, as well as the occasional romantic adventure. From combating chronic laziness to hanging out with friends, there is never a boring day in the Minami household. [Written by MAL Rewrite]",
+    "title": "Minami-ke",
+    "title_english": null,
+    "title_japanese": "\u307f\u306a\u307f\u3051",
+    "title_synonyms": [
+        "Minamike",
+        "The Minami Family"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/SPKY_xH15GU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2963/Minami-ke"
+}

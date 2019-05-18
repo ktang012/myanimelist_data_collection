@@ -1,0 +1,119 @@
+{
+    "aired": {
+        "from": "2018-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Oct 4, 2018 to Dec 20, 2018",
+        "to": "2018-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Zombieland Saga is an original anime production announced by Cygames in collaboration with Avex Pictures and dugout, who are respectively producing the music and sound. The animation is done by studio MAPPA. Crunchyroll is simulcasting the episodes, while Funimation is simuldubbing them. Both the opening and ending theme songs (\u201cAdabana Necromancy\u201d and \u201cHikari e\u201d respectively) are performed by Franchouchou. \r\nOn October 8, 2018, a manga adaptation was launched on Cygames\u2019 Cycomi website, which is being drawn by Megumu Soramichi (Rakudai Kishi no Cavalry).",
+    "broadcast": "Thursdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Hikari e (\u5149\u3078)\" by Fran Chou Chou (\u30d5\u30e9\u30f3\u30b7\u30e5\u30b7\u30e5) [Sakura Minamoto (Kaede Hondo), Saki Nikaidou (Asami Tano), Ai Mizuno (Risa Taneda), Junko Konno (Maki Kawase), Yuugiri (Rika Kunigawa), Lily Hoshikawa (Minami Tanaka)]"
+    ],
+    "episodes": 12,
+    "favorites": 1398,
+    "genres": [
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1094/95453.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 37976,
+    "members": 190122,
+    "opening_themes": [
+        "\"Adabana Necromancy (\u5f92\u82b1\u30cd\u30af\u30ed\u30de\u30f3\u30b7\u30fc)\" by Fran Chou Chou (\u30d5\u30e9\u30f3\u30b7\u30e5\u30b7\u30e5) [Sakura Minamoto (Kaede Hondo), Saki Nikaidou (Asami Tano), Ai Mizuno (Risa Taneda), Junko Konno (Maki Kawase), Yuugiri (Rika Kunigawa), Lily Hoshikawa (Minami Ta"
+    ],
+    "popularity": 506,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1587,
+            "name": "Cygames",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+        },
+        {
+            "mal_id": 1856,
+            "name": "dugout",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        }
+    ],
+    "rank": 1100,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 116028,
+                "name": "Zombieland Saga",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/116028/Zombieland_Saga"
+            }
+        ]
+    },
+    "request_cache_expiry": 6836,
+    "request_cached": true,
+    "request_hash": "request:anime:4b8ced15615ee27fb8e9a207786d3c8578fc4bec",
+    "score": 7.72,
+    "scored_by": 80542,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 569,
+            "name": "MAPPA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ],
+    "synopsis": "Sakura Minamoto dreams of becoming an idol. Unfortunately, reality hits her like a truck, and she dies in a sudden traffic accident. Ten years later, she wakes up in Saga Prefecture, only to find herself a zombie with no memory of her past. While still coming to terms with her demise, she meets a man named Koutarou Tatsumi, who explains that he has resurrected her and six other zombie girls from different eras for the purpose of economically revitalizing Saga by means of an idol group. Assuming the role of an abrasive manager, Koutarou begins scheduling events; the girls go along with it, eventually deciding to name their idol group Franchouchou. An absurdly comedic take on the idol genre, Zombieland Saga tells the story of Franchouchou\u2019s heartwarming struggle to save Saga Prefecture while hiding their zombie identities and rediscovering their past lives. [Written by MAL Rewrite]",
+    "title": "Zombieland Saga",
+    "title_english": "Zombie Land Saga",
+    "title_japanese": "\u30be\u30f3\u30d3\u30e9\u30f3\u30c9\u30b5\u30ac",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/O3VO4zinUOI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37976/Zombieland_Saga"
+}

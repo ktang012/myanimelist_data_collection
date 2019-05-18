@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2007-05-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 5,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "May 12, 2007 to Dec 1, 2007",
+        "to": "2007-12-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "One of the awards won by the series was the Seiun Award in 2008 for the Best Dramatic Presentation category.",
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Sora no Kakera (\u7a7a\u306e\u6b20\u7247; A Fragment of the Sky)\" by Ayako Ikeda"
+    ],
+    "episodes": 26,
+    "favorites": 1428,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/12844.jpg",
+    "licensors": [
+        {
+            "mal_id": 490,
+            "name": "Maiden Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+        }
+    ],
+    "mal_id": 2164,
+    "members": 104391,
+    "opening_themes": [
+        "\"Prism (\u30d7\u30ea\u30ba\u30e0)\" by Ayako Ikeda"
+    ],
+    "popularity": 970,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        },
+        {
+            "mal_id": 382,
+            "name": "Tokuma Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+        }
+    ],
+    "rank": 402,
+    "rating": "G - All Ages",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11424,
+                "name": "Dennou Coil",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11424/Dennou_Coil"
+            },
+            {
+                "mal_id": 25525,
+                "name": "Dennou Coil",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25525/Dennou_Coil"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 13955,
+                "name": "Dennou Coil Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13955/Dennou_Coil_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 19120,
+    "request_cached": true,
+    "request_hash": "request:anime:86e0e3fd065079463102210973315f38be154650",
+    "score": 8.13,
+    "scored_by": 31188,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Eleven years after the introduction of internet-connected, augmented reality eyeglasses and visors, Yuuko Okonogi moves with her family to Daikoku City, the technological center of the emerging half-virtual world. Yuuko joins her grandmother's \"investigation agency\" comprised of children equipped with virtual tools and powerful metatags. She quickly crosses paths with Yuuko Amasawa, an expert hacker of the virtual environment, as Amasawa relentlessly seeks to \"unlock\" the mystery of a computer virus that emerges from an inaccessible corrupted space. (Source: ANN)",
+    "title": "Dennou Coil",
+    "title_english": "Den-noh Coil",
+    "title_japanese": "\u96fb\u8133\u30b3\u30a4\u30eb",
+    "title_synonyms": [
+        "Cyber Coil",
+        "Coil - A Circle of Children",
+        "Denno Coil"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ODTvrQFtEOM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2164/Dennou_Coil"
+}

@@ -1,0 +1,167 @@
+{
+    "aired": {
+        "from": "2016-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Oct 4, 2016 to Mar 28, 2017",
+        "to": "2017-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"1HOPE SNIPER\" by Azusa Tadokoro (eps 1-12)",
+        "\"Tsumi no Keishou: Original Sin (\u7f6a\u306e\u7d99\u627f\uff5eORIGINAL SIN\uff5e)\" by Gackt (eps 13-24)"
+    ],
+    "episodes": 24,
+    "favorites": 180,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/81133.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33377,
+    "members": 82424,
+    "opening_themes": [
+        "\"Kimi dake no Boku de Iru kara (\u30ad\u30df\u3060\u3051\u306e\u30dc\u30af\u3067\u3044\u308b\u304b\u3089)\" by GACKT (eps 1-12)",
+        "\"Unmei Dilemma (\u904b\u547d\u30b8\u30ec\u30f3\u30de)\" by Azusa Tadokoro (eps 13-24)"
+    ],
+    "popularity": 1183,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 1501,
+            "name": "East Japan Marketing & Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1501/East_Japan_Marketing___Communications"
+        },
+        {
+            "mal_id": 1507,
+            "name": "Sumitomo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1507/Sumitomo"
+        }
+    ],
+    "rank": 6952,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 99453,
+                "name": "Trickster",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/99453/Trickster"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34366,
+                "name": "Kimi dake no Boku de Iru kara",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34366/Kimi_dake_no_Boku_de_Iru_kara"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 34197,
+                "name": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34197/Trickster__Edogawa_Ranpo_Shounen_Tanteidan_yori_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5e377d83e1fc2953acc0ec83a8a4546f36a50eed",
+    "score": 6.29,
+    "scored_by": 20236,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        },
+        {
+            "mal_id": 247,
+            "name": "Shin-Ei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ],
+    "synopsis": "Kogorou Akechi is the founder of a private investigation firm known as the Boy Detectives' Club. Together, this group takes on cases both great and small. One of their junior members, Kensuke Hanasaki, is out solving a case one day when he happens upon Yoshio Kobayashi, a mysterious amnesiac boy with an inability to die. After seeing his abilities in action, Kensuke offers Yoshio a deal: join the Boy Detectives' Club and help them solve cases, and in exchange he will find a way to help Yoshio die. The apathetic Yoshio accepts this deal begrudgingly, unaware of how different his life will become. Although he does not have much use for people, he gradually begins to acknowledge the group as he spends more time with them while solving cases. Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori follows Akechi and the rest of the Boy Detectives' Club as they solve the various cases they are given, all while combating a hidden threat from the shadows\u2014\"The Fiend with Twenty Faces.\" [Written by MAL Rewrite]",
+    "title": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+    "title_english": "Trickster",
+    "title_japanese": "TRICKSTER -\u6c5f\u6238\u5ddd\u4e71\u6b69\u300c\u5c11\u5e74\u63a2\u5075\u56e3\u300d\u3088\u308a-",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/s7dahy1qcWU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33377/Trickster__Edogawa_Ranpo_Shounen_Tanteidan_yori"
+}

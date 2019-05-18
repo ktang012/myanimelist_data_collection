@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2012-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 10, 2012 to Mar 27, 2012",
+        "to": "2012-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Vidro Moyou (\u30d3\u30fc\u30c9\u30ed\u6a21\u69d8)\" by Nagi Yanagi"
+    ],
+    "episodes": 12,
+    "favorites": 1684,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/59405.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 11433,
+    "members": 243155,
+    "opening_themes": [
+        "\"sign\" by Ray"
+    ],
+    "popularity": 365,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 1329,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35713,
+                "name": "Ano Natsu de Matteru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35713/Ano_Natsu_de_Matteru"
+            },
+            {
+                "mal_id": 54597,
+                "name": "Ano Natsu de Matteru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/54597/Ano_Natsu_de_Matteru"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23447,
+                "name": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23447/Ano_Natsu_de_Matteru__Bokutachi_wa_Koukou_Saigo_no_Natsu_wo_Sugoshinagara_Ano_Natsu_de_Matteiru"
+            }
+        ]
+    },
+    "request_cache_expiry": 7330,
+    "request_cached": true,
+    "request_hash": "request:anime:580caad828d4d0d2bede65023c3ef6912b7dc0d4",
+    "score": 7.62,
+    "scored_by": 118830,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "While testing out his camera on a bridge one summer night, Kaito Kirishima sees a blue light streaking across the sky, only to be blown off the railing seconds later. Just before succumbing to unconsciousness, a hand reaches down to grab ahold of his own. Dazed and confused, Kaito wakes up the next morning wondering how he ended up back in his own room with no apparent injuries or any recollection of the night before. As he proceeds with his normal school life, Kaito and his friends discuss what to do with his camera, finally deciding to make a film with it over their upcoming summer break. Noticing that Kaito has an interest in the new upperclassmen Ichika Takatsuki, his friend Tetsurou Ishigaki decides to invite her, as well as her friend Remon Yamano, to join them in their movie project. In what becomes one of the most entertaining and exciting summers of their lives, Kaito and his friends find that their time spent together is not just about creating a film, but something much more meaningful that will force them to confront their true feelings and each other. [Written by MAL Rewrite]",
+    "title": "Ano Natsu de Matteru",
+    "title_english": "Waiting in the Summer",
+    "title_japanese": "\u3042\u306e\u590f\u3067\u5f85\u3063\u3066\u308b",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/dM4fbripgWA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11433/Ano_Natsu_de_Matteru"
+}

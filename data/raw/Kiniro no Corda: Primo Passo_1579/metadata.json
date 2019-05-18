@@ -1,0 +1,185 @@
+{
+    "aired": {
+        "from": "2006-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 2, 2006 to Mar 26, 2007",
+        "to": "2007-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Crescendo\" by Stella Quintet (eps 1-24, ep 26)",
+        "\"Brand New Breeze\" by Kanon (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 1131,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/7228.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 1579,
+    "members": 76241,
+    "opening_themes": [
+        "\"Brand New Breeze\" by Kanon (eps 1-24, ep 26)"
+    ],
+    "popularity": 1283,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 241,
+            "name": "Koei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/241/Koei"
+        },
+        {
+            "mal_id": 1451,
+            "name": "TYO",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1451/TYO"
+        }
+    ],
+    "rank": 1389,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1051,
+                "name": "Kiniro no Corda",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1051/Kiniro_no_Corda"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 5717,
+                "name": "Kiniro no Corda: Secondo Passo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5717/Kiniro_no_Corda__Secondo_Passo"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 3392,
+                "name": "Kiniro no Corda: Primo Passo - Hitonatsu no Encore",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3392/Kiniro_no_Corda__Primo_Passo_-_Hitonatsu_no_Encore"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 20971,
+                "name": "Kiniro no Corda: Blue\u266aSky",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20971/Kiniro_no_Corda__Blue\u266aSky"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:e0fe45dda360c606eb175f9b3e15e1be04a67b19",
+    "score": 7.6,
+    "scored_by": 38335,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 96,
+            "name": "Yumeta Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+        }
+    ],
+    "synopsis": "Hino Kahoko is a student whose school is divided into two branches\u2014the Normal Branch, in which students wear grey uniforms, and the Music Branch, in which the students wear white. The school's tradition is a music competition, but it is more common that students from the Music Branch are chosen to compete. Kahoko is surprised one day to encounter a fairy named Lili. Solely because she is the only student to see him, she is the only student from the Normal Branch to be in the competition. Kahoko doesn't have any musical knowledge, until Lili grants her a magic violin, one that anyone can play if they believe they can truly do it. Kahoko must now face the trials of the competition, her competitors, and her peers.",
+    "title": "Kiniro no Corda: Primo Passo",
+    "title_english": "La corda d'oro: primo passo",
+    "title_japanese": "\u91d1\u8272\u306e\u30b3\u30eb\u30c0 \uff5eprimo passo\uff5e",
+    "title_synonyms": [
+        "Kin'iro no Chord",
+        "Kiniro no Chord",
+        "Kin-iro no Corda: Primo Passo",
+        "The Golden Chord"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1579/Kiniro_no_Corda__Primo_Passo"
+}

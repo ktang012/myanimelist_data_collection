@@ -1,0 +1,138 @@
+{
+    "aired": {
+        "from": "2010-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jul 4, 2010 to Sep 26, 2010",
+        "to": "2010-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "First episode was previewed on Tokyo MX on June 13, 2010. Regular broadcasting began July 4, 2010.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Onnaji Kimochi (\u304a\u3093\u306a\u3058\u304d\u3082\u3061)\" by Saori Hayami, Marina Inoue, Kana Hanazawa and Aya Endo (eps 1-9, 11-13)",
+        "\"Oboetiru Kara\" by Saori Hayami (ep 10)"
+    ],
+    "episodes": 13,
+    "favorites": 493,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/75178.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 5277,
+    "members": 162149,
+    "opening_themes": [
+        "\"Hakuyoku no Seiyaku ~Pure Engagement~ (\u767d\u7ffc\u30ce\u8a93\u7d04 ~Pure Engagement~)\" by Saori Hayami, Marina Inoue, Kana Hanazawa and Aya Endo"
+    ],
+    "popularity": 606,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+    ],
+    "rank": 1697,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 873,
+                "name": "Sekirei",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/873/Sekirei"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 4063,
+                "name": "Sekirei",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4063/Sekirei"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9355,
+                "name": "Sekirei: Pure Engagement Episode 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9355/Sekirei__Pure_Engagement_Episode_0"
+            }
+        ]
+    },
+    "request_cache_expiry": 43048,
+    "request_cached": true,
+    "request_hash": "request:anime:0b26b951e448cf8dd49c222fe718e9f40cf6eb14",
+    "score": 7.5,
+    "scored_by": 92201,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 35,
+            "name": "Seven Arcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ],
+    "synopsis": "The second stage of the battle royale known as the Sekirei Plan is underway. Tokyo has been closed off; no Sekirei or Ashikabi may leave. Minato Sahashi and his harem of Sekirei must now prepare to fight new battles as changes to the rules are put into place. However, not all groups will return to the battle: some Sekirei are loved very much by their Ashikabi partners, who would rather forfeit the prize than see them perish. In the midst of the action, someone close to Minato may be more involved than he had ever imagined, and threats lurk around every corner. There are even rumors that the \"Single Numbers,\" the most powerful type of Sekirei, have entered the fray. In the eyes of the \"Game Master\" Minaka Hiroto, everything is proceeding according to plan. [Written by MAL Rewrite]",
+    "title": "Sekirei: Pure Engagement",
+    "title_english": "Sekirei: Pure Engagement",
+    "title_japanese": "\u30bb\u30ad\u30ec\u30a4\uff5ePure Engagement\uff5e",
+    "title_synonyms": [
+        "Sekirei 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Bq7zxY7IVao?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5277/Sekirei__Pure_Engagement"
+}

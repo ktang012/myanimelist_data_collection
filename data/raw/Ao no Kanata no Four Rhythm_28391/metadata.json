@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2016-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 12, 2016 to Mar 29, 2016",
+        "to": "2016-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at an event at Togeki Cinema in Tokyo on December 26, 2015. Regular broadcasting began in January 12, 2016.",
+    "broadcast": "Tuesdays at 02:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"a-gain\" by Ray (eps 2-11)",
+        "\"Kimi Toita Sora (\u541b\u3068\u3044\u305f\u7a7a)\" by Ray (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 468,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/77839.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 28391,
+    "members": 106789,
+    "opening_themes": [
+        "\"Contrail ~Kiseki~ (Contrail\u301c\u8ecc\u8de1\u301c)\" by Mami Kawada"
+    ],
+    "popularity": 957,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 276,
+            "name": "DLE",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/276/DLE"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1414,
+            "name": "bilibili",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+        },
+        {
+            "mal_id": 1494,
+            "name": "Kanon Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1494/Kanon_Sound"
+        },
+        {
+            "mal_id": 1495,
+            "name": "Hobibox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1495/Hobibox"
+        }
+    ],
+    "rank": 4357,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 93991,
+                "name": "Ao no Kanata no Four Rhythm",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/93991/Ao_no_Kanata_no_Four_Rhythm"
+            }
+        ]
+    },
+    "request_cache_expiry": 12255,
+    "request_cached": true,
+    "request_hash": "request:anime:4c1c35a4e3e6bafa7cb16d834d6482834bdde291",
+    "score": 6.83,
+    "scored_by": 43670,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 3,
+            "name": "Gonzo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ],
+    "synopsis": "With the invention of anti-gravitational shoes known as Grav-Shoes, the ability to fly freely has become an everyday experience for the people inhabiting a four-island archipelago south of Japan. This invention has brought the people new ways of living and also a new sport known as \"Flying Circus,\" where participants gain points by either touching floating buoys or their opponent's back. The gullible and clumsy Asuka Kurashina, newly transferred to Kunahama High School, enters this world of flight unknowingly when she is able to pull off a difficult maneuver the first time she participates in a Flying Circus match. Eventually, this leads her to join her school\u2019s Flying Circus club. Led by their coach, Masaya Hinata, their members consist of the experienced Misaki Tobisawa and her overprotective friend, Mashiro Arisaka. Ao no Kanata no Four Rhythm follows this rookie group soaring high above the skies and toward their dreams, armed only with their unwavering passion against an uncertain future. [Written by MAL Rewrite]",
+    "title": "Ao no Kanata no Four Rhythm",
+    "title_english": "Aokana: Four Rhythm Across the Blue",
+    "title_japanese": "\u84bc\u306e\u5f7c\u65b9\u306e\u30d5\u30a9\u30fc\u30ea\u30ba\u30e0",
+    "title_synonyms": [
+        "Aokana"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/WOy3WbcbNtQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28391/Ao_no_Kanata_no_Four_Rhythm"
+}

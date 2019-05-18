@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2016-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 6, 2016 to Dec 22, 2016",
+        "to": "2016-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Fantas/HIP Girlfriends!\" by Nozomi Kaminashi (CV: Lynn), Sayaka Miyata (CV: M.A.O), Kazane Aoba (CV: Kaede Hondo), Non Toyoguchi (CV: Saori Oonishi)"
+    ],
+    "episodes": 12,
+    "favorites": 934,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/81906.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32686,
+    "members": 211074,
+    "opening_themes": [
+        "\"DREAM\u00d7SCRAMBLE!\" by AiRI"
+    ],
+    "popularity": 440,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1430,
+            "name": "Shogakukan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        },
+        {
+            "mal_id": 1589,
+            "name": "NichiNare",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+        },
+        {
+            "mal_id": 1631,
+            "name": "Radio Osaka",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1631/Radio_Osaka"
+        }
+    ],
+    "rank": 2698,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 56505,
+                "name": "Keijo!!!!!!!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/56505/Keijo"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 34884,
+                "name": "Keijo!!!!!!!! Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34884/Keijo_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5f584ed3271a033a2fb5720e120df55125813ab7",
+    "score": 7.25,
+    "scored_by": 97474,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Japan's latest competitive sport, keijo, is dictated by a simple set of rules: female-only participants must stand on circular platforms floating in a pool\u2014referred to as \"lands\"\u2014with the goal being to knocking off opponents using only their breasts and butts. Despite this outlandish premise, the sport attracts millions of viewers across the country and boasts a lavish prize pool. Many aspiring athletes take up the challenge in hopes of becoming the next national champion. After graduating from high school, the lively 17-year-old Nozomi Kaminashi enters the world of keijo, hoping to bring home a fortune to her poor family. As a gifted gymnast, Nozomi quickly proves herself a tough competitor after stealing the spotlight in her debut tournament. Meeting new friends and rivals as she climbs the ranks, Nozomi discovers that the path to stardom as a keijo player is filled with intense competition that will challenge not only her body, but also her soul. [Written by MAL Rewrite]",
+    "title": "Keijo!!!!!!!!",
+    "title_english": "Keijo!!!!!!!!",
+    "title_japanese": "\u7af6\u5973!!!!!!!!",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/9dfQVsgO16Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32686/Keijo"
+}

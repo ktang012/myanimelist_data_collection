@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2012-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 8, 2012 to Sep 30, 2012",
+        "to": "2012-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The cast from the Kokoro Connect drama CD reprised their roles in the anime. \r\nThe anime uses locations in Yokohama as reference, with cooperation from the Yokohama Film Commission and the Yokohama Gakuen high school.",
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kokoro no Kara (\u30b3\u30b3\u30ed\u30ce\u30ab\u30e9)\" by Team.Nekokan [Neko] featuring. Junca Amaoto (eps 1-5)",
+        "\"Cry out\" by Team.Nekokan [Neko] featuring. atsuko (eps 6-10)",
+        "\"Salvage\" by Team.Nekokan [Neko] featuring. Rekka Katakiri (eps 11-13)"
+    ],
+    "episodes": 13,
+    "favorites": 6093,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/39665.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 11887,
+    "members": 460017,
+    "opening_themes": [
+        "\"Paradigm (\u30d1\u30e9\u30c0\u30a4\u30e0)\" by eufonius (eps 1-10)",
+        "\"Kimi Rhythm (\u30ad\u30df\u30ea\u30ba\u30e0)\" by Masaki Imai (eps 12-13)#BD: \"Kimochi Signal (\u30ad\u30e2\u30c1\u30b7\u30b0\u30ca\u30eb)\" by Sayuri Horishita (eps 1-10)"
+    ],
+    "popularity": 130,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 392,
+            "name": "Enterbrain",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/392/Enterbrain"
+        }
+    ],
+    "rank": 678,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24380,
+                "name": "Kokoro Connect",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24380/Kokoro_Connect"
+            },
+            {
+                "mal_id": 81455,
+                "name": "Kokoro Connect: On Air",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/81455/Kokoro_Connect__On_Air"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16001,
+                "name": "Kokoro Connect: Michi Random",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16001/Kokoro_Connect__Michi_Random"
+            }
+        ]
+    },
+    "request_cache_expiry": 6851,
+    "request_cached": true,
+    "request_hash": "request:anime:6272bc965ed337b65ca6a7e492fa5155be7d4f2d",
+    "score": 7.92,
+    "scored_by": 238038,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "When five students at Yamaboshi Academy realize that there are no clubs where they fit in, they band together to form the Student Cultural Society, or \"StuCS\" for short. The club consists of: Taichi Yaegashi, a hardcore wrestling fan; Iori Nagase, an indecisive optimist; Himeko Inaba, a calm computer genius; Yui Kiriyama, a petite karate practitioner; and Yoshifumi Aoki, the class clown. One day, Aoki and Yui experience a strange incident when, without warning, they switch bodies for a short period of time. As this supernatural phenomenon continues to occur randomly amongst the five friends, they begin to realize that it is not just fun and games. Now forced to become closer than ever, they soon discover each other's hidden secrets and emotional scars, which could end up tearing the StuCS and their friendship apart. [Written by MAL Rewrite]",
+    "title": "Kokoro Connect",
+    "title_english": "Kokoro Connect",
+    "title_japanese": "\u30b3\u30b3\u30ed\u30b3\u30cd\u30af\u30c8",
+    "title_synonyms": [
+        "Kokoroco"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/MnkqA_PRRhM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11887/Kokoro_Connect"
+}

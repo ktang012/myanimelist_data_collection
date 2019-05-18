@@ -1,0 +1,104 @@
+{
+    "aired": {
+        "from": "2018-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Oct 3, 2018 to Mar 27, 2019",
+        "to": "2019-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 01:29 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Reset (\u30ea\u30bb\u30c3\u30c8)\" by Taichi Mukai (\u5411\u4e95\u592a\u4e00)",
+        "\"Michi (\u9053)\" by Taichi Mukai"
+    ],
+    "episodes": 23,
+    "favorites": 1412,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1692/93918.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 37965,
+    "members": 85058,
+    "opening_themes": [
+        "\"Catch up, latency\" by UNISON SQUARE GARDEN",
+        "\"Kaze Tsuyoku, Kimi Atsuku. (\u98a8\u5f37\u304f\u3001\u541b\u71b1\u304f\u3002)\" by Q-MHz feat. Mitsuhiro Hidaka a.k.a SKY-HI (Q-MHz feat.\u65e5\u9ad8\u5149\u5553 a.k.a.SKY-HI)"
+    ],
+    "popularity": 1145,
+    "premiered": "Fall 2018",
+    "producers": [],
+    "rank": 86,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 66241,
+                "name": "Kaze ga Tsuyoku Fuiteiru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66241/Kaze_ga_Tsuyoku_Fuiteiru"
+            }
+        ]
+    },
+    "request_cache_expiry": 25128,
+    "request_cached": true,
+    "request_hash": "request:anime:4c37643ffc729e4956858677b55183a683377468",
+    "score": 8.55,
+    "scored_by": 30811,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Kakeru, a former elite runner at high school, is chased for stealing food. He is saved by a Kansei University student Haiji, who is also a runner. Haiji persuades Kakeru to live in the old apartment \"Chikuseisou\" where he plans to team up with fellow residents to enter Hakone Ekiden Marathon, one of the most prominent university races in Japan. Kakeru soon finds out that all of the residents except for Haiji and himself are complete novices.",
+    "title": "Kaze ga Tsuyoku Fuiteiru",
+    "title_english": "Run with the Wind",
+    "title_japanese": "\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b",
+    "title_synonyms": [
+        "Kaze ga Tsuyoku Fuite Iru"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ANzTSVvgXVI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru"
+}

@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2009-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 3, 2009 to Dec 19, 2009",
+        "to": "2009-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Mousou Fetish\" by Hekiyou Gakuen Seitokai (ep 1)",
+        "\"Up Up Down Down Left Right Left Right B A\" by Hekiyou Gakuen Seitokai (ep 2)",
+        "\"Mousou Fetish ~Shiina Shimai ver.~\" by Togashi, Misuzu and Horinaka, Yuki (ep 3)",
+        "\"Mousou Fetish ~2 ban~\" by Hekiyou Gakuen Seitokai (ep 4)",
+        "\"Up Up Down Down Left Right Left Right B A ~Ganbare Kurimu ver.~\" by Honda, Mariko and Saitou, Yuka (ep 5)",
+        "\"Up Up Down Down Left Right Left Right B A ~2 ban~ \" by Hekiyou Gakuen Seitokai (ep 6)",
+        "\"Mousou Fetish ~Sasuga!! Chizuru ver.~\" by Heikyou Gakuen Seitokai (ep 7)",
+        "\"Up Up Down Down Left Right Left Right B A ~Shiina sisters ver.~\" by Togashi Misuzu and Horinaka Yuki (ep 8)",
+        "\"Yurupa\u2606Wonderful\" by Hekiyou Gakuen Seitokai (ep 9)",
+        "\"Yurupa\u2606Wonderful ~Kurimu & Chizuru ver.~ \" by Honda Mariko and Saitou Yuka (ep 10)",
+        "\"Zettai Kaichou Sengen?\" by Honda Mariko (ep 11)",
+        "\"Yurupa\u2606Wonderful ~2 ban~\" by Hekiyou Gakuen Seitokai (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 659,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/19646.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 5909,
+    "members": 144175,
+    "opening_themes": [
+        "\"Treasure\" by Hekiyou Gakuen Seitokai"
+    ],
+    "popularity": 698,
+    "premiered": "Fall 2009",
+    "producers": [
+        {
+            "mal_id": 779,
+            "name": "AMG MUSIC",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/779/AMG_MUSIC"
+        }
+    ],
+    "rank": 1953,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 12243,
+                "name": "Seitokai no Ichizon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/12243/Seitokai_no_Ichizon"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10464,
+                "name": "Seitokai no Ichizon Lv.2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10464/Seitokai_no_Ichizon_Lv2"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c3ecaa55a7683fbda5dbc575745c9fc28152be4b",
+    "score": 7.43,
+    "scored_by": 63398,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Imagine living life as the vice president of the student council, passing the days eating snacks, playing games, and bonding with a harem of beautiful girls. This is exactly the kind of life that high school student Ken Sugisaki leads, or so he thinks! Usually, the officers of Hekiyou Academy's student council are elected by popular vote, but an additional position is granted to the student who scores the highest on the exams. Ken, who historically has had below average grades, worked hard to improve them to be accepted into the student council, with the ultimate goal of surrounding himself with girls who fawn over him. Unfortunately for the vice president, things do not go quite as planned. Not only do the ladies of the council continually rebuff his advances, they also prefer to focus on more important and \"boring\" activities, such as organizing school events and managing the other clubs. But a few minor hurdles like these won't stop Ken from chasing after his dreams, even if they seem a bit ridiculous. [Written by MAL Rewrite]",
+    "title": "Seitokai no Ichizon",
+    "title_english": "Student Council's Discretion",
+    "title_japanese": "\u751f\u5f92\u4f1a\u306e\u4e00\u5b58",
+    "title_synonyms": [
+        "Seitokai no Ichizon: Hekiyou Gakuen Seitokai Gijiroku",
+        "It's Student Council's Judgment"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/vtPPerNTnek?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5909/Seitokai_no_Ichizon"
+}

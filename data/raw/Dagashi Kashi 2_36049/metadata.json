@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2018-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 12, 2018 to Mar 30, 2018",
+        "to": "2018-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:28 (JST)",
+    "duration": "12 min per ep",
+    "ending_themes": [
+        "\"Okashi na Watashi to Hachimitsu no Kimi (\u304a\u304b\u3057\u306a\u308f\u305f\u3057\u3068\u306f\u3061\u307f\u3064\u306e\u304d\u307f)\" by Hachimitsu Rocket (\u306f\u3061\u307f\u3064\u30ed\u30b1\u30c3\u30c8)"
+    ],
+    "episodes": 12,
+    "favorites": 124,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1649/90141.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 36049,
+    "members": 78202,
+    "opening_themes": [
+        "\"OH MY Sugar Feeling!! (OH MY \u30b7\u30e5\u30ac\u30fc\u30d5\u30a3\u30fc\u30ea\u30f3\u30b0!!)\" by Ayana Taketatsu"
+    ],
+    "popularity": 1251,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 1430,
+            "name": "Shogakukan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        },
+        {
+            "mal_id": 1557,
+            "name": "Pony Canyon Enterprise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprise"
+        }
+    ],
+    "rank": 3757,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 75993,
+                "name": "Dagashi Kashi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/75993/Dagashi_Kashi"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31636,
+                "name": "Dagashi Kashi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31636/Dagashi_Kashi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:d4c34b0d8c37a53df7a883c40f47cf76f4899d23",
+    "score": 6.99,
+    "scored_by": 29226,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 200,
+            "name": "Tezuka Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+        }
+    ],
+    "synopsis": "Second season of Dagashi Kashi.",
+    "title": "Dagashi Kashi 2",
+    "title_english": "Dagashi Kashi 2",
+    "title_japanese": "\u3060\u304c\u3057\u304b\u30572",
+    "title_synonyms": [
+        "Dagashikashi 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/r82RCz6T8i8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36049/Dagashi_Kashi_2"
+}

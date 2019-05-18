@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2015-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 3, 2015 to Dec 26, 2015",
+        "to": "2015-12-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Nirvana (\u30cb\u30eb\u30d0\u30ca)\" by Tia"
+    ],
+    "episodes": 13,
+    "favorites": 8336,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1689/94850.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30503,
+    "members": 666463,
+    "opening_themes": [
+        "\"Kyouran Hey Kids!! (\u72c2\u4e71Hey Kids!!)\" by THE ORAL CIGARETTES"
+    ],
+    "popularity": 63,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1041,
+            "name": "Ai Addiction",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1041/Ai_Addiction"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1635,
+            "name": "A-Sketch",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1635/A-Sketch"
+        }
+    ],
+    "rank": 178,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24692,
+                "name": "Noragami",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24692/Noragami"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 32468,
+                "name": "Nirvana",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32468/Nirvana"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 20507,
+                "name": "Noragami",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20507/Noragami"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 30885,
+                "name": "Noragami Aragoto OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30885/Noragami_Aragoto_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 33321,
+    "request_cached": true,
+    "request_hash": "request:anime:86be250c670cb0627d710788b8ad3eb076311950",
+    "score": 8.39,
+    "scored_by": 395857,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Yato and Yukine have finally mended their relationship as god and Regalia, and everyone has returned to their daily life. Yato remains a minor and unknown deity who continues taking odd jobs for five yen apiece in the hopes of one day having millions of worshippers and his own grand shrine. Hiyori Iki has yet to have her loose soul fixed by Yato, but she enjoys life and prepares to attend high school nonetheless. Taking place immediately after the first season, Noragami Aragoto delves into the complicated past between Yato and the god of war Bishamon. The female god holds a mysterious grudge against Yato, which often results in violent clashes between them. It doesn't help that Bishamon's most trusted and beloved Regalia, Kazuma, appears to be indebted to Yato. When lives are on the line, unraveling these mysteries and others may be the only way to correct past mistakes. [Written by MAL Rewrite]",
+    "title": "Noragami Aragoto",
+    "title_english": "Noragami Aragoto",
+    "title_japanese": "\u30ce\u30e9\u30ac\u30df ARAGOTO",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/nI_2PqGZb-c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30503/Noragami_Aragoto"
+}

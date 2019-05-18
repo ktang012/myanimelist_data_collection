@@ -1,0 +1,197 @@
+{
+    "aired": {
+        "from": "2018-01-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 7,
+                "month": 7,
+                "year": 2018
+            }
+        },
+        "string": "Jan 13, 2018 to Jul 7, 2018",
+        "to": "2018-07-07T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Torikago (\u30c8\u30ea\u30ab\u30b4)\" by XX:me (Kiss Me; \u30ad\u30b9\u30fb\u30df\u30fc) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] (eps 1-6)",
+        "\"Manatsu no Setsuna (\u771f\u590f\u306e\u30bb\u30c4\u30ca)\" by XX:me (Kiss Me; \u30ad\u30b9\u30fb\u30df\u30fc) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] (ep 7)",
+        "\"Beautiful World\" by XX:me (Kiss Me; \u30ad\u30b9\u30fb\u30df\u30fc) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] (eps 8-12, 14)",
+        "\"Hitori (\u3072\u3068\u308a)\" by XX:me (Kiss Me; \u30ad\u30b9\u30fb\u30df\u30fc) [Zero Two (Haruka Tomatsu)] (ep 13)",
+        "\"KISS OF DEATH\" by Mika Nakashima x Hyde (ep 15)",
+        "\"Escape\" by XX:me (Kiss Me; \u30ad\u30b9\u30fb\u30df\u30fc) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] (ep 16-19)",
+        "\"Darling\" by XX:me (Kiss Me; \u30ad\u30b9\u30fb\u30df\u30fc) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] (ep 20-23)"
+    ],
+    "episodes": 24,
+    "favorites": 10821,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35849,
+    "members": 480976,
+    "opening_themes": [
+        "\"KISS OF DEATH\" by Mika Nakashima x Hyde"
+    ],
+    "popularity": 115,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 47,
+            "name": "Khara",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/47/Khara"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 1123,
+            "name": "Lucent Pictures Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1123/Lucent_Pictures_Entertainment"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1366,
+            "name": "Nagoya Broadcasting Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+        },
+        {
+            "mal_id": 1415,
+            "name": "Asahi Broadcasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        },
+        {
+            "mal_id": 1500,
+            "name": "ABC Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        }
+    ],
+    "rank": 1561,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 111512,
+                "name": "Darling in the FranXX",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/111512/Darling_in_the_FranXX"
+            }
+        ]
+    },
+    "request_cache_expiry": 1678,
+    "request_cached": true,
+    "request_hash": "request:anime:c468cfcaa6d2e4d23aa74177a9ade8b0d3b05d71",
+    "score": 7.54,
+    "scored_by": 243904,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 803,
+            "name": "Trigger",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        },
+        {
+            "mal_id": 1835,
+            "name": "CloverWorks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+    ],
+    "synopsis": "In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations. Children raised here are trained to pilot giant mechas known as FranXX\u2014the only weapons known to be effective against the Klaxosaurs\u2014in boy-girl pairs. Bred for the sole purpose of piloting these machines, these children know nothing of the outside world and are only able to prove their existence by defending their race. Hiro, an aspiring FranXX pilot, has lost his motivation and self-confidence after failing an aptitude test. Skipping out on his class' graduation ceremony, Hiro retreats to a forest lake, where he encounters a mysterious girl with two horns growing out of her head. She introduces herself by her codename Zero Two, which is known to belong to an infamous FranXX pilot known as the \"Partner Killer.\" Before Hiro can digest the encounter, the Plantation is rocked by a sudden Klaxosaur attack. Zero Two engages the creature in her FranXX, but it is heavily damaged in the skirmish and crashes near Hiro. Finding her partner dead, Zero Two invites Hiro to pilot the mecha with her, and the duo easily defeats the Klaxosaur in the ensuing fight. With a new partner by his side, Hiro has been given a chance at redemption for his past failures, but at what cost? [Written by MAL Rewrite]",
+    "title": "Darling in the FranXX",
+    "title_english": "DARLING in the FRANXX",
+    "title_japanese": "\u30c0\u30fc\u30ea\u30f3\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30d5\u30e9\u30f3\u30ad\u30b9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/giD4G9qlzDs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX"
+}

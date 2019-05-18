@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2005-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2005
+            }
+        },
+        "string": "Apr 7, 2005 to Jun 30, 2005",
+        "to": "2005-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The Loveless anime covers the first four volumes of the manga.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Michiyuki\" by Kaori Hikita"
+    ],
+    "episodes": 12,
+    "favorites": 1599,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        },
+        {
+            "mal_id": 28,
+            "name": "Shounen Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/28/Shounen_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/22947.jpg",
+    "licensors": [
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        }
+    ],
+    "mal_id": 149,
+    "members": 105046,
+    "opening_themes": [
+        "\"Tsuki no Curse\" by Okina Reika"
+    ],
+    "popularity": 966,
+    "premiered": "Spring 2005",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 55,
+            "name": "TV Asahi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 3456,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 90,
+                "name": "Loveless",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/90/Loveless"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 3057,
+                "name": "Loveless Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3057/Loveless_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 1178,
+    "request_cached": true,
+    "request_hash": "request:anime:532936322d227a4cc969fed94ace9ab291001645",
+    "score": 7.07,
+    "scored_by": 53081,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "In the world of Loveless, each person is born with cat ears and a tail, which disappear only if that person engages in a sexual intercourse. Because of this, they have come to symbolize virginity and innocence. Additionally, fighting is only done by \"fighting pairs\" or couples, where one is known as the Sacrifice and the other as the Fighter. The first receives the damage while the latter attacks. Ritsuka Aoyagi is a 12-year-old boy, who for some unknown reason suffers from amnesia. His brother got killed recently, and as if his life has not been hard enough lately, on his first day at the new school he gets approached by a stranger called Agatsuma Soubi, who claims to have known his late brother. Ritsuka finds out that Agatsuma and his brother used to be a fighting pair, and that Agatsuma has inherited Ritsuga now that his brother is gone. Together, they try to find the truth behind his brother's death and the organization known as the \"Seven Moons,\" which may have been responsible for it. All the while, it seems that Ritsuka and Agatsuma are becoming closer than they intended to be\u2026",
+    "title": "Loveless",
+    "title_english": "Loveless",
+    "title_japanese": "LOVELESS",
+    "title_synonyms": [
+        "LL"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ITSnSJOM2OI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/149/Loveless"
+}

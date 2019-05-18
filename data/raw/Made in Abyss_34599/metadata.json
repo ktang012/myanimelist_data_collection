@@ -1,0 +1,179 @@
+{
+    "aired": {
+        "from": "2017-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 7, 2017 to Sep 29, 2017",
+        "to": "2017-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 21:30 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Deep in Abyss\" by Riko (Miyu Tomita) and Regu (Mariya Ise) (ep 1)",
+        "\"Tabi no Hidarite, Saihate no Migite (\u65c5\u306e\u5de6\u624b\u3001\u6700\u679c\u3066\u306e\u53f3\u624b)\" by Riko (Miyu Tomita) and Regu (Mariya Ise) (eps 2-9)",
+        "\"Tabi no Hidarite, Saihate no Migite (\u65c5\u306e\u5de6\u624b\u3001\u6700\u679c\u3066\u306e\u53f3\u624b)\" by Riko (Miyu Tomita), Regu (Mariya Ise), and Nanachi (Shiori Izawa) (eps 10-12)"
+    ],
+    "episodes": 13,
+    "favorites": 18460,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 34599,
+    "members": 485109,
+    "opening_themes": [
+        "\"Deep in Abyss\" by Riko (Miyu Tomita) and Regu (Mariya Ise)"
+    ],
+    "popularity": 111,
+    "premiered": "Summer 2017",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 332,
+            "name": "Takeshobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/332/Takeshobo"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+            "mal_id": 1587,
+            "name": "Cygames",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+        },
+        {
+            "mal_id": 1677,
+            "name": "Kanetsu Co., LTD.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1677/Kanetsu_Co_LTD"
+        }
+    ],
+    "rank": 21,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 91941,
+                "name": "Made in Abyss",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91941/Made_in_Abyss"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 36862,
+                "name": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36862/Made_in_Abyss_Movie_3__Fukaki_Tamashii_no_Reimei"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 37514,
+                "name": "Made in Abyss Movie 1: Tabidachi no Yoake",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37514/Made_in_Abyss_Movie_1__Tabidachi_no_Yoake"
+            },
+            {
+                "mal_id": 37515,
+                "name": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37515/Made_in_Abyss_Movie_2__Hourou_Suru_Tasogare"
+            }
+        ]
+    },
+    "request_cache_expiry": 26035,
+    "request_cached": true,
+    "request_hash": "request:anime:6dc2958e458d5ba824d30bc2c0dc652a26a9eace",
+    "score": 8.87,
+    "scored_by": 253192,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 290,
+            "name": "Kinema Citrus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+    ],
+    "synopsis": "The Abyss\u2014a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. The best and bravest of the Divers, the White Whistles, are hailed as legends by those who remain on the surface. Riko, daughter of the missing White Whistle Lyza the Annihilator, aspires to become like her mother and explore the furthest reaches of the Abyss. However, just a novice Red Whistle herself, she is only permitted to roam its most upper layer. Even so, Riko has a chance encounter with a mysterious robot with the appearance of an ordinary young boy. She comes to name him Reg, and he has no recollection of the events preceding his discovery. Certain that the technology to create Reg must come from deep within the Abyss, the two decide to venture forth into the chasm to recover his memories and see the bottom of the great pit with their own eyes. However, they know not of the harsh reality that is the true existence of the Abyss. [Written by MAL Rewrite]",
+    "title": "Made in Abyss",
+    "title_english": "Made in Abyss",
+    "title_japanese": "\u30e1\u30a4\u30c9\u30a4\u30f3\u30a2\u30d3\u30b9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/AQbaZeby2zA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34599/Made_in_Abyss"
+}

@@ -1,0 +1,156 @@
+{
+    "aired": {
+        "from": "2006-06-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 6,
+                "year": 2006
+            },
+            "to": {
+                "day": 15,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Jun 30, 2006 to Sep 15, 2006",
+        "to": "2006-09-15T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Hachimitsu to Clover II aired on Fuji Television's noitaminA block.",
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Split (\u30b9\u30d7\u30ea\u30c3\u30c8)\" by SuneoHair"
+    ],
+    "episodes": 12,
+    "favorites": 889,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/11040.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 1142,
+    "members": 77482,
+    "opening_themes": [
+        "\"Fugainaiya (\u3075\u304c\u3044\u306a\u3044\u3084)\" by YUKI"
+    ],
+    "popularity": 1264,
+    "premiered": "Summer 2006",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 234,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1009,
+                "name": "Hachimitsu to Clover",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1009/Hachimitsu_to_Clover"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 38864,
+                "name": "Lion meets HachiClo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38864/Lion_meets_HachiClo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 16,
+                "name": "Hachimitsu to Clover",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover"
+            },
+            {
+                "mal_id": 644,
+                "name": "Hachimitsu to Clover Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/644/Hachimitsu_to_Clover_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 13791,
+    "request_cached": true,
+    "request_hash": "request:anime:e0656afbdc63cae650901b7b54d31dc00219f1ef",
+    "score": 8.31,
+    "scored_by": 41059,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "The sequel and final installment to the highly popular series once again delves into the life stories and love lives of Takemoto Yuuta, Mayama Takumi and Morita Shinobu. The story continues where the first season left off, after Takemoto's self-discovery journey around Japan. Of course, the love triangles and tribulations they face will continue, and eventually decide the paths to their future. (Source: ANN)",
+    "title": "Hachimitsu to Clover II",
+    "title_english": "Honey and Clover II",
+    "title_japanese": "\u30cf\u30c1\u30df\u30c4\u3068\u30af\u30ed\u30fc\u30d0\u30fc II",
+    "title_synonyms": [
+        "Honey and Clover 2",
+        "Honey & Clover II"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1142/Hachimitsu_to_Clover_II"
+}

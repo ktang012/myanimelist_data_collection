@@ -1,0 +1,140 @@
+{
+    "aired": {
+        "from": "2016-04-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 2,
+                "month": 7,
+                "year": 2016
+            }
+        },
+        "string": "Apr 16, 2016 to Jul 2, 2016",
+        "to": "2016-07-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episodes 2 through 6 of the television series are renamed versions of the OVAs. Episodes 1 and 7 through 13 will be new animation not featured in the previous OVAs.",
+    "broadcast": "Saturdays at 02:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Polaris (\u30dd\u30e9\u30ea\u30b9)\" by Fujifabric"
+    ],
+    "episodes": 13,
+    "favorites": 824,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/78783.jpg",
+    "licensors": [],
+    "mal_id": 31741,
+    "members": 200937,
+    "opening_themes": [
+        "\"Spotlight (\u30b9\u30dd\u30c3\u30c8\u30e9\u30a4\u30c8)\" by PENGUIN RESEARCH"
+    ],
+    "popularity": 476,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1430,
+            "name": "Shogakukan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        }
+    ],
+    "rank": 459,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 48025,
+                "name": "Magi: Sinbad no Bouken",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/48025/Magi__Sinbad_no_Bouken"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 22097,
+                "name": "Magi: Sinbad no Bouken",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22097/Magi__Sinbad_no_Bouken"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 14513,
+                "name": "Magi: The Labyrinth of Magic",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic"
+            }
+        ]
+    },
+    "request_cache_expiry": 37987,
+    "request_cached": true,
+    "request_hash": "request:anime:6406432e7b070416e2ce85b6a2318ba85cda1917",
+    "score": 8.09,
+    "scored_by": 100259,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1087,
+            "name": "Lay-duce",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+        }
+    ],
+    "synopsis": "In the small, impoverished Tison Village of the Parthevia Empire, a boy, Sinbad, is born to the jaded ex-soldier Badr and his kind-hearted wife Esra. His birth creates a radiant surge throughout the rukh, a declaration of a singularity to those who stand at the pinnacle of magical might: the \"Child of Destiny\" is here. Despite his country being plagued by economic instability and the repercussions of war, Sinbad leads a cheerful life\u2014until a stranger's arrival shatters his peaceful world, and tragedy soon befalls him. Years later, mysterious edifices called \"dungeons\" have been erected all over the world. Rumored to contain great power and treasures, these dungeons piqued the interest of adventurers and armies alike; though to this day, none have returned therefrom. Sinbad, now 14, has grown into a charming and talented young boy. Inspired by the shocking events of his childhood and by his father's words, he yearns to begin exploring the world beyond his village. As though orchestrated by fate, Sinbad meets an enigmatic traveler named Yunan. Stirred by Sinbad's story and ambitions, Yunan directs him to a dungeon which he claims holds the power Sinbad needs to achieve his goals\u2014the \"power of a king.\" Magi: Sinbad no Bouken tells the epic saga of Sinbad's early life as he travels the world, honing his skill and influence, while gathering allies and power to become the High King of the Seven Seas. [Written by MAL Rewrite]",
+    "title": "Magi: Sinbad no Bouken (TV)",
+    "title_english": "Magi: Adventure of Sinbad",
+    "title_japanese": "\u30de\u30ae \u30b7\u30f3\u30c9\u30d0\u30c3\u30c9\u306e\u5192\u967a",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/8hA3IVLHMU0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31741/Magi__Sinbad_no_Bouken_TV"
+}

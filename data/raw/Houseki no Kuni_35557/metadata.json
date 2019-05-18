@@ -1,0 +1,179 @@
+{
+    "aired": {
+        "from": "2017-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 7, 2017 to Dec 23, 2017",
+        "to": "2017-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 21:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kirameku Hamabe (\u714c\u3081\u304f\u6d5c\u8fba)\" by Yuiko Ohara (eps 2-7, 9-11)",
+        "\"liquescimus\" by Tomoyo Kurosawa (ep 8)",
+        "\"Kyoumen no Nami (Orchestra Ver.) (\u93e1\u9762\u306e\u6ce2(Orchestra Ver.))\" by YURiKA (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 5146,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/88293.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 35557,
+    "members": 189202,
+    "opening_themes": [
+        "\"Kyoumen no Nami (\u93e1\u9762\u306e\u6ce2)\" by YURiKA"
+    ],
+    "popularity": 510,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1287,
+            "name": "Q-Tec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 130,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 44489,
+                "name": "Houseki no Kuni",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/44489/Houseki_no_Kuni"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 19581,
+                "name": "Houseki no Kuni PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19581/Houseki_no_Kuni_PV"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4adc0313875ef7290b1df6a2db32a064ab32f37c",
+    "score": 8.46,
+    "scored_by": 79608,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1109,
+            "name": "Orange",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1109/Orange"
+        }
+    ],
+    "synopsis": "In the mysterious future, crystalline organisms called Gems inhabit a world that has been destroyed by six meteors. Each Gem is assigned a role in order to fight against the Lunarians, a species who attacks them in order to shatter their bodies and use them as decorations. Phosphophyllite, also known as Phos, is a young and fragile Gem who dreams of helping their friends in the war effort. Instead, they are told to compile an encyclopedia because of their delicate condition. After begrudgingly embarking on this task, Phos meets Cinnabar, an intelligent gem who has been relegated to patrolling the isolated island at night because of the corrosive poison their body creates. After seeing how unhappy Cinnabar is, Phos decides to find a role that both of the rejected Gems can enjoy. Houseki no Kuni follows Phos' efforts to be useful and protect their fellow Gems. [Written by MAL Rewrite]",
+    "title": "Houseki no Kuni",
+    "title_english": "Land of the Lustrous",
+    "title_japanese": "\u5b9d\u77f3\u306e\u56fd",
+    "title_synonyms": [
+        "Country of Jewels"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/jL3vytC1140?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35557/Houseki_no_Kuni"
+}

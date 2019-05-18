@@ -1,0 +1,124 @@
+{
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 6, 2014 to Jun 29, 2014",
+        "to": "2014-06-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Gokukoku no Brynhildr adapts the first 10 volumes of Lynn Okamoto's manga series of the same name.",
+    "broadcast": "Sundays at 22:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Ichibanboshi (\u3044\u3061\u3070\u3093\u661f)\" by Neko Kuroha (Risa Taneda), Kana Tachibana (Aya Suzaki), Kazumi Schlierenzauer (M.A.O), Kotori Takatori (Azusa Tadokoro)"
+    ],
+    "episodes": 13,
+    "favorites": 958,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/61433.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21431,
+    "members": 232146,
+    "opening_themes": [
+        "\"BRYNHILDR IN THE DARKNESS -Ver. EJECTED-\" by Nao Tokisawa (\u9d07\u6ca2 \u76f4) (eps 1-9)",
+        "\"Virtue and Vice\" by Fear, and loathing in Las Vegas (eps 10-13)"
+    ],
+    "popularity": 388,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        }
+    ],
+    "rank": 3611,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 34377,
+                "name": "Gokukoku no Brynhildr",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/34377/Gokukoku_no_Brynhildr"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24695,
+                "name": "Gokukoku no Brynhildr: Kara Sawagi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24695/Gokukoku_no_Brynhildr__Kara_Sawagi"
+            }
+        ]
+    },
+    "request_cache_expiry": 23531,
+    "request_cached": true,
+    "request_hash": "request:anime:214c732c237e27441b25621af333d5153b0b3442",
+    "score": 7.03,
+    "scored_by": 117335,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 38,
+            "name": "Arms",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/38/Arms"
+        }
+    ],
+    "synopsis": "Ten years ago, Ryouta Murakami set out with his best friend Kuroneko to find proof of alien life. A tragic accident occurred, killing Kuroneko and injuring Ryouta. In honor of Kuroneko's memory, Ryouta now searches the night sky for alien signs, determined to prove that his friend had been right, and that aliens really do exist. Then one day, a new transfer student comes to his class and shatters everything he believes: her name is Kuroha Neko, and she looks exactly like the deceased Kuroneko. Kuroha denies being Ryouta's friend, but there\u2019s something strange about her. She somehow aced a difficult test to transfer in, but doesn't know her multiplication tables. She possesses inhuman strength and strange abilities. And strangest of all, she predicts death. After Kuroha displays supernatural strength in saving his life, Ryouta becomes a part of Kuroha's life, learning about her past and the hidden forces that exist in the universe. As he sinks more and more into a world of artificially created witches and magic, Ryouta must allow his scientific mind to accept that Kuroha has a very real power - the kind of power some forces will stop at nothing to get a hold of.",
+    "title": "Gokukoku no Brynhildr",
+    "title_english": "Brynhildr in the Darkness",
+    "title_japanese": "\u6975\u9ed2\u306e\u30d6\u30ea\u30e5\u30f3\u30d2\u30eb\u30c7",
+    "title_synonyms": [
+        "Gokukoku no Brynhildr"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/NpU48on5QKw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21431/Gokukoku_no_Brynhildr"
+}

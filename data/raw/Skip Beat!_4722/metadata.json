@@ -1,0 +1,134 @@
+{
+    "aired": {
+        "from": "2008-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 6, 2008 to Mar 30, 2009",
+        "to": "2009-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Crunchyroll officially streamed the anime with English subtitles.\r\nAside from the manga and anime there are a series of novels written by Ayuna Fujisaki. There is also a Taiwanese drama named \"Hua Li De Tiao Zhan\" (Extravagant Challenge) inspired by the series, and a total of three drama CDs that cover different parts of the story.",
+    "broadcast": "Mondays at 02:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Namida (\u30ca\u30df\u30c0)\" by 2BACKKA (ep 1-19)",
+        "\"Eien \uff08\u6c38\u9060\uff09\" by Yuusaku Kiyama (ep 20-24)",
+        "\"Dream Star\" by the generous (ep. 25)"
+    ],
+    "episodes": 25,
+    "favorites": 4879,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/84022.jpg",
+    "licensors": [
+        {
+            "mal_id": 1467,
+            "name": "Pied Piper",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1467/Pied_Piper"
+        }
+    ],
+    "mal_id": 4722,
+    "members": 179139,
+    "opening_themes": [
+        "\"Dream Star\" by the generous (ep 1-19)",
+        "\"Renaissance\" by the generous (ep 20-25)"
+    ],
+    "popularity": 545,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 717,
+            "name": "TV Tokyo Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        }
+    ],
+    "rank": 316,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 610,
+                "name": "Skip Beat!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/610/Skip_Beat"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6a0420edd8edcbd83136b50a668874ada810bf6c",
+    "score": 8.22,
+    "scored_by": 96860,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 34,
+            "name": "Hal Film Maker",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ],
+    "synopsis": "Bright, diligent, and yet na\u00efve 16-year-old Kyouko Mogami works hard to support the career and dreams of her childhood friend, crush, and rising pop icon, Shoutarou Fuwa. Toiling endlessly at burger joints and tea ceremonies, the innocent Kyouko remains unaware that day in day out, all her tireless efforts have been taken for granted, until, one day, she finds out that her beloved Shou sees her as nothing but a free servant. Shocked, heartbroken and enraged, she vows to take revenge on the rookie star by entering the ruthless world of entertainment herself. As she steps into this new life, Kyouko will face new challenges as well as people who will push her out of her comfort zone. Based on the best-selling shoujo manga by Yoshiki Nakamura, Skip Beat showcases the growth of a young woman who slowly unlearns how to work herself to the bone for the satisfaction of others and takes her future into her own hands instead. [Written by MAL Rewrite]",
+    "title": "Skip Beat!",
+    "title_english": "Skip Beat!",
+    "title_japanese": "\u30b9\u30ad\u30c3\u30d7\u30fb\u30d3\u30fc\u30c8\uff01",
+    "title_synonyms": [],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4722/Skip_Beat"
+}

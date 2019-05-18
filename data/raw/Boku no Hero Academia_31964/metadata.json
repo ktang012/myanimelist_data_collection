@@ -1,0 +1,167 @@
+{
+    "aired": {
+        "from": "2016-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Apr 3, 2016 to Jun 26, 2016",
+        "to": "2016-06-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Mangaka Horikoushi Kouhei has noted that American superhero comics are the inspiration for the series, and has based character pages on logos for Marvel and DC comic characters.",
+    "broadcast": "Sundays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"HEROES\" by Brian the Sun"
+    ],
+    "episodes": 13,
+    "favorites": 31014,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31964,
+    "members": 1031534,
+    "opening_themes": [
+        "\"The Day\" by Porno Graffitti"
+    ],
+    "popularity": 14,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 160,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 75989,
+                "name": "Boku no Hero Academia",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33486,
+                "name": "Boku no Hero Academia 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33929,
+                "name": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33929/Boku_no_Hero_Academia__Sukue_Kyuujo_Kunren"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35262,
+                "name": "Boku no Hero Academia 2nd Season: Hero Note",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35262/Boku_no_Hero_Academia_2nd_Season__Hero_Note"
+            }
+        ]
+    },
+    "request_cache_expiry": 14032,
+    "request_cached": true,
+    "request_hash": "request:anime:a179d648454b7242be5905cd8eb3f3ec1ce112f9",
+    "score": 8.41,
+    "scored_by": 671352,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+    "title": "Boku no Hero Academia",
+    "title_english": "My Hero Academia",
+    "title_japanese": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/D5fYOnwYkj4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
+}

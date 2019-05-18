@@ -1,0 +1,131 @@
+{
+    "aired": {
+        "from": "2011-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 5,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Jan 11, 2011 to Apr 5, 2011",
+        "to": "2011-04-05T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Yume~Mugen no Kanata~\" (\u300c\u5922\u300d\uff5e\u30e0\u30b2\u30f3\u30ce\u30ab\u30ca\u30bf\uff5e) by ViViD"
+    ],
+    "episodes": 13,
+    "favorites": 303,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/29668.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 9834,
+    "members": 70393,
+    "opening_themes": [
+        "\"Cold Finger Girl\" (\u30b3\u30fc\u30eb\u30c9\u30d5\u30a3\u30f3\u30ac\u30fc\u30ac\u30fc\u30eb) by Chiaki Kuriyama"
+    ],
+    "popularity": 1368,
+    "premiered": "Winter 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 717,
+            "name": "TV Tokyo Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 1662,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1193,
+                "name": "Level E",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1193/Level_E"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:8356c8a1abb8ef5aed4b5fe82f105d6493955a7d",
+    "score": 7.51,
+    "scored_by": 31432,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        },
+        {
+            "mal_id": 287,
+            "name": "David Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ],
+    "synopsis": "In the present day, hundreds of extraterrestrial species walk the Earth. Some are pacifistic, others violent. Some are here for research purposes, others are career criminals. However, humans don't know they are here. Now, one more alien has arrived on Earth. One of the universe's foremost geniuses with a personality that's bound to attract all sorts of trouble. (Source: AniDB)",
+    "title": "Level E",
+    "title_english": "Level E",
+    "title_japanese": "\u30ec\u30d9\u30ebE",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/aeOTw_9J0jk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9834/Level_E"
+}

@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2017-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 6, 2017 to Mar 24, 2017",
+        "to": "2017-03-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"go to Romance>>>>>\" by Luce Twinkle Wink\u2606"
+    ],
+    "episodes": 12,
+    "favorites": 337,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/84119.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 32924,
+    "members": 84530,
+    "opening_themes": [
+        "\"Yumeji Labyrinth (\u5922\u8def\u3089\u3073\u308a\u3093\u3059)\" by Labyrinth (\u3089\u3073\u308a\u3093\u305a) [Chiya (Sayaka Harada), Kon (Kaede Hondo), Koume (Yurika Kubo), Nono (Haruka Yoshimura)]"
+    ],
+    "popularity": 1150,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1585,
+            "name": "Nichion",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+        }
+    ],
+    "rank": 2971,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 86327,
+                "name": "Urara Meirochou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/86327/Urara_Meirochou"
+            }
+        ]
+    },
+    "request_cache_expiry": 22016,
+    "request_cached": true,
+    "request_hash": "request:anime:0d6352e9ab4fe0741b084269d9e3bb7f4f029475",
+    "score": 7.19,
+    "scored_by": 24487,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "The little town of Meirochou is populated by fortune tellers dubbed \"Uraras\" who congregate to wield mysterious powers and help people find their way in life. Arriving in town one day is a girl named Chiya who grew up among animals in the mountains but lacks basic common knowledge as a human. There, she meets other girls her age, such as Kon and Koume, who like Chiya, enter a fortune telling shop called Natsumeya where they also meet a shy girl named Nono. Together, the four girls begin a life of training to become top \"uraras\" and the adventures begin. (Source: TBS Global Business)",
+    "title": "Urara Meirochou",
+    "title_english": "Urara Meirocho",
+    "title_japanese": "\u3046\u3089\u3089\u8ff7\u8def\u5e16",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Pigjvmkklyk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32924/Urara_Meirochou"
+}

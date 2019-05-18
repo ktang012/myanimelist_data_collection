@@ -1,0 +1,120 @@
+{
+    "aired": {
+        "from": "2007-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            }
+        },
+        "string": "Apr 2, 2007 to Oct 1, 2007",
+        "to": "2007-10-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 01:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Azurite\" by Tae Urakabe",
+        "\"Azurite ~ for luster star Deianera\" by Yui Ishikawa (ep 15)"
+    ],
+    "episodes": 26,
+    "favorites": 627,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/50435.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 2002,
+    "members": 83779,
+    "opening_themes": [
+        "\"gravitation\" by angela"
+    ],
+    "popularity": 1162,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        }
+    ],
+    "rank": 1335,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23222,
+                "name": "Heroic Age",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23222/Heroic_Age"
+            }
+        ]
+    },
+    "request_cache_expiry": 36476,
+    "request_cached": true,
+    "request_hash": "request:anime:21645e5d57624ab5d13d6faa6e0710c83df7e02e",
+    "score": 7.62,
+    "scored_by": 35805,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "When the Golden Race invited other races to join them in the stars, three sentient races answered their call. The Goldens called them the Bronze, Silver and Heroic Tribes. Just before the Gold Tribe left to travel to another Universe, a fourth race appeared, traveling to the stars on their own accomplishments. The Golds named the human race the Iron Tribe. During the passing of time, humanity suffers at the hands of the more dominant races and is now facing extinction. Following a prophecy left by the Gold Tribe, Princess Deianeira sets out to search for the powerful being who might be able to save humankind. She meets a wild haired boy on an abandoned planet\u2014a fateful encounter that will not only change the fortunes of Humanity, but also the fate of the universe. (Source: AniDB)",
+    "title": "Heroic Age",
+    "title_english": "Heroic Age",
+    "title_japanese": "\u30d2\u30ed\u30a4\u30c3\u30af\u30fb\u30a8\u30a4\u30b8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/UfmBkErEd6M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2002/Heroic_Age"
+}

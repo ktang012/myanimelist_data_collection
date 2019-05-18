@@ -1,0 +1,192 @@
+{
+    "aired": {
+        "from": "2011-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Apr 3, 2011 to Mar 30, 2014",
+        "to": "2014-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first episode is actually a two-part special called \"Toriko x One Piece Collabo Special\"\u2014a crossover with One Piece. The first part aired during Toriko's timeslot at 9:00, and the second part aired during One Piece's timeslot at 9:30. That is also the reason why the second Toriko episode doesn't continue where the first one left off.\r\nEpisode 51 is the first part of a two-part special called \"Toriko x One Piece Collabo Special 2\"\u2014another crossover with One Piece. The second part is One Piece episode 542. The first part aired during Toriko's timeslot at 9:00, and the second part aired during One Piece's timeslot at 9:30.\r\nEpisode 99 is the first part of a two-part special called \"Dream 9 Toriko & One Piece & Dragon Ball Z Super Collaboration Special\"\u2014a crossover with One Piece and Dragon Ball Z. The second part is One Piece episode 590. The first part aired during Toriko's timeslot at 9:00, and the second part aired during One Piece's timeslot at 9:30.\r\n(Source: AniDB)",
+    "broadcast": "Sundays at 09:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Satisfaction\" by F.T Island (eps 1-25)",
+        "\"DELI-DELI\u2606DELICIOUS\" by Sea\u2606A (eps 26-38)",
+        "\"Sabrina (\u30b5\u30d6\u30ea\u30ca)\" by Leo Ieiri (eps 39-50)",
+        "\"Love Chase\" by Tomohisa Yamashita (eps 52-62)",
+        "\"Samba de Toriko!!! (\u30b5\u30f3\u30d0 de \u30c8\u30ea\u30b3!!!)\" by Hyadain (eps 63-75)",
+        "\"Lovely Fruit\" by Nana Mizuki (eps 76-87)",
+        "\"Niji (\u8679)\" by JUN SKY WALKER(S) (eps 88-98)",
+        "\"Akai Kutsu (\u8d64\u3044\u9774)\" by Salley (100-111)",
+        "\"Tautology (\u30c8\u30fc\u30c8\u30ed\u30b8\u30fc)\" by The Dresscodes (112-123)",
+        "\"Believe in Yourself!\" by palet (eps 124-135)",
+        "\"Mega Lover (\u30e1\u30ac\u30e9\u30d0)\" by Rurika Yokoyama (\u6a2a\u5c71\u30eb\u30ea\u30ab) (eps 136-???)"
+    ],
+    "episodes": 147,
+    "favorites": 739,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 10033,
+    "members": 79840,
+    "opening_themes": [
+        "\"Guts Guts!! (\u30ac\u30c4\u30ac\u30c4!!)\" by Akira Kushida (eps 1-98)",
+        "\"Go Shock My Way!! (\u8c6a\u98df\u30de\u30a4\u30a6\u30a7\u30a4!!)\" by Akira Kushida (eps 99-)"
+    ],
+    "popularity": 1224,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 1212,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7887,
+                "name": "Toriko",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7887/Toriko"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 6941,
+                "name": "Toriko: Jump Super Anime Tour 2009 Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6941/Toriko__Jump_Super_Anime_Tour_2009_Special"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 21,
+                "name": "One Piece",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21/One_Piece"
+            },
+            {
+                "mal_id": 813,
+                "name": "Dragon Ball Z",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 11787,
+                "name": "Toriko: Barbarian Ivy wo Hokaku Seyo!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11787/Toriko__Barbarian_Ivy_wo_Hokaku_Seyo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10074,
+                "name": "Toriko 3D: Kaimaku Gourmet Adventure!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10074/Toriko_3D__Kaimaku_Gourmet_Adventure"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 17699,
+                "name": "Toriko Movie: Bishokushin no Special Menu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17699/Toriko_Movie__Bishokushin_no_Special_Menu"
+            }
+        ]
+    },
+    "request_cache_expiry": 9680,
+    "request_cached": true,
+    "request_hash": "request:anime:dfc7b8d126c3e2d53e12855cd95fbb23e8ed19ea",
+    "score": 7.67,
+    "scored_by": 25609,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 18,
+            "name": "Toei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ],
+    "synopsis": "Hamburgers that grow out of the ground like four-leaf clovers, mountain ranges carved out of ice cream, and warm servings of mac and cheese that stew deep within the stomachs of volcanoes fill the landscape. This world of delectable natural wonders has reached a prime age of exploration\u2014the Gourmet Age! Citizens and chefs alike aspire to taste and prepare the finest dishes, while adventurers called \"Gourmet Hunters\" seek out delicious rare ingredients. Possessing a unique set of skills, the wild and passionate Gourmet Hunter Toriko is infamous for discovering 2% of all known ingredients. Together with his friend Komatsu\u2014a highly skilled chef working at a five-star hotel\u2014Toriko strives to complete his Full Course Menu of Life. But it isn\u2019t going to be easy; in order to obtain the most delicious ingredients, Toriko must battle against obstacles like deadly monsters, evil organizations, and food itself! [Written by MAL Rewrite]",
+    "title": "Toriko",
+    "title_english": "Toriko",
+    "title_japanese": "\u30c8\u30ea\u30b3",
+    "title_synonyms": [
+        "Toriko (2011)",
+        "Toriko (TV)",
+        "Toriko x One Piece Collabo Special"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PS_zQ_g9jE4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10033/Toriko"
+}

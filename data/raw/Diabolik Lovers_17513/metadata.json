@@ -1,0 +1,158 @@
+{
+    "aired": {
+        "from": "2013-09-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": 9,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Sep 16, 2013 to Dec 9, 2013",
+        "to": "2013-12-09T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "A stage play based on the franchise ran in Rikkokai Theatre in Tokyo's Shinagawa Ward during the last week of August, 2015.",
+    "broadcast": "Unknown",
+    "duration": "15 min per ep",
+    "ending_themes": [
+        "\"nightmare\" by Yuuki Hayashi (eps 1-12)",
+        "\"Mr.SADISTIC NIGHT\" by Ayato Sakamaki (Hikaru Midorikawa) & Shuu Sakamaki (Kousuke Toriumi) (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 1506,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/51989.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 17513,
+    "members": 168880,
+    "opening_themes": [
+        "\"Mr.SADISTIC NIGHT\" by Ayato Sakamaki (Hikaru Midorikawa) & Shuu Sakamaki (Kousuke Toriumi) (eps 2-11)"
+    ],
+    "popularity": 579,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 193,
+            "name": "Idea Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/193/Idea_Factory"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 8983,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 48641,
+                "name": "Diabolik Lovers Anthology",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/48641/Diabolik_Lovers_Anthology"
+            },
+            {
+                "mal_id": 48731,
+                "name": "Diabolik Lovers: Prequel",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/48731/Diabolik_Lovers__Prequel"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 29974,
+                "name": "Diabolik Lovers More,Blood",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29974/Diabolik_Lovers_MoreBlood"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 27417,
+                "name": "Diabolik Lovers OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27417/Diabolik_Lovers_OVA"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 20919,
+                "name": "Diabolik Lovers Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20919/Diabolik_Lovers_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 20296,
+    "request_cached": true,
+    "request_hash": "request:anime:7898a91f3f606dc391c1c2f333b067804ce1de0b",
+    "score": 5.66,
+    "scored_by": 90085,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 218,
+            "name": "Zexcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ],
+    "synopsis": "At the behest of her father, Yui Komori goes to live in a secluded mansion, home to the six Sakamaki brothers\u2014Shuu, Reiji, Ayato, Kanato, Laito, and Subaru\u2014a family of vampires. Though at first the siblings are confused as to why the girl has arrived, they soon realize that she is to be their new \"sacrificial bride,\" not to mention their other, more carnal intentions for her. After meeting the brothers, Yui quickly begins to question why her father would have sent her here and why she feels a strange, new pain in her chest. With each brother more sadistic than the last, Yui's life as a captive takes a harrowing turn in her new home. As her days turn into endless nights, and each brother vows to make her his own, Yui falls deeper and deeper into madness and ecstasy. [Written by MAL Rewrite]",
+    "title": "Diabolik Lovers",
+    "title_english": "Diabolik Lovers",
+    "title_japanese": "DIABOLIK LOVERS",
+    "title_synonyms": [
+        "DiaLover"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/5rzoyyotvD4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/17513/Diabolik_Lovers"
+}

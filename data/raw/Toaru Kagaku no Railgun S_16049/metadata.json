@@ -1,0 +1,180 @@
+{
+    "aired": {
+        "from": "2013-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Apr 12, 2013 to Sep 27, 2013",
+        "to": "2013-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"sister's noise\" by fripSide (ep 1)",
+        "\"Grow Slowly\" by Yuka Iguchi (eps 2-4, 6-10, 12, 13-16)",
+        "\"stand still\" by Yuka Iguchi (eps 11, 14)",
+        "\"Links (\u30ea\u30f3\u30af\u30b9)\" by Sachika Misawa (eps 18-22, 24)",
+        "\"Infinia (\u30a4\u30f3\u30d5\u30a3\u30cb\u30a2)\" by Sachika Misawa (ep 23)"
+    ],
+    "episodes": 24,
+    "favorites": 2358,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75610.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 16049,
+    "members": 206481,
+    "opening_themes": [
+        "\"sister's noise\" by fripSide (eps 2-16)",
+        "\"eternal reality\" by fripSide (eps 17-23)"
+    ],
+    "popularity": 455,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        }
+    ],
+    "rank": 442,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7776,
+                "name": "Toaru Majutsu no Index Gaiden: Toaru Kagaku no Railgun",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7776/Toaru_Majutsu_no_Index_Gaiden__Toaru_Kagaku_no_Railgun"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 22759,
+                "name": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22759/Toaru_Kagaku_no_Railgun_S__Daiji_na_Koto_wa_Zenbu_Sentou_ni_Osowatta"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 4654,
+                "name": "Toaru Majutsu no Index",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 6213,
+                "name": "Toaru Kagaku no Railgun",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38481,
+                "name": "Toaru Kagaku no Railgun 3",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38481/Toaru_Kagaku_no_Railgun_3"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 19697,
+                "name": "Toaru Kagaku no Railgun S: Motto Marutto Railgun",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19697/Toaru_Kagaku_no_Railgun_S__Motto_Marutto_Railgun"
+            }
+        ]
+    },
+    "request_cache_expiry": 11679,
+    "request_cached": true,
+    "request_hash": "request:anime:afab03c867687790eb47bb45962fed0ff7a8caf5",
+    "score": 8.11,
+    "scored_by": 105319,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Mikoto Misaka and her friends are back, investigating rumors across Academy City. Soon, Mikoto discovers something terrifying: horrific experiments are taking place throughout the city, involving the murder of thousands of espers. Moreover, these espers are far from just ordinary people: they are clones of Mikoto herself. Feeling responsible for their treatment, she sets off to put an end to the experiments; however, the forces opposing her are much more dangerous than she anticipated, and Mikoto finds herself up against some of the most powerful espers imaginable. Toaru Kagaku no Railgun S continues the story of the Railgun as she desperately fights to put an end to the inhuman experiments that she believes she helped cause, her life dragged deep into despair in the process. There's never a dull moment in Academy City, but no one ever said all of them would be pleasant. [Written by MAL Rewrite]",
+    "title": "Toaru Kagaku no Railgun S",
+    "title_english": "A Certain Scientific Railgun S",
+    "title_japanese": "\u3068\u3042\u308b\u79d1\u5b66\u306e\u8d85\u96fb\u78c1\u7832S",
+    "title_synonyms": [
+        "Toaru Kagaku no Railgun 2",
+        "Toaru Kagaku no Choudenjihou 2",
+        "A Certain Scientific Railgun 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Bd-LBH1iQOs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16049/Toaru_Kagaku_no_Railgun_S"
+}

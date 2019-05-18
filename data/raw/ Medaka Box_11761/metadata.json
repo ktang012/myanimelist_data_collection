@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2012-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Apr 5, 2012 to Jun 21, 2012",
+        "to": "2012-06-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:50 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ohanabatake ni Tsuretette (\u304a\u82b1\u7551\u306b\u9023\u308c\u3066\u3063\u3066)\" by Medaka Kurokami (CV: Aki Toyosaki)"
+    ],
+    "episodes": 12,
+    "favorites": 368,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/37947.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 11761,
+    "members": 165479,
+    "opening_themes": [
+        "\"HAPPY CRAZY BOX\" by Minami Kuribayashi"
+    ],
+    "popularity": 591,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 649,
+            "name": "Hakoniwa Academy Student Council",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/649/Hakoniwa_Academy_Student_Council"
+        }
+    ],
+    "rank": 3141,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13949,
+                "name": "Medaka Box",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13949/Medaka_Box"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 14527,
+                "name": "Medaka Box Abnormal",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14527/Medaka_Box_Abnormal"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:b7d7ad8b68bd339a75bf6996f2ef87388ade313c",
+    "score": 7.15,
+    "scored_by": 73060,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 6,
+            "name": "Gainax",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 406,
+            "name": "Asahi Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+        }
+    ],
+    "synopsis": "Medaka Kurokami is, in the truest sense of the word, perfect. Beautiful, intelligent, and athletic, Medaka's dream is to make others happy. So when she runs for Student Council President of the prestigious Hakoniwa Academy, winning the election with 98% of the votes is only to be expected. The very first thing the boisterous new president does is set up the \"Medaka Box,\" a suggestion box allowing students to submit any kind of request for assistance. Together with the cynical Zenkichi Hitoyoshi, her childhood friend who has been strong-armed into helping, Medaka fulfills these requests at a ridiculous rate. For every job completed, she adds flowers to the student council room, with the aim of filling the entire school. However, the two are about to find out that helping others may be a lot harder than they think as they begin to uncover a devastating plan centering on the academy and even Medaka herself! [Written by MAL Rewrite]",
+    "title": "Medaka Box",
+    "title_english": "Medaka Box",
+    "title_japanese": "\u3081\u3060\u304b\u30dc\u30c3\u30af\u30b9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ssC15TwP8cI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11761/Medaka_Box"
+}

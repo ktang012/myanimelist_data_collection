@@ -1,0 +1,152 @@
+{
+    "aired": {
+        "from": "2014-01-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 5, 2014 to Mar 23, 2014",
+        "to": "2014-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at Cinemart Shinjuku in Tokyo on December 29, 2013. Regular broadcasting began on January 5, 2014.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Witch\u2606Activity (\u30a6\u30a3\u30c3\u30c1\u2606\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3)\" by KMM Dan (KMM\u56e3) Tanpopo Kuraishi (CV: Shiori Izawa), Tsurupeta (CV: Momo Asakura), Twintail (CV: Shiina Natsukawa), Gantai (CV: Yuuko Iida), and Deko (CV: Natsumi Hioka)"
+    ],
+    "episodes": 12,
+    "favorites": 441,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/55693.jpg",
+    "licensors": [],
+    "mal_id": 21085,
+    "members": 168186,
+    "opening_themes": [
+        "\"divine intervention\" by fh\u00e1na"
+    ],
+    "popularity": 583,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 1605,
+            "name": "I Will",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1605/I_Will"
+        }
+    ],
+    "rank": 3021,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 19896,
+                "name": "Witch Craft Works",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/19896/Witch_Craft_Works"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 22117,
+                "name": "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22117/Witch_Craft_Works__Takamiya-kun_to_Imouto_no_Warudakumi"
+            },
+            {
+                "mal_id": 23487,
+                "name": "Witch Craft Works Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23487/Witch_Craft_Works_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 10708,
+    "request_cached": true,
+    "request_hash": "request:anime:7088548bed96bd578d763dd832c89025f1a4389a",
+    "score": 7.18,
+    "scored_by": 82425,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Honoka Takamiya was perfectly happy with his completely average and normal life. His primary problem in life was the fact that he shared a school with the school's \"Princess,\" Ayaka Kagari. Both girls and boys fawn over her which makes Honoka's life difficult since he rides the same bus as her in the morning and sits next to her in class. What's worse is that if he even idly interacts with her, her fan club takes him out back and beats him up! One day while taking out the trash he looks up to see a school building falling on top of him! He is saved at the very last moment by the very same beautiful girl, Ayaka, that he's never even had a full conversation with. She finally speaks to him, revealing that she's been protecting him in secret, but now that someone is attacking him directly she no longer needs to do it covertly. It turns out that Ayaka is a fire witch and there are other witches in the world who want to capture Honoka and use him for the power that he possesses inside of him.",
+    "title": "Witch Craft Works",
+    "title_english": null,
+    "title_japanese": "\u30a6\u30a3\u30c3\u30c1\u30af\u30e9\u30d5\u30c8\u30ef\u30fc\u30af\u30b9",
+    "title_synonyms": [
+        "Witchcraft Works"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/gLgBYps8LLQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21085/Witch_Craft_Works"
+}

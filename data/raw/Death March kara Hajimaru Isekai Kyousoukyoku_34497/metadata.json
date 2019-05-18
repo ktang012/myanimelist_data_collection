@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2018-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 11, 2018 to Mar 29, 2018",
+        "to": "2018-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Suki no Skill (\u30b9\u30ad\u30ce\u30b9\u30ad\u30eb)\" by Wake Up, Girls!",
+        "\"Suki no Skill (\u30b9\u30ad\u30ce\u30b9\u30ad\u30eb)\" by Wake Up, Girls! (eps 1-9, 11-12)",
+        "\"Bishoujo Tenshi Magical Rose (\u7f8e\u5c11\u5973\u5929\u4f7f\u30de\u30b8\u30ab\u30eb\u30ed\u30b9)\" by Pochi (Kouno Hiyori), Tama (Okuno Kaya), Arisa (Yuuki Aoi) (ep 10)"
+    ],
+    "episodes": 12,
+    "favorites": 1081,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/88911.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34497,
+    "members": 206577,
+    "opening_themes": [
+        "\"Slide Ride (\u30b9\u30e9\u30a4\u30c9\u30e9\u30a4\u30c9)\" by Run Girls, Run!"
+    ],
+    "popularity": 456,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1039,
+            "name": "DIVE II Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1039/DIVE_II_Entertainment"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+            "mal_id": 1787,
+            "name": "KLab",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1787/KLab"
+        }
+    ],
+    "rank": 4247,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 83019,
+                "name": "Death March kara Hajimaru Isekai Kyousoukyoku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/83019/Death_March_kara_Hajimaru_Isekai_Kyousoukyoku"
+            }
+        ]
+    },
+    "request_cache_expiry": 32471,
+    "request_cached": true,
+    "request_hash": "request:anime:0294c9ef782d960a0f959481afd601f2ff641083",
+    "score": 6.86,
+    "scored_by": 103333,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        },
+        {
+            "mal_id": 957,
+            "name": "Connect",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/957/Connect"
+        }
+    ],
+    "synopsis": "Ichirou Suzuki, a programmer nearing his thirties, is drowning in work. Worn out, he eventually has a chance to catch up on sleep, only to wake up and discover himself in a fantasy RPG world, which is mashed together from the games he was debugging in reality. In this new place, he realizes that not only has his appearance changed to a younger version of himself, but his name has also changed to Satou, a nickname he used while running beta tests on games. However, before Satou can fully grasp his situation, an army of lizardmen launch an assault on him. Forced to cast a powerful spell in retaliation, Satou wipes them out completely and his level is boosted to 310, effectively maximizing his stats. Now, as a high-leveled adventurer armed with a plethora of skills and no way to return to reality, Satou sets out to explore this magical new world. [Written by MAL Rewrite]",
+    "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+    "title_english": "Death March to the Parallel World Rhapsody",
+    "title_japanese": "\u30c7\u30b9\u30de\u30fc\u30c1\u304b\u3089\u306f\u3058\u307e\u308b\u7570\u4e16\u754c\u72c2\u60f3\u66f2",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/0NzZvYIyb0c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34497/Death_March_kara_Hajimaru_Isekai_Kyousoukyoku"
+}

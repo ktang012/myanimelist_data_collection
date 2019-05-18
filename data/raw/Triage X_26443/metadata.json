@@ -1,0 +1,128 @@
+{
+    "aired": {
+        "from": "2015-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 11,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 9, 2015 to Jun 11, 2015",
+        "to": "2015-06-11T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at Shinjuku Kadokawa Cinema on March 29, 2015. Regular broadcasting began on April 9, 2015.",
+    "broadcast": "Thursdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Soleil Moa (\u30bd\u30ec\u30fc\u30e6\u30fb\u30e2\u30a2)\" by Kazutomi Yamamoto (eps 1-9)",
+        "\"triage\" by Nagareda Project (ep 10)"
+    ],
+    "episodes": 10,
+    "favorites": 167,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/73682.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 26443,
+    "members": 92739,
+    "opening_themes": [
+        "\"triage\" by Saeko Zougou featuring Nagareda Project"
+    ],
+    "popularity": 1069,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        }
+    ],
+    "rank": 6407,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14018,
+                "name": "Triage X",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14018/Triage_X"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30250,
+                "name": "Triage X: Recollection XOXO",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30250/Triage_X__Recollection_XOXO"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c0750840aa38cf0772e5f039a758ada56a686744",
+    "score": 6.41,
+    "scored_by": 38979,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "In a deadly terrorist attack, Arashi Mikami narrowly escapes death but loses everything in the process, including his family and best friend. However, the surgeon that rescues him is far from just an ordinary doctor\u2014he commands a strike team known as Black Label whose task is to exterminate deadly criminals who have fallen too far. Filled with a new determination, Arashi joins the ranks of the vigilante organization. Black Label's targets are aplenty, as evil scum lurks everywhere\u2014dangerous arms dealers, corrupt politicians, and shady gangsters all find themselves hunted by the extermination team. Although haunted by their dark and sinister past, all of the hunters are highly skilled at slaying their targets. In spite of the perilous lives the members live, Arashi and the gorgeous ladies surrounding him still manage to get caught up in a variety of sultry moments and racy hijinks. Though they face strong opposition, nothing can stop Black Label's objective of cleansing the world of ghastly evil. [Written by MAL Rewrite]",
+    "title": "Triage X",
+    "title_english": "Triage X",
+    "title_japanese": "\u30c8\u30ea\u30a2\u30fc\u30b8X",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/bB0XFfJUFRk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/26443/Triage_X"
+}

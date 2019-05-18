@@ -1,0 +1,148 @@
+{
+    "aired": {
+        "from": "2006-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 16,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 6, 2006 to Mar 16, 2007",
+        "to": "2007-03-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kaze no Tadori Tsuku Basho\" by  Ayana"
+    ],
+    "episodes": 24,
+    "favorites": 4348,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/56301.jpg",
+    "licensors": [
+        {
+            "mal_id": 97,
+            "name": "ADV Films",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 1530,
+    "members": 202666,
+    "opening_themes": [
+        "\"Last Regrets\" by Key & Ayana"
+    ],
+    "popularity": 470,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 470,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1822,
+                "name": "Kanon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1822/Kanon"
+            },
+            {
+                "mal_id": 68927,
+                "name": "Kanon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/68927/Kanon"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 144,
+                "name": "Kanon",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/144/Kanon"
+            }
+        ]
+    },
+    "request_cache_expiry": 19427,
+    "request_cached": true,
+    "request_hash": "request:anime:84390c3162fefb4dc384af584f76f387bd2fd6d0",
+    "score": 8.08,
+    "scored_by": 106391,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "As a young child, Aizawa Yuuichi had often visited his cousin in the city; however, something drastic happened to keep him away for seven long years. Now, Yuuichi returns, his memories of those days are simply gone. Settling into the wintry town, Yuuichi comes across several young girls, all of whom are connected to his past. As he befriends them and continues to interact with them, the long forgotten memories from his childhood begin to resurface... [Written by MAL Rewrite]",
+    "title": "Kanon (2006)",
+    "title_english": "Kanon",
+    "title_japanese": "\u30ab\u30ce\u30f3 (2006)",
+    "title_synonyms": [
+        "Kanon Remake",
+        "Kanon 2006"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/KCXq37YLik4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1530/Kanon_2006"
+}

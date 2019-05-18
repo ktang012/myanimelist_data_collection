@@ -1,0 +1,175 @@
+{
+    "aired": {
+        "from": "2012-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 6,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Oct 6, 2012 to Apr 6, 2013",
+        "to": "2013-04-06T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "JoJo no Kimyou na Bouken was announced on July 5, 2012 at a press conference celebrating the 25th anniversary Hirohiko Araki's long-running series. The anime is a full adaptation of the first two parts in the series, Phantom Blood and Sentou Chuuryuu (Battle Tendency). While the animation was produced by David Production, the opening theme animations were produced by the studio Kamikaze Douga (\u795e\u98a8\u52d5\u753b).",
+    "broadcast": "Saturdays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Roundabout\" by YES  (eps 1-25)",
+        "\"BLOODY STREAM\" by Coda (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 16419,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        },
+        {
+            "mal_id": 1889,
+            "name": "Warner Bros. Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1889/Warner_Bros_Pictures"
+        }
+    ],
+    "mal_id": 14719,
+    "members": 458895,
+    "opening_themes": [
+        "\"JoJo ~Sono Chi no Sadame~ (\u30b8\u30e7\u30b8\u30e7\uff5e\u305d\u306e\u8840\u306e\u904b\u547d\uff5e)\" by Hiroaki TOMMY Tominaga (eps 2-9)",
+        "\"BLOODY STREAM\" by Coda (eps 11-25)"
+    ],
+    "popularity": 131,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 437,
+            "name": "Kamikaze Douga",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 182,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1517,
+                "name": "JoJo no Kimyou na Bouken Part 1: Phantom Blood",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1517/JoJo_no_Kimyou_na_Bouken_Part_1__Phantom_Blood"
+            },
+            {
+                "mal_id": 1630,
+                "name": "JoJo no Kimyou na Bouken Part 2: Sentou Chuuryuu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1630/JoJo_no_Kimyou_na_Bouken_Part_2__Sentou_Chuuryuu"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 3603,
+                "name": "JoJo no Kimyou na Bouken: Phantom Blood",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3603/JoJo_no_Kimyou_na_Bouken__Phantom_Blood"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 20899,
+                "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20899/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders"
+            }
+        ]
+    },
+    "request_cache_expiry": 468,
+    "request_cached": true,
+    "request_hash": "request:anime:708554b97b202a40156ab62752933ca4e4c0e686",
+    "score": 8.38,
+    "scored_by": 256760,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 287,
+            "name": "David Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ],
+    "synopsis": "In 1868, Dario Brando saves the life of an English nobleman, George Joestar. By taking in Dario's son Dio when the boy becomes fatherless, George hopes to repay the debt he owes to his savior. However Dio, unsatisfied with his station in life, aspires to seize the Joestar house for his own. Wielding an Aztec stone mask with supernatural properties, he sets out to destroy George and his son, Jonathan \"JoJo\" Joestar, and triggers a chain of events that will continue to echo through the years to come. Half a century later, in New York City, Jonathan's grandson Joseph Joestar discovers the legacy his grandfather left for him. When an archeological dig unearths the truth behind the stone mask, he realizes that he is the only one who can defeat the Pillar Men, mystical beings of immeasurable power who inadvertently began everything. Adapted from the first two arcs of Hirohiko Araki's outlandish manga series, JoJo no Kimyou na Bouken follows the many thrilling expeditions of JoJo and his descendants. Whether it's facing off with the evil Dio, or combatting the sinister Pillar Men, there's always plenty of bizarre adventures in store. [Written by MAL Rewrite]",
+    "title": "JoJo no Kimyou na Bouken (TV)",
+    "title_english": "JoJo's Bizarre Adventure",
+    "title_japanese": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a",
+    "title_synonyms": [
+        "JoJo no Kimyou na Bouken (2012)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PGVSViecHWE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV"
+}

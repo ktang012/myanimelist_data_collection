@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2012-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Apr 6, 2012 to Jun 29, 2012",
+        "to": "2012-06-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The initial English DVD and Blu-Ray releases were edited for content, but customers were allowed to exchange it for an uncensored version later on.",
+    "broadcast": "Fridays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Above your hand\" by Annabel"
+    ],
+    "episodes": 12,
+    "favorites": 1697,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1487/95651.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 11499,
+    "members": 349475,
+    "opening_themes": [
+        "\"Esoragoto (\u7d75\u7a7a\u4e8b)\" by nano.RIPE"
+    ],
+    "popularity": 217,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 693,
+            "name": "BS-TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/693/BS-TBS"
+        }
+    ],
+    "rank": 1805,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 18597,
+                "name": "Sankarea",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/18597/Sankarea"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16694,
+                "name": "Sankarea: Wagahai mo... Zombie de Aru...",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16694/Sankarea__Wagahai_mo_Zombie_de_Aru"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 13055,
+                "name": "Sankarea OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13055/Sankarea_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 38854,
+    "request_cached": true,
+    "request_hash": "request:anime:d15285ee2448acb89d65479ab72d7a0827a5235d",
+    "score": 7.47,
+    "scored_by": 185785,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Ever since he was a child, zombie-obsessed Chihiro Furuya has wanted an undead girlfriend. Soon enough, his love for all things zombie comes in handy when his cat Baabu gets run over, prompting Chihiro to try to make a resurrection potion and bring him back to life. During his endeavor, he sees a rich girl named Rea Sanka yelling into an old well every day about her oppressive life. After meeting and bonding with her, Chihiro is convinced by Rea to persevere in saving Baabu. Eventually, he succeeds with the help of the poisonous hydrangea flowers from Rea's family garden. Unaware of the potion's success and seeking to escape the burdens of her life, Rea drinks the resurrection potion, mistakenly thinking she will die. Though it doesn't kill her, the effects still linger and her death from a fatal accident causes her to be reborn as a zombie. With help from Chihiro, Rea strives to adjust to her new\u2014albeit undead\u2014life. For a boy wanting a zombie girlfriend, this situation would seem like a dream come true. But in Sankarea, Chihiro's life becomes stranger than usual as he deals with Rea's odd new cravings and the unforeseen consequences of her transformation. [Written by MAL Rewrite]",
+    "title": "Sankarea",
+    "title_english": "Sankarea: Undying Love",
+    "title_japanese": "\u3055\u3093\u304b\u308c\u3042",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/oNO0-pn2_Xk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11499/Sankarea"
+}

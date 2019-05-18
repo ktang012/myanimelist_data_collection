@@ -1,0 +1,179 @@
+{
+    "aired": {
+        "from": "2010-09-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 9,
+                "year": 2010
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Sep 4, 2010 to Dec 20, 2010",
+        "to": "2010-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Pre-airing on 4th of September, regular airing started on the 4th of October. \r\nExtended version of episode 12 is included in this entry.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Koi ni Sesse Tooryanse (\u604b\u306b\u305b\u3063\u305b\u901a\u308a\u3083\u3093\u305b)\" by Aoi Yuuki, Minako Kotobuki & Rie Kugimiya"
+    ],
+    "episodes": 12,
+    "favorites": 265,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 21,
+            "name": "Samurai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/27705.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 8277,
+    "members": 131519,
+    "opening_themes": [
+        "\"Last vision for last\" by Faylan"
+    ],
+    "popularity": 770,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 547,
+            "name": "Hobby Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/547/Hobby_Japan"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1636,
+            "name": "Gigno Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1636/Gigno_Systems"
+        }
+    ],
+    "rank": 4028,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26787,
+                "name": "Hyakka Ryouran: Samurai Girls",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26787/Hyakka_Ryouran__Samurai_Girls"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 15377,
+                "name": "Hyakka Ryouran: Samurai Bride",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15377/Hyakka_Ryouran__Samurai_Bride"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9362,
+                "name": "Hyakka Ryouran: Samurai Girls Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9362/Hyakka_Ryouran__Samurai_Girls_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 20469,
+    "request_cached": true,
+    "request_hash": "request:anime:901e7ec745e53d371ff83500142995447502d07b",
+    "score": 6.92,
+    "scored_by": 59943,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 38,
+            "name": "Arms",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/38/Arms"
+        }
+    ],
+    "synopsis": "Jubei Yagyu, Hanzo Hattori, Yukimura Sanada, Sen Tokugawa, Kanetsugu Naoe, and Matabei Goto. In the alternate world of Hyakka Ryouran: Samurai Girls these are not the legendary samurai of history. They are scantily clad young ladies living in an age where the Tokugawa shogunate remained in power, and all of them have been sent to Buou Academic School in order to hone their battle skills. Muneakira Yagyu, master of the Yagyu dojo, is the only one who has the ability to take these warriors to the next level, making them into master samurai. Once he unlocks the hidden powers of Jubei with a kiss, the rest of the girls will set their sights on attaining that power for themselves. Together with his new group of master samurai, Muneakira will rebel against the school's student council, who have tasked themselves with oppressing students in this hectic world.",
+    "title": "Hyakka Ryouran: Samurai Girls",
+    "title_english": "Samurai Girls",
+    "title_japanese": "\u767e\u82b1\u7e5a\u4e71 \u30b5\u30e0\u30e9\u30a4\u30ac\u30fc\u30eb\u30ba",
+    "title_synonyms": [
+        "Hyakka Ryouran: Samurai Girls"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/X9z7ljh0viw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8277/Hyakka_Ryouran__Samurai_Girls"
+}

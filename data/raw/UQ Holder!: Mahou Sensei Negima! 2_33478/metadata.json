@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2017-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 3, 2017 to Dec 19, 2017",
+        "to": "2017-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Steady\u2192GO!!\" by Touta Konoe (Yuka Takakura), Kuroumaru Tokisaka (Yuuki Hirose), Kirie Sakurame (Ai Kayano), Karin Yuuki (Yui Ogura), Shinobu Yuuki (Sayaka Harada), and Mizore Yukihiro (Akari Kito)"
+    ],
+    "episodes": 12,
+    "favorites": 222,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/88354.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 33478,
+    "members": 89225,
+    "opening_themes": [
+        "\"Happy\u2606Material (\u30cf\u30c3\u30d4\u30fc\u2606\u30de\u30c6\u30ea\u30a2\u30eb)\" by Touta Konoe (Yuka Takakura), Kuroumaru Tokisaka (Yuuki Hirose), Kirie Sakurame (Ai Kayano), Karin Yuuki (Yui Ogura), Shinobu Yuuki (Sayaka Harada), and Mizore Yukihiro (Akari Kito)"
+    ],
+    "popularity": 1101,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1309,
+            "name": "Lawson HMV Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1309/Lawson_HMV_Entertainment"
+        },
+        {
+            "mal_id": 1444,
+            "name": "Egg Firm",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+        },
+        {
+            "mal_id": 1602,
+            "name": "GYAO!",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+        }
+    ],
+    "rank": 3121,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 57765,
+                "name": "UQ Holder!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/57765/UQ_Holder"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34604,
+                "name": "UQ Holder!: Mahou Sensei Negima! 2 (OVA)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34604/UQ_Holder__Mahou_Sensei_Negima_2_OVA"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 1546,
+                "name": "Negima!?",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1546/Negima"
+            },
+            {
+                "mal_id": 7135,
+                "name": "Mahou Sensei Negima! Movie: Anime Final",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7135/Mahou_Sensei_Negima_Movie__Anime_Final"
+            }
+        ]
+    },
+    "request_cache_expiry": 21597,
+    "request_cached": true,
+    "request_hash": "request:anime:c9d2d1c2dcb059c4f8ddd19d5fafa7f6fda5c932",
+    "score": 7.16,
+    "scored_by": 31917,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "In the decade since the world became aware of the existence of magic, the world has undergone a massive upheaval. However, a boy named Touta lives in seclusion in a rural town far removed from these changes. His ordinary life is highlighted by his magic-using female teacher and his supportive friends. When his tranquil daily life is disrupted, he embarks on a unique adventure. (Source: ANN)",
+    "title": "UQ Holder!: Mahou Sensei Negima! 2",
+    "title_english": "UQ Holder!",
+    "title_japanese": "UQ HOLDER! \uff5e\u9b54\u6cd5\u5148\u751f\u30cd\u30ae\u307e\uff012\uff5e",
+    "title_synonyms": [
+        "Yuukyuu Holder",
+        "Eternal Holder"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/oVALIDOhLhs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33478/UQ_Holder__Mahou_Sensei_Negima_2"
+}

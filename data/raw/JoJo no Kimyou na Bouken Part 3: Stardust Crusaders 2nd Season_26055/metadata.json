@@ -1,0 +1,172 @@
+{
+    "aired": {
+        "from": "2015-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Jan 10, 2015 to Jun 20, 2015",
+        "to": "2015-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The 2nd season covers the remaining 83 chapters of the manga (the Egypt arc).",
+    "broadcast": "Saturdays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Last Train Home (\u30e9\u30b9\u30c8\u30fb\u30c8\u30ec\u30a4\u30f3\u30fb\u30db\u30fc\u30e0)\" by Pat Metheny Group (eps 1-2, 4-11, 14-16, 18-22)",
+        "\"Aku Yaku\u2662Kyousoukyoku ~ Oingo to Boingo~ (\u30a2\u30af\u5f79\u2662\u5354\u594f\u66f2\u301c\u30aa\u30a4\u30f3\u30b4\u3068\u30dc\u30a4\u30f3\u30b4\u301c)\" by Oingo (Makoto Yasumura) and Boingo (Motoko Kumai) (ep 3)",
+        "\"Aku Yaku\u2662Kyousoukyoku ~ Hol Horse to Boingo~ (\u30a2\u30af\u5f79\u25c7\u5354\u594f\u66f2\uff5e\u30db\u30eb\u30fb\u30db\u30fc\u30b9\u3068\u30dc\u30a4\u30f3\u30b4\uff5e)\" by Hol Horse (Hidenobu Kiuchi) and Boingo (Motoko Kumai) (eps 12-13)"
+    ],
+    "episodes": 24,
+    "favorites": 6659,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75045.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 26055,
+    "members": 272692,
+    "opening_themes": [
+        "\"JoJo - Sono Chi no Kioku: end of THE WORLD (\u30b8\u30e7\u30b8\u30e7 \u305d\u306e\u8840\u306e\u8a18\u61b6\u301cend of THE WORLD\u301c)\" by JO\u2606STARS\uff5eTOMMY, Coda, JIN\uff5e (eps 1-2, 4-10, 12-15, 17-24)"
+    ],
+    "popularity": 312,
+    "premiered": "Winter 2015",
+    "producers": [
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 437,
+            "name": "Kamikaze Douga",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 81,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 872,
+                "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/872/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 666,
+                "name": "JoJo no Kimyou na Bouken",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/666/JoJo_no_Kimyou_na_Bouken"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 20899,
+                "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20899/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31933,
+                "name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai"
+            }
+        ]
+    },
+    "request_cache_expiry": 18298,
+    "request_cached": true,
+    "request_hash": "request:anime:29c36d2de7f035728faf11717e5dacd7c8a718c4",
+    "score": 8.57,
+    "scored_by": 174409,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 287,
+            "name": "David Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ],
+    "synopsis": "Joutarou Kuujou and his allies have finally made it to Egypt, where the immortal Dio awaits. Upon their arrival, the group gains a new comrade: Iggy, a mutt who wields the Stand \"The Fool.\" It's not all good news however, as standing in their path is a new group of Stand users who serve Dio, each with a Stand representative of an ancient Egyptian god. As their final battle approaches, it is a race against time to break Joutarou's mother free from her curse and end Dio's reign of terror over the Joestar family once and for all. [Written by MAL Rewrite]",
+    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+    "title_english": "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+    "title_japanese": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9",
+    "title_synonyms": [
+        "JoJo's Bizarre Adventure Part 3",
+        "JoJo's Bizarre Adventure: Stardust Crusaders - Egypt Arc"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/JA48VBSl4nc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/26055/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_2nd_Season"
+}

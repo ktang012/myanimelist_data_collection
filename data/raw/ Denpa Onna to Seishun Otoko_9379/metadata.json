@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2011-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            }
+        },
+        "string": "Apr 15, 2011 to Jul 1, 2011",
+        "to": "2011-07-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ruru (\u30eb\u30eb)\" by Etsuko Yakushimaru"
+    ],
+    "episodes": 12,
+    "favorites": 929,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/59497.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 9379,
+    "members": 209532,
+    "opening_themes": [
+        "\"Os-Uchuujin (Os-\u5b87\u5b99\u4eba)\" by Erio wo Kamatte-chan (\u30a8\u30ea\u30aa\u3092\u304b\u307e\u3063\u3066\u3061\u3083\u3093) (Asuka Oogame)"
+    ],
+    "popularity": 446,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        }
+    ],
+    "rank": 2685,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 21555,
+                "name": "Denpa Onna to Seishun Otoko",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/21555/Denpa_Onna_to_Seishun_Otoko"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10638,
+                "name": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10638/Denpa_Onna_to_Seishun_Otoko__Mayonaka_no_Taiyou"
+            }
+        ]
+    },
+    "request_cache_expiry": 35404,
+    "request_cached": true,
+    "request_hash": "request:anime:97572fbe6985ba872b038679a82e1ca2588e4354",
+    "score": 7.25,
+    "scored_by": 92094,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 44,
+            "name": "Shaft",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/44/Shaft"
+        }
+    ],
+    "synopsis": "Makoto Niwa meticulously tallies the amount of positive and negative youthful experiences he engages in as if to grade his own life. When his parents go overseas, he moves to a new town to live with his aunt, welcoming the change and ready for a fresh start. However, as ordinary as he had imagined his adolescence to be, he could never have taken the existence of an enigmatic long-lost cousin into account. Upon moving into his aunt's house, he discovers the cousin he never knew about: Erio Touwa. Despite being Makoto's age, she couldn't be more different: Erio chooses to wrap herself in a futon all day rather than to go to school. She even claims to be an alien, and with a speech pattern and personality to back it up, any chance of Makoto's dreamt-of normal life is instantly tossed out the window. As he meets a string of other eccentric girls in town, Makoto must face the possibility of seeing his youth points in the red. However, he might be surprised by how thrilling an abnormal youth can be. [Written by MAL Rewrite]",
+    "title": "Denpa Onna to Seishun Otoko",
+    "title_english": "Ground Control to Psychoelectric Girl",
+    "title_japanese": "\u96fb\u6ce2\u5973\u3068\u9752\u6625\u7537",
+    "title_synonyms": [
+        "Electromagnetic Wave Woman and Adolescent Man"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/kk0GQZbJP_I?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9379/Denpa_Onna_to_Seishun_Otoko"
+}

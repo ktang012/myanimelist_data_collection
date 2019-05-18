@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2013-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 3, 2013 to Dec 19, 2013",
+        "to": "2013-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kyoukai no Kanata covers the storyline of the first two volumes of the light novel adaptation. It has been licensed by Sentai Filmworks in North America, Hanabee in Australia and Animatsu Entertainment in the United Kingdom. It was also simulcast on Crunchyroll.",
+    "broadcast": "Thursdays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Daisy\" by STEREO DIVE FOUNDATION"
+    ],
+    "episodes": 12,
+    "favorites": 8628,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/85468.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 18153,
+    "members": 598051,
+    "opening_themes": [
+        "\"Kyoukai no Kanata (\u5883\u754c\u306e\u5f7c\u65b9)\" by Minori Chihara"
+    ],
+    "popularity": 78,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        }
+    ],
+    "rank": 794,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 50117,
+                "name": "Kyoukai no Kanata",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/50117/Kyoukai_no_Kanata"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 17813,
+                "name": "Kyoto Animation: Megane-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17813/Kyoto_Animation__Megane-hen"
+            },
+            {
+                "mal_id": 21241,
+                "name": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21241/Kyoukai_no_Kanata__Idol_Saiban_Mayoi_Nagara_mo_Kimi_wo_Sabaku_Tami"
+            },
+            {
+                "mal_id": 30745,
+                "name": "Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30745/Kyoukai_no_Kanata_Movie__Ill_Be_Here_-_Kako-hen_-_Yakusoku_no_Kizuna"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 23385,
+                "name": "Kyoukai no Kanata: Shinonome",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23385/Kyoukai_no_Kanata__Shinonome"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 28675,
+                "name": "Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28675/Kyoukai_no_Kanata_Movie_2__Ill_Be_Here_-_Mirai-hen"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 20909,
+                "name": "Kyoukai no Kanata: Mini Theater",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20909/Kyoukai_no_Kanata__Mini_Theater"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 25015,
+                "name": "Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25015/Kyoukai_no_Kanata_Movie_1__Ill_Be_Here_-_Kako-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 2045,
+    "request_cached": true,
+    "request_hash": "request:anime:cf5833c5517ed2905ef4bc9d91c2098eebdb3838",
+    "score": 7.86,
+    "scored_by": 297006,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Mirai Kuriyama is the sole survivor of a clan of Spirit World warriors with the power to employ their blood as weapons. As such, Mirai is tasked with hunting down and killing \"youmu\"\u2014creatures said to be the manifestation of negative human emotions. One day, while deep in thought on the school roof, Mirai comes across Akihito Kanbara, a rare half-breed of youmu in human form. In a panicked state, she plunges her blood saber into him only to realize that he's an immortal being. From then on, the two form an impromptu friendship that revolves around Mirai constantly trying to kill Akihito, in an effort to boost her own wavering confidence as a Spirit World warrior. Eventually, Akihito also manages to convince her to join the Literary Club, which houses two other powerful Spirit World warriors, Hiroomi and Mitsuki Nase. As the group's bond strengthens, however, so does the tenacity of the youmu around them. Their misadventures will soon turn into a fight for survival as the inevitable release of the most powerful youmu, Beyond the Boundary, approaches. [Written by MAL Rewrite]",
+    "title": "Kyoukai no Kanata",
+    "title_english": "Beyond the Boundary",
+    "title_japanese": "\u5883\u754c\u306e\u5f7c\u65b9",
+    "title_synonyms": [
+        "Beyond the Horizon"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/BnfeVrAAS2k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18153/Kyoukai_no_Kanata"
+}

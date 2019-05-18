@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2017-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            }
+        },
+        "string": "Apr 15, 2017 to Jul 1, 2017",
+        "to": "2017-07-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria adapts the first 4 volumes of Fujino Omori's light novel series of the same title.",
+    "broadcast": "Saturdays at 00:30 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"day by day\" by Kano"
+    ],
+    "episodes": 12,
+    "favorites": 413,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/85467.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 32887,
+    "members": 191105,
+    "opening_themes": [
+        "\"RE-ILLUSION\" by Yuka Iguchi"
+    ],
+    "popularity": 504,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 621,
+            "name": "SoftBank Creative",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/621/SoftBank_Creative"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1590,
+            "name": "Furyu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1590/Furyu"
+        }
+    ],
+    "rank": 3244,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 66433,
+                "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66433/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_Gaiden__Sword_Oratoria"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 28121,
+                "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka"
+            }
+        ]
+    },
+    "request_cache_expiry": 29644,
+    "request_cached": true,
+    "request_hash": "request:anime:54586e7b9f7bc2adefb5f13d94f44386af274b67",
+    "score": 7.12,
+    "scored_by": 76701,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "After having descended upon this world, the gods have created guilds where adventurers can test their mettle. These guilds, known as \"familia,\" grant adventurers the chance to explore, gather, hunt, or simply enjoy themselves. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria begins in Orario, the lively city of adventures. The Sword Princess, Ais Wallenstein, and the novice mage, Lefiya Viridis, are members of the Loki Familia, who are experts at monster hunting. With the rest of their group, they journey to the tower of Babel in hopes of exploring the dungeon underneath. Home to powerful monsters, the dungeon will fulfill Ais's desire to master her sword skills, while bringing Lefiya closer to her dream of succeeding Riveria Ljos Alf, vice-captain of the Loki Familia, as the most powerful mage in the land. [Written by MAL Rewrite]",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+    "title_english": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+    "title_japanese": "\u30c0\u30f3\u30b8\u30e7\u30f3\u306b\u51fa\u4f1a\u3044\u3092\u6c42\u3081\u308b\u306e\u306f\u9593\u9055\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u304b\u5916\u4f1d \u30bd\u30fc\u30c9\u30fb\u30aa\u30e9\u30c8\u30ea\u30a2",
+    "title_synonyms": [
+        "Danmachi Sword Oratoria"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/_25Ar-rS-C4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32887/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_Gaiden__Sword_Oratoria"
+}

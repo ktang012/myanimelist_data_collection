@@ -1,0 +1,131 @@
+{
+    "aired": {
+        "from": "2007-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 2,
+                "month": 4,
+                "year": 2008
+            }
+        },
+        "string": "Oct 3, 2007 to Apr 2, 2008",
+        "to": "2008-04-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Makeinu-tachi no Requiem (\u8ca0\u3051\u72ac\u9054\u306e\u30ec\u30af\u30a4\u30a8\u30e0)\" by Hakuryuu"
+    ],
+    "episodes": 26,
+    "favorites": 5713,
+    "genres": [
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/80032.jpg",
+    "licensors": [],
+    "mal_id": 3002,
+    "members": 175192,
+    "opening_themes": [
+        "\"Mirai wa Bokura no Te no Naka\" by Kaiji with Redbourn Cherries"
+    ],
+    "popularity": 559,
+    "premiered": "Fall 2007",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 233,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3572,
+                "name": "Tobaku Mokushiroku Kaiji",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3572/Tobaku_Mokushiroku_Kaiji"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10271,
+                "name": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10271/Gyakkyou_Burai_Kaiji__Hakairoku-hen"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 37338,
+                "name": "Chuukan Kanriroku Tonegawa",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37338/Chuukan_Kanriroku_Tonegawa"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ed62bc7a5ec4b56feae282c078d2b2e0f0379fe6",
+    "score": 8.31,
+    "scored_by": 82585,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Kaiji Itou is a good-for-nothing loiterer who spends his days drinking beer and stealing hubcaps\u2014that is, until he ends up being tricked by his former co-worker. Unable to suddenly repay his friend's huge debt all by himself, Kaiji is offered a shady deal to participate in an illegal underground gamble on a cruise ship. This turns out to be nothing more than the beginning of his new life of hell\u2014thrown headlong into a life-threatening roller coaster of mind games, cheating, and deceit. Based on the first entry of the famous gambling manga series by Nobuyuki Fukumoto, Gyakkyou Burai Kaiji: Ultimate Survivor follows our unlucky protagonist as he is forced to fight not only other people, but also the mysteries of their psyches. Kaiji finds out the hard way that the worst sides of human nature surface when people's backs are against the wall, and that the most fearsome dangers of all are greed, paranoia, and the human survival instinct itself. [Written by MAL Rewrite]",
+    "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "title_english": "Kaiji: Ultimate Survivor",
+    "title_japanese": "\u9006\u5883\u7121\u983c\u30ab\u30a4\u30b8 Ultimate Survivor",
+    "title_synonyms": [
+        "Tobaku Mokushiroku Kaiji",
+        "The Suffering Pariah Kaiji"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor"
+}

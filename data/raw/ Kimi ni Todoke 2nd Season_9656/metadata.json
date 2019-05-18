@@ -1,0 +1,156 @@
+{
+    "aired": {
+        "from": "2011-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2011
+            }
+        },
+        "string": "Jan 12, 2011 to Mar 30, 2011",
+        "to": "2011-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 00:59 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kimi ni Todoke...\" by MAY'S"
+    ],
+    "episodes": 12,
+    "favorites": 1232,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/27174.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 9656,
+    "members": 250876,
+    "opening_themes": [
+        "\"Sawakaze (\u723d\u98a8)\" by Tomofumi Tanizawa"
+    ],
+    "popularity": 353,
+    "premiered": "Winter 2011",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 450,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3378,
+                "name": "Kimi ni Todoke",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3378/Kimi_ni_Todoke"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 6045,
+                "name": "Kimi ni Todoke",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6045/Kimi_ni_Todoke"
+            },
+            {
+                "mal_id": 10152,
+                "name": "Kimi ni Todoke 2nd Season: Kataomoi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10152/Kimi_ni_Todoke_2nd_Season__Kataomoi"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10536,
+                "name": "Kimi ni Todoke 2nd Season: Minitodo Gekijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10536/Kimi_ni_Todoke_2nd_Season__Minitodo_Gekijou"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:048a0f738f8b1843299534068b3fbbe69f99088f",
+    "score": 8.1,
+    "scored_by": 147517,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "The continuation of the first season. Sawako Kuronuma and her friends have just begun their second year of high school and they are in the same class together again. To make matters more interesting a male student newly transferred into their class is seated right next to Kuronuma and has taken an interest in her. What hurdles will Sawako and Kazehaya face next?",
+    "title": "Kimi ni Todoke 2nd Season",
+    "title_english": "Kimi ni Todoke: From Me To You 2",
+    "title_japanese": "\u541b\u306b\u5c4a\u3051 2ND SEASON",
+    "title_synonyms": [
+        "Kimi ni Todoke: From Me to You 2nd Season",
+        "Reaching You 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/9aRQlHYaluU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9656/Kimi_ni_Todoke_2nd_Season"
+}

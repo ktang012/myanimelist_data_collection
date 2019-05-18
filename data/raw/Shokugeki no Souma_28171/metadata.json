@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2015-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Apr 4, 2015 to Sep 26, 2015",
+        "to": "2015-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 02:25 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Spice (\u30b9\u30d1\u30a4\u30b9)\" by Tokyo Karankoron (eps 1-14)",
+        "\"Sacchan no Sexy Curry (\u3055\u3063\u3061\u3083\u3093\u306e\u30bb\u30af\u30b7\u30fc\u30ab\u30ec\u30fc)\" by Seiko Oomori (eps 15-23)",
+        "\"Kibou no Uta (\u5e0c\u671b\u306e\u5504)\" by Ultra Tower (\u30a6\u30eb\u30c8\u30e9\u30bf\u30ef\u30fc) (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 17710,
+    "genres": [
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/72943.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 28171,
+    "members": 739867,
+    "opening_themes": [
+        "\"Kibou no Uta (\u5e0c\u671b\u306e\u5504)\" by ULTRA TOWER (eps 1-14)",
+        "\"Rising Rainbow (\u30e9\u30a4\u30b8\u30f3\u30b0\u30ec\u30a4\u30f3\u30dc\u30a6)\" by Misokkasu (eps 15-24)"
+    ],
+    "popularity": 52,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1605,
+            "name": "I Will",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1605/I_Will"
+        }
+    ],
+    "rank": 111,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 45757,
+                "name": "Shokugeki no Souma",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/45757/Shokugeki_no_Souma"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32282,
+                "name": "Shokugeki no Souma: Ni no Sara",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32282/Shokugeki_no_Souma__Ni_no_Sara"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31327,
+                "name": "Shokugeki no Souma OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31327/Shokugeki_no_Souma_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 4716,
+    "request_cached": true,
+    "request_hash": "request:anime:21a139c4ed8d689a5ed4f3cdd29d41c6a71c47b1",
+    "score": 8.5,
+    "scored_by": 426980,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Ever since he was a child, fifteen-year-old Souma Yukihira has helped his father by working as the sous chef in the restaurant his father runs and owns. Throughout the years, Souma developed a passion for entertaining his customers with his creative, skilled, and daring culinary creations. His dream is to someday own his family's restaurant as its head chef. Yet when his father suddenly decides to close the restaurant to test his cooking abilities in restaurants around the world, he sends Souma to Tootsuki Culinary Academy, an elite cooking school where only 10 percent of the students graduate. The institution is famous for its \"Shokugeki\" or \"food wars,\" where students face off in intense, high-stakes cooking showdowns. As Souma and his new schoolmates struggle to survive the extreme lifestyle of Tootsuki, more and greater challenges await him, putting his years of learning under his father to the test. [Written by MAL Rewrite]",
+    "title": "Shokugeki no Souma",
+    "title_english": "Food Wars! Shokugeki no Soma",
+    "title_japanese": "\u98df\u621f\u306e\u30bd\u30fc\u30de",
+    "title_synonyms": [
+        "Shokugeki no Soma",
+        "Food Wars: Shokugeki no Soma"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/H-4Qyr_3V-E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
+}

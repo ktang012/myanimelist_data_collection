@@ -1,0 +1,183 @@
+{
+    "aired": {
+        "from": "2010-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 2, 2010 to Dec 18, 2010",
+        "to": "2010-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first episode was aired during a special event on Sunday, September 19, 2010 in Laforet Museum Roppongi, Tokyo. The television broadcast started on October 2, 2010.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kaeru Kara (\u5e30\u308b\u304b\u3089)\" by Blue Drops (ep 1)",
+        "\"COSMOS\" by Blue Drops (ep 2)",
+        "\"Kakegemeguru Seishun (\u304b\u3051\u3081\u3050\u308b\u9752\u6625)\" by Mina, and Ayahi Takagaki (ep 3)",
+        "\"Miracle Guy (\u30df\u30e9\u30af\u30eb\u30fb\u30ac\u30a4)\" by Kaori Fukuhara (ep 4)",
+        "\"ff (Fortissimo) (ff (\u30d5\u30a9\u30eb\u30c6\u30a3\u30b7\u30e2))\" by Mina (ep 5)",
+        "\"Soldier in the Space (\u30bd\u30eb\u30b8\u30e3\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b9\u30da\u30fc\u30b9)\" by Soichiro Hoshi, and Tatsuhisa Suzuki (ep 6)",
+        "\"Kaerazaru Hi no Tame ni (\u5e30\u3089\u3056\u308b\u65e5\u306e\u305f\u3081\u306b)\" by Soichiro Hoshi, Saori Hayami, Mina, Tatsuhisa Suzuki, Ayahi Takagaki, Iori Nomizu, and Kaori Fukuhara (ep 7)",
+        "\"Odoriko (\u8e0a\u308a\u5b50)\" by Saori Hayami, and Ayahi Takagaki (ep 8)",
+        "\"Natsu no Ojou-san (\u590f\u306e\u304a\u5b22\u3055\u3093)\" by Iori Nomizu (ep 9)",
+        "\"Boukyou no Tabi (\u671b\u90f7\u306e\u65c5)\" by Soichiro Hoshi, and Saki Fujita (ep 10)",
+        "\"Kaeru Kara (\u5e30\u308b\u304b\u3089)\" by Blue Drops (ep 11)",
+        "\"Jidai Okure no Koibito-tachi (\u6642\u4ee3\u9045\u308c\u306e\u604b\u4eba\u305f\u3061)\" by Saori Hayami, Iori Nomizu, and Kaori Fukuhara (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 937,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/50309.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 8407,
+    "members": 205956,
+    "opening_themes": [
+        "\"Ring My Bell\" by Hoshi Souichirou as Sakurai Tomoki (ep 1)",
+        "\"Heart no Kakuritsu (\u30cf\u30fc\u30c8\u306e\u78ba\u7387)\" by Blue Drops (Main Vocal Hitomi Yoshida) (eps 2-10)",
+        "\"Heart no Kakuritsu (\u30cf\u30fc\u30c8\u306e\u78ba\u7387)\" by Blue Drops (Main Vocal Saori Hayami) (ep 11)"
+    ],
+    "popularity": 458,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 689,
+            "name": "NTT Docomo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+        }
+    ],
+    "rank": 1138,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8144,
+                "name": "Sora no Otoshimono",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8144/Sora_no_Otoshimono"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 7858,
+                "name": "Sora no Otoshimono: Project Pink",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7858/Sora_no_Otoshimono__Project_Pink"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 9790,
+                "name": "Sora no Otoshimono: Tokeijikake no Angeloid",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9790/Sora_no_Otoshimono__Tokeijikake_no_Angeloid"
+            }
+        ]
+    },
+    "request_cache_expiry": 4383,
+    "request_cached": true,
+    "request_hash": "request:anime:c64b852778dc0753fb636d23485cb424103f1eb8",
+    "score": 7.7,
+    "scored_by": 122470,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 88,
+            "name": "AIC A.S.T.A.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+        }
+    ],
+    "synopsis": "Sakurai Tomoki has settled into his life with the two angeloids, Ikaros and Nymph, and is enjoying himself immensely. However, he keeps having weird dreams and asks all of his friends to help him investigate the cause. Nymph conjures up a device that enables people, but not angeloids, to enter other people's dreams. The device malfunctions at first but eventually they get to what was supposed to be Tomoki's dream but discover that something is very wrong with it. Later, a meteor comes crashing down from the skies at the site of the large cherry blossom tree where Tomoki first discovered Ikaros. An extremely well endowed blonde angeloid with a huge sword emerges from the meteor and sets off in search of Tomoki!",
+    "title": "Sora no Otoshimono: Forte",
+    "title_english": "Heaven's Lost Property: Forte",
+    "title_japanese": "\u305d\u3089\u306e\u304a\u3068\u3057\u3082\u306ef\uff08\u30d5\u30a9\u30eb\u30c6\uff09",
+    "title_synonyms": [
+        "Sora no Otoshimono: f",
+        "Lost Property of the Sky 2",
+        "Misplaced by Heaven 2",
+        "Heaven's Lost Property 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/VDLlcBr0v0k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8407/Sora_no_Otoshimono__Forte"
+}

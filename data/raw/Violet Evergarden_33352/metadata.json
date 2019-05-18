@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2018-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 5,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Jan 11, 2018 to Apr 5, 2018",
+        "to": "2018-04-05T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Michishirube (\u307f\u3061\u3057\u308b\u3079)\" by Minori Chihara (eps 2-8)",
+        "\"Believe in...\" by Aira Yuuki (ep 9)"
+    ],
+    "episodes": 13,
+    "favorites": 13940,
+    "genres": [
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+    "licensors": [],
+    "mal_id": 33352,
+    "members": 520435,
+    "opening_themes": [
+        "\"Sincerely\" by TRUE"
+    ],
+    "popularity": 97,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 1500,
+            "name": "ABC Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        }
+    ],
+    "rank": 73,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 98930,
+                "name": "Violet Evergarden",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/98930/Violet_Evergarden"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 39741,
+                "name": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39741/Violet_Evergarden_Gaiden__Eien_to_Jidou_Shuki_Ningyou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37987,
+                "name": "Violet Evergarden Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37987/Violet_Evergarden_Movie"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 37095,
+                "name": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37095/Violet_Evergarden__Kitto_Ai_wo_Shiru_Hi_ga_Kuru_no_Darou"
+            }
+        ]
+    },
+    "request_cache_expiry": 22389,
+    "request_cached": true,
+    "request_hash": "request:anime:0dd3bcd1ff34b0fb13e0614d37590dff4655de3f",
+    "score": 8.62,
+    "scored_by": 224375,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning. Recovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an \"Auto Memory Doll,\" amanuenses that transcribe people's thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery. [Written by MAL Rewrite]",
+    "title": "Violet Evergarden",
+    "title_english": "Violet Evergarden",
+    "title_japanese": "\u30f4\u30a1\u30a4\u30aa\u30ec\u30c3\u30c8\u30fb\u30a8\u30f4\u30a1\u30fc\u30ac\u30fc\u30c7\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/g5xWqjFglsk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33352/Violet_Evergarden"
+}

@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2014-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 4, 2014 to Jun 20, 2014",
+        "to": "2014-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"My Sweet Shelter\" by Ritsu Kawai (CV: Kana Hanazawa), Mayumi Nishikino (CV: Rina Satou), Sayaka Watanabe (CV: Hisako Kanemoto)"
+    ],
+    "episodes": 12,
+    "favorites": 1688,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/64629.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21405,
+    "members": 242565,
+    "opening_themes": [
+        "\"Itsuka no, Ikutsuka no Kimi to no Sekai (\u3044\u3064\u304b\u306e\u3001\u3044\u304f\u3064\u304b\u306e\u304d\u307f\u3068\u306e\u305b\u304b\u3044)\" by fh\u00e1na"
+    ],
+    "popularity": 366,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        }
+    ],
+    "rank": 882,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26769,
+                "name": "Bokura wa Minna Kawai-sou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26769/Bokura_wa_Minna_Kawai-sou"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 24973,
+                "name": "Bokura wa Minna Kawai-sou Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24973/Bokura_wa_Minna_Kawai-sou_Specials"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24913,
+                "name": "Bokura wa Minna Kawai-sou: Hajimete no",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24913/Bokura_wa_Minna_Kawai-sou__Hajimete_no"
+            }
+        ]
+    },
+    "request_cache_expiry": 39481,
+    "request_cached": true,
+    "request_hash": "request:anime:ff57d1e9bcdf0c1de5c5a11837c53dbf9da65e1b",
+    "score": 7.81,
+    "scored_by": 126999,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Kazunari Usa is a high school freshman who will start living alone due to his parents now working in a different area. Excited for his new independent life, he hopes to go about his teenage days without the worry of dealing with any strange people, but as he soon discovers, his new boarding house Kawai Complex is far from ordinary. The various tenants at Kawai Complex are all quite eccentric characters. Shirosaki, Kazunari's roommate, is a pervert and masochist; Mayumi Nishikino, a borderline alcoholic office lady, hates couples because of her unfortunate luck with men; and Sayaka Watanabe, a seemingly innocent college student, enjoys leading men on. Shocked with the lack of decent individuals at his new residence, Kazunari is about to leave when he runs into shy senior student Ritsu Kawai and finds himself slowly falling in love with her. [Written by MAL Rewrite]",
+    "title": "Bokura wa Minna Kawai-sou",
+    "title_english": "The Kawai Complex Guide to Manors and Hostel Behavior",
+    "title_japanese": "\u50d5\u3089\u306f\u307f\u3093\u306a\u6cb3\u5408\u8358",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Toe2YMNqpmE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21405/Bokura_wa_Minna_Kawai-sou"
+}

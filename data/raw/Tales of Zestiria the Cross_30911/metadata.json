@@ -1,0 +1,167 @@
+{
+    "aired": {
+        "from": "2016-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 10, 2016 to Sep 25, 2016",
+        "to": "2016-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"calling\" by fh\u00e1na (eps 1-4, 7-11)",
+        "\"White Light\" by Superfly (ep 5)",
+        "\"BURN\" by FLOW (ep 6)"
+    ],
+    "episodes": 12,
+    "favorites": 711,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/79271.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30911,
+    "members": 207501,
+    "opening_themes": [
+        "\"Kaze no Uta (\u98a8\u30ce\u5504)\" by FLOW (eps 1-4, 7-11)"
+    ],
+    "popularity": 453,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        },
+        {
+            "mal_id": 1510,
+            "name": "Anime Consortium Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1510/Anime_Consortium_Japan"
+        }
+    ],
+    "rank": 1915,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 84933,
+                "name": "Tales of Zestiria: Michibiki no Toki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/84933/Tales_of_Zestiria__Michibiki_no_Toki"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 24459,
+                "name": "Tales of Zestiria: Doushi no Yoake",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24459/Tales_of_Zestiria__Doushi_no_Yoake"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 38110,
+                "name": "Tales of HR",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38110/Tales_of_HR"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 33558,
+                "name": "Tales of Zestiria the Cross: Saiyaku no Jidai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33558/Tales_of_Zestiria_the_Cross__Saiyaku_no_Jidai"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34086,
+                "name": "Tales of Zestiria the Cross 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34086/Tales_of_Zestiria_the_Cross_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:21ba002e5d93a54bc395984309e3f226b755635c",
+    "score": 7.44,
+    "scored_by": 87986,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 43,
+            "name": "ufotable",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ],
+    "synopsis": "Sorey is a human youth who grew up among the seraphim, spiritual beings not visible to humans. Sorey believes in the folklore that says \"long ago, every human was able to see the seraphim\" and dreams of unraveling the ancient mystery to make the world a place where people and seraphim can live together in peace. One day, Sorey visits the human capital for the very first time. He becomes embroiled in an incident during which he pulls out a holy sword embedded in a rock and ends up becoming a Shepherd, one who casts away calamity from the world. He begins to realize the gravity of his mission, and his dream of coexistence between mankind and the seraphim becomes more intense\u2014 And thus, the Shepherd embarks on an amazing journey with his companions. (Source: Official site)",
+    "title": "Tales of Zestiria the Cross",
+    "title_english": "Tales of Zestiria the X",
+    "title_japanese": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30bc\u30b9\u30c6\u30a3\u30ea\u30a2 \u30b6 \u30af\u30ed\u30b9",
+    "title_synonyms": [
+        "Tales of Zestiria the X"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-h5iZ_osbJE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30911/Tales_of_Zestiria_the_Cross"
+}

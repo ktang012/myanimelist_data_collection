@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2014-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 6, 2014 to Sep 25, 2014",
+        "to": "2014-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"X Jigen e Youkoso (X\u6b21\u5143\u3078\u3088\u3046\u3053\u305d)\" by Etsuko Yakushimaru (eps 1-6, 11)",
+        "\"Kanchigai Lonely Night (\u304b\u3093\u3061\u304c\u3044\u30ed\u30f3\u30ea\u30fc\u30ca\u30a4\u30c8)\" by DROPKIX (ep 7)",
+        "\"WHITE HOUSE\" by OGRE YOU ASSHOLE (ep 8)",
+        "\"Space\u2606Dandy (\u30b9\u30da\u30fc\u30b9\u2606\u30c0\u30f3\u30c7\u30a3)\" by ZEN-LA-ROCK feat. Yomeiriland (\u5ac1\u5165\u308a\u30e9\u30f3\u30c9) (ep 9)",
+        "\"Seaside Driving\" by Seiichi Nagai (ep 10)",
+        "\"All \"the thing\"s i am... worried\" by mito (ep 12)",
+        "\"SPACE FUN CLUB\" by ZEN-LA-ROCK feat. Robo Chuu (\u30ed\u30dc\u5b99) (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 1056,
+    "genres": [
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/64451.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 23327,
+    "members": 97247,
+    "opening_themes": [
+        "\"Viva Namida (\u30d3\u30d0\u30ca\u30df\u30c0)\" by Yasuyuki Okamura"
+    ],
+    "popularity": 1031,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        }
+    ],
+    "rank": 280,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Other": [
+            {
+                "mal_id": 30246,
+                "name": "Space\u2606Dandy 2nd Season Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30246/Space\u2606Dandy_2nd_Season_Picture_Drama"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 20057,
+                "name": "Space\u2606Dandy",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20057/Space\u2606Dandy"
+            }
+        ]
+    },
+    "request_cache_expiry": 11033,
+    "request_cached": true,
+    "request_hash": "request:anime:f78941615eb1f9802975c30580cba1ac09cd2372",
+    "score": 8.27,
+    "scored_by": 50313,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Second season of Space Dandy. Space Dandy is a dandy guy, in space! This dreamy adventurer with a to-die-for pompadour travels across the galaxy in search of aliens no one has ever laid eyes on. Each new species he discovers earns him a hefty reward, but this dandy has to be quick on his feet because it's first come, first served! Accompanied by his sidekicks, a rundown robot named QT and Meow the cat-looking space alien, Dandy bravely explores unknown worlds inhabited by a variety of aliens. Join the best dressed alien hunter in all of space and time as he embarks on an adventure that ends at the edge of the universe! (Source: Bandai Visual)",
+    "title": "Space\u2606Dandy 2nd Season",
+    "title_english": "Space Dandy 2nd Season",
+    "title_japanese": "\u30b9\u30da\u30fc\u30b9\u2606\u30c0\u30f3\u30c7\u30a3 \u7b2c2\u30b7\u30ea\u30fc\u30ba",
+    "title_synonyms": [
+        "Space\u2606Dandy Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/xVde2A6zqUg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23327/Space\u2606Dandy_2nd_Season"
+}

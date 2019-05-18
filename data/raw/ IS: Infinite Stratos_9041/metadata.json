@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2011-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Jan 7, 2011 to Apr 1, 2011",
+        "to": "2011-04-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"SUPER\u221eSTREAM\" by Yoko Hikasa (ep 1)",
+        "\"SUPER\u221eSTREAM\" by Yoko Hikasa and Yukana (eps 2-3)",
+        "\"SUPER\u221eSTREAM\" by Yoko Hikasa, Yukana, and Asami Shimoda (eps 4-5)",
+        "\"SUPER\u221eSTREAM\" by Yoko Hikasa, Yukana, Asami Shimoda, and Kana Hanazawa (eps 6-7)",
+        "\"SUPER\u221eSTREAM\" by Yoko Hikasa, Yukana, Asami Shimoda, Kana Hanazawa, and Marina Inoue (eps 8-12)"
+    ],
+    "episodes": 12,
+    "favorites": 2102,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/74045.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 9041,
+    "members": 383662,
+    "opening_themes": [
+        "\"STRAIGHT JET\" by Minami Kuribayashi"
+    ],
+    "popularity": 175,
+    "premiered": "Winter 2011",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 3767,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23881,
+                "name": "IS: Infinite Stratos",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23881/IS__Infinite_Stratos"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10794,
+                "name": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10794/IS__Infinite_Stratos_Encore_-_Koi_ni_Kogareru_Rokujuusou"
+            }
+        ]
+    },
+    "request_cache_expiry": 12841,
+    "request_cached": true,
+    "request_hash": "request:anime:2834ad53b01c6d355189f0a91e80da35991ad8ab",
+    "score": 6.99,
+    "scored_by": 219978,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "An exoskeleton weapon engineered by Japan, Infinite Stratos (IS) can be piloted only by women. Its power and combat prowess are so immense that an international treaty has been signed banning its use as a military asset. When it is discovered that 15-year-old Ichika Orimura is the only male capable of steering an IS, he is forcibly enrolled in the Infinite Stratos Academy: an all-female boarding school, the students of which graduate to become IS pilots. At this training school, Ichika is reunited with two of his childhood friends, Houki Shinonono and Lingyin Huang, and befriends Cecilia Alcott, an IS representative from the United Kingdom. Guided by the legendary pilot Chifuyu Orimura\u2014their strict homeroom teacher and Ichika's older sister\u2014Ichika and the girls will need to use everything at their disposal to defend themselves and their academy against the dangers that will arise during the course of their thrilling school life. [Written by MAL Rewrite]",
+    "title": "IS: Infinite Stratos",
+    "title_english": "Infinite Stratos",
+    "title_japanese": "IS \u3008\u30a4\u30f3\u30d5\u30a3\u30cb\u30c3\u30c8\u30fb\u30b9\u30c8\u30e9\u30c8\u30b9\u3009",
+    "title_synonyms": [
+        "IS"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3VpielCeK7Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9041/IS__Infinite_Stratos"
+}

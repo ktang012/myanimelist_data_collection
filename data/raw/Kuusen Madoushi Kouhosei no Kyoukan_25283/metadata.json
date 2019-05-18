@@ -1,0 +1,129 @@
+{
+    "aired": {
+        "from": "2015-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 9, 2015 to Sep 24, 2015",
+        "to": "2015-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at Kadokawa Cinemas Shinjuku on June 21, 2015. Regular broadcasting began on July 9, 2015. The cast from the drama CD reprised their roles in the anime.",
+    "broadcast": "Thursdays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Hallelujah (\u30cf\u30ec\u30eb\u30e4)\" by la la larks"
+    ],
+    "episodes": 12,
+    "favorites": 272,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/74541.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 25283,
+    "members": 148339,
+    "opening_themes": [
+        "\"D.O.B.\" by Iori Nomizu"
+    ],
+    "popularity": 671,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 5646,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 76105,
+                "name": "Kuusen Madoushi Kouhosei no Kyoukan",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/76105/Kuusen_Madoushi_Kouhosei_no_Kyoukan"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31156,
+                "name": "Kuusen Madoushi Kouhosei no Kyoukan: Lecty no, Ikimonogatari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31156/Kuusen_Madoushi_Kouhosei_no_Kyoukan__Lecty_no_Ikimonogatari"
+            }
+        ]
+    },
+    "request_cache_expiry": 22896,
+    "request_cached": true,
+    "request_hash": "request:anime:0eb463c34772fb3bb07460e058d8458bc2d49316",
+    "score": 6.57,
+    "scored_by": 71486,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "Years ago, humanity almost got wiped out by huge magical armored insects that had become too strong and aggressive to handle. Because of these giant bugs, humans do not live on the earth anymore, but in floating cities instead. However, this does not mean that everything is lost, because the wizards from prestigious floating wizard academies are fighting these monsters. Kanata Age is a young man now labelled as a traitor even though he was once praised as the \"Black Master Swordsman.\" He gets a chance to repair his reputation by instructing the team E601, which seems to be facing some difficulties. It consists of three girls, Misora Whitale, Lecty Eisenach, and Rico Flamel, each with problems of their own. It appears that Kanata will get in deep waters more than once because of them...",
+    "title": "Kuusen Madoushi Kouhosei no Kyoukan",
+    "title_english": "Sky Wizards Academy",
+    "title_japanese": "\u7a7a\u6226\u9b54\u5c0e\u58eb\u5019\u88dc\u751f\u306e\u6559\u5b98",
+    "title_synonyms": [
+        "The Instructor of Aerial Combat Wizard Candidates"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/fKlrTdbiYq8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/25283/Kuusen_Madoushi_Kouhosei_no_Kyoukan"
+}

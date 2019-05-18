@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2015-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 9, 2015 to Sep 24, 2015",
+        "to": "2015-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 02:14 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hidamari Days (\u3072\u3060\u307e\u308a\u30c7\u30a4\u30ba)\" by Sisters (\u59b9S) [Umaru Doma (Aimi Tanaka), Nana Ebina (Akari Kageyama), Kirie Motoba (Haruka Shiraishi), Sylphinford Tachibana (Yurina Furukawa)]"
+    ],
+    "episodes": 12,
+    "favorites": 3136,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/75086.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 28825,
+    "members": 325577,
+    "opening_themes": [
+        "\"Kakushinteki\u2606Metamaruphose! (\u304b\u304f\u3057\u3093\u7684\u2606\u3081\u305f\u307e\u308b\u3075\u3049\uff5e\u305c\u3063\uff01)\" by Umaru Doma (Aimi Tanaka) (eps 1-11)"
+    ],
+    "popularity": 251,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1517,
+            "name": "Jinnan Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+        },
+        {
+            "mal_id": 1581,
+            "name": "RAY",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1581/RAY"
+        }
+    ],
+    "rank": 2291,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 50133,
+                "name": "Himouto! Umaru-chan",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/50133/Himouto_Umaru-chan"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 31234,
+                "name": "Himouto! Umaru-chanS",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31234/Himouto_Umaru-chanS"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30991,
+                "name": "Himouto! Umaru-chan OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30991/Himouto_Umaru-chan_OVA"
+            },
+            {
+                "mal_id": 35376,
+                "name": "Himouto! Umaru-chan R",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35376/Himouto_Umaru-chan_R"
+            }
+        ]
+    },
+    "request_cache_expiry": 16632,
+    "request_cached": true,
+    "request_hash": "request:anime:3e3662091b60452ed9bbd8ec111eb0490c7488e3",
+    "score": 7.35,
+    "scored_by": 174983,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl\u2014that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun! Himouto! Umaru-chan is a cute story that follows the daily adventures of Umaru and Taihei, as they take care of\u2014and put up with\u2014each other the best they can, as well as the unbreakable bonds between friends and siblings. [Written by MAL Rewrite]",
+    "title": "Himouto! Umaru-chan",
+    "title_english": "Himouto! Umaru-chan",
+    "title_japanese": "\u5e72\u7269\u59b9\uff01\u3046\u307e\u308b\u3061\u3083\u3093",
+    "title_synonyms": [
+        "My Two-Faced Little Sister"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PJ10D-q8kLw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28825/Himouto_Umaru-chan"
+}

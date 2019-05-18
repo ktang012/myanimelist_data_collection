@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2017-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 16,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 12, 2017 to Mar 16, 2017",
+        "to": "2017-03-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kono Subarashii Sekai ni Shukufuku wo! 2 adapts volumes 3 and 4 of Natsume Akatsuki's light novel series of the same name.",
+    "broadcast": "Thursdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"TOMORROW\" by Machico (ep 1)",
+        "\"Ouchi ni Kaeritai (\u304a\u5bb6\u306b\u5e30\u308a\u305f\u3044)\" by Aqua (Sora Amamiya), Megumin (Rie Takahashi), Darkness (Ai Kayano) (ep 2-4, 6-10)"
+    ],
+    "episodes": 10,
+    "favorites": 6446,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
+    "licensors": [],
+    "mal_id": 32937,
+    "members": 557415,
+    "opening_themes": [
+        "\"TOMORROW\" by Machico (ep 2-4, 6-9)"
+    ],
+    "popularity": 89,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 882,
+            "name": "Toranoana",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/882/Toranoana"
+        },
+        {
+            "mal_id": 1185,
+            "name": "81 Produce",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1185/81_Produce"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        }
+    ],
+    "rank": 191,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 60553,
+                "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/60553/Kono_Subarashii_Sekai_ni_Shukufuku_wo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 30831,
+                "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 34626,
+                "name": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34626/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2__Kono_Subarashii_Geijutsu_ni_Shukufuku_wo"
+            }
+        ]
+    },
+    "request_cache_expiry": 17179,
+    "request_cached": true,
+    "request_hash": "request:anime:59887598e29a47d5e8dc369eaa5e7cb79e0ade9a",
+    "score": 8.37,
+    "scored_by": 342593,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "When Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then. Not only is he stuck with a useless deity turned party archpriest, the pair also has to make enough money for living expenses. To add to their problems, their group continued to grow as more problematic adventurers joined their ranks. Their token spellcaster, Megumin, is an explosion magic specialist who can only cast one spell once per day and refuses to learn anything else. There is also their stalwart crusader, Lalatina \"Darkness\" Dustiness Ford, a helpless masochist who makes Kazuma look pure in comparison. Kono Subarashii Sekai ni Shukufuku wo! 2 continues to follow Kazuma and the rest of his party through countless more adventures as they struggle to earn money and have to deal with one another's problematic personalities. However, things rarely go as planned, and they are often sidetracked by their own idiotic tendencies. [Written by MAL Rewrite]",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "title_english": "KonoSuba: God's Blessing on This Wonderful World! 2",
+    "title_japanese": "\u3053\u306e\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c\u306b\u795d\u798f\u3092\uff01 2",
+    "title_synonyms": [
+        "Give Blessings to This Wonderful World! 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/9jVxMt845AY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2"
+}

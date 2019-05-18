@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2018-01-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 4, 2018 to Mar 22, 2018",
+        "to": "2018-03-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Fuyu Biyori (\u3075\u3086\u3073\u3088\u308a)\" by Eri Sasaki"
+    ],
+    "episodes": 12,
+    "favorites": 3382,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/89877.jpg",
+    "licensors": [],
+    "mal_id": 34798,
+    "members": 177926,
+    "opening_themes": [
+        "\"SHINY DAYS\" by Asaka"
+    ],
+    "popularity": 548,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1185,
+            "name": "81 Produce",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1185/81_Produce"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1590,
+            "name": "Furyu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1590/Furyu"
+        },
+        {
+            "mal_id": 1784,
+            "name": "Crunchyroll SC Anime Fund",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+        }
+    ],
+    "rank": 224,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 94376,
+                "name": "Yuru Camp\u25b3",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/94376/Yuru_Camp\u25b3"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 38475,
+                "name": "Yuru Camp\u25b3 Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38475/Yuru_Camp\u25b3_Movie"
+            },
+            {
+                "mal_id": 38476,
+                "name": "Yuru Camp\u25b3 Specials 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38476/Yuru_Camp\u25b3_Specials_2"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38474,
+                "name": "Yuru Camp\u25b3 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38474/Yuru_Camp\u25b3_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 37341,
+                "name": "Yuru Camp\u25b3 Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37341/Yuru_Camp\u25b3_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 20460,
+    "request_cached": true,
+    "request_hash": "request:anime:1b348317378027bca60cfd841dfd0b1005ee9a47",
+    "score": 8.33,
+    "scored_by": 73624,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1075,
+            "name": "C-Station",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1075/C-Station"
+        }
+    ],
+    "synopsis": "While the perfect getaway for most girls her age might be a fancy vacation with their loved ones, Rin Shima's ideal way of spending her days off is camping alone at the base of Mount Fuji. From pitching her tent to gathering firewood, she has always done everything by herself, and has no plans of leaving her little solitary world. However, what starts off as one of Rin's usual camping sessions somehow ends up as a surprise get-together for two when the lost Nadeshiko Kagamihara is forced to take refuge at her campsite. Originally intending to see the picturesque view of Mount Fuji for herself, Nadeshiko's plans are disrupted when she ends up falling asleep partway to her destination. Alone and with no other choice, she seeks help from the only other person nearby. Despite their hasty introductions, the two girls nevertheless enjoy the chilly night together, eating ramen and conversing while the campfire keeps them warm. And even after Nadeshiko's sister finally picks her up later that night, both girls silently ponder the possibility of another camping trip together. [Written by MAL Rewrite]",
+    "title": "Yuru Camp\u25b3",
+    "title_english": "Laid-Back Camp",
+    "title_japanese": "\u3086\u308b\u30ad\u30e3\u30f3\u25b3",
+    "title_synonyms": [
+        "Yurukyan"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/vpH42sJ8t9c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34798/Yuru_Camp\u25b3"
+}

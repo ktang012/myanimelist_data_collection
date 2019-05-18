@@ -1,0 +1,142 @@
+{
+    "aired": {
+        "from": "2010-07-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jul 1, 2010 to Sep 16, 2010",
+        "to": "2010-09-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The series parodies many famous fairy tales, either with puns relating to names or fairy tale themes being used in creative and funny ways.  The two main heroines' names are a play on words relating to the story of Little Red Riding Hood; Akai means red and Ookami means wolf.  The title of the anime is a pun for the full title of Snow White and translates to Wolf and the Seven Companions; additionally, Ringo means apple and Ryouko means hero, making their names double puns. Other fairy tale parodies include Cinderella and The Ant and the Grasshopper.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ready Go!\" by May'n (ep 1)",
+        "\"Akazukin-chan Goyoujin (\u8d64\u982d\u5dfe\u3061\u3083\u3093\u5fa1\u7528\u5fc3)\" by OToGi8 (eps 2-11)",
+        "\"Akazukin-chan Goyoujin (i-pop ver.)\" by OToGi8 (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 736,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75240.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 7769,
+    "members": 200324,
+    "opening_themes": [
+        "\"Ready Go!\" by May'n (eps 2-12)"
+    ],
+    "popularity": 480,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 2469,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 19348,
+                "name": "Ookami-san Series",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/19348/Ookami-san_Series"
+            }
+        ]
+    },
+    "request_cache_expiry": 35003,
+    "request_cached": true,
+    "request_hash": "request:anime:cb7cc6d84ada49507870bd6bda4de92355c4089a",
+    "score": 7.31,
+    "scored_by": 97053,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Ookami Ryouko is a spunky and, by some accounts, rather manly high school girl. She is tall, speaks in a traditionally masculine way and is very proficient in fighting. Ookami-san's best friend is the small and high-pitched voiced Akai Ringo. Incidentally, the two are rather flat-chested, a fact the Narrator (voiced by Arai \"Kuroko\" Satomi of Railgun fame) is all too eager to point out. Ookami and Ringo are members of the Otogi Bank, a club in Otogi High School that assists students with their problems in return for their assistance on a different problem at a later date; thus the Otogi Bank is effectively a loan institute for problems where you can take out a loan for a solved problem but you have to repay it sooner or later. The Otogi Bank is able to solve any problem and will go to any lengths to do so, often leading the members to danger or mayhem. Since most of the members of the club are female, another male is needed for the more dangerous assignments. Thus, the scopophobic (the fear of being looked at) Morino Ryoushi is inducted as a member, right after he confesses his love for Ookami...",
+    "title": "Ookami-san to Shichinin no Nakama-tachi",
+    "title_english": "Okami-San and Her Seven Companions",
+    "title_japanese": "\u30aa\u30aa\u30ab\u30df\u3055\u3093\u3068\u4e03\u4eba\u306e\u4ef2\u9593\u305f\u3061",
+    "title_synonyms": [
+        "Ookami-san to Shichinin no Nakamatachi",
+        "Okamisan and Seven Companions"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Uz-kz8_EyMQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7769/Ookami-san_to_Shichinin_no_Nakama-tachi"
+}

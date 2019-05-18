@@ -1,0 +1,124 @@
+{
+    "aired": {
+        "from": "2008-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 15,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Apr 7, 2008 to Sep 15, 2008",
+        "to": "2008-09-15T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hidamari no Gate (\u967d\u3060\u307e\u308a\u306e\u30b2\u30fc\u30c8)\" by Jun Fukuyama, Hiro Shimono, Tsubasa Yonaga, Kazuma Horie (eps 1-12, 24)",
+        "\"Special\u2606Gyutto Good Luck! (\u30b9\u30da\u30b7\u30e3\u30eb\u2606\u30ae\u30e5\u30c3\u3068Good luck!)\" by Yuuko Gotou, Hitomi Nabatame, Ayahi Takagaki (eps 13-23)"
+    ],
+    "episodes": 24,
+    "favorites": 2877,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/77363.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 3470,
+    "members": 237872,
+    "opening_themes": [
+        "\"Special Days\" by Hitomi Nabatame, Yuuko Gotou, Ayahi Takagaki (eps 1-12)",
+        "\"Gorgeous 4U\" by Jun Fukuyama, Hiro Shimono, Tsubasa Yonaga, Kazuma Horie (eps 13-24)"
+    ],
+    "popularity": 377,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 1159,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1271,
+                "name": "Special A",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1271/Special_A"
+            }
+        ]
+    },
+    "request_cache_expiry": 5729,
+    "request_cached": true,
+    "request_hash": "request:anime:dd365f4b8ecf52ce9ee03be0fb7e6f8dada882ac",
+    "score": 7.69,
+    "scored_by": 121641,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 3,
+            "name": "Gonzo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        },
+        {
+            "mal_id": 48,
+            "name": "AIC",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ],
+    "synopsis": "Hikari Hanazono has always been able to do things that normal people cannot. As a child, she assumed no one could beat her\u2014until she met Kei Takishima. Thinking she would win, Hikari challenged him to a match. But things didn\u2019t go as planned; she lost not once but each time she rechallenged him. From that point on, she has sworn to best Kei at everything, ranging from academics to athletics. To achieve her goal, Hikari enrolls in the same school as Kei\u2014Hakusenkan, a prestigious institute for the wealthy. As a pair, they hold the top two rankings in school and are among seven of the academy's best students in a class known as Special A. While Hikari treats Kei as a rival, she is completely oblivious that he harbors hidden feelings for her. Together, the members of Special A deal with competition, friendship, and just a bit of love. [Written by MAL Rewrite]",
+    "title": "Special A",
+    "title_english": "Special A (S.A)",
+    "title_japanese": "\u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30a8\u30fc",
+    "title_synonyms": [
+        "S.A.",
+        "Special A Class"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3470/Special_A"
+}

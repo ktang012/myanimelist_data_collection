@@ -1,0 +1,138 @@
+{
+    "aired": {
+        "from": "2014-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 4, 2014 to Dec 20, 2014",
+        "to": "2014-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"ATTITUDE TO LIFE\" by Galneryus"
+    ],
+    "episodes": 12,
+    "favorites": 608,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/57309.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 21743,
+    "members": 83379,
+    "opening_themes": [
+        "\"Biran no Kaze (\u6bd8\u85cd\u30ce\u98a8)\" by Ryuuji Aoki (eps 2-6)",
+        "\"Ryuuten no Hi (\u6d41\u8ee2\u30ce\u967d)\" by Ryuuji Aoki (eps 8-11)"
+    ],
+    "popularity": 1172,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 1414,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26178,
+                "name": "Donten ni Warau",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26178/Donten_ni_Warau"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 37285,
+                "name": "Ippun de Wakaru Eiga \"Donten ni Warau\" Kaisetsu Yokoku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37285/Ippun_de_Wakaru_Eiga_Donten_ni_Warau_Kaisetsu_Yokoku"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 35086,
+                "name": "Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35086/Donten_ni_Warau_Gaiden__Ketsubetsu_Yamainu_no_Chikai"
+            }
+        ]
+    },
+    "request_cache_expiry": 33028,
+    "request_cached": true,
+    "request_hash": "request:anime:47ef80ce43aee9ce2dacf7c2682a00304ed663a8",
+    "score": 7.59,
+    "scored_by": 31673,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "When swords were outlawed in the eleventh year of the Meiji Era, the mighty samurai population began to dwindle. Those who rejected the ban on blades rebelled, causing violent unrest to erupt throughout the countryside. To combat the rise in criminal activity, an inescapable lake prison was constructed. Three young men, born of the Kumoh line, were given the duty of delivering criminals to their place of confinement\u2014but could there be more to their mission than meets the eye? (Source: FUNimation)",
+    "title": "Donten ni Warau",
+    "title_english": "Laughing Under the Clouds",
+    "title_japanese": "\u66c7\u5929\u306b\u7b11\u3046",
+    "title_synonyms": [
+        "Cloudy Laugh"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/QK4i5PWScts?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21743/Donten_ni_Warau"
+}

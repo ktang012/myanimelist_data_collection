@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2009-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 7, 2009 to Dec 23, 2009",
+        "to": "2009-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "11eyes is an adaptation of the visual novel .",
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Sequentia\" by Asriel"
+    ],
+    "episodes": 12,
+    "favorites": 458,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/73520.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 6682,
+    "members": 178654,
+    "opening_themes": [
+        "\"Arrival of Tears\" by Ayane"
+    ],
+    "popularity": 546,
+    "premiered": "Fall 2009",
+    "producers": [
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 699,
+            "name": "feng",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/699/feng"
+        }
+    ],
+    "rank": 6702,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 19745,
+                "name": "11eyes: Tsumi to Batsu to Aganai no Shoujo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/19745/11eyes__Tsumi_to_Batsu_to_Aganai_no_Shoujo"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 20557,
+                "name": "11eyes Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20557/11eyes_Picture_Drama"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 7739,
+                "name": "11eyes: Momoiro Genmutan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7739/11eyes__Momoiro_Genmutan"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:459fd6af9a56a899de90fb66f0fa80635efd06c8",
+    "score": 6.34,
+    "scored_by": 94912,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "When the Sky turns Red, the Moon turns Black, and monsters begin roaming the streets, Satsuki Kakeru is at a loss for what to do. Along with his best friend Yuka, they try to decipher why they have been sent to this strange world, which is seemingly empty aside from themselves. However, when the \"Red Night\" ends, Kakeru and Yuka believed it was all a dream, until it happens again and they are left in a dangerous situation. They meet four others in the same predicament: Kusakabe Misuzu, an expert swordswoman, Tachibana Kukuri, a strange mute girl who looks uncannily like Kakeru's deceased sister, Hirohara Yukiko, a lively young girl whose personality reverts to that of a cold killer when her glasses are removed, and Tajima Takahisa, a young pyrokineticist. As the six of them band together to survive and discover what this mysterious world is, things take a turn for the worse as six shadows appear before them... [Written by MAL Rewrite]",
+    "title": "11eyes",
+    "title_english": "11eyes",
+    "title_japanese": "11eyes \u30a4\u30ec\u30d6\u30f3\u30a2\u30a4\u30ba",
+    "title_synonyms": [
+        "11eyes -Tsumi to Batsu to Aganai no Shoujo-"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6682/11eyes"
+}

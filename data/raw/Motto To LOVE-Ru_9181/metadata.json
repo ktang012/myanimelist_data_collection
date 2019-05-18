@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2010-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 6, 2010 to Dec 22, 2010",
+        "to": "2010-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Baby Baby Love\" by Haruka Tomatsu"
+    ],
+    "episodes": 12,
+    "favorites": 842,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/59875.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 9181,
+    "members": 201949,
+    "opening_themes": [
+        "\"Loop-the-Loop\" by KOTOKO"
+    ],
+    "popularity": 474,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 753,
+            "name": "PRA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/753/PRA"
+        }
+    ],
+    "rank": 1765,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 671,
+                "name": "To LOVE-Ru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/671/To_LOVE-Ru"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 5667,
+                "name": "To LOVE-Ru OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5667/To_LOVE-Ru_OVA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 13663,
+                "name": "To LOVE-Ru Darkness",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13663/To_LOVE-Ru_Darkness"
+            }
+        ]
+    },
+    "request_cache_expiry": 28563,
+    "request_cached": true,
+    "request_hash": "request:anime:4cc126b517b600cad4c4fd9e4ec0bff85baa7b86",
+    "score": 7.48,
+    "scored_by": 118241,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Rito Yuuki never gets a break\u2014he's always finding himself in lewd accidents with girls around him. Although his heart still yearns for Haruna, his childhood love, Rito can't help but question his feelings for Lala, the alien princess who appeared in front of him and declared she would marry him. But now, it's not just Lala he has to deal with: her younger twin sisters, Momo and Nana, have also travelled to Earth, wanting to meet their older sister\u2019s fianc\u00e9, and just as luck would have it, they end up staying at Rito's home. Meanwhile, amidst the bustle of his new family members, Yami, the human weapon girl, begins her pursuit for Rito. It's not an easy life for Rito as he deals with uncertain love, punishment for being a pervert, and a girl dead set on murdering him. [Written by MAL Rewrite]",
+    "title": "Motto To LOVE-Ru",
+    "title_english": "Motto To LOVE Ru",
+    "title_japanese": "\u3082\u3063\u3068 To LOVE\u308b -\u3068\u3089\u3076\u308b-",
+    "title_synonyms": [
+        "Motto To-Love-Ru",
+        "More Trouble",
+        "More ToLoveRu"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/TZlnXHWCnsE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9181/Motto_To_LOVE-Ru"
+}

@@ -1,0 +1,161 @@
+{
+    "aired": {
+        "from": "2010-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2010
+            }
+        },
+        "string": "Jan 8, 2010 to Jun 25, 2010",
+        "to": "2010-06-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Johnny Yong Bosch  and Kari Wahlgren were nominated for the \"Best Male Lead Vocal Performance\" and the \"Best Female Lead Vocal Performance\" awards at the BTVA Anime Voice Acting Awards in 2012 for their performances in Durarara!!.",
+    "broadcast": "Fridays at 01:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Trust Me\" by Yuya Matsushita (eps 1-12)",
+        "\"Butterfly\" by ON/OFF (eps 13-23)"
+    ],
+    "episodes": 24,
+    "favorites": 26322,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/71772.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 6746,
+    "members": 835186,
+    "opening_themes": [
+        "\"Uragiri no Yuuyake (\u88cf\u5207\u308a\u306e\u5915\u713c\u3051; Sunset of Betrayal)\" by Theatre Brook (eps 1-12)",
+        "\"Complication (\u30b3\u30f3\u30d7\u30ea\u30b1\u30a4\u30b7\u30e7\u30f3)\" by ROOKiEZ is PUNK'D (eps 13-24)"
+    ],
+    "popularity": 37,
+    "premiered": "Winter 2010",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 283,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 16816,
+                "name": "Durarara!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16816/Durarara"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23199,
+                "name": "Durarara!!x2 Shou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23199/Durararax2_Shou"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 8408,
+                "name": "Durarara!! Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8408/Durarara_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 13734,
+    "request_cached": true,
+    "request_hash": "request:anime:ec535e1ceb9e84425140979a9f5cee2ae0f84734",
+    "score": 8.26,
+    "scored_by": 412301,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest\u2014the existence of a headless \"Black Rider\" who is said to be seen driving a jet-black motorcycle through the city streets. Mikado Ryuugamine has always longed for the excitement of the city life, and an invitation from a childhood friend convinces him to move to Tokyo. Witnessing the Black Rider on his first day in the city, his wishes already seem to have been granted. But as supernatural events begin to occur, ordinary citizens like himself, along with Ikebukuro's most colorful inhabitants, are mixed up in the commotion breaking out in their city. [Written by MAL Rewrite]",
+    "title": "Durarara!!",
+    "title_english": "Durarara!!",
+    "title_japanese": "\u30c7\u30e5\u30e9\u30e9\u30e9!!",
+    "title_synonyms": [
+        "Dhurarara!!",
+        "Dyurarara!!",
+        "Dulalala!!",
+        "Dullalala!!",
+        "DRRR!!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/q5qlX4lWst0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6746/Durarara"
+}

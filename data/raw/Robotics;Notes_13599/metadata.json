@@ -1,0 +1,183 @@
+{
+    "aired": {
+        "from": "2012-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Oct 12, 2012 to Mar 22, 2013",
+        "to": "2013-03-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "One episode was pre-aired at Machi Asobi on October 6, 2012. Two episodes were pre-aired at an event on October 13, 2012.\r\nThe regular airing began on October 12, 2012.",
+    "broadcast": "Fridays at 01:15 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Umikaze no Brave (\u6d77\u98a8\u306e\u30d6\u30ec\u30a4\u30d6)\" by fumika (eps 1-11)",
+        "\"Topology (\u30c8\u30dd\u30ed\u30b8\u30fc)\" by Kanako Ito (eps 12-22)"
+    ],
+    "episodes": 22,
+    "favorites": 547,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/42013.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 13599,
+    "members": 140466,
+    "opening_themes": [
+        "\"Junjou Spectra (\u7d14\u60c5\u30b9\u30da\u30af\u30c8\u30e9)\" by Zwei (eps 1-11)",
+        "\"Houkyou no Messiah (\u5486\u7b7a\u306e\u30e1\u30b7\u30a2)\" by HARUKI (eps 12-22)"
+    ],
+    "popularity": 717,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 459,
+            "name": "Nitroplus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        }
+    ],
+    "rank": 2138,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35063,
+                "name": "Robotics;Notes",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35063/Robotics_Notes"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 4975,
+                "name": "Ch\u00e4oS;HEAd",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4975/Ch\u00e4oS_HEAd"
+            },
+            {
+                "mal_id": 9253,
+                "name": "Steins;Gate",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9253/Steins_Gate"
+            },
+            {
+                "mal_id": 30484,
+                "name": "Steins;Gate 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30484/Steins_Gate_0"
+            },
+            {
+                "mal_id": 30485,
+                "name": "Ch\u00e4oS;Child",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30485/Ch\u00e4oS_Child"
+            },
+            {
+                "mal_id": 32962,
+                "name": "Occultic;Nine",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32962/Occultic_Nine"
+            }
+        ]
+    },
+    "request_cache_expiry": 9663,
+    "request_cached": true,
+    "request_hash": "request:anime:3fb472b3450f2ae600f4bfa676e4fbf9ece11600",
+    "score": 7.39,
+    "scored_by": 59202,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "It has always been the aspiration of the Central Tanegashima High School Robotics Research Club to complete the GunPro1, a fully functioning giant robot. For years, the members of the club have contributed to its progress and it is now Akiho Senomiya's goal to finally make the dream of all the past club members become a reality. However, things are not as easy as they seem as the club lacks the funding for such a huge endeavor. Aside from that, the only other club member, Kaito Yashio, shows no interest in assisting his childhood friend and instead indulges in playing mecha-fighting games on his \"PokeCom.\" As Kaito is in the middle of wasting his days, he receives an indecipherable message and hears a voice that seems to be drowned out by the noise of static. He searches for the source, only to realize that it came from Airi Yukifune, an AI which only exists within the augmented reality system accessible via the PokeCom. Robotic;Notes follows the story of Kaito as he discovers a peculiar report in Airi's database, one that would have disastrous consequences in the future. [Written by MAL Rewrite]",
+    "title": "Robotics;Notes",
+    "title_english": "Robotics;Notes",
+    "title_japanese": "\u30ed\u30dc\u30c6\u30a3\u30af\u30b9\u30fb\u30ce\u30fc\u30c4",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/XlRZAKcqIJo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/13599/Robotics_Notes"
+}

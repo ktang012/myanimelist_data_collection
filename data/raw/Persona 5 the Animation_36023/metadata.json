@@ -1,0 +1,197 @@
+{
+    "aired": {
+        "from": "2018-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Apr 8, 2018 to Sep 30, 2018",
+        "to": "2018-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"BREAK IN TO BREAK OUT\" by Lyn (ep 1)",
+        "\"INFINITY\" by Lyn (eps 2-7, 9-16)",
+        "\"Found a Light\" by Lyn (ep 8)",
+        "\"Autonomy\" by Lyn (eps 17-25)"
+    ],
+    "episodes": 26,
+    "favorites": 446,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1829/92056.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 36023,
+    "members": 119537,
+    "opening_themes": [
+        "\"BREAK IN TO BREAK OUT\" by Lyn (eps 2, 4-13)",
+        "\"Dark Sun...\" by Lyn (14-26)"
+    ],
+    "popularity": 852,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 344,
+            "name": "Atlus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/344/Atlus"
+        },
+        {
+            "mal_id": 1345,
+            "name": "Sammy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+            "mal_id": 1858,
+            "name": "Sonilude",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+        }
+    ],
+    "rank": 4891,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 99944,
+                "name": "Persona 5",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/99944/Persona_5"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 3366,
+                "name": "Persona: Trinity Soul",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3366/Persona__Trinity_Soul"
+            },
+            {
+                "mal_id": 10588,
+                "name": "Persona 4 the Animation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10588/Persona_4_the_Animation"
+            },
+            {
+                "mal_id": 14407,
+                "name": "Persona 3 the Movie 1: Spring of Birth",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14407/Persona_3_the_Movie_1__Spring_of_Birth"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 31645,
+                "name": "Persona 5 the Animation: The Day Breakers",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31645/Persona_5_the_Animation__The_Day_Breakers"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38431,
+                "name": "Persona 5 the Animation Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38431/Persona_5_the_Animation_Specials"
+            },
+            {
+                "mal_id": 39537,
+                "name": "Persona 5 the Animation: Proof of Justice",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39537/Persona_5_the_Animation__Proof_of_Justice"
+            },
+            {
+                "mal_id": 39591,
+                "name": "Persona 5 the Animation: A Magical Valentine's Day",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39591/Persona_5_the_Animation__A_Magical_Valentines_Day"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 38937,
+                "name": "Persona 5 the Animation Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38937/Persona_5_the_Animation_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 80,
+    "request_cached": true,
+    "request_hash": "request:anime:f534cb076bb4ed7bb89548937cf296920c88da18",
+    "score": 6.73,
+    "scored_by": 25972,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1835,
+            "name": "CloverWorks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+    ],
+    "synopsis": "Ren Amamiya, a new transfer student at Shujin Academy, is sent to Tokyo to live with his family friend Sojiro Sakura after wrongly being put on probation for defending a woman from sexual assault. While on the way to attend his first day at his new school, Ren notices a strange app has appeared on his phone, transferring him to a world known as the Metaverse, which contains people's \"shadows\": distorted depictions of their true selves. In the Metaverse, he awakens his Persona, a power from deep within that gives him the strength to fight the shadows. With the help of similarly troubled students, he forms the Phantom Thieves of Hearts, attempting to save people from their sinful desires by \"taking their heart,\" making evildoers regret their actions and turn over a new leaf. The group's reputation continues to grow explosively, bringing along fame both positive and negative. However, during the peak of their popularity, Ren gets captured and taken into custody. Here, he wakes up to a harsh interrogation, but this is cut short by the arrival of Sae Niijima\u2014a prosecutor seeking answers. Just how will she react to his story, and what will become of the Phantom Thieves? [Written by MAL Rewrite]",
+    "title": "Persona 5 the Animation",
+    "title_english": null,
+    "title_japanese": "PERSONA5 the Animation",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/bqac6pbB13A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36023/Persona_5_the_Animation"
+}

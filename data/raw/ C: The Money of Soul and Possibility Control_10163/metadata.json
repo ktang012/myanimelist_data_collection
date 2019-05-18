@@ -1,0 +1,124 @@
+{
+    "aired": {
+        "from": "2011-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 15, 2011 to Jun 24, 2011",
+        "to": "2011-06-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"RPG\" by school food punishment"
+    ],
+    "episodes": 11,
+    "favorites": 1098,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/50551.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 10163,
+    "members": 213621,
+    "opening_themes": [
+        "\"Matryoshka (\u30de\u30c8\u30ea\u30e7\u30fc\u30b7\u30ab)\" by NICO Touches the Walls"
+    ],
+    "popularity": 435,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 755,
+            "name": "Jumondo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/755/Jumondo"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        }
+    ],
+    "rank": 2281,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {},
+    "request_cache_expiry": 13585,
+    "request_cached": true,
+    "request_hash": "request:anime:318159fef4ec79056590ffc040bc5d663596a90e",
+    "score": 7.35,
+    "scored_by": 109242,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 103,
+            "name": "Tatsunoko Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ],
+    "synopsis": "Money is power, and without it, life is meaningless. In a country whose economy is in shambles, second-year Economics university student Kimimaro Yoga understands this fact all too well, as he is surrounded by the relatively luxurious lives of his peers and struggling to make ends meet. However, his world is turned on its head when a stranger in a top hat arrives one late night at his door. Going by the name Masakaki, the visitor petitions Yoga to come to the Eastern Financial District, a place where money flows in abundance if one offers their \"future\" as collateral. Although reluctant, greed triumphs reason and Yoga accepts the offer; thus, taking on the mantle of an \"Entre.\" But unbeknownst to him, the land of wealth he has entered is an alternate realm built in the likeness of his own, where Entres are forced to participate in weekly duels called \"Deals,\" with their collateral at stake. Pitted against his countrymen and fate, Yoga must quickly adapt in this new world if he hopes to protect his fortune and future\u2014and discover just how much money is truly worth. [Written by MAL Rewrite]",
+    "title": "C: The Money of Soul and Possibility Control",
+    "title_english": "[C] CONTROL - The Money and Soul of Possibility",
+    "title_japanese": "\u300cC\u300d THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+    "title_synonyms": [
+        "[C] The Money of Soul and Possibility Control"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/eWf7pYnSjNk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10163/C__The_Money_of_Soul_and_Possibility_Control"
+}

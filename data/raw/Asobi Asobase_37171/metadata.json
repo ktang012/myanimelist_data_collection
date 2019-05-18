@@ -1,0 +1,103 @@
+{
+    "aired": {
+        "from": "2018-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Jul 8, 2018 to Sep 23, 2018",
+        "to": "2018-09-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 21:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Inkya Impulse (\u30a4\u30f3\u30ad\u30e3\u30a4\u30f3\u30d1\u30eb\u30b9)\" by Hanako Honda (Hina Kino), Olivia (Rika Nagae), Kasumi Nomura (Konomi Kohara) feat. Ikepy & KSKN"
+    ],
+    "episodes": 12,
+    "favorites": 1405,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1139/95077.jpg",
+    "licensors": [],
+    "mal_id": 37171,
+    "members": 134269,
+    "opening_themes": [
+        "\"Three-Piece (\u30b9\u30ea\u30d4\u30b9)\" by Hanako Honda (Hina Kino), Olivia (Rika Nagae), Kasumi Nomura (Konomi Kohara)"
+    ],
+    "popularity": 750,
+    "premiered": "Summer 2018",
+    "producers": [],
+    "rank": 295,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 99678,
+                "name": "Asobi Asobase",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/99678/Asobi_Asobase"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37996,
+                "name": "Asobi Asobase OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37996/Asobi_Asobase_OVA"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 38002,
+                "name": "Asobi Asobase Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38002/Asobi_Asobase_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:76bbf94280b4befb00d5b739cf137a7273936e55",
+    "score": 8.24,
+    "scored_by": 57359,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "During recess, Olivia, a foreign transfer student who doesn't know English, plays a game of \"look-the-other-way\" with Hanako Honda, a loud-mouthed airhead. Their rowdy behavior spurs the ire of Kasumi Nomura, a deadpan loner constantly teased by her older sister for her tendency to lose games. Not willing to compete, Kasumi declines Olivia's offer to join the fun, but eventually gets involved anyway and dispenses her own brand of mischief. Soon, a strange friendship blossoms between the peculiar trio, and they decide to form the \"Pastime Club,\" where they are free to resume their daily hijinks. Whether it be failing to learn English, trying desperately to become popular, or getting caught by teachers at the wrong time, school life will never be boring when the girls of Asobi Asobase are up to their hilarious antics. [Written by MAL Rewrite]",
+    "title": "Asobi Asobase",
+    "title_english": "Asobi Asobase: Workshop Of Fun",
+    "title_japanese": "\u3042\u305d\u3073\u3042\u305d\u3070\u305b",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/DYDZAvNJQkM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37171/Asobi_Asobase"
+}

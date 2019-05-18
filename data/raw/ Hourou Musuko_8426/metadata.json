@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2011-01-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Jan 14, 2011 to Apr 1, 2011",
+        "to": "2011-04-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Please note that this series was 11 episodes when aired on TV but 12 episodes when it was released on BD & DVD. See more info for further details.Hourou Musuko won the Best Animated Broadcast Release at the 65th Motion Picture and Television Engineering Society of Japan Awards in 2012.",
+    "broadcast": "Fridays at 01:15 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"For You\" by Rie Fu",
+        "\"Itsudatte\" by Daisuke (ep 11)"
+    ],
+    "episodes": 11,
+    "favorites": 800,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/53945.jpg",
+    "licensors": [],
+    "mal_id": 8426,
+    "members": 81461,
+    "opening_themes": [
+        "\"Itsudatte\" by Daisuke (eps 1-10)"
+    ],
+    "popularity": 1199,
+    "premiered": "Winter 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 48,
+            "name": "AIC",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 392,
+            "name": "Enterbrain",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/392/Enterbrain"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        }
+    ],
+    "rank": 943,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 585,
+                "name": "Hourou Musuko",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/585/Hourou_Musuko"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10935,
+                "name": "Hourou Musuko Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10935/Hourou_Musuko_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6bdb5451025191afbf5dd3a6f14812500d2f5250",
+    "score": 7.78,
+    "scored_by": 27184,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1306,
+            "name": "AIC Classic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1306/AIC_Classic"
+        }
+    ],
+    "synopsis": "Effeminate fifth grader Shuuichi Nitori is considered by most to be one of the prettiest girls in school, but much to her dismay, she is actually biologically male. Fortunately, Shuuichi has a childhood friend who has similar feelings of discomfort related to gender identity: the lanky tomboy Yoshino Takatsuki, who, though biologically female, does not identify as a girl. These two friends share a similar secret and find solace in one another; however, their lives become even more complicated when they must tread the unfamiliar waters of a new school, attempt to make new friends, and struggle to maintain old ones. Faced with nearly insurmountable odds, they must learn to deal with the harsh realities of growing up, transexuality, relationships, and acceptance. Lauded as a decidedly serious take on gender identity and LGBT struggles, Takako Shimura's Hourou Musuko is about Shuuichi and Yoshino's attempts to discover their true selves as they enter puberty, make friends, fall in love, and face some very real and difficult choices. [Written by MAL Rewrite]",
+    "title": "Hourou Musuko",
+    "title_english": "Wandering Son",
+    "title_japanese": "\u653e\u6d6a\u606f\u5b50",
+    "title_synonyms": [
+        "The Transient Son"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/RG2JiRohtmQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8426/Hourou_Musuko"
+}

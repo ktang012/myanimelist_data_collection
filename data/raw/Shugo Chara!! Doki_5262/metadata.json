@@ -1,0 +1,138 @@
+{
+    "aired": {
+        "from": "2008-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Oct 4, 2008 to Sep 25, 2009",
+        "to": "2009-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Rottara Rottara (\u30ed\u30c3\u30bf\u30e9 \u30ed\u30c3\u30bf\u30e9)\" by Buono! (eps 1-17)",
+        "\"co.no.mi.chi\" Buono! (eps 18-25)",
+        "\"MY BOY\" by Buono! (eps 26-38)",
+        "\"Take it Easy!\" by Buono! (eps. 39-50)",
+        "\"Honto no Jibun (\u30db\u30f3\u30c8\u306e\u3058\u3076\u3093)\" by Buono! (ep 51)"
+    ],
+    "episodes": 51,
+    "favorites": 817,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/10645.jpg",
+    "licensors": [],
+    "mal_id": 5262,
+    "members": 74710,
+    "opening_themes": [
+        "\"Minna no Tamago (\u307f\u3093\u306a\u306e\u305f\u307e\u3054)\" by Shugo Chara Egg (eps 1-13)",
+        "\"Shugo Shugo! (\u3057\u3085\u3054\u3057\u3085\u3054!)\" by Shugo Chara Egg (eps 14-25)",
+        "\"Omakase\u266aGuardian (\u304a\u307e\u304b\u305b\u266a\u30ac\u30fc\u30c7\u30a3\u30a2\u30f3)\" by Guardians 4 (eps 26-38)",
+        "\"School Days\" by Guardians 4 (eps 39-51)"
+    ],
+    "popularity": 1296,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        }
+    ],
+    "rank": 1582,
+    "rating": "PG - Children",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 101,
+                "name": "Shugo Chara!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/101/Shugo_Chara"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 2923,
+                "name": "Shugo Chara!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2923/Shugo_Chara"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 7082,
+                "name": "Shugo Chara! Party!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7082/Shugo_Chara_Party"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5307fecd15478f6a64e4ac6871196cafb75a846e",
+    "score": 7.54,
+    "scored_by": 39096,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ],
+    "synopsis": "Now Utau has left Easter and restarted her singing career, while Ikuto still remains at Easter. To replace Utau Easter hires a new character, Lulu. Lulu has the power to create question mark eggs, instead of x-eggs. Throughout this season we start to see all the love interests more so then in the first season. Tadase and Amu seem to be a couple now, but they have their problem, especially when Amu starts hiding Ikuto in her room. She lies to Tadase, her family and all the Guardians about it, which in the end causes more problems then she expected. Easter also has a new plan to control Ikuto. Using his violin Easter controls Ikuto so that he transforms into Death Rebel. The sound of his violin turns all the heart eggs with in distance into x-eggs. With a large amount of x-eggs gathered, the embryo will soon turn up. (Source: ANN) Episode numbers continue as 52, 53, 54, etc.",
+    "title": "Shugo Chara!! Doki",
+    "title_english": "Shugo Chara!! Doki",
+    "title_japanese": "\u3057\u3085\u3054\u30ad\u30e3\u30e9\uff01\uff01\u3069\u304d\u3063",
+    "title_synonyms": [
+        "Shugo Chara Ninenme",
+        "Shugo Chara! Second Year"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5262/Shugo_Chara_Doki"
+}

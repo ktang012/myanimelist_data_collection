@@ -1,0 +1,104 @@
+{
+    "aired": {
+        "from": "2015-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 8, 2015 to Dec 24, 2015",
+        "to": "2015-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Dear answer\" by TRUE (ep 1, 12)",
+        "\"Uchiyoserareta Boukyaku no Zankyou ni (\u6253\u3061\u5bc4\u305b\u3089\u308c\u305f\u5fd8\u5374\u306e\u6b8b\u97ff\u306b)\" by TECHNOBOYS PULCRAFT GREEN-FUND (eps 2-11)"
+    ],
+    "episodes": 12,
+    "favorites": 673,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76116.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 30187,
+    "members": 142200,
+    "opening_themes": [
+        "\"Dear answer\" by TRUE (eps 2-7, 9-11)"
+    ],
+    "popularity": 707,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        }
+    ],
+    "rank": 1841,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 68699,
+                "name": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/68699/Sakurako-san_no_Ashimoto_ni_wa_Shitai_ga_Umatteiru"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4a2650da258a5f8700232005a28aa0a965facf2f",
+    "score": 7.46,
+    "scored_by": 62909,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1103,
+            "name": "TROYCA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+        }
+    ],
+    "synopsis": "When Shoutarou Tatewaki first meets Sakurako Kujou, he knows his life will never be the same. Initially believing her to be responsible for a disappearance in the neighborhood, he later learns of her true talent: analyzing bone specimens. Sakurako has quite the collection of reconstructed animal bones, but she wishes she had more of the human variety, much to the chagrin of those around her. Soon, Shoutarou begins accompanying the eccentric osteologist on the many different unsolved cases she comes across\u2014usually in the form of decomposing bodies. But with so many incidents happening around them, could there be a larger mystery at work in their lives? Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru is a story of two unlikely partners, each showing in their own way that bones can tell how one died, but only people can tell how they lived. [Written by MAL Rewrite]",
+    "title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+    "title_english": "Beautiful Bones -Sakurako's Investigation-",
+    "title_japanese": "\u6afb\u5b50\u3055\u3093\u306e\u8db3\u4e0b\u306b\u306f\u6b7b\u4f53\u304c\u57cb\u307e\u3063\u3066\u3044\u308b",
+    "title_synonyms": [
+        "A Corpse is Buried Under Sakurako's Feet."
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-pDRype0mQU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30187/Sakurako-san_no_Ashimoto_ni_wa_Shitai_ga_Umatteiru"
+}

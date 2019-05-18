@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2018-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Oct 9, 2018 to Dec 25, 2018",
+        "to": "2018-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Rakuen no Kimi (\u697d\u5712\u306e\u541b)\" by osterreich"
+    ],
+    "episodes": 12,
+    "favorites": 1378,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1271/95623.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 37799,
+    "members": 192073,
+    "opening_themes": [
+        "\"katharsis\" by TK from Ling Tosite Sigure"
+    ],
+    "popularity": 502,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 1283,
+            "name": "TC Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1283/TC_Entertainment"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 6004,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 81117,
+                "name": "Tokyo Ghoul:re",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/81117/Tokyo_Ghoul_re"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 36511,
+                "name": "Tokyo Ghoul:re",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36511/Tokyo_Ghoul_re"
+            }
+        ]
+    },
+    "request_cache_expiry": 40265,
+    "request_cached": true,
+    "request_hash": "request:anime:80356da950fe7fb86d8ed76fbce8dab2272bb4e8",
+    "score": 6.5,
+    "scored_by": 73425,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        },
+        {
+            "mal_id": 1129,
+            "name": "Pierrot Plus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+        }
+    ],
+    "synopsis": "Second season of Tokyo Ghoul:re.",
+    "title": "Tokyo Ghoul:re 2nd Season",
+    "title_english": null,
+    "title_japanese": "\u4eac\u55b0\u7a2e\u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb\uff1are \u7b2c2\u671f",
+    "title_synonyms": [
+        "Tokyo Kushu:re",
+        "Toukyou Kuushu:re"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/FYIUVr7URFI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season"
+}

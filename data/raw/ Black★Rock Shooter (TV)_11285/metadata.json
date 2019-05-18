@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2012-02-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 2,
+                "year": 2012
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Feb 3, 2012 to Mar 23, 2012",
+        "to": "2012-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Black\u2605Rock Shooter is based on characters illustrated by huke. The illustrations caught the eye of music producer Ryo who then created a song based from these illustrations with his collaborative Supercell. This song's title would then become the inspiration for the anime, Black\u2605Rock Shooter.\r\nThe anime was awarded the Technical Achievement in Broadcast Animation at the 65th Motion Picture and Television Engineering Society of Japan Awards in 2012. It also received a video game adaptation for the Playstation Portable, as well as a few browser games and guest appearances in other popular video game franchises.",
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Bokura no Ashiato (\u50d5\u3089\u306e\u3042\u3057\u3042\u3068)\" by supercell"
+    ],
+    "episodes": 8,
+    "favorites": 1982,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/53909.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 11285,
+    "members": 264582,
+    "opening_themes": [
+        "\"Black\u2605Rock Shooter (\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc)\" by supercell feat. Hatsune Miku"
+    ],
+    "popularity": 328,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        }
+    ],
+    "rank": 3872,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Alternative version": [
+            {
+                "mal_id": 7059,
+                "name": "Black\u2605Rock Shooter (OVA)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7059/Black\u2605Rock_Shooter_OVA"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 12079,
+                "name": "Black\u2605Rock Shooter",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12079/Black\u2605Rock_Shooter"
+            }
+        ]
+    },
+    "request_cache_expiry": 9355,
+    "request_cached": true,
+    "request_hash": "request:anime:4bfe3ad757a35770f543cdd7775732d0aba8b2a5",
+    "score": 6.96,
+    "scored_by": 133248,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 334,
+            "name": "Ordet",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/334/Ordet"
+        },
+        {
+            "mal_id": 537,
+            "name": "SANZIGEN",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        }
+    ],
+    "synopsis": "On the first day of junior high school, Mato Kuroi happens to run into Yomi Takanashi, a shy, withdrawn girl whom she immediately takes an interest in. Mato tries her best to make conversation with Yomi, wanting to befriend her. At first, she is avoided, but the ice breaks when Yomi happens to notice a decorative blue bird attached to Mato's phone, which is from the book \"Li'l Birds At Play.\" Discovering they have a common interest, the two form a strong friendship. In an alternate universe, the young girls exist as parallel beings, Mato as Black\u2605Rock Shooter, and Yomi as Dead Master. Somehow, what happens in one world seems to have an effect on the other, and unaware of this fact, the girls unknowingly become entangled by the threads of fate. [Written by MAL Rewrite]",
+    "title": "Black\u2605Rock Shooter (TV)",
+    "title_english": "Black Rock Shooter",
+    "title_japanese": "\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc",
+    "title_synonyms": [
+        "BRS (TV)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/zN9gcAgn9u0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11285/Black\u2605Rock_Shooter_TV"
+}

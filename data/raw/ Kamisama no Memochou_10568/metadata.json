@@ -1,0 +1,126 @@
+{
+    "aired": {
+        "from": "2011-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 2, 2011 to Sep 24, 2011",
+        "to": "2011-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 ran for 48 minutes.  Every other episode ran for 24 minutes.",
+    "broadcast": "Saturdays at Unknown",
+    "duration": "26 min per ep",
+    "ending_themes": [
+        "\"Colorado Bulldog\" by Mr. Big (ep 1)",
+        "\"Asunaro (\u3042\u3059\u306a\u308d)\" by Kenichi Suzumura (eps 2-12)"
+    ],
+    "episodes": 12,
+    "favorites": 747,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75202.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10568,
+    "members": 175729,
+    "opening_themes": [
+        "\"Kawaru Mirai (\u30ab\u30ef\u30eb\u30df\u30e9\u30a4)\" by Choucho"
+    ],
+    "popularity": 555,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        }
+    ],
+    "rank": 1356,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24563,
+                "name": "Kamisama no Memochou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24563/Kamisama_no_Memochou"
+            }
+        ]
+    },
+    "request_cache_expiry": 5055,
+    "request_cached": true,
+    "request_hash": "request:anime:ea49afe1acb084f3241ce0f30cd524b0312da81e",
+    "score": 7.61,
+    "scored_by": 72118,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Narumi Fujishima isn't your typical high school student. He's never really fit in and has become increasingly more isolated from his fellow classmates. But he's not alone, and when Ayaka, the sole member of the Gardening Club, introduces him to the reclusive girl who lives above the ramen shop, Narumi enters a whole new secret world. Alice is a NEET, someone who is Not Employed, being Educated or in Training, but as Narumi quickly discovers, that doesn't mean that she does nothing all day. In between tending to her small army of stuffed bears, Alice is an expert hacker and a very exclusive private detective. To his surprise, Narumi finds himself drafted as one of the strange-but-elite team of associates that Alice has assembled from her NEET acquaintances. Together they'll battle gangs, thieves, murderers, and drug lords. And in the middle of it all, Narumi will find his life changing forever! (Source: Sentai Filmworks)",
+    "title": "Kamisama no Memochou",
+    "title_english": "Heaven's Memo Pad",
+    "title_japanese": "\u795e\u69d8\u306e\u30e1\u30e2\u5e33",
+    "title_synonyms": [
+        "It's the Only NEET Thing to Do",
+        "Kami-sama no Memo-chou",
+        "Kami-sama no Memo-chou",
+        "God's Notebook",
+        "Notebook of God"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/5qWB11LIwmE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10568/Kamisama_no_Memochou"
+}

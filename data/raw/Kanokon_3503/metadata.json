@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2008-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2008
+            }
+        },
+        "string": "Apr 5, 2008 to Jun 21, 2008",
+        "to": "2008-06-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kanokon adapts the first 6 novels of Katsumi Nishino's light novel series of the same title.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Koi no Honoo (\u604b\u306e\u708e)\" by Yui Sakakibara"
+    ],
+    "episodes": 12,
+    "favorites": 558,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/9490.jpg",
+    "licensors": [
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        }
+    ],
+    "mal_id": 3503,
+    "members": 171006,
+    "opening_themes": [
+        "\"PHOSPHOR\" by Ui Miyazaki"
+    ],
+    "popularity": 571,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        }
+    ],
+    "rank": 5412,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1687,
+                "name": "Kanokon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1687/Kanokon"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6791,
+                "name": "Kanokon: Manatsu no Dai Shanikusai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6791/Kanokon__Manatsu_no_Dai_Shanikusai"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 4760,
+                "name": "Kanokon Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4760/Kanokon_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ad736882cf1ed73df5ef07effb31f37c3c4d6bf1",
+    "score": 6.62,
+    "scored_by": 84242,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Kouta has girl troubles of the supernatural sort. For some reason, he keeps attracting the attention (and affections) of animal spirits! Having spent most of his life in the country, Kouta is understandably nervous when he moves in with his grandma to attend a high school in the big city. He hoped to make a good impression, but having Chizuru, a beautiful fox spirit, hanging off his arm didn't seem to be the sort of image he wanted to have. She's not alone in her love for Kouta, either. Nozomu, a wolf spirit, as well as other youkai have their sights set on the hapless country boy.",
+    "title": "Kanokon",
+    "title_english": "Kanokon: The Girl Who Cried Fox",
+    "title_japanese": "\u304b\u306e\u3053\u3093",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Szclcc76A7c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3503/Kanokon"
+}

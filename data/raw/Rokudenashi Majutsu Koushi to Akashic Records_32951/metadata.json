@@ -1,0 +1,158 @@
+{
+    "aired": {
+        "from": "2017-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 4, 2017 to Jun 20, 2017",
+        "to": "2017-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Rokudenashi Majutsu Koushi to Akashic Records adapts the first 5 volumes of Tarou Hitsuji's light novel series of the same title.",
+    "broadcast": "Tuesdays at 20:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Blow out\" by Konomi Suzuki (ep 3)",
+        "\"Precious You\u2606\" by Sistine (Akane Fujita), Rumia (Yume Miyamoto), Re=L (Ari Ozawa) (eps 4-7, 10)"
+    ],
+    "episodes": 12,
+    "favorites": 1918,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/85593.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32951,
+    "members": 306861,
+    "opening_themes": [
+        "\"Blow out\" by Konomi Suzuki (eps 4-11)"
+    ],
+    "popularity": 272,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 577,
+            "name": "Tohokushinsha Film Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1664,
+            "name": "Fujimi Shobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        },
+        {
+            "mal_id": 1677,
+            "name": "Kanetsu Co., LTD.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1677/Kanetsu_Co_LTD"
+        }
+    ],
+    "rank": 2308,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 75065,
+                "name": "Rokudenashi Majutsu Koushi to Akashic Records",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/75065/Rokudenashi_Majutsu_Koushi_to_Akashic_Records"
+            }
+        ]
+    },
+    "request_cache_expiry": 29092,
+    "request_cached": true,
+    "request_hash": "request:anime:d434716e64d61a3a63586bea97bb295772bc84e2",
+    "score": 7.35,
+    "scored_by": 165011,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "The Alzano Empire is home to one of the most distinguished magic schools in the world: the Alzano Imperial Magic Academy. Here, ambitious young students undergo training to become competent magicians. Sistine Fibel, a stern noble girl, and her bright-eyed best friend Rumia Tingel attend the Academy, determined to cultivate their magical skills. However, their world is thrown for a loop when their favorite teacher suddenly retires and the enigmatic Glenn Radars replaces him. His lazy and indifferent attitude toward life and magic quickly puts him at odds with his class. What's more, nefarious forces hidden within the empire's walls start to become active, and Sistine, Rumia, and Glenn find themselves caught up in their schemes. Rokudenashi Majutsu Koushi to Akashic Records follows Sistine, who is captivated by a mysterious floating Sky Castle; Rumia, who is haunted by a troubled past; and Glenn, who may be more than meets the eye. Though completely different on the surface, they are inexplicably bound together by a thread of fate. [Written by MAL Rewrite]",
+    "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "title_english": "Akashic Records of Bastard Magic Instructor",
+    "title_japanese": "\u30ed\u30af\u3067\u306a\u3057\u9b54\u8853\u8b1b\u5e2b\u3068\u7981\u5fcc\u6559\u5178",
+    "title_synonyms": [
+        "RokuAka"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/nzlblisGahI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32951/Rokudenashi_Majutsu_Koushi_to_Akashic_Records"
+}

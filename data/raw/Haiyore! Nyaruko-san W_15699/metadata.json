@@ -1,0 +1,152 @@
+{
+    "aired": {
+        "from": "2013-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Apr 8, 2013 to Jul 1, 2013",
+        "to": "2013-07-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 01:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Yotte S.O.S (\u3088\u3063\u3066S.O.S)\" by RAMM ni Haiyoru Nyaruko-san (RAMM\u306b\u9019\u3044\u3088\u308b\u30cb\u30e3\u30eb\u5b50\u3055\u3093) (eps 1-2, 6, 11)",
+        "\"Wonder Nanda? Kataomoi (Wonder\u306a\u3093\u3060\uff1f\u7247\u601d\u3044)\" by RAMM ni Haiyoru Jashin-san (RAMM\u306b\u9019\u3044\u3088\u308b\u90aa\u795e\u3055\u3093) (eps 3, 8)",
+        "\"Kiraina Wake Lychee (\u5acc\u3044\u306a\u30ef\u30b1Lychee)\" by RAMM ni Haiyoru Tamao-san (RAMM\u306b\u9019\u3044\u3088\u308b\u73e0\u7dd2\u3055\u3093) (eps 4, 7)",
+        "\"Sister, Friend, Lover\" by RAMM ni Haiyoru Kuuko-san to Kuune-san (RAMM\u306b\u9019\u3044\u3088\u308b\u30af\u30fc\u5b50\u3055\u3093\u3068\u30af\u30fc\u97f3\u3055\u3093) (eps 5, 9)",
+        "\u201dAi Crusaders\u2020Striver (\u611b\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9\u2020\u30b9\u30c8\u30e9\u30a4\u30d0\u30fc)\u201d by RAMM ni Haiyoru Mahiro-san to Yoichi-san (RAMM\u306b\u9019\u3044\u3088\u308b\u771f\u5c0b\u3055\u3093\u3068\u4f59\u5e02\u3055\u3093\uff09(Episode 10)",
+        "\"Kimi no Tonari de (\u30ad\u30df\u306e\u3068\u306a\u308a\u3067;By Your Side)\" by Kana Asumi (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 260,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/47533.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 15699,
+    "members": 121742,
+    "opening_themes": [
+        "\"Koi wa Chaos no Shimobenari (\u604b\u306f\u6e3e\u6c8c\u306e\u96b7\u4e5f)\" by Ushiro kara Haiyori-tai G (\u5f8c\u308d\u304b\u3089\u9019\u3044\u3088\u308a\u968aG)"
+    ],
+    "popularity": 836,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 1039,
+            "name": "DIVE II Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1039/DIVE_II_Entertainment"
+        }
+    ],
+    "rank": 2162,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23485,
+                "name": "Haiyore! Nyaruko-san",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23485/Haiyore_Nyaruko-san"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11785,
+                "name": "Haiyore! Nyaruko-san",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11785/Haiyore_Nyaruko-san"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 26023,
+                "name": "Haiyore! Nyaruko-san F",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26023/Haiyore_Nyaruko-san_F"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 23619,
+                "name": "Haiyore! Nyaruko-san W OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23619/Haiyore_Nyaruko-san_W_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 11143,
+    "request_cached": true,
+    "request_hash": "request:anime:622b3859443f5fff3879f779c601adf06a533476",
+    "score": 7.38,
+    "scored_by": 62665,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Nyaruko still wants Mahiro, as does Hasuta. K\u016bko wants Nyaruko, but believes both Nyaruko's and Mahiro's \"first time\" belongs to her. Yoriko puts up with all of it and cheerfully runs the house where they all live. Mahiro just wants some sanity. He doesn't want to be the love toy of a Nyarlathotepan, Cthughan, or a shots-like Hasturan. He may or may not hold out. (Source: ANN)",
+    "title": "Haiyore! Nyaruko-san W",
+    "title_english": "Nyaruko: Crawling With Love! Second Season",
+    "title_japanese": "\u9019\u3044\u3088\u308c\uff01\u30cb\u30e3\u30eb\u5b50\u3055\u3093 W",
+    "title_synonyms": [
+        "Haiyore! Nyaruko-san 2",
+        "Haiyoru! Nyaruko-san 2",
+        "Nyarko-san: Another Crawling Chaos W"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/LW_-zXZA7-A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15699/Haiyore_Nyaruko-san_W"
+}

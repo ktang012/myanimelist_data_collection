@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2015-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 3, 2015 to Jun 26, 2015",
+        "to": "2015-06-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:00 (JST)",
+    "duration": "3 min per ep",
+    "ending_themes": [
+        "\"Yuruganu Futari ~Ai no Sanka~ (\u3086\u308b\u304c\u306c\u3075\u305f\u308a\uff5e\u611b\u306e\u8b83\u6b4c\uff5e)\" by Kaoru & Hajime (Yukari Tamura & Kenichi Suzumura) (eps 1-5, 7, 9-13)",
+        "\"Okusama no Blues (\u5965\u69d8\u306e\u30d6\u30eb\u30fc\u30b9)\" by Kaoru, Rino Juse, Tanaka-san (Yukari Tamura, Rie Kugimiya, Ryouko Shintani) (ep 6)",
+        "\"Iikagen ni Shite, Anata (\u3044\u3044\u304b\u3052\u3093\u306b\u3057\u3066\u3001\u3042\u306a\u305f)\" by Kaoru & Hajime (Yukari Tamura & Kenichi Suzumura) (ep 8)"
+    ],
+    "episodes": 13,
+    "favorites": 150,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/73595.jpg",
+    "licensors": [],
+    "mal_id": 29067,
+    "members": 122530,
+    "opening_themes": [],
+    "popularity": 834,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 615,
+            "name": "Dream Creation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+        }
+    ],
+    "rank": 1783,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 73575,
+                "name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/73575/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 26349,
+                "name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26349/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5cc310ba74ace8d92ec4d9f141316f96a1e029d0",
+    "score": 7.47,
+    "scored_by": 75448,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 541,
+            "name": "Seven",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/541/Seven"
+        }
+    ],
+    "synopsis": "The anime follows the daily life of an earnest, hardworking office lady named Kaoru and her otaku husband, Hajime, who is totally immersed in a certain huge net bulletin board system. (Source: ANN)",
+    "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me",
+    "title_english": "I Can't Understand What My Husband Is Saying: 2nd Thread",
+    "title_japanese": "\u65e6\u90a3\u304c\u4f55\u3092\u8a00\u3063\u3066\u3044\u308b\u304b\u308f\u304b\u3089\u306a\u3044\u4ef62\u30b9\u30ec\u76ee",
+    "title_synonyms": [
+        "Danna ga Nani wo Itteiru ka Wakaranai Ken 2nd Season",
+        "I Can't Understand What My Husband Is Saying Second Season"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/29067/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken_2_Sure-me"
+}

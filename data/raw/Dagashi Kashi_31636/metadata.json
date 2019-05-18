@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2016-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Jan 8, 2016 to Apr 1, 2016",
+        "to": "2016-04-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:16 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hey! Calorie Queen (Hey! \u30ab\u30ed\u30ea\u30fcQueen)\" by Ayana Taketatsu"
+    ],
+    "episodes": 12,
+    "favorites": 689,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1538/95686.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31636,
+    "members": 252136,
+    "opening_themes": [
+        "\"Checkmate!?\" by MICHI"
+    ],
+    "popularity": 349,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 693,
+            "name": "BS-TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/693/BS-TBS"
+        },
+        {
+            "mal_id": 1430,
+            "name": "Shogakukan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        },
+        {
+            "mal_id": 1581,
+            "name": "RAY",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1581/RAY"
+        },
+        {
+            "mal_id": 1583,
+            "name": "U-NEXT",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1583/U-NEXT"
+        },
+        {
+            "mal_id": 1585,
+            "name": "Nichion",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+        }
+    ],
+    "rank": 4956,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 75993,
+                "name": "Dagashi Kashi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/75993/Dagashi_Kashi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 36049,
+                "name": "Dagashi Kashi 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36049/Dagashi_Kashi_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 42088,
+    "request_cached": true,
+    "request_hash": "request:anime:b273f78e6d7534ae7dcba1a3e06ad01aca1b40ca",
+    "score": 6.71,
+    "scored_by": 107533,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ],
+    "synopsis": "Out in the countryside stands a sweet shop run by the Shikada family for nine generations: Shikada Dagashi, a small business selling traditional Japanese candy. However, despite his father's pleas, Kokonotsu Shikada, an aspiring manga artist, adamantly refuses to inherit the family business. However, this may start to change with the arrival of the eccentric Hotaru Shidare. Hotaru is in search of Kokonotsu's father, with the goal of bringing him back to work for her family's company, Shidare Corporation, a world famous sweets manufacturer. Although the senior Shikada initially refuses, he states that he will change his mind on one condition: if Hotaru can convince Kokonotsu to take over the family shop. And so begins Hotaru's mission to enlighten the boy on the true joy of delicious and nostalgic dagashi! [Written by MAL Rewrite]",
+    "title": "Dagashi Kashi",
+    "title_english": "Dagashi Kashi",
+    "title_japanese": "\u3060\u304c\u3057\u304b\u3057",
+    "title_synonyms": [
+        "Dagashikashi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-U5O9GSI_Dk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31636/Dagashi_Kashi"
+}

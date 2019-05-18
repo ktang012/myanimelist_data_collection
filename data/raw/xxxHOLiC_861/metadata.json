@@ -1,0 +1,168 @@
+{
+    "aired": {
+        "from": "2006-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Apr 7, 2006 to Sep 29, 2006",
+        "to": "2006-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "xxxHOLiC was licensed by Funimation in North America.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Reason\" by Fonogenico (eps 1-13,24)",
+        "\"Kagerou\" by BUCK-TICK (eps 14-23)"
+    ],
+    "episodes": 24,
+    "favorites": 3627,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/21858.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 861,
+    "members": 203233,
+    "opening_themes": [
+        "\"19sai\" by Shikao Suga"
+    ],
+    "popularity": 467,
+    "premiered": "Spring 2006",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 157,
+            "name": "BMG Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/157/BMG_Japan"
+        },
+        {
+            "mal_id": 158,
+            "name": "Kids Station",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        }
+    ],
+    "rank": 489,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 10,
+                "name": "xxxHOLiC",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10/xxxHOLiC"
+            },
+            {
+                "mal_id": 10183,
+                "name": "xxxHOLiC: AnotherHOLiC",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10183/xxxHOLiC__AnotherHOLiC"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 177,
+                "name": "Tsubasa Chronicle",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/177/Tsubasa_Chronicle"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 3091,
+                "name": "xxxHOLiC Kei",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3091/xxxHOLiC_Kei"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 793,
+                "name": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/793/xxxHOLiC_Movie__Manatsu_no_Yoru_no_Yume"
+            }
+        ]
+    },
+    "request_cache_expiry": 8732,
+    "request_cached": true,
+    "request_hash": "request:anime:a0dc159142bfcd0e57a94da0501e28b85638f030",
+    "score": 8.07,
+    "scored_by": 82227,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Kimihiro Watanuki can see spirits and other assorted supernatural creatures, which is quite a bothersome ability he strongly dislikes. On the way home one day, while plagued by some spirits, he is inexplicably compelled to enter a strange house. There, he encounters Yuuko, a mysterious woman who claims to be able to rid him of the ability to see and attract the troublesome creatures\u2014for a price. She demands that he work at her \"store\" that grants wishes to people, and thus begins Watanuki's adventures through weird and wonderful events. [Written by MAL Rewrite]",
+    "title": "xxxHOLiC",
+    "title_english": "xxxHOLiC",
+    "title_japanese": "\u00d7\u00d7\u00d7HOLiC\uff08\u30db\u30ea\u30c3\u30af\uff09",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/zOoZgS7eiBg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/861/xxxHOLiC"
+}

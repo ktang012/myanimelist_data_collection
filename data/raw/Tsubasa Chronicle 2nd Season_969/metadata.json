@@ -1,0 +1,156 @@
+{
+    "aired": {
+        "from": "2006-04-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 4,
+                "month": 11,
+                "year": 2006
+            }
+        },
+        "string": "Apr 29, 2006 to Nov 4, 2006",
+        "to": "2006-11-04T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 18:25 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Kazemachi Jet\" by Sakamoto Maaya"
+    ],
+    "episodes": 26,
+    "favorites": 534,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/6554.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 969,
+    "members": 94089,
+    "opening_themes": [
+        "\"IT'S\" by Kinya"
+    ],
+    "popularity": 1055,
+    "premiered": "Spring 2006",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+    ],
+    "rank": 1213,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 9,
+                "name": "Tsubasa: RESERVoir CHRoNiCLE",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/9/Tsubasa__RESERVoir_CHRoNiCLE"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 2685,
+                "name": "Tsubasa: Tokyo Revelations",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2685/Tsubasa__Tokyo_Revelations"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 177,
+                "name": "Tsubasa Chronicle",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/177/Tsubasa_Chronicle"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:caedc180b506881cdbf91bfcb70d02ff478450e3",
+    "score": 7.67,
+    "scored_by": 47736,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 5,
+            "name": "Bee Train",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+        }
+    ],
+    "synopsis": "Syaoran, Sakura, Kurogane, Fai and Mokona's journey through to different world's continue as they search for Sakura's feathers. The fated journey slowly becomes more complicated for our travelers, as they find themselves diving deeper into more dangerous worlds. Takes place immediately after the first season. Based on the manga by CLAMP.",
+    "title": "Tsubasa Chronicle 2nd Season",
+    "title_english": "Tsubasa RESERVoir CHRoNiCLE Season Two",
+    "title_japanese": "\u30c4\u30d0\u30b5\u30fb\u30af\u30ed\u30cb\u30af\u30eb \u7b2c2\u30b7\u30ea\u30fc\u30ba",
+    "title_synonyms": [
+        "Tsubasa Chronicles - Second Season",
+        "Tsubasa: RESERVoir CHRoNiCLE"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season"
+}

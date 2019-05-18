@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2014-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Jan 6, 2014 to Jun 23, 2014",
+        "to": "2014-06-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at Shinjuku Milano 1 in Tokyo on December 26, 2013. Regular broadcasting began January 6, 2014.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"AXIS\" by STEREO DIVE FOUNDATION (eps 1-13)",
+        "\"Ran (\u862d(RAN))\" by ASUKA (eps 14-24)"
+    ],
+    "episodes": 24,
+    "favorites": 166,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/57803.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21177,
+    "members": 77543,
+    "opening_themes": [
+        "\"FOOL THE WORLD\" by Minori Chihara (eps 1-13)",
+        "\"Breakthrough\" by JAM Project (eps 14-24)"
+    ],
+    "popularity": 1262,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        }
+    ],
+    "rank": 4738,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 67813,
+                "name": "Nobunaga the Fool",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/67813/Nobunaga_the_Fool"
+            }
+        ]
+    },
+    "request_cache_expiry": 40002,
+    "request_cached": true,
+    "request_hash": "request:anime:ffbe742cee0e02c216a15cea24a2c581cd0b017a",
+    "score": 6.76,
+    "scored_by": 26811,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ],
+    "synopsis": "Two planets, one to the East and another to the West, were once bound together by a chain called the Dragon Stream. But now, that chain is broken and the two halves are only joined in war. Nobunaga the Fool is heir to the Eastern Country of Owari. Regarded as too foolish and carefree by many, including his friends, Nobunaga is thought to be a nuisance even by his father. A girl from the West named Jeanne Kaguya d'Arc has visions of a \"Savior-King.\" She is accompanied by Leonardo da Vinci as she journeys to the Eastern Planet in search of the person in her visions. Leonardo and Jeanne quickly fall victim to a military confrontation between powerful mecha, only to be saved by Nobunaga. Nobunaga takes control of Leonardo's mecha, intending to warn his family of the siege he suspects. Jeanne suspects that the lackadaisical Nobunaga might be the Savior-King she's envisioned.",
+    "title": "Nobunaga the Fool",
+    "title_english": "Nobunaga the Fool",
+    "title_japanese": "\u30ce\u30d6\u30ca\u30ac\u30fb\u30b6\u30fb\u30d5\u30fc\u30eb",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/XChhBbKNdDE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21177/Nobunaga_the_Fool"
+}

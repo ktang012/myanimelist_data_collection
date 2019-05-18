@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2013-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 7, 2013 to Sep 29, 2013",
+        "to": "2013-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 22:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Qu\u00e9 Ser\u00e1, Ser\u00e1 (\u30b1\u30bb\u30e9\u30bb\u30e9)\" by fh\u00e1na (eps 1-11)",
+        "\"Uchouten Jinsei (\u6709\u9802\u5929\u4eba\u751f)\" by milktub (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 1183,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/85433.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 17909,
+    "members": 113731,
+    "opening_themes": [
+        "\"Uchouten Jinsei (\u6709\u9802\u5929\u4eba\u751f)\" by milktub (eps 1-10, 12)"
+    ],
+    "popularity": 903,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 158,
+            "name": "Kids Station",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        }
+    ],
+    "rank": 665,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 57789,
+                "name": "Uchouten Kazoku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/57789/Uchouten_Kazoku"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34076,
+                "name": "Uchouten Kazoku 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34076/Uchouten_Kazoku_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 13832,
+    "request_cached": true,
+    "request_hash": "request:anime:b799cff76464d9b259bf11ecb90979c2fcf51a1f",
+    "score": 7.93,
+    "scored_by": 37910,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 132,
+            "name": "P.A. Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ],
+    "synopsis": "Kyoto has been populated by groups of tanuki and tengu for years, living alongside humans who are oblivious to the existence of these creatures. Yasaburou Shimogamo is the third son of an influential tanuki family who spends his carefree days taking care of an old tengu, observing humans through his ability to shapeshift, and dealing with the mysterious woman named Benten. Behind the peace and tranquility, however, is a painful memory from long ago as Yasaburou's father, head of the tanuki community, was killed and eaten by a group of humans known as the Friday Fellows. Uchouten Kazoku follows the trials and tribulations of the Shimogamo brothers as they struggle to avoid their own grisly demise while coming ever closer to unraveling the truth behind their father's death. [Written by MAL Rewrite]",
+    "title": "Uchouten Kazoku",
+    "title_english": "The Eccentric Family",
+    "title_japanese": "\u6709\u9802\u5929\u5bb6\u65cf",
+    "title_synonyms": [
+        "Uchoten Kazoku"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/QVu8qiE7Yv4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/17909/Uchouten_Kazoku"
+}

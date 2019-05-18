@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2013-04-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 10, 2013 to Jun 26, 2013",
+        "to": "2013-06-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Affection\" by Mayumi Morinaga (eps 1-11)"
+    ],
+    "episodes": 12,
+    "favorites": 514,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/48747.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 15911,
+    "members": 73528,
+    "opening_themes": [
+        "\"Se-no! (\u305b\u30fc\u306e\u3063!)\" by Jouhoushori-bu (Rumi Ookubo, Risa Taneda, Minami Tsuda)"
+    ],
+    "popularity": 1314,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 1594,
+            "name": "Exit Tunes",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1594/Exit_Tunes"
+        }
+    ],
+    "rank": 1969,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 45353,
+                "name": "Yuyushiki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/45353/Yuyushiki"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 33035,
+                "name": "Yuyushiki: Komarasetari, Komarasaretari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33035/Yuyushiki__Komarasetari_Komarasaretari"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 19029,
+                "name": "Yuyushiki: Nyanyashiki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19029/Yuyushiki__Nyanyashiki"
+            }
+        ]
+    },
+    "request_cache_expiry": 7968,
+    "request_cached": true,
+    "request_hash": "request:anime:852b863269050ecba0662156068021e42f7f49fb",
+    "score": 7.43,
+    "scored_by": 28227,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 290,
+            "name": "Kinema Citrus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+    ],
+    "synopsis": "The story follows the school life of the three girls, Yuzuko, Yukari, and Yui, who join their high school's Data Processing Club. The odd friendship between the three make for wacky humor in even the most mundane of events.",
+    "title": "Yuyushiki",
+    "title_english": "Yuyushiki",
+    "title_japanese": "\u3086\u3086\u5f0f",
+    "title_synonyms": [
+        "Yuyu-shiki"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/MvrM1KUSf30?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15911/Yuyushiki"
+}

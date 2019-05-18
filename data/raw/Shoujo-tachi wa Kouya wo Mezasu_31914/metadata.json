@@ -1,0 +1,161 @@
+{
+    "aired": {
+        "from": "2016-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 7, 2016 to Mar 24, 2016",
+        "to": "2016-03-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The visual novel was released on March 25, 2016 in Japan. It shares its cast with that of the anime.",
+    "broadcast": "Thursdays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Sekai wa Kyou mo Atarashii (\u4e16\u754c\u306f\u4eca\u65e5\u3082\u3042\u305f\u3089\u3057\u3044)\" by Sayuki Kuroda (Haruka Chisuga), Yuuka Kobayakawa (Kana Hanazawa), Teruha Andou (Satomi Akesaka), Uguisu Yuuki (Satomi Sato)"
+    ],
+    "episodes": 12,
+    "favorites": 130,
+    "genres": [
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/77837.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 31914,
+    "members": 83753,
+    "opening_themes": [
+        "\"WASTELANDERS\" by Sayaka Sasaki"
+    ],
+    "popularity": 1161,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 619,
+            "name": "Cospa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/619/Cospa"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 1946,
+            "name": "Hawkeye",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1946/Hawkeye"
+        }
+    ],
+    "rank": 6495,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95107,
+                "name": "Shoujo-tachi wa Kouya wo Mezasu: Tori Naku Uta",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95107/Shoujo-tachi_wa_Kouya_wo_Mezasu__Tori_Naku_Uta"
+            },
+            {
+                "mal_id": 114902,
+                "name": "Shoujo-tachi wa Kouya wo Mezasu: Yukidoke no Oto",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/114902/Shoujo-tachi_wa_Kouya_wo_Mezasu__Yukidoke_no_Oto"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 31867,
+                "name": "Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31867/Shoujo-tachi_wa_Kouya_wo_Mezasu__Iubeki_Monokashira"
+            }
+        ]
+    },
+    "request_cache_expiry": 12219,
+    "request_cached": true,
+    "request_hash": "request:anime:4de567f646b2889fabbf5124ca9b1e5ea2672ee5",
+    "score": 6.39,
+    "scored_by": 31611,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 271,
+            "name": "Barnum Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/271/Barnum_Studio"
+        },
+        {
+            "mal_id": 439,
+            "name": "Project No.9",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+    ],
+    "synopsis": "Shoujo-tachi wa Kouya wo Mezasu is a series all about finding oneself and a direction in life... no matter how far off the beaten path it might be. Buntarou Hojo is a high school student who has a talent for writing, but no real direction in life or any plans for the future. His classmate, Sayuki Kuroda notices his talent, decides to help him find a way to use it properly by enlisting him in her bishoujo game development group. When Buntarou is cornered in the men's bathroom at school by Sayuki, he is surprised when he is asked out on what he thinks is a date, and even further surprised when he finds out that it's not a date, but a job interview. Reluctantly agreeing, the two start recruiting other members for their team but will they learn more about game creation, or life itself along the way?",
+    "title": "Shoujo-tachi wa Kouya wo Mezasu",
+    "title_english": "Girls Beyond the Wasteland",
+    "title_japanese": "\u5c11\u5973\u305f\u3061\u306f\u8352\u91ce\u3092\u76ee\u6307\u3059",
+    "title_synonyms": [
+        "The girls who aim for the wildlands",
+        "Girls beyond the youth KOYA",
+        "Shokomeza"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/rblaPG33Hnk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31914/Shoujo-tachi_wa_Kouya_wo_Mezasu"
+}

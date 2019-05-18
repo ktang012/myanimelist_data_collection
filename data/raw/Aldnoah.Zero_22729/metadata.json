@@ -1,0 +1,181 @@
+{
+    "aired": {
+        "from": "2014-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 6, 2014 to Sep 21, 2014",
+        "to": "2014-09-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Aldnoah.Zero was streamed in Australia by Hanabee, in the UK by Anime Limited and in the USA by Aniplex of America. The manga adaptation of the anime was published in 2014, written by Olympus Knights and illustrated by Pinakes.  The manga was licensed by Yen Press in the USA in 2015. The creator and director had previously collaborated on Fate/Zero.",
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"heavenly blue\" by Kalafina (ep 1)",
+        "\"A/Z\" by SawanoHiroyuki[nZk]:mizuki (eps 2-3, 5-6, 9)",
+        "\"aLIEz\" by SawanoHiroyuki[nZk]:mizuki (eps 4, 7-8, 10-11)"
+    ],
+    "episodes": 12,
+    "favorites": 3661,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 22729,
+    "members": 359064,
+    "opening_themes": [
+        "\"heavenly blue\" by Kalafina (eps 2-12)"
+    ],
+    "popularity": 206,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 459,
+            "name": "Nitroplus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1415,
+            "name": "Asahi Broadcasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 1553,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 77213,
+                "name": "Aldnoah.Zero",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/77213/AldnoahZero"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 27655,
+                "name": "Aldnoah.Zero 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27655/AldnoahZero_2nd_Season"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 29223,
+                "name": "Aldnoah.Zero Extra Archives",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29223/AldnoahZero_Extra_Archives"
+            }
+        ]
+    },
+    "request_cache_expiry": 1113,
+    "request_cached": true,
+    "request_hash": "request:anime:d79e20dc2c458a8bac913579720c8384d13ab190",
+    "score": 7.54,
+    "scored_by": 201821,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 1103,
+            "name": "TROYCA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+        }
+    ],
+    "synopsis": "The discovery of a hypergate on the Moon once allowed the human race to teleport to Mars. Those who chose to settle there unearthed a technology far more advanced than that of their home planet, which they named \"Aldnoah.\" This discovery led to the founding of the Vers Empire of Mars and a declaration of war against the \"Terrans,\" those who stayed behind on Earth. However, a battle on the moon\u2014later called \"Heaven's Fall\"\u2014caused the hypergate to explode, destroying the moon and leading the two planets to establish an uneasy ceasefire. Their peace was a fragile one, however. Fifteen years later, high school student Inaho Kaizuka witnesses the plotted assassination of the Vers Empire's Princess Asseylum Vers Allusia, who had come to Earth in hopes of repairing the relationship between the empire and its homeland. The ceasefire is shattered, and the Martians declare war on the Terrans once again. In the face of this insurmountable enemy, Inaho and his friends must now fight against the Vers Empire to settle the war once and for all. [Written by MAL Rewrite]",
+    "title": "Aldnoah.Zero",
+    "title_english": "Aldnoah.Zero",
+    "title_japanese": "\u30a2\u30eb\u30c9\u30ce\u30a2\u30fb\u30bc\u30ed",
+    "title_synonyms": [
+        "AZ"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/D6XOSJyJtk8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22729/AldnoahZero"
+}

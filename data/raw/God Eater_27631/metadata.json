@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2015-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jul 12, 2015 to Mar 26, 2016",
+        "to": "2016-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Feed A\" by OLDCODEX (ep 1)",
+        "\"Kouhai Chi (\u8352\u5ec3\u5730)\" by Go Shiina feat. naomi (eps 2-4, 6-7, 10-13)",
+        "\"Human After All\" by GHOST ORACLE DRIVE feat. BiSH (ep 5)"
+    ],
+    "episodes": 13,
+    "favorites": 1596,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/73852.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 27631,
+    "members": 319281,
+    "opening_themes": [
+        "\"Feed A\" by OLDCODEX (eps 2-8, 11-12)"
+    ],
+    "popularity": 263,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 1510,
+            "name": "Anime Consortium Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1510/Anime_Consortium_Japan"
+        }
+    ],
+    "rank": 1829,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Alternative setting": [
+            {
+                "mal_id": 37265,
+                "name": "God Eater Reso Nantoka Gekijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37265/God_Eater_Reso_Nantoka_Gekijou"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10470,
+                "name": "God Eater Prologue",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10470/God_Eater_Prologue"
+            }
+        ]
+    },
+    "request_cache_expiry": 22541,
+    "request_cached": true,
+    "request_hash": "request:anime:98a5bc3d8d6d35b7e5844f40c16ea1bc9bbd01c0",
+    "score": 7.46,
+    "scored_by": 139248,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 43,
+            "name": "ufotable",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ],
+    "synopsis": "The year is 2071. Humanity has been pushed to the brink of extinction following the emergence of man-eating monsters called \"Aragami\" that boast an immunity to conventional weaponry. They ravaged the land, consuming almost everything in their path and leaving nothing in their wake. To combat them, an organization named Fenrir was formed as a last-ditch effort to save humanity through the use of \"God Eaters\"\u2014special humans infused with Oracle cells, allowing them to wield the God Arc, the only known weapon capable of killing an Aragami. One such God Eater is Lenka Utsugi, a New-Type whose God Arc takes the form of both blade and gun. Now, as one of Fenrir's greatest weapons, Lenka must master his God Arc if he is to fulfill his desire of wiping out the Aragami once and for all. The monsters continue to be born en masse while the remnants of humanity struggle to survive the night. Only God Eaters stand between the Aragami and complete and total annihilation of the human race. [Written by MAL Rewrite]",
+    "title": "God Eater",
+    "title_english": "God Eater",
+    "title_japanese": "GOD EATER",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/2LUfrT5hZM4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/27631/God_Eater"
+}

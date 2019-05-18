@@ -1,0 +1,179 @@
+{
+    "aired": {
+        "from": "2016-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 5, 2016 to Sep 20, 2016",
+        "to": "2016-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 02:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"EGOISTIC EMOTION\" by TRIGGER [Bluesy Fluesy (Mikako Komatsu) & Touko Ichinose (Chika Anzai)]"
+    ],
+    "episodes": 12,
+    "favorites": 150,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/80197.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 29758,
+    "members": 167777,
+    "opening_themes": [
+        "\"Belief\" by May'n"
+    ],
+    "popularity": 585,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1039,
+            "name": "DIVE II Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1039/DIVE_II_Entertainment"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1469,
+            "name": "BS Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1469/BS_Japan"
+        }
+    ],
+    "rank": 8231,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17486,
+                "name": "Taboo Tattoo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17486/Taboo_Tattoo"
+            }
+        ]
+    },
+    "request_cache_expiry": 10744,
+    "request_cached": true,
+    "request_hash": "request:anime:6cafa4cddb58e1a54de7bcf00f7e8798245db5a8",
+    "score": 5.94,
+    "scored_by": 70709,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time? (Source: MU)",
+    "title": "Taboo Tattoo",
+    "title_english": "Taboo Tattoo",
+    "title_japanese": "\u30bf\u30d6\u30fc\u30fb\u30bf\u30c8\u30a5\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/gYwKZHDVW4Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/29758/Taboo_Tattoo"
+}

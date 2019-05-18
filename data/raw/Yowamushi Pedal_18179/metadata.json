@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2013-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Oct 8, 2013 to Jul 1, 2014",
+        "to": "2014-07-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Tokyo on September 28, 2013. Regular broadcasting began on October 8, 2013.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kaze wo Yobe (\u98a8\u3092\u547c\u3079)\" by Under Graph (eps 1-12)",
+        "\"I am ready\" by AUTRIBE featuring Dirty Old Men (eps 13-25)",
+        "\"Glory Road\" by Team Hakone Gakuen (Juichi Fukutomi, Sangaku Manami, Jinpachi Toudou, Hayato Shinkai, Yasutomo Arakita, Touichirou Izumida) (eps 26-38)"
+    ],
+    "episodes": 38,
+    "favorites": 1975,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/53211.jpg",
+    "licensors": [
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        }
+    ],
+    "mal_id": 18179,
+    "members": 140811,
+    "opening_themes": [
+        "\"Reclimb (\u30ea\u30af\u30e9\u30a4\u30e0)\" by ROOKiEZ is PUNK'D (eps 1-12)",
+        "\"Yowamushi na Honoo (\u5f31\u866b\u306a\u708e)\" by Dirty Old Men (eps 13-25)",
+        "\"Be As One\" by Team Souhoku (Sakamichi Onoda, Shunsuke Imaizumi, Shoukichi Naruko, Shingo Kinjou, Yuusuke Makishima, Jin Tadokoro) (eps 26-38)"
+    ],
+    "popularity": 714,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1373,
+            "name": "Akita Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+        }
+    ],
+    "rank": 464,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23627,
+                "name": "Yowamushi Pedal",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23627/Yowamushi_Pedal"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 33522,
+                "name": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33522/Chiba_Pedal__Yowamushi_Pedal_to_Manabu_Jitensha_Koutsuu_Anzen"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24277,
+                "name": "Yowamushi Pedal: Grande Road",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24277/Yowamushi_Pedal__Grande_Road"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 18177,
+                "name": "Yowamushi Pedal: Special Ride",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18177/Yowamushi_Pedal__Special_Ride"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 33302,
+                "name": "Yowamushi Pedal: Spare Bike",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33302/Yowamushi_Pedal__Spare_Bike"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 25755,
+                "name": "Yowamushi Pedal: Re:RIDE",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25755/Yowamushi_Pedal__Re_RIDE"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ce3109b7f9cee893939a80ce9e3416ddf4fcab8c",
+    "score": 8.09,
+    "scored_by": 68398,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "Sakamichi Onoda is a cheerful otaku looking to join his new school's anime club, eager to finally make some friends. Unfortunately, the club has been disbanded and he takes it upon himself to revive it by finding students who are willing to join. Without much luck, Onoda decides to make a round trip to Akihabara on his old, bulky city bicycle, a weekly 90-kilometer ride he has been completing since fourth grade. This is when he meets fellow first year student, Shunsuke Imaizumi, a determined cyclist who is using the school's steep incline for practice. Surprised by Onoda's ability to climb the hill with his specific type of bicycle, Imaizumi challenges him to a race, with the proposition of joining the anime club should Onoda win. And thus begins the young boy's first foray into the world of high school bicycle racing! [Written by MAL Rewrite]",
+    "title": "Yowamushi Pedal",
+    "title_english": "Yowamushi Pedal",
+    "title_japanese": "\u5f31\u866b\u30da\u30c0\u30eb",
+    "title_synonyms": [
+        "Yowapeda"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/tzkiTvJWKtg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18179/Yowamushi_Pedal"
+}

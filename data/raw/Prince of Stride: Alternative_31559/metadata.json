@@ -1,0 +1,110 @@
+{
+    "aired": {
+        "from": "2016-01-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 5, 2016 to Mar 22, 2016",
+        "to": "2016-03-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Be My Steady\" by Galaxy Standard [Reiji Suwa (Mamoru Miyano), Shizuma Mayuzumi (Daisuke Hirakawa), Bantarou Chiyomatsu (Takuya Eguchi), Tasuku Senoo (Tatsuhisa Suzuki), Asuma Mayuzumi (Yuuki Ono), Kaede Okumura (Toshiyuki Toyonaga)] (eps 2-7, 9, 10)",
+        "\"You're My Courage\" by Galaxy Standard [Reiji Suwa (Mamoru Miyano), Shizuma Mayuzumi (Daisuke Hirakawa), Bantarou Chiyomatsu (Takuya Eguchi), Tasuku Senoo (Tatsuhisa Suzuki), Asuma Mayuzumi (Yuuki Ono), Kaede Okumura (Toshiyuki Toyonaga)] (ep 11)"
+    ],
+    "episodes": 12,
+    "favorites": 555,
+    "genres": [
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/77842.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31559,
+    "members": 115197,
+    "opening_themes": [
+        "\"Strider's High (\u30b9\u30c8\u30e9\u30a4\u30c9)\" by OxT (Masayoshi Oishi x Tom-H@ck)"
+    ],
+    "popularity": 893,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        }
+    ],
+    "rank": 3703,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95862,
+                "name": "Prince of Stride: Galaxy Rush",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95862/Prince_of_Stride__Galaxy_Rush"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5872b7aed8f423c929859f65e6f5fdc4ae5a667a",
+    "score": 7.01,
+    "scored_by": 50692,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "\"Stride\"\u2014an extreme sport that combines parkour, free running, relay, and sprinting\u2014is what made first year high school student Nana Sakurai enroll in Honan Academy, after being captivated by the school's stride team. Sharing the mutual intention of joining the team is fellow first year and stride maniac, Takeru Fujiwara, and together they request to join. Much to their dismay, however, the stride club is no longer active due to lack of members, and they are now operating under the shogi club. In order to revive the stride club, Nana and Takeru recruit first year Riku Yagami\u2014a fast runner who is interested in almost every sport. With this new team, the club now aims high at a new goal: to win the prestigious End of Summer competition, and bring the Honan stride team back to their prime. [Written by MAL Rewrite]",
+    "title": "Prince of Stride: Alternative",
+    "title_english": "Prince of Stride: Alternative",
+    "title_japanese": "\u30d7\u30ea\u30f3\u30b9\u30fb\u30aa\u30d6\u30fb\u30b9\u30c8\u30e9\u30a4\u30c9\u3000\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6",
+    "title_synonyms": [
+        "PuriSuto"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/HqZIIe7tLNA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31559/Prince_of_Stride__Alternative"
+}

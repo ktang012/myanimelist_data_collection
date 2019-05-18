@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2016-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 2,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Jan 9, 2016 to Apr 2, 2016",
+        "to": "2016-04-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Shouwa Genroku Rakugo Shinjuu covers the first five volumes of the manga. The original voice cast of the OVA reprised their roles for the animated TV series.",
+    "broadcast": "Saturdays at 02:25 (JST)",
+    "duration": "26 min per ep",
+    "ending_themes": [
+        "\"Usurahi Shinjuu (\u8584\u3089\u6c37\u5fc3\u4e2d)\" by Megumi Hayashibara (ep 1)",
+        "\"Kawa, Taredoki (\u304b\u306f\u3001\u305f\u308c\u3069\u304d)\" by Kana Shibue (eps 2-9, 11, 13)"
+    ],
+    "episodes": 13,
+    "favorites": 3789,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/77907.jpg",
+    "licensors": [],
+    "mal_id": 28735,
+    "members": 164941,
+    "opening_themes": [
+        "\"Usurahi Shinjuu (\u8584\u3089\u6c37\u5fc3\u4e2d)\" by Megumi Hayashibara (eps 3, 5-8, 10, 13)"
+    ],
+    "popularity": 594,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        }
+    ],
+    "rank": 72,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26704,
+                "name": "Shouwa Genroku Rakugo Shinjuu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26704/Shouwa_Genroku_Rakugo_Shinjuu"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 25801,
+                "name": "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25801/Shouwa_Genroku_Rakugo_Shinjuu__Yotarou_Hourou-hen"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33095,
+                "name": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33095/Shouwa_Genroku_Rakugo_Shinjuu__Sukeroku_Futatabi-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:d92d7eebcbefc7ea228ddf55734c3a493b620045",
+    "score": 8.62,
+    "scored_by": 55108,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Yotarou is a former yakuza member fresh out of prison and fixated on just one thing: rather than return to a life of crime, the young man aspires to take to the stage of Rakugo, a traditional Japanese form of comedic storytelling. Inspired during his incarceration by the performance of distinguished practitioner Yakumo Yuurakutei, he sets his mind on meeting the man who changed his life. After hearing Yotarou's desperate appeal for his mentorship, Yakumo is left with no choice but to accept his very first apprentice. As he eagerly begins his training, Yotarou meets Konatsu, an abrasive young woman who has been under Yakumo's care ever since her beloved father Sukeroku Yuurakutei, another prolific Rakugo performer, passed away. Through her hidden passion, Yotarou is drawn to Sukeroku's unique style of Rakugo despite learning under contrasting techniques. Upon seeing this, old memories and feelings return to Yakumo who reminisces about a much earlier time when he made a promise with his greatest rival. Shouwa Genroku Rakugo Shinjuu is a story set in both the past and present, depicting the art of Rakugo, the relationships it creates, and the lives and hearts of those dedicated to keeping the unique form of storytelling alive. [Written by MAL Rewrite]",
+    "title": "Shouwa Genroku Rakugo Shinjuu",
+    "title_english": "Showa Genroku Rakugo Shinju",
+    "title_japanese": "\u662d\u548c\u5143\u7984\u843d\u8a9e\u5fc3\u4e2d",
+    "title_synonyms": [
+        "Showa and Genroku Era Lover's Suicide Through Rakugo"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/79-t5S8-3Xg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu"
+}

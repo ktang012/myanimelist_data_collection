@@ -1,0 +1,183 @@
+{
+    "aired": {
+        "from": "2011-04-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 2,
+                "month": 10,
+                "year": 2011
+            }
+        },
+        "string": "Apr 17, 2011 to Oct 2, 2011",
+        "to": "2011-10-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ao no Exorcist was licensed by Aniplex and simulcasted in North America. Due to the fact that the source material is on-going, the anime adaption of Ao no Exorcist diverges from it at key points, leading to an anime-exclusive ending.",
+    "broadcast": "Sundays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Take off\" by 2PM (eps 1-12)",
+        "\"Wired Life\" by Meisa Kuroki (eps 13-25)",
+        "\"dedicate\" by Yukio Okumura (Jun Fukuyama) (Rebroadcast)"
+    ],
+    "episodes": 25,
+    "favorites": 14143,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 9919,
+    "members": 989240,
+    "opening_themes": [
+        "\"CORE PRIDE\" by UVERworld (eps 1-12)",
+        "\"IN MY WORLD\" by ROOKiEZ is PUNK'D (eps 13-25)",
+        "\"Trailblazer\" by Rin Okumura (Nobuhiko Okamoto) (Rebroadcast)"
+    ],
+    "popularity": 16,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 914,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13492,
+                "name": "Ao no Exorcist",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13492/Ao_no_Exorcist"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33506,
+                "name": "Ao no Exorcist: Kyoto Fujouou-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33506/Ao_no_Exorcist__Kyoto_Fujouou-hen"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10647,
+                "name": "Ao no Exorcist: Ura Ex",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10647/Ao_no_Exorcist__Ura_Ex"
+            },
+            {
+                "mal_id": 11266,
+                "name": "Ao no Exorcist: Kuro no Iede",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11266/Ao_no_Exorcist__Kuro_no_Iede"
+            },
+            {
+                "mal_id": 11737,
+                "name": "Ao no Exorcist Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11737/Ao_no_Exorcist_Movie"
+            }
+        ]
+    },
+    "request_cache_expiry": 2299,
+    "request_cached": true,
+    "request_hash": "request:anime:ddd0d9f55a2f9b95ff4d891856c33a855974fa3e",
+    "score": 7.79,
+    "scored_by": 589210,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Humans and demons are two sides of the same coin, as are Assiah and Gehenna, their respective worlds. The only way to travel between the realms is by the means of possession, like in ghost stories. However, Satan, the ruler of Gehenna, cannot find a suitable host to possess and therefore, remains imprisoned in his world. In a desperate attempt to conquer Assiah, he sends his son instead, intending for him to eventually grow into a vessel capable of possession by the demon king. Ao no Exorcist follows Rin Okumura who appears to be an ordinary, somewhat troublesome teenager\u2014that is until one day he is ambushed by demons. His world turns upside down when he discovers that he is in fact the very son of Satan and that his demon father wishes for him to return so they can conquer Assiah together. Not wanting to join the king of Gehenna, Rin decides to begin training to become an exorcist so that he can fight to defend Assiah alongside his brother Yukio. [Written by MAL Rewrite]",
+    "title": "Ao no Exorcist",
+    "title_english": "Blue Exorcist",
+    "title_japanese": "\u9752\u306e\u7953\u9b54\u5e2b(\u30a8\u30af\u30bd\u30b7\u30b9\u30c8)",
+    "title_synonyms": [
+        "Ao no Futsumashi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ayLq7BKjQZU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist"
+}

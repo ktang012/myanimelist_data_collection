@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2010-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2010
+            }
+        },
+        "string": "Jan 10, 2010 to Jun 20, 2010",
+        "to": "2010-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Seikon no Qwaser uses content from the first seven volumes of the manga as its source material, but drastically deviates to create an anime-exclusive finale. It was also heavily censored during its initial broadcast due to an excessive amount of sexual content.",
+    "broadcast": "Sundays at 03:28 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Passionate squall\" by Ayumi Fujimura, Aki Toyosaki, Minori Chihara, Aya Hirano and Yoko Hikasa (ep 1-4, 6-12)",
+        "\"Mimei no Inori\" by Minori Chihara (ep 5)",
+        "\"Wishes Hypocrites\" by Ayumi Fujimura, Aki Toyosaki, Minori Chihara, Aya Hirano and Yoko Hikasa (ep 13- 23)",
+        "\"Errand\" by faylan (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 679,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/67771.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 6500,
+    "members": 213391,
+    "opening_themes": [
+        "\"Errand\" by faylan (ep 1-12)",
+        "\"Baptize\" by Yousei Teikoku (ep 13-24)"
+    ],
+    "popularity": 436,
+    "premiered": "Winter 2010",
+    "producers": [
+        {
+            "mal_id": 345,
+            "name": "TAKI Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/345/TAKI_Corporation"
+        }
+    ],
+    "rank": 5226,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3317,
+                "name": "Seikon no Qwaser",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3317/Seikon_no_Qwaser"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10073,
+                "name": "Seikon no Qwaser II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10073/Seikon_no_Qwaser_II"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 8668,
+                "name": "Seikon no Qwaser Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8668/Seikon_no_Qwaser_Picture_Drama"
+            },
+            {
+                "mal_id": 9202,
+                "name": "Seikon no Qwaser: Jotei no Shouzou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9202/Seikon_no_Qwaser__Jotei_no_Shouzou"
+            }
+        ]
+    },
+    "request_cache_expiry": 21466,
+    "request_cached": true,
+    "request_hash": "request:anime:b5b3662e8c5fafdc5db9e5f0b4038eef433ccde3",
+    "score": 6.66,
+    "scored_by": 81542,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 346,
+            "name": "Hoods Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/346/Hoods_Entertainment"
+        }
+    ],
+    "synopsis": "At St. Mihailov Academy, a series of serial murders have taken place with all the victims being young women. Who is this rampant culprit? And which beautiful maiden will fall prey to his evil next? After a horrible day of being harassed by their classmates, the adopted sisters Mafuyu Oribe and Tomo Yamanobe stumble across an injured young man and decide to bring him back to their place to recover. That very night, Mafuyu ends up at the mercy of the infamous serial killer. Strangely, he demands not her life, but instead an icon left behind by Tomo's father. Luckily, Sasha, the mysterious young man that the sisters had taken in, comes to the rescue just in time, helping Mafuyu avoid the same fate as the other victims. Sasha reveals that he is a Qwaser, an individual capable of controlling chemical elements by partaking in Soma, a miraculous essence found within the breasts of women. Capable of manipulating iron, Sasha crafts a giant scythe and slays the serial killer. He enrolls in the academy the next day signalling the beginning of a very \"interesting\" school year. Seikon no Qwaser is an action-heavy story that doesn't shy away from fan-service. Join Sasha and his allies as they fend off the evil that is nearing in.",
+    "title": "Seikon no Qwaser",
+    "title_english": "The Qwaser of Stigmata",
+    "title_japanese": "\u8056\u75d5\u306e\u30af\u30a7\u30a4\u30b5\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/mnG68JyRK-E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6500/Seikon_no_Qwaser"
+}

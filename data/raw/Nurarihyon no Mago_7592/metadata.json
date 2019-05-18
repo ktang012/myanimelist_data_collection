@@ -1,0 +1,179 @@
+{
+    "aired": {
+        "from": "2010-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Jul 6, 2010 to Dec 21, 2010",
+        "to": "2010-12-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Advanced screenings of the first two episodes of Nurarihyon no Mago were held in select TOHO Cinemas on June 13 and 20 of 2010. The full anime aired on Yomiuri TV, Tokyo MX, Chuukyou TV, BS11, Animax, among other stations in Japan.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Sparky\u2606Start\" by Katate\u2606SIZE (eps 1-12)",
+        "\"Symphonic\u2606Dream\" by Katate\u2606SIZE (eps 13-23)",
+        "\"Brilliant\u2606Message\" by Katate\u2606SIZE (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 1177,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75631.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 7592,
+    "members": 179654,
+    "opening_themes": [
+        "\"Fast Forward\" by Monkey Majik (eps 1-12)",
+        "\"Sunshine\" by Monkey Majik (eps 13-24)"
+    ],
+    "popularity": 543,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 245,
+            "name": "Toho",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/245/Toho"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1488,
+            "name": "Hakuhodo DY Media Partners",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+        }
+    ],
+    "rank": 1039,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 5664,
+                "name": "Nurarihyon no Mago",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/5664/Nurarihyon_no_Mago"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10049,
+                "name": "Nurarihyon no Mago: Sennen Makyou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10049/Nurarihyon_no_Mago__Sennen_Makyou"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10886,
+                "name": "Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10886/Nurarihyon_no_Mago__Gekitou_Dai_Futsal_Taikai_Nuragumi_W_Cup"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 9731,
+                "name": "Nurarihyon no Mago Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9731/Nurarihyon_no_Mago_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 34166,
+    "request_cached": true,
+    "request_hash": "request:anime:28e640f585f4e19744d631295794ab7b5752dcac",
+    "score": 7.74,
+    "scored_by": 78857,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Rikuo Nura doesn't want anything to do with evil youkai, and just wants a normal life. Too bad he's a quarter youkai, and Nurarihyon, his grandfather, is insistent that he takes over as head of the Nura Clan. He's able to keep his supernatural secret life hidden from his classmates, as he can only transform into a youkai at night, for six hours at a time. Unfortunately for him, various youkai factions are out to target both his youkai and human friends, and like it or not, he needs to embrace his youkai side. Life is not easy when you're Nurarihyon's grandson.",
+    "title": "Nurarihyon no Mago",
+    "title_english": "Nura: Rise of the Yokai Clan",
+    "title_japanese": "\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b",
+    "title_synonyms": [
+        "The Grandson of Nurarihyon",
+        "Grandchild of Nurarihyon"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ZO5dbUSfSX8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7592/Nurarihyon_no_Mago"
+}

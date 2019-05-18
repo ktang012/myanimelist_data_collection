@@ -1,0 +1,164 @@
+{
+    "aired": {
+        "from": "2016-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 29,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 6, 2016 to Dec 29, 2016",
+        "to": "2016-12-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 21:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"FLIP FLAP FLIP FLAP\" by TO-MAS feat.Chima"
+    ],
+    "episodes": 13,
+    "favorites": 1593,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/82292.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 32979,
+    "members": 123300,
+    "opening_themes": [
+        "\"Serendipity\" by ZAQ"
+    ],
+    "popularity": 827,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 470,
+            "name": "GAGA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/470/GAGA"
+        },
+        {
+            "mal_id": 787,
+            "name": "Happinet Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1386,
+            "name": "Infinite",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+        },
+        {
+            "mal_id": 1581,
+            "name": "RAY",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1581/RAY"
+        }
+    ],
+    "rank": 998,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {},
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:0047c30432dacbe89cb2bac9b8e0f7b75fcdd5eb",
+    "score": 7.75,
+    "scored_by": 46172,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1127,
+            "name": "Studio 3Hz",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+        }
+    ],
+    "synopsis": "Cocona is an average middle schooler living with her grandmother. And she who has yet to decide a goal to strive for, soon met a strange girl named Papika who invites her to an organization called Flip Flap. Dragged along by the energetic stranger, Cocona finds herself in the world of Pure Illusion\u2014a bizarre alternate dimension\u2014helping Papika look for crystal shards. Upon completing their mission, Papika and Cocona are sent to yet another world in Pure Illusion. As a dangerous creature besets them, the girls use their crystals to transform into magical girls: Cocona into Pure Blade, and Papika into Pure Barrier. But as they try to defeat the creature before them, three others with powers from a rival organization enter the fray and slay the creature, taking with them a fragment left behind from its body. Afterward, the girls realize that to stand a chance against their rivals and the creatures in Pure Illusion, they must learn to work together and synchronize their feelings in order to transform more effectively. [Written by MAL Rewrite]",
+    "title": "Flip Flappers",
+    "title_english": "Flip Flappers",
+    "title_japanese": "\u30d5\u30ea\u30c3\u30d7\u30d5\u30e9\u30c3\u30d1\u30fc\u30ba",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Cz65Vy7Wp18?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32979/Flip_Flappers"
+}

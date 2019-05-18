@@ -1,0 +1,230 @@
+{
+    "aired": {
+        "from": "2008-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Apr 6, 2008 to Sep 28, 2008",
+        "to": "2008-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Code Geass: Hangyaku no Lelouch R2 is an original anime series by Sunrise animation studio with original character designs by the all-female Japanese manga artist group CLAMP. Manga and light novels based off the show have been published by Kadokawa Shoten. The show has sold millions of DVDs and Blu-ray volumes and is extremely popular in both Japan and North America. The show is known for its multi-genre appeal and for its diverse cast of characters who face many moral dilemmas over the course of the series.\r\nThe series won: \"The Best TV Animation\" award at the thirteenth Animation Kobe event in 2008, and \"The Most Popular Anime\" award at the Animage\u200a's 30th Annual Anime Grand Prix.",
+    "broadcast": "Sundays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Shiawase Neiro (\uff7c\uff71\uff9c\uff7e\uff88\uff72\uff9b)\" by Orange Range (eps 1-12)",
+        "\"Waga Routashi Aku no Hana (\u308f\u304c\ufa1f\u305f\u3057\u60aa\u306e\u83ef)\" by ALI PROJECT (eps 13-25)"
+    ],
+    "episodes": 25,
+    "favorites": 49211,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/9391.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 2904,
+    "members": 904364,
+    "opening_themes": [
+        "\"02~O-Two~ (02~\uff75\uff70\uff65\uff82\uff70~)\" by Orange Range (eps 1-12)",
+        "\"WORLD END\" by FLOW (eps 13-25)"
+    ],
+    "popularity": 24,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 230,
+            "name": "Bandai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/230/Bandai"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        },
+        {
+            "mal_id": 1488,
+            "name": "Hakuhodo DY Media Partners",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+        }
+    ],
+    "rank": 19,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1528,
+                "name": "Code Geass: Hangyaku no Lelouch",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1528/Code_Geass__Hangyaku_no_Lelouch"
+            },
+            {
+                "mal_id": 107645,
+                "name": "Code Geass: Hangyaku no Lelouch R2",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/107645/Code_Geass__Hangyaku_no_Lelouch_R2"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 34439,
+                "name": "Code Geass: Hangyaku no Lelouch II - Handou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34439/Code_Geass__Hangyaku_no_Lelouch_II_-_Handou"
+            },
+            {
+                "mal_id": 34440,
+                "name": "Code Geass: Hangyaku no Lelouch III - Oudou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34440/Code_Geass__Hangyaku_no_Lelouch_III_-_Oudou"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 1575,
+                "name": "Code Geass: Hangyaku no Lelouch",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34437,
+                "name": "Code Geass: Fukkatsu no Lelouch",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34437/Code_Geass__Fukkatsu_no_Lelouch"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 5163,
+                "name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5163/Code_Geass__Hangyaku_no_Lelouch_R2_Picture_Drama"
+            },
+            {
+                "mal_id": 8728,
+                "name": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8728/Code_Geass__Hangyaku_no_Lelouch_-_Kiseki_no_Birthday_Picture_Drama"
+            },
+            {
+                "mal_id": 9591,
+                "name": "Code Geass: Hangyaku no Lelouch R2 Flash Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9591/Code_Geass__Hangyaku_no_Lelouch_R2_Flash_Specials"
+            },
+            {
+                "mal_id": 33156,
+                "name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33156/Code_Geass__Hangyaku_no_Lelouch_R2_Picture_Drama_-_Last_Moratorium"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 6768,
+                "name": "Code Geass: Hangyaku no Lelouch R2 Special Edition Zero Requiem",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6768/Code_Geass__Hangyaku_no_Lelouch_R2_Special_Edition_Zero_Requiem"
+            }
+        ]
+    },
+    "request_cache_expiry": 23411,
+    "request_cached": true,
+    "request_hash": "request:anime:d0f0c14e2063d77b0c6d0965ddef5e780a1ca66b",
+    "score": 8.94,
+    "scored_by": 611358,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "One year has passed since the Black Rebellion, a failed uprising against the Holy Britannian Empire led by the masked vigilante Zero, who is now missing. At a loss without their revolutionary leader, Area 11's resistance group\u2014the Black Knights\u2014find themselves too powerless to combat the brutality inflicted upon the Elevens by Britannia, which has increased significantly in order to crush any hope of a future revolt. Lelouch Lamperouge, having lost all memory of his double life, is living peacefully alongside his friends as a high school student at Ashford Academy. His former partner C.C., unable to accept this turn of events, takes it upon herself to remind him of his past purpose, hoping that the mastermind Zero will rise once again to finish what he started, in this thrilling conclusion to the series. [Written by MAL Rewrite]",
+    "title": "Code Geass: Hangyaku no Lelouch R2",
+    "title_english": "Code Geass: Lelouch of the Rebellion R2",
+    "title_japanese": "\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9 \u53cd\u9006\u306e\u30eb\u30eb\u30fc\u30b7\u30e5 \u7d9a\u7de8",
+    "title_synonyms": [
+        "Code Geass: Hangyaku no Lelouch 2nd Season",
+        "Code Geass: Hangyaku no Lelouch Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/dpYkVRyLC4o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2"
+}

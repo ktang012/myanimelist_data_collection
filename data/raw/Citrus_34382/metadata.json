@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2018-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 6, 2018 to Mar 24, 2018",
+        "to": "2018-03-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Dear Teardrop\" by Mia REGINA"
+    ],
+    "episodes": 12,
+    "favorites": 1828,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/89985.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34382,
+    "members": 211543,
+    "opening_themes": [
+        "\"Azalea (\u30a2\u30b6\u30ec\u30a2)\" by nano.RIPE"
+    ],
+    "popularity": 438,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 787,
+            "name": "Happinet Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1386,
+            "name": "Infinite",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+        },
+        {
+            "mal_id": 1407,
+            "name": "Children's Playground Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1407/Childrens_Playground_Entertainment"
+        },
+        {
+            "mal_id": 1582,
+            "name": "Ichijinsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        },
+        {
+            "mal_id": 1784,
+            "name": "Crunchyroll SC Anime Fund",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+        }
+    ],
+    "rank": 4621,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 50145,
+                "name": "Citrus",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/50145/Citrus"
+            }
+        ]
+    },
+    "request_cache_expiry": 8859,
+    "request_cached": true,
+    "request_hash": "request:anime:eedee1f7cda4cee3eda20e04165a76bd11d6f978",
+    "score": 6.78,
+    "scored_by": 91852,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 911,
+            "name": "Passione",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/911/Passione"
+        }
+    ],
+    "synopsis": "During the summer of her freshman year of high school, Yuzu Aihara's mother remarried, forcing her to transfer to a new school. To a fashionable socialite like Yuzu, this inconvenient event is just another opportunity to make new friends, fall in love, and finally experience a first kiss. Unfortunately, Yuzu's dreams and style do not conform with her new ultrastrict, all-girls school, filled with obedient shut-ins and overachieving grade-skippers. Her gaudy appearance manages to grab the attention of Mei Aihara, the beautiful and imposing student council president, who immediately proceeds to sensually caress Yuzu's body in an effort to confiscate her cellphone. Thoroughly exhausted from her first day, Yuzu arrives home and discovers a shocking truth\u2014Mei is actually her new step-sister! Though Yuzu initially tries to be friendly with her, Mei's cold shoulder routine forces Yuzu to begin teasing her. But before Yuzu can finish her sentence, Mei forces her to the ground and kisses her, with Yuzu desperately trying to break free. Once done, Mei storms out of the room, leaving Yuzu to ponder the true nature of her first kiss, and the secrets behind the tortured expression in the eyes of her new sister. [Written by MAL Rewrite]",
+    "title": "Citrus",
+    "title_english": "Citrus",
+    "title_japanese": "\u30b7\u30c8\u30e9\u30b9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/33WrHNSoxdY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34382/Citrus"
+}

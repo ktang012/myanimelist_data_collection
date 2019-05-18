@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2016-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Jul 9, 2016 to Oct 1, 2016",
+        "to": "2016-10-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Tenkyou no Alderamin adapts the first 3 novels of Bokuto Uno's light novel series of the same title. It also utilizes content from the 7th novel in the 5th episode.",
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"nameless\" by Kano"
+    ],
+    "episodes": 13,
+    "favorites": 948,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/79531.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 31764,
+    "members": 185897,
+    "opening_themes": [
+        "\"Tenkyou no Alderamin (\u5929\u93e1\u306e\u30a2\u30eb\u30c7\u30e9\u30df\u30f3)\" by Kishida Kyoudan & The Akeboshi Rockets"
+    ],
+    "popularity": 522,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 75,
+            "name": "Imagin",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/75/Imagin"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        }
+    ],
+    "rank": 800,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 55943,
+                "name": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/55943/Nejimaki_Seirei_Senki__Tenkyou_no_Alderamin"
+            }
+        ]
+    },
+    "request_cache_expiry": 4870,
+    "request_cached": true,
+    "request_hash": "request:anime:b75a3a77a522b15d5f8e19a1c46d392f64cec042",
+    "score": 7.86,
+    "scored_by": 92704,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Ikta Solork is a carefree young man who only wants two things in life: a woman on his arm and a place to nap. Unfortunately, his peaceful life is destroyed when war breaks out between the Katjvarna Empire and the neighboring Republic of Kioka. Ikta and his childhood friend, Yatorishino Igsem, join the army as military officers, where they meet the infantryman Matthew Tetojirichi, the sniper Torway Remion, and the medic Haroma Becker on a boat heading for the military exam site. However, after a rogue storm sinks their vessel, the five of them end up in enemy territory near a military outpost. There, they discover that the heir to the Katjvarnan throne, Princess Chamille Kitora Katjvanmaninik, has been taken hostage. The five are able to rescue her, and as a reward, each one of them is granted the title of Imperial Knight\u2014one of the highest honors a soldier can receive. It seems that Ikta will have to put his dream of tranquility on hold, as he must now become the hero he never wanted to be. [Written by MAL Rewrite]",
+    "title": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+    "title_english": "Alderamin on the Sky",
+    "title_japanese": "\u306d\u3058\u5dfb\u304d\u7cbe\u970a\u6226\u8a18 \u5929\u93e1\u306e\u30a2\u30eb\u30c7\u30e9\u30df\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/iP2BySeDyXQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31764/Nejimaki_Seirei_Senki__Tenkyou_no_Alderamin"
+}

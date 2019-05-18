@@ -1,0 +1,203 @@
+{
+    "aired": {
+        "from": "2012-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Oct 9, 2012 to Mar 25, 2013",
+        "to": "2013-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Due to the anime's popularity, the town of Oarai of the Ibaraki prefecture incorporated activities inspired by the series, including live tank demonstrations, into its annual spring festival.\r\nThe Crunchyroll simulcast did not feature a scene with the song \"Katyusha\" in episode 8, due to licensing issues.",
+    "broadcast": "Tuesdays at 01:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"DreamRiser\" by Choucho (ep 1)",
+        "\"Enter Enter MISSION!\" by Ankou Team (\u3042\u3093\u3053\u3046\u30c1\u30fc\u30e0) [Miho Nishizumi (Mai Fuchigami), Saori Takebe (Ai Kayano), Hana Isuzu (Mami Ozaki), Yukari Akiyama (Ikumi Nakagami), and Mako Reizei (Yuka Iguchi)] (eps 2-12)"
+    ],
+    "episodes": 12,
+    "favorites": 3077,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/40969.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 14131,
+    "members": 169515,
+    "opening_themes": [
+        "\"DreamRiser\" by Choucho"
+    ],
+    "popularity": 575,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1099,
+            "name": "Cyclone Graphics",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1099/Cyclone_Graphics"
+        }
+    ],
+    "rank": 1276,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 42223,
+                "name": "Girls & Panzer",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/42223/Girls___Panzer"
+            },
+            {
+                "mal_id": 75945,
+                "name": "Girls & Panzer",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/75945/Girls___Panzer"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 18343,
+                "name": "Girls & Panzer: Fushou Akiyama Yukari no Sensha Kouza",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18343/Girls___Panzer__Fushou_Akiyama_Yukari_no_Sensha_Kouza"
+            },
+            {
+                "mal_id": 23137,
+                "name": "Girls & Panzer Heartful Tank Disc Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23137/Girls___Panzer_Heartful_Tank_Disc_Picture_Drama"
+            },
+            {
+                "mal_id": 32511,
+                "name": "Girls & Panzer: Nihon Senshadou Renmei News",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32511/Girls___Panzer__Nihon_Senshadou_Renmei_News"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18617,
+                "name": "Girls & Panzer Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18617/Girls___Panzer_Movie"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 15811,
+                "name": "Girls & Panzer Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15811/Girls___Panzer_Specials"
+            },
+            {
+                "mal_id": 18619,
+                "name": "Girls & Panzer: Kore ga Hontou no Anzio-sen Desu!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18619/Girls___Panzer__Kore_ga_Hontou_no_Anzio-sen_Desu"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 16199,
+                "name": "Girls & Panzer: Shoukai Shimasu!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16199/Girls___Panzer__Shoukai_Shimasu"
+            },
+            {
+                "mal_id": 33720,
+                "name": "Girls & Panzer Movie: 3-pun Chotto de Wakaru!! Girls & Panzer",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33720/Girls___Panzer_Movie__3-pun_Chotto_de_Wakaru_Girls___Panzer"
+            },
+            {
+                "mal_id": 36783,
+                "name": "Girls & Panzer: Dai 63-kai Senshadou Zenkoku Koukousei Taikai Soushuuhen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36783/Girls___Panzer__Dai_63-kai_Senshadou_Zenkoku_Koukousei_Taikai_Soushuuhen"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c6ea1887876dae04b2e646f14c63763d4e123b81",
+    "score": 7.64,
+    "scored_by": 82183,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 60,
+            "name": "Actas",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/60/Actas"
+        }
+    ],
+    "synopsis": "\"Senshadou\" is a traditional sport using World War II era tanks in elimination-based matches. Widely practiced by women and girls alike, it's advertised as a form of art geared towards making ladies more prominent in culture and appealing to men. Becoming a worldwide phenomenon over time, the influence of senshadou leads to the creation of a world championship which will soon be held in Japan. Miho Nishizumi, who comes from a lineage of well-respected senshadou specialists, is at odds with the sport after a traumatic event led to her retirement and eventually a rift to form between her and her family. To steer clear of the practice as much as possible, she transfers to Ooarai Girls High School where the senshadou program has been abolished. However, with the news of the upcoming championships, the school revives their tankery program, and Miho is pushed into joining. Now, with the aid of some new friends, she must overcome her past and once again take command of a squadron of tanks in an effort to save her school from closure, all while proving to her family that the Nishizumi-style of senshadou is not solely about victory. [Written by MAL Rewrite]",
+    "title": "Girls & Panzer",
+    "title_english": "Girls & Panzer",
+    "title_japanese": "\u30ac\u30fc\u30eb\u30ba&\u30d1\u30f3\u30c4\u30a1\u30fc",
+    "title_synonyms": [
+        "Garupan",
+        "Girls und Panzer"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/53UXAffRPkg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14131/Girls___Panzer"
+}

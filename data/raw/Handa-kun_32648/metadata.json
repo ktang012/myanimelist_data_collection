@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2016-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 8, 2016 to Sep 23, 2016",
+        "to": "2016-09-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"HIDE-AND-SEEK\" by Kenichi Suzumura"
+    ],
+    "episodes": 12,
+    "favorites": 441,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/80752.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32648,
+    "members": 139245,
+    "opening_themes": [
+        "\"The LiBERTY\" by Fo'xTails"
+    ],
+    "popularity": 725,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+            "mal_id": 1283,
+            "name": "TC Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1283/TC_Entertainment"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1589,
+            "name": "NichiNare",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+        }
+    ],
+    "rank": 1831,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 60801,
+                "name": "Handa-kun",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/60801/Handa-kun"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 22789,
+                "name": "Barakamon",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22789/Barakamon"
+            }
+        ]
+    },
+    "request_cache_expiry": 34676,
+    "request_cached": true,
+    "request_hash": "request:anime:7a6868a5184d15ce944c8b5b2d1655959e82dd44",
+    "score": 7.46,
+    "scored_by": 59977,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "Hated by everyone around him, Sei Handa goes about his high school life regarded as an outcast\u2014or at least that's what he believes. In reality, Sei is the most popular student on campus, revered by all for his incomparable calligraphy skills, good looks, and cool personality. However, due an endless series of misunderstandings, Handa perceives the worship he receives from his legions of fans as bullying, leading the school's idol to shut himself off from the rest of his classmates. But distancing himself from his peers doesn't deter them from adoring him; in fact, his attempts at drawing attention away from himself often end up unintentionally converting even the most skeptical of students into believers. Fashion models, shut-in delinquents, obsessive fangirls, and more\u2014none can stand against the brilliance that is Sei Handa. [Written by MAL Rewrite]",
+    "title": "Handa-kun",
+    "title_english": "Handa-kun",
+    "title_japanese": "\u306f\u3093\u3060\u304f\u3093",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ytcDOlydU_4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32648/Handa-kun"
+}

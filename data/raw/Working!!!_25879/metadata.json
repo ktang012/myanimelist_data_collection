@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2015-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 5, 2015 to Sep 27, 2015",
+        "to": "2015-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at screenings at Sofmap, Toranoana, Animate, and Gamers stores throughout Japan on June 13, 2015. Regular broadcasting began on July 5, 2015.",
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"NOW!!!GAMBLE\" by Popura Taneshima (Kana Asumi), Mahiru Inami (Saki Fujita), Yachiyo Todoroki (Eri Kitamura) (ep 1)",
+        "\"Matsuge ni LOCK (\u307e\u3064\u6bdb\u306bLOCK)\" by Souta Takanashi (Jun Fukuyama), Jun Satou (Daisuke Ono), Hiroomi Souma (Hiroshi Kamiya) (eps 2-13)"
+    ],
+    "episodes": 13,
+    "favorites": 781,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/73886.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 25879,
+    "members": 145745,
+    "opening_themes": [
+        "\"NOW!!!GAMBLE\" by Popura Taneshima (Kana Asumi), Mahiru Inami (Saki Fujita), Yachiyo Todoroki (Eri Kitamura) (eps 2-13)"
+    ],
+    "popularity": 694,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+    ],
+    "rank": 425,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3044,
+                "name": "Working!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3044/Working"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10521,
+                "name": "Working'!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10521/Working"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31715,
+                "name": "Working!!!: Lord of the Takanashi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31715/Working__Lord_of_the_Takanashi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:469d1648c4a68c8186213476fc0c14be84476f79",
+    "score": 8.12,
+    "scored_by": 76903,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "As the stories of those connected to Wagnaria come to a close, only one thing is certain: the workplace is about to get crazier than ever before! Whether it be incredibly awkward romances, relentless searches for lost relatives, or even uncomfortable family reunions, lover of all things cute and tiny Souta Takanashi and his motley crew have plenty on their plates. With more Napoleon complexes, androphobia, and katana-wielding than you can shake a frying pan at, Working!!! delivers a final serving of the staff's hilarious misadventures working at everybody's favorite family restaurant. [Written by MAL Rewrite]",
+    "title": "Working!!!",
+    "title_english": "Wagnaria!!3",
+    "title_japanese": "\u30ef\u30fc\u30ad\u30f3\u30b0!!!",
+    "title_synonyms": [
+        "Working!! 3rd Season",
+        "Working!! Third Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/_dA2sN7FPJs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/25879/Working"
+}

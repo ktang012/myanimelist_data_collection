@@ -1,0 +1,153 @@
+{
+    "aired": {
+        "from": "2017-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 6, 2017 to Dec 22, 2017",
+        "to": "2017-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "At a stage event at the Dengeki Bunko Festival 2017, it was announced that this new adaptation will prioritize the fan favorite stories. These were selected from a \"favorite country\" poll carried out among light novel readers in 2015.\r\n(Source: Crunchyroll)",
+    "broadcast": "Fridays at 22:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Satoutama no Tsuki (\u7802\u7cd6\u7389\u306e\u6708)\" by Nagi Yanagi"
+    ],
+    "episodes": 12,
+    "favorites": 534,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/87235.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35079,
+    "members": 105804,
+    "opening_themes": [
+        "\"here and there\" by Nagi Yanagi"
+    ],
+    "popularity": 960,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1444,
+            "name": "Egg Firm",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+        },
+        {
+            "mal_id": 1784,
+            "name": "Crunchyroll SC Anime Fund",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+        }
+    ],
+    "rank": 1358,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 399,
+                "name": "Kino no Tabi: The Beautiful World",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/399/Kino_no_Tabi__The_Beautiful_World"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 486,
+                "name": "Kino no Tabi: The Beautiful World",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 38179,
+                "name": "Kino no Tabi: The Beautiful World - The Animated Series - Haikyo no Kuni - On Your Way",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38179/Kino_no_Tabi__The_Beautiful_World_-_The_Animated_Series_-_Haikyo_no_Kuni_-_On_Your_Way"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2be6bed8cbeab17cd3a9eb6bff3312e36dfc47ca",
+    "score": 7.61,
+    "scored_by": 40359,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "When 15-year-old Kino is feeling weighed down by heavy thoughts, one thing always manages to cheer her up: traveling. Nothing fills her heart with joy like exploring the beautiful, wonderful world around her and the fascinating ways people find to live. However, Kino is not as helpless as her cute appearance and courteous demeanor suggest. Armed with \"Cannon\" and \"Woodsman,\" her trusted handguns, Kino isn\u2019t afraid to kill anyone who would dare to get in her way. Always by her side is her best friend and loyal companion Hermes, a sentient motorcycle, who supports Kino through the sorrows and hardships of their journey. Together, they travel the vast countryside with the shared goal of always moving forward, and a single rule: never stay in one country for more than three days. As Kino and Hermes encounter new people and learn the rules of their civilizations, they grow and find out more about their own values and virtues. But as Kino slowly discovers the world around her, she also finds herself facing dangers that linger within the vast unknown. [Written by MAL Rewrite]",
+    "title": "Kino no Tabi: The Beautiful World - The Animated Series",
+    "title_english": "Kino's Journey -the Beautiful World- the Animated Series",
+    "title_japanese": "\u30ad\u30ce\u306e\u65c5 -the Beautiful World- the Animated Series",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ij21njEpveg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35079/Kino_no_Tabi__The_Beautiful_World_-_The_Animated_Series"
+}

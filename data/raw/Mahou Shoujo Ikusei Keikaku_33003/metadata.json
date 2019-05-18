@@ -1,0 +1,169 @@
+{
+    "aired": {
+        "from": "2016-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 2, 2016 to Dec 18, 2016",
+        "to": "2016-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"DREAMCATCHER\" by nano"
+    ],
+    "episodes": 12,
+    "favorites": 499,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/81087.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33003,
+    "members": 102410,
+    "opening_themes": [
+        "\"Sakebe (\u53eb\u3079)\" by Manami Numakura"
+    ],
+    "popularity": 985,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 619,
+            "name": "Cospa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/619/Cospa"
+        },
+        {
+            "mal_id": 882,
+            "name": "Toranoana",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/882/Toranoana"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1449,
+            "name": "Animatic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+        },
+        {
+            "mal_id": 1539,
+            "name": "Highlights Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1539/Highlights_Entertainment"
+        }
+    ],
+    "rank": 3393,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 72353,
+                "name": "Mahou Shoujo Ikusei Keikaku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/72353/Mahou_Shoujo_Ikusei_Keikaku"
+            }
+        ]
+    },
+    "request_cache_expiry": 6536,
+    "request_cached": true,
+    "request_hash": "request:anime:1e0655015c682adc16feadc42fc2312b31fa51b0",
+    "score": 7.09,
+    "scored_by": 41855,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "For many individuals in N-City, playing the popular social role-playing game Magical Girl Raising Project is as close as they could come to being a real magical girl. However, for some rare players, that dream can become a reality. One such girl is Koyuki Himekawa, who receives a notification one night that she has been selected to become a magical girl, her in-game avatar Snow White. As Koyuki and other chosen players in the city begin helping those in need, they all receive yet another notification: the admins have decided that they want to reduce the number of magical girls. Whoever collects the least amount of Magical Candies\u2014which are awarded for their magical girl activities\u2014in their competition each week will lose their powers. But when a real-world tragedy happens to the first player that drops out, they are shown the repercussions of losing their abilities. As more participants inevitably lose the competition and more twisted rules are added, the girls soon realize that their \"contest\" is actually a desperate fight for survival. [Written by MAL Rewrite]",
+    "title": "Mahou Shoujo Ikusei Keikaku",
+    "title_english": "Magical Girl Raising Project",
+    "title_japanese": "\u9b54\u6cd5\u5c11\u5973\u80b2\u6210\u8a08\u753b",
+    "title_synonyms": [
+        "MahouIku"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/YRC9_qbrqAk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33003/Mahou_Shoujo_Ikusei_Keikaku"
+}

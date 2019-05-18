@@ -1,0 +1,144 @@
+{
+    "aired": {
+        "from": "2018-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 7, 2018 to Mar 25, 2018",
+        "to": "2018-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Oshiete yo (\u304a\u3057\u3048\u3066\u30e7)\" by Hyorotto Danshi (\u3072\u3087\u308d\u3063\u3068\u7537\u5b50) (Koutarou Nishiyama & Yuuichirou Umehara)"
+    ],
+    "episodes": 12,
+    "favorites": 624,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/89978.jpg",
+    "licensors": [],
+    "mal_id": 35222,
+    "members": 78591,
+    "opening_themes": [
+        "\"Endless happy world\" by Daisuke Ono"
+    ],
+    "popularity": 1246,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 1121,
+            "name": "Banpresto",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1121/Banpresto"
+        },
+        {
+            "mal_id": 1800,
+            "name": "Marui Group",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+        }
+    ],
+    "rank": 690,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 16922,
+                "name": "Gakuen Babysitters",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16922/Gakuen_Babysitters"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37959,
+                "name": "Gakuen Babysitters Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37959/Gakuen_Babysitters_Special"
+            }
+        ]
+    },
+    "request_cache_expiry": 25180,
+    "request_cached": true,
+    "request_hash": "request:anime:7e34aa925a3dcba63001c8c6f1d302dffe2d9a25",
+    "score": 7.91,
+    "scored_by": 34121,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "After losing both parents in a fatal plane crash, teenager Ryuuichi Kashima must adjust to his new life as the guardian of his younger brother Kotarou. Although Ryuuichi is able to maintain a friendly and kindhearted demeanor, Kotarou is a reserved toddler still too young to understand the reality of the situation. At their parents' funeral, they are approached by Youko Morinomiya, the stern chairman of an elite academy, who decides to take them under her care. However, there is one condition Ryuuichi must fulfill in exchange for a roof over their heads and enrolment in the school\u2014he must become the school's babysitter. In an effort to support the female teachers at the academy, a babysitter's club was established to look after their infant children; unfortunately, the club is severely short-staffed, so now not only is Ryuuichi responsible for his little brother, but also a handful of toddlers who possess dynamic personalities. [Written by MAL Rewrite]",
+    "title": "Gakuen Babysitters",
+    "title_english": "School Babysitters",
+    "title_japanese": "\u5b66\u5712\u30d9\u30d3\u30fc\u30b7\u30c3\u30bf\u30fc\u30ba",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/5boy-B9STZA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35222/Gakuen_Babysitters"
+}

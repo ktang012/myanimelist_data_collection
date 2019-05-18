@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2015-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 4, 2015 to Dec 20, 2015",
+        "to": "2015-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episodes 1 and 2 were previewed at a screening at TOHO Cinemas Shinjuku on October 3, 2015. Regular broadcasting began on October 4, 2015.",
+    "broadcast": "Sundays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Oshiete Blue Sky (\u304a\u3057\u3048\u3066\u30d6\u30eb\u30fc\u30b9\u30ab\u30a4)\" by Ayaka Ohashi (eps 1-4)",
+        "\"evolve\" by TRUE (ep 5)",
+        "\"Hadashi no Mama demo Kowakunai (\u88f8\u8db3\u306e\u307e\u307e\u3067\u3082\u3053\u308f\u304f\u306a\u3044)\" by Ayaka Ohashi (ep 6-8)",
+        "\"Tsuioku no Kanata (\u8ffd\u61b6\u306e\u304b\u306a\u305f)\" by fh\u00e1na (ep 9)",
+        "\"Hitotsu ni Naritai (\u30d2\u30c8\u30c4\u30cb\u30ca\u30ea\u30bf\u30a4)\" by Ayaka Ohashi (eps 10-12)"
+    ],
+    "episodes": 12,
+    "favorites": 87,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/76111.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 31318,
+    "members": 87366,
+    "opening_themes": [
+        "\"Comet Lucifer: The Seed and the Sower (\u30b3\u30e1\u30c3\u30c8\u30eb\u30b7\u30d5\u30a1\u30fc \uff5eThe Seed and the Sower\uff5e)\" by fh\u00e1na"
+    ],
+    "popularity": 1116,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1516,
+            "name": "Sony PCL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+        }
+    ],
+    "rank": 8202,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Side story": [
+            {
+                "mal_id": 31827,
+                "name": "Comet Lucifer: Garden Indigo no Shasou kara",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31827/Comet_Lucifer__Garden_Indigo_no_Shasou_kara"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6266d4169b52a6876d864ed9255c9c70944c3c78",
+    "score": 5.94,
+    "scored_by": 33956,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "In the world of Gift, the bowels of the planet hide a highly sought after crystalline substance known as Giftium. A young boy on Gift named Sougo Amagi inherited his interest in Giftium from his mother, a researcher. As an inhabitant of Garden Indigo, a small and prosperous miner's town, Sougo has many opportunities to forage and collect rare crystals that can only be found there. However, the most exciting treasure that Sougo discovers is not a crystal, but a person. After being pulled into a school quarrel, he plummets into the deep caverns of an old mine. There, in the abysmal depths of the earth, Felia\u2014an enigmatic girl with red eyes and blue hair\u2014emerges from a large crystal. Through this strange first encounter, bonds of friendship are formed between Felia and Sougo. But Felia is being pursued by a secret organization that aims to use her powers for their own benefit, and Sougo and his friends must help her, all while discovering the true nature of this girl from the crystal. [Written by MAL Rewrite]",
+    "title": "Comet Lucifer",
+    "title_english": "Comet Lucifer",
+    "title_japanese": "\u30b3\u30e1\u30c3\u30c8\u30fb\u30eb\u30b7\u30d5\u30a1\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ca_OPhc5P3Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31318/Comet_Lucifer"
+}

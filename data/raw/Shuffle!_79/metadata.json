@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2005-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2005
+            },
+            "to": {
+                "day": 6,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "Jul 8, 2005 to Jan 6, 2006",
+        "to": "2006-01-06T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Innocence\" by Hashimoto Miyuki"
+    ],
+    "episodes": 24,
+    "favorites": 1520,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/19622.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 79,
+    "members": 207478,
+    "opening_themes": [
+        "\"You\" by Yuria"
+    ],
+    "popularity": 454,
+    "premiered": "Summer 2005",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        }
+    ],
+    "rank": 2929,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1788,
+                "name": "Shuffle!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1788/Shuffle"
+            },
+            {
+                "mal_id": 86279,
+                "name": "Shuffle!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/86279/Shuffle"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 7396,
+                "name": "Shuffle! Prologue",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7396/Shuffle_Prologue"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 1836,
+                "name": "Shuffle! Memories",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1836/Shuffle_Memories"
+            }
+        ]
+    },
+    "request_cache_expiry": 35027,
+    "request_cached": true,
+    "request_hash": "request:anime:e7bf0c907bb5b445111ad5a4498bb2acd2fe5036",
+    "score": 7.2,
+    "scored_by": 102793,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        },
+        {
+            "mal_id": 163,
+            "name": "Asread",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/163/Asread"
+        }
+    ],
+    "synopsis": "In present times, Gods and Demons coexist together with Humans after the door between each of these worlds had opened. Tsuchimi Rin is a normal young high school student attending Verbena Academy, spending his days living peacefully with his childhood friend Kaede. Unexpectedly, one day the King of Gods, the King of Demons and their families move into be Rin's next door neighbors. Apparently the daughter of the Gods, Sia, and the daughter of the demons, Nerine, are both deeply in love with Rin after having met him in the past. Along with his playful friendship with upperclassmen Asa and his encounter with the silent but cute Primula, Rin has much on his hands dealing with the affections of each of these girls. Based on the eroge by Navel.",
+    "title": "Shuffle!",
+    "title_english": "Shuffle!",
+    "title_japanese": "SHUFFLE! (\u30b7\u30e3\u30c3\u30d5\u30eb!)",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/icC2xhab2XE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/79/Shuffle"
+}

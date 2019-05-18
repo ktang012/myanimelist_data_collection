@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2016-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Apr 5, 2016 to Jun 21, 2016",
+        "to": "2016-06-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The series was awarded the 2016 Nogizaka46 Award (a Monthly Newtype Joint Special Award).",
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Double\" by MAGIC OF LiFE"
+    ],
+    "episodes": 12,
+    "favorites": 489,
+    "genres": [
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/77523.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 31405,
+    "members": 150695,
+    "opening_themes": [
+        "\"Reason Triangle\" by QUADRANGLE"
+    ],
+    "popularity": 657,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1345,
+            "name": "Sammy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        }
+    ],
+    "rank": 3294,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95936,
+                "name": "Joker Game: The Animation",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95936/Joker_Game__The_Animation"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33129,
+                "name": "Joker Game: Kuroneko Yoru no Bouken",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33129/Joker_Game__Kuroneko_Yoru_no_Bouken"
+            }
+        ]
+    },
+    "request_cache_expiry": 32436,
+    "request_cached": true,
+    "request_hash": "request:anime:0b6648a36915cc353659b0da7e9e1d3373d4bec4",
+    "score": 7.11,
+    "scored_by": 60838,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "With World War II right around the corner, intelligence on other countries' social and economic situation has become a valuable asset. As a result, Japan has established a new spy organization known as the \"D Agency\" to obtain this weapon. Under the command of Lieutenant Colonel Yuuki, eight agents have been assigned to infiltrate and observe some of the most powerful countries, reporting on any developments associated with the war. In order to carry out these dangerous tasks, these men have trained their bodies to survive in extreme conditions and studied numerous fields such as communications and languages. However, their greatest strength lies in their ability to manipulate people in order to obtain the information necessary to give their nation the upper hand. [Written by MAL Rewrite]",
+    "title": "Joker Game",
+    "title_english": "Joker Game",
+    "title_japanese": "\u30b8\u30e7\u30fc\u30ab\u30fc\u30fb\u30b2\u30fc\u30e0",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/0G7YW3XcUaA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31405/Joker_Game"
+}

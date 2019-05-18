@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2013-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 16,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 12, 2013 to Mar 16, 2013",
+        "to": "2013-03-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Mondaiji-tachi ga Isekai Kara Kuru Sou Desu yo? was simulcast by Crunchyroll and Anime on Demand. It adapted the first 2 volumes of the light novel with the same name.",
+    "broadcast": "Saturdays at 01:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Black \u2020 White\" by Iori Nomizu (ep 1)",
+        "\"To Be Continued?\" by Kaori Sadohara (eps 2-9)",
+        "\"Boku-tachi no Seiza (\u307c\u304f\u305f\u3061\u306e\u661f\u5ea7)\" by Kaori Sadohara (ep 10)"
+    ],
+    "episodes": 10,
+    "favorites": 3475,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/43369.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 15315,
+    "members": 356636,
+    "opening_themes": [
+        "\"Black \u2020 White\" by Iori Nomizu (eps 2-10)"
+    ],
+    "popularity": 210,
+    "premiered": "Winter 2013",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 1036,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 45855,
+                "name": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/45855/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_desu_yo"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16444,
+                "name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16444/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_Desu_yo__Onsen_Manyuuki"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:08b9a210500626375640ea159223b95091a91d11",
+    "score": 7.74,
+    "scored_by": 191680,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "Izayoi Sakamaki, Asuka Kudou, and You Kasukabe are extraordinary teenagers who are blessed with psychic powers but completely fed up with their disproportionately mundane lives\u2014until, unexpectedly, each of them receives a strange envelope containing an invitation to a mysterious place known as Little Garden. Inexplicably dropped into a vast new world, the trio is greeted by Kurousagi, who explains that they have been given a once-in-a-lifetime chance to participate in special high-stakes games using their abilities. In order to take part, however, they must first join a community. Learning that Kurousagi's community \"No Names\" has lost its official status and bountiful land due to their defeat at the hands of a demon lord, the group sets off to help reclaim their new home's dignity, eager to protect its residents and explore the excitement that Little Garden has to offer. [Written by MAL Rewrite]",
+    "title": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+    "title_english": "Problem children are coming from another world, aren't they?",
+    "title_japanese": "\u554f\u984c\u5150\u305f\u3061\u304c\u7570\u4e16\u754c\u304b\u3089\u6765\u308b\u305d\u3046\u3067\u3059\u3088?",
+    "title_synonyms": [
+        "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/yDkUcijfoFc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15315/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_Desu_yo"
+}

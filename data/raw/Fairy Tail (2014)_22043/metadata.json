@@ -1,0 +1,192 @@
+{
+    "aired": {
+        "from": "2014-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Apr 5, 2014 to Mar 26, 2016",
+        "to": "2016-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 10:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kimi to Kare to Boku to Kanojo to (\u541b\u3068\u5f7c\u3068\u50d5\u3068\u5f7c\u5973\u3068)\" by BREATHE (eps 1-13)",
+        "\"Kokoro no Kagi (\u5fc3\u306e\u9375)\" by May J. (eps 14-28)",
+        "\"Kimi no Mirai (\u30ad\u30df\u30ce\u30df\u30e9\u30a4)\" by ROOT FIVE (eps 29-39)",
+        "\"Don't let me down\" by Mariya Nishiuchi (eps 40-51)",
+        "\"Never ever\" by TOKYO GIRLS' STYLE (\u6771\u4eac\u5973\u5b50\u6d41) (eps 52-64)",
+        "\"FOREVER HERE\" by Yoko Ishida (eps 65-77)",
+        "\"Azayaka na Tabiji (\u9bae\u3084\u304b\u306a\u65c5\u8def)\" by Megumi Mori (eps 78-90)",
+        "\"Landscape\" by SOLIDEMO (eps 91-101)",
+        "\"MASAYUME CHASING\" by BoA (ep 102)"
+    ],
+    "episodes": 102,
+    "favorites": 10505,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/60551.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 22043,
+    "members": 480995,
+    "opening_themes": [
+        "\"MASAYUME CHASING\" by BoA (eps 1-13)",
+        "\"STRIKE BACK\" by BACK-ON (eps 14-28)",
+        "\"Mysterious Magic\" by Do As Infinity (eps 29-39)",
+        "\"BREAK OUT\" by V6 (eps 40-51)",
+        "\"Yume-iro Graffiti (\u30e6\u30e1\u30a4\u30ed\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3)\" by Tackey & Tsubasa (eps 52-64)",
+        "\"NEVER-END TALE\" by Tatsuyuki Kobayashi and Konomi Suzuki (eps 65-77)",
+        "\"Believe In Myself\" by EDGE of LIFE (eps 78-90)",
+        "\"Ashita wo Narase (\u660e\u65e5\u3092\u9cf4\u3089\u305b)\" by Kavka Shishido (eps 91-102)"
+    ],
+    "popularity": 114,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        }
+    ],
+    "rank": 482,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 598,
+                "name": "Fairy Tail",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+            },
+            {
+                "mal_id": 69903,
+                "name": "Fairy Tail Zer\u00f8",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/69903/Fairy_Tail_Zer\u00f8"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 30778,
+                "name": "Fairy Tail Movie 2: Dragon Cry",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30778/Fairy_Tail_Movie_2__Dragon_Cry"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 6702,
+                "name": "Fairy Tail",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35972,
+                "name": "Fairy Tail: Final Series",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32930,
+                "name": "Fairy Tail OVA (2016)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32930/Fairy_Tail_OVA_2016"
+            }
+        ]
+    },
+    "request_cache_expiry": 24614,
+    "request_cached": true,
+    "request_hash": "request:anime:29e6fd4c83183c8ee1cb8c2f8843bb40cc4a2f36",
+    "score": 8.07,
+    "scored_by": 227394,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 397,
+            "name": "Bridge",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/397/Bridge"
+        }
+    ],
+    "synopsis": "The Grand Magic Games reaches its climax following Natsu Dragneel and Gray Fullbuster's stunning victory over Sting Eucliffe and Rogue Cheney of the Sabertooth guild. This success pushes the Fairy Tail guild closer to being crowned the overall champions, but obtaining victory isn't the only challenge they face. A mystery still surrounds a hooded stranger and the ominous Eclipse Gate, leaving more questions than answers. More crazy adventures are on the horizon for Fairy Tail as their destructive antics and joyful rowdiness continue unabated. Their greatest trial is quickly approaching, but united as a family, the guild will always be ready to face any threat that comes their way. [Written by MAL Rewrite]",
+    "title": "Fairy Tail (2014)",
+    "title_english": "Fairy Tail Series 2",
+    "title_japanese": "FAIRY TAIL\uff08\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb\uff09",
+    "title_synonyms": [
+        "Fairy Tail Season 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/NFATJgQM3pk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22043/Fairy_Tail_2014"
+}

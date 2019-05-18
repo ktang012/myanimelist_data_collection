@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2013-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 7, 2013 to Sep 22, 2013",
+        "to": "2013-09-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in United Cinema Toyosu, Tokyo on June 29, 2013. Regular broadcasting began on July 7, 2013.\r\nThe Blu-ray and DVD Director's Cut includes an extra 3 minutes per episode.",
+    "broadcast": "Sundays at 20:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Houteishiki wa Kotaenai (\u65b9\u7a0b\u5f0f\u306f\u7b54\u3048\u306a\u3044)\" by Occult Kenkyuubu Girls (Yoko Hikasa, Shizuka Itou, Azumi Asakura, Ayana Taketatsu) (eps 1-6)",
+        "\"Lovely \u2665 Devil (\u3089\u3076\u308a\u3043\u2665\u3067\u3073\u308b)\" by Occult Kenkyuubu Girls (Yoko Hikasa, Shizuka Itou, Azumi Asakura, Ayana Taketatsu, Risa Taneda, Ayane Sakura) (eps 7-12)"
+    ],
+    "episodes": 12,
+    "favorites": 3927,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/47729.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 15451,
+    "members": 467467,
+    "opening_themes": [
+        "\"Sympathy\" by Larval Stage Planning (eps 1-6)",
+        "\"Gekijouron (\u6fc0\u60c5\u8ad6)\" by ZAQ (eps 7-12)"
+    ],
+    "popularity": 123,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1664,
+            "name": "Fujimi Shobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        }
+    ],
+    "rank": 1056,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25409,
+                "name": "High School DxD",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25409/High_School_DxD"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 12729,
+                "name": "High School DxD OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12729/High_School_DxD_OVA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30300,
+                "name": "High School DxD New: Oppai, Tsutsumimasu!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30300/High_School_DxD_New__Oppai_Tsutsumimasu"
+            }
+        ]
+    },
+    "request_cache_expiry": 16815,
+    "request_cached": true,
+    "request_hash": "request:anime:9a87b9e107271f920d20812b1ba864c7dbb26079",
+    "score": 7.73,
+    "scored_by": 298306,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 120,
+            "name": "TNK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ],
+    "synopsis": "The misadventures of Issei Hyoudou, high school pervert and aspiring Harem King, continue on in High School DxD New. As the members of the Occult Research Club carry out their regular activities, it becomes increasingly obvious that there is something wrong with their Knight, the usually composed and alert Yuuto Kiba. Soon, Issei learns of Kiba's dark, bloody past and its connection to the mysterious Holy Swords. Once the subject of a cruel experiment, Kiba now seeks revenge on all those who wronged him. With the return of an old enemy, as well as the appearance of two new, Holy Sword-wielding beauties, it isn't long before Issei and his Devil comrades are plunged into a twisted plot once more. [Written by MAL Rewrite]",
+    "title": "High School DxD New",
+    "title_english": "High School DxD New",
+    "title_japanese": "\u30cf\u30a4\u30b9\u30af\u30fc\u30ebD\u00d7D NEW",
+    "title_synonyms": [
+        "High School DxD Dai 2-ki",
+        "High School DxD 2nd Season",
+        "High School DxD Second Season",
+        "Highschool DxD 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/VzMvEXZbsso?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15451/High_School_DxD_New"
+}

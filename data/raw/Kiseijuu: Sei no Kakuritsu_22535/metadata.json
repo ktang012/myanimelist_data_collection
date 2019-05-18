@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2014-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 9, 2014 to Mar 26, 2015",
+        "to": "2015-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The anime was simulcast by Crunchyroll outside of Asia.\r\nAside from the manga and anime, the series also has two live-action film adaptations.\r\nThe Chinese Ministry of Culture blacklisted Kiseijuu: Sei no Kakuritsu as well as 37 other works on June 9, 2015.",
+    "broadcast": "Thursdays at 01:29 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"IT'S THE RIGHT TIME\" by Daichi Miura (\u4e09\u6d66 \u5927\u77e5)"
+    ],
+    "episodes": 24,
+    "favorites": 18910,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 22535,
+    "members": 805232,
+    "opening_themes": [
+        "\"Let Me Hear\" by Fear, and Loathing in Las Vegas (eps 1-23)"
+    ],
+    "popularity": 45,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+            "mal_id": 1423,
+            "name": "Forecast Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1423/Forecast_Communications"
+        }
+    ],
+    "rank": 107,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 401,
+                "name": "Kiseijuu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/401/Kiseijuu"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4874d23bdd1e7eb7dc9a7437e1a4433bd4efdeeb",
+    "score": 8.5,
+    "scored_by": 483874,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey. Sixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable to relocate, the parasite, now named Migi, has no choice but to rely on Shinichi in order to stay alive. Thus, the pair is forced into an uneasy coexistence and must defend themselves from hostile parasites that hope to eradicate this new threat to their species. [Written by MAL Rewrite]",
+    "title": "Kiseijuu: Sei no Kakuritsu",
+    "title_english": "Parasyte -the maxim-",
+    "title_japanese": "\u5bc4\u751f\u7363 \u30bb\u30a4\u306e\u683c\u7387",
+    "title_synonyms": [
+        "Parasite",
+        "Parasitic Beasts",
+        "Parasyte"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/9Oe9umzw1Gc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu"
+}

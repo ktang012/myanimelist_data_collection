@@ -1,0 +1,126 @@
+{
+    "aired": {
+        "from": "2015-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 8, 2015 to Dec 24, 2015",
+        "to": "2015-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Taimadou Gakuen 35 Shiken Shoutai adapts the first 5 novels of Touki Yanagimi's light novel series of the same name, as well as content from the Another Mission side story series.",
+    "broadcast": "Thursdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Calling my Twilight\" by Kanako Itou"
+    ],
+    "episodes": 12,
+    "favorites": 346,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/76211.jpg",
+    "licensors": [],
+    "mal_id": 24133,
+    "members": 177341,
+    "opening_themes": [
+        "\"Embrace Blade\" by Afilia Saga (eps 2-)"
+    ],
+    "popularity": 549,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        }
+    ],
+    "rank": 3636,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 51227,
+                "name": "Taimadou Gakuen 35 Shiken Shoutai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/51227/Taimadou_Gakuen_35_Shiken_Shoutai"
+            }
+        ]
+    },
+    "request_cache_expiry": 25781,
+    "request_cached": true,
+    "request_hash": "request:anime:fb35a6251b014f1e481ee8e8ce9d7e285c86e62d",
+    "score": 7.03,
+    "scored_by": 85317,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "In a world plagued by magical dangers and threats, there exist special warriors\u2014known as Inquisitors\u2014who are tasked with non-violently preventing these threats and nefarious actions. The Anti-Magic Academy is a specialized school built to educate and train these Inquisitors, which splits its students into small squads in order to train them to work together. Among these talented squads is the 35th Test Platoon, also known as the \"Small Fry Platoon\" due to its low ranking and incompetent members. However, everything changes when Ouka Ootori, a powerful yet rebellious former Inquisitor, is forced into joining due to her tendency to break rules and committing a serious violation: the killing of a witch. Tempers flare upon her arrival, as she clashes with their clumsy captain Takeru Kusanagi and argues with the rest of the squad over her views on witches. This eclectic group has a long way to go if they wish to succeed and climb the ranks at the Anti-Magic Academy: they must first set aside their differences and come to work together as a team. [Written by MAL Rewrite]",
+    "title": "Taimadou Gakuen 35 Shiken Shoutai",
+    "title_english": "AntiMagic Academy 35th Test Platoon",
+    "title_japanese": "\u5bfe\u9b54\u5c0e\u5b66\u571235\u8a66\u9a13\u5c0f\u968a",
+    "title_synonyms": [
+        "Taimadou Gakuen Sanjuugo Shiken Shoutai"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Phh6NOoYcsA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/24133/Taimadou_Gakuen_35_Shiken_Shoutai"
+}

@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2010-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Apr 7, 2010 to Sep 29, 2010",
+        "to": "2010-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 01:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Listen!!\" by HTT (Houkago Tea Time) (eps 1-13)",
+        "\"NO,Thank You!\" by HTT (Houkago Tea Time) (eps 14-26)"
+    ],
+    "episodes": 26,
+    "favorites": 8165,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/76121.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 7791,
+    "members": 363947,
+    "opening_themes": [
+        "\"GO! GO! MANIAC\" by HTT (Houkago Tea Time) (eps 1-13)",
+        "\"Utauyo!! MIRACLE\" by HTT (Houkago Tea Time) (eps 14-26)"
+    ],
+    "popularity": 198,
+    "premiered": "Spring 2010",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 929,
+            "name": "Animation Do",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/929/Animation_Do"
+        }
+    ],
+    "rank": 386,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13001,
+                "name": "K-On!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13001/K-On"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 5680,
+                "name": "K-On!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5680/K-On"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9203,
+                "name": "K-On!!: Ura-On!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9203/K-On__Ura-On"
+            },
+            {
+                "mal_id": 9617,
+                "name": "K-On! Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9617/K-On_Movie"
+            },
+            {
+                "mal_id": 9734,
+                "name": "K-On!!: Keikaku!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9734/K-On__Keikaku"
+            }
+        ]
+    },
+    "request_cache_expiry": 2616,
+    "request_cached": true,
+    "request_hash": "request:anime:c2ff6dbf261095d262547aab3c557948ac36a11a",
+    "score": 8.15,
+    "scored_by": 198076,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "The student band \"After School Tea Time\" (lead guitarist Yui Hirasawa, bassist Mio Akiyama, drummer Ritsu Tanaika, and keyboardist Tsumugi Kotobuki) are ready to graduate and take their band to new heights. But before they can do that, they must recruit new members to ensure the survival of the light music club! Between band practice, club recruitment, and studying, the girls stumble through daily teenager life: concerts, college applications, holidays, and vacations. Along with junior club member Azusa Nakano, the girls of K-On!! are ready to make their senior year of high school a great one!",
+    "title": "K-On!!",
+    "title_english": "K-ON! Season 2",
+    "title_japanese": "\u3051\u3044\u304a\u3093!!",
+    "title_synonyms": [
+        "Keion 2",
+        "K-On!! 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/BfoUo18iw74?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7791/K-On"
+}

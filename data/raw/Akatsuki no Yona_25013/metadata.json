@@ -1,0 +1,185 @@
+{
+    "aired": {
+        "from": "2014-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 7, 2014 to Mar 24, 2015",
+        "to": "2015-03-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episodes 1-2 were previewed at a screening at Shinagawa Intercity Hall, Tokyo on September 28, 2014. Regular broadcasting began on October 7, 2014.\r\nThe voice cast of the anime adaption includes voice actors from the Drama CD adaptation of the manga, allowing them to reprise their old roles alongside new cast members.",
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Yoru (\u591c)\" by vistlip (eps 1-14)",
+        "\"Akatsuki (\u6681)\" by Akiko Shikata (eps 15-24)"
+    ],
+    "episodes": 24,
+    "favorites": 9281,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 25013,
+    "members": 398521,
+    "opening_themes": [
+        "\"Akatsuki no Yona (\u6681\u306e\u30e8\u30ca)\" by Kunihiko Ryo (eps 1-14)",
+        "\"Akatsuki no Hana (\u6681\u306e\u83ef)\" by Cyntia (eps 15-23)"
+    ],
+    "popularity": 169,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        },
+        {
+            "mal_id": 751,
+            "name": "Marvelous AQL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/751/Marvelous_AQL"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1225,
+            "name": "Age Global Networks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1225/Age_Global_Networks"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1637,
+            "name": "Top-Insight International",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1637/Top-Insight_International"
+        }
+    ],
+    "rank": 368,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 21525,
+                "name": "Akatsuki no Yona",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/21525/Akatsuki_no_Yona"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30370,
+                "name": "Akatsuki no Yona OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30370/Akatsuki_no_Yona_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 15107,
+    "request_cached": true,
+    "request_hash": "request:anime:4f154ebb5bc050bd64df216f612600524843f77f",
+    "score": 8.16,
+    "scored_by": 193895,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "Princess Yona lives a life of luxury and ease, completely sheltered from the problems of the seemingly peaceful Kingdom of Kouka; however, the sudden murder of the king and betrayal of her beloved cousin Su-won places Yona's life in mortal peril. Forced to escape only with Son Hak, who is both her childhood friend and bodyguard, the na\u00efve princess soon discovers that Kouka is not the idyllic place she envisioned it to be. Poverty, strife, and corruption run rampant, making reclaiming the throne nothing more than a wishful fantasy given the kingdom's current state. Based on the popular manga of the same name by Mizuho Kusanagi, Akatsuki no Yona follows Princess Yona on a coming-of-age adventure as she faces the harsh realities of her kingdom. With only a mysterious legend to guide her, Yona must discover a way to restore Kouka to its former glory while being pursued relentlessly by the forces of the new King of Kouka. [Written by MAL Rewrite]",
+    "title": "Akatsuki no Yona",
+    "title_english": "Yona of the Dawn",
+    "title_japanese": "\u6681\u306e\u30e8\u30ca",
+    "title_synonyms": [
+        "Yona: The girl standing in the blush of dawn"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/25013/Akatsuki_no_Yona"
+}

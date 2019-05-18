@@ -1,0 +1,172 @@
+{
+    "aired": {
+        "from": "2014-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 14, 2014 to Sep 29, 2014",
+        "to": "2014-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Seireitsukai no Blade Dance adapts the first 3 novels of Yuu Shimizu's light novel series of the same title.",
+    "broadcast": "Mondays at 20:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Blade Dance (\u7cbe\u970a\u5263\u821e\u796d\uff1c\u30d6\u30ec\u30a4\u30c9\u30c0\u30f3\u30b9\uff1e)\" by Ni-Sokkususu [Claire Rouge (Ibuki Kido), Rinslet Laurenfrost (Kana Yuuki), Ellis Fahrengart (Shizuka Ishigami), Fianna Ray Ordesia (Saori Oonishi), Terminus Est (Ai Kakuma)]"
+    ],
+    "episodes": 12,
+    "favorites": 822,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/63031.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 22877,
+    "members": 214909,
+    "opening_themes": [
+        "\"Kyoumei no True Force (\u5171\u9cf4\u306eTrue Force)\" by Hitomi Harada"
+    ],
+    "popularity": 431,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 3555,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 34553,
+                "name": "Seireitsukai no Blade Dance",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/34553/Seireitsukai_no_Blade_Dance"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 25285,
+                "name": "Seireitsukai no Blade Dance Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25285/Seireitsukai_no_Blade_Dance_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c13c2c36dcd872d4ec78e1146bbe7f50b25de7fc",
+    "score": 7.05,
+    "scored_by": 109755,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 120,
+            "name": "TNK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ],
+    "synopsis": "Seireitsukai no Blade Dance takes place at a very prestigious school for holy shrine princesses called Areishia Spirit Academy. At this school, the girls train to be elementalists and try to form slave contracts with spirits so that they can compete in battles against one another. Only females have this privilege... at least until now. Kamito Kazehaya is a normal guy in pretty much all respects except for the fact that he's the first man in 1,000 years to be able to form a contract with a spirit (which he \"stole\" from a shrine princess named Claire Rouge). Additionally, the headmaster of the school, Greyworth, has summoned him to enroll and is forcing him to participate in a special tournament that will take place two months down the road. With Claire demanding that he become her contracted spirit, will Kamito even manage to survive the entire two months until the tournament takes place?",
+    "title": "Seireitsukai no Blade Dance",
+    "title_english": "Blade Dance of the Elementalers",
+    "title_japanese": "\u7cbe\u970a\u4f7f\u3044\u306e\u5263\u821e\u3008\u30d6\u30ec\u30a4\u30c9\u30c0\u30f3\u30b9\u3009",
+    "title_synonyms": [
+        "Seirei Tsukai no Kenbu",
+        "Bladedance of Elementalers"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/oHxzueWeo1E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22877/Seireitsukai_no_Blade_Dance"
+}

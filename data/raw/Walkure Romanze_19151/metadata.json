@@ -1,0 +1,134 @@
+{
+    "aired": {
+        "from": "2013-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 7, 2013 to Dec 23, 2013",
+        "to": "2013-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"MoonRise Romance\" by Natsuko Asou"
+    ],
+    "episodes": 12,
+    "favorites": 110,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/54969.jpg",
+    "licensors": [],
+    "mal_id": 19151,
+    "members": 86454,
+    "opening_themes": [
+        "\"UN-DELAYED\" by Miyuki Hashimoto"
+    ],
+    "popularity": 1126,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        }
+    ],
+    "rank": 6006,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 45379,
+                "name": "Walkure Romanze: Shoujo Kishi Monogatari",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/45379/Walkure_Romanze__Shoujo_Kishi_Monogatari"
+            },
+            {
+                "mal_id": 63251,
+                "name": "Walkure Romanze",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/63251/Walkure_Romanze"
+            }
+        ]
+    },
+    "request_cache_expiry": 55,
+    "request_cached": true,
+    "request_hash": "request:anime:e55493a84e2c1f95b3d5c9b88648688e7929076e",
+    "score": 6.5,
+    "scored_by": 34265,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "Taking place at Winford Academy located in an old town called Helen's Hill, the story is all about knights and the sport of jousting. At this school, students learn how to become knights, ride horses and joust properly. The main character is a young man named Takahiro Mizuno who was training to become a knight and jouster but after suffering an injury he dropped out of the knight program and joined the begleiter (assistant) program instead. Due to his animal handling skills and former experience as a jouster, this makes him a hot commodity. Multiple beautiful girls in the school want him to become their personal begleiter, though Takahiro always refuses their offers. One day a bizarre accident causes his friend, Mio Kisaski, to be challenged to a jousting duel despite her not actually being a knight. Takahiro agrees to become her temporary begleiter, but that ends up only being the beginning of their partnership as she enrolls in the annual tournament.",
+    "title": "Walkure Romanze",
+    "title_english": null,
+    "title_japanese": "\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec\u30ed\u30de\u30f3\u30c4\u30a7",
+    "title_synonyms": [
+        "Valkyrie Romanze",
+        "Walkure Romance",
+        "Walroma"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/T_H02CUFQV4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19151/Walkure_Romanze"
+}

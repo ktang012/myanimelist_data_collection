@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2017-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 4, 2017 to Sep 19, 2017",
+        "to": "2017-09-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "12 min per ep",
+    "ending_themes": [
+        "\"Odore! Kyu-kyoku Tetsugaku (\u8e0a\u308c\uff01\u304d\u3085\u30fc\u304d\u3087\u304f\u54f2\u5b66)\" by Sumire Uesaka"
+    ],
+    "episodes": 12,
+    "favorites": 662,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/86665.jpg",
+    "licensors": [],
+    "mal_id": 34881,
+    "members": 212904,
+    "opening_themes": [
+        "\"Zenryoku\u2606Summer! (\u5168\u529b\u2606Summer!)\" by angela"
+    ],
+    "popularity": 437,
+    "premiered": "Summer 2017",
+    "producers": [
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1449,
+            "name": "Animatic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+        },
+        {
+            "mal_id": 1800,
+            "name": "Marui Group",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+        }
+    ],
+    "rank": 3026,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 47102,
+                "name": "Aho Girl",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/47102/Aho_Girl"
+            }
+        ]
+    },
+    "request_cache_expiry": 27541,
+    "request_cached": true,
+    "request_hash": "request:anime:336321b714684e5191811156615aba78d17a69c7",
+    "score": 7.17,
+    "scored_by": 110876,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "Yoshiko Hanabatake is an idiot beyond all belief. Somehow managing to consistently score zeroes on all of her tests and consumed by an absurd obsession with bananas, her senseless acts have caused even her own mother to lose all hope. Only one person is up to the task of keeping her insanity in check: childhood friend Akuru \"A-kun\" Akutsu. Though he bemoans the ridiculous behavior he has to endure, the studious but terrifying A-kun is always ready to put an end to any stupidity Yoshiko gets up to, with no qualms about using physical force. Unfortunately, no matter how many times he attempts to knock some sense into her, the girl bounces right back to her usual shenanigans, even dragging in some other eccentrics along for the ride. Try as he might to rein in her nonsense, every moment is unpredictable with Yoshiko and her profound idiocy on the loose. [Written by MAL Rewrite]",
+    "title": "Aho Girl",
+    "title_english": "AHO-GIRL",
+    "title_japanese": "\u30a2\u30db\u30ac\u30fc\u30eb",
+    "title_synonyms": [
+        "Ahogaru: Clueless Girl",
+        "Dummy Girl"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Auh5pgYXa5c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34881/Aho_Girl"
+}

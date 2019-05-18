@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2018-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 8, 2018 to Mar 26, 2018",
+        "to": "2018-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 22:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kore kara (\u30b3\u30ec\u30ab\u30e9)\" by Machico (eps 1, 3)",
+        "\"Mamoritai Mono no Tame ni (\u5b88\u308a\u305f\u3044\u3082\u306e\u306e\u305f\u3081\u306b)\" by Miku Itou (eps 2, 4-6, 8-11)",
+        "\"Ano Hi no Yume (\u3042\u306e\u65e5\u306e\u5922)\" by Miku Itou (ep 7)"
+    ],
+    "episodes": 12,
+    "favorites": 187,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/89979.jpg",
+    "licensors": [],
+    "mal_id": 35905,
+    "members": 86294,
+    "opening_themes": [
+        "\"Korekara (\u30b3\u30ec\u30ab\u30e9)\" by Machico"
+    ],
+    "popularity": 1128,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1631,
+            "name": "Radio Osaka",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1631/Radio_Osaka"
+        },
+        {
+            "mal_id": 1801,
+            "name": "Aquamarine",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1801/Aquamarine"
+        }
+    ],
+    "rank": 3508,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 92231,
+                "name": "Ryuuou no Oshigoto!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/92231/Ryuuou_no_Oshigoto"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ce3e895c292578a5bd64dbefcc63bb721dab2680",
+    "score": 7.06,
+    "scored_by": 35029,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 439,
+            "name": "Project No.9",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+    ],
+    "synopsis": "The story is about a teenage boy who happens to be a shougi master. One day, a nine-year-old girl turns up at his house, requesting to be taken as his disciple. From there, all kinds of wacky hijinks ensue. (Source: ANN, edited)",
+    "title": "Ryuuou no Oshigoto!",
+    "title_english": "The Ryuo's Work is Never Done!",
+    "title_japanese": "\u308a\u3085\u3046\u304a\u3046\u306e\u304a\u3057\u3054\u3068\uff01",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/jrqE_yU4FKI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35905/Ryuuou_no_Oshigoto"
+}

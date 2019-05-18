@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Apr 6, 2014 to Sep 28, 2014",
+        "to": "2014-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The anime closely follows the events of the first seven light novels (excluding the fifth novel: Summer Holiday Arc + 1). There are three video game adaptations of the series.",
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Rising Hope\" by LiSA (ep 1)",
+        "\"Millenario (\u30df\u30ec\u30ca\u30ea\u30aa)\" by ELISA (eps 2-13, 18)",
+        "\"Mirror\" by Rei Yasuda (eps 14-17, 19-26)"
+    ],
+    "episodes": 26,
+    "favorites": 8046,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/61039.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 20785,
+    "members": 513496,
+    "opening_themes": [
+        "\"Rising Hope\" by LiSA (eps 2-3, 5-13)",
+        "\"grilletto\" by GARNiDELiA (eps 14-26)"
+    ],
+    "popularity": 100,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        }
+    ],
+    "rank": 1113,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 34127,
+                "name": "Mahouka Koukou no Rettousei",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/34127/Mahouka_Koukou_no_Rettousei"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 23341,
+                "name": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23341/Mahouka_Koukou_no_Rettousei__Yoku_Wakaru_Mahouka"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32900,
+                "name": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32900/Mahouka_Koukou_no_Rettousei_Movie__Hoshi_wo_Yobu_Shoujo"
+            }
+        ]
+    },
+    "request_cache_expiry": 11008,
+    "request_cached": true,
+    "request_hash": "request:anime:010fe62cddc294bb81b6da2c77e4d589023b48e7",
+    "score": 7.71,
+    "scored_by": 274897,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "In the dawn of the 21st century, magic, long thought to be folklore and fairy tales, has become a systematized technology and is taught as a technical skill. In First High School, the institution for magicians, students are segregated into two groups based on their entrance exam scores: \"Blooms,\" those who receive high scores, are assigned to the First Course, while \"Weeds\" are reserve students assigned to the Second Course. Mahouka Koukou no Rettousei follows the siblings, Tatsuya and Miyuki Shiba, who are enrolled in First High School. Upon taking the exam, the prodigious Miyuki is placed in the First Course, while Tatsuya is relegated to the Second Course. Though his practical test scores and status as a \"Weed\" show him to be magically inept, he possesses extraordinary technical knowledge, physical combat capabilities, and unique magic techniques\u2014making Tatsuya the irregular at a magical high school. [Written by MAL Rewrite]",
+    "title": "Mahouka Koukou no Rettousei",
+    "title_english": "The Irregular at Magic High School",
+    "title_japanese": "\u9b54\u6cd5\u79d1\u9ad8\u6821\u306e\u52a3\u7b49\u751f",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/v5AOTuxt2XY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei"
+}

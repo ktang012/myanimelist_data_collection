@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2006-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 4, 2006 to Mar 28, 2007",
+        "to": "2007-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Ending Theme\" by Masuda Toshio"
+    ],
+    "episodes": 25,
+    "favorites": 2716,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 1571,
+    "members": 164656,
+    "opening_themes": [
+        "\"Main Theme\" by Masuda Toshio"
+    ],
+    "popularity": 596,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        }
+    ],
+    "rank": 722,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 158,
+                "name": "Ghost Hunt",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/158/Ghost_Hunt"
+            },
+            {
+                "mal_id": 14269,
+                "name": "Akuryou Series",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14269/Akuryou_Series"
+            }
+        ]
+    },
+    "request_cache_expiry": 35428,
+    "request_cached": true,
+    "request_hash": "request:anime:5705592cdd4eef07c4082d84c452451ef16c4d29",
+    "score": 7.89,
+    "scored_by": 73508,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "While at school, Taniyama Mai and her friends like to exchange ghost stories. Apparently, there is an abandoned school building on their campus that is the center of many ghost stories. During the story, they are interrupted by a mysterious male figure. The person turns out to be Shibuya Kazuya, a 17-year-old who is president of the Shibuya Psychic Research Company. He was called by the principal to investigate the stories surrounding the abandoned school building. The next day, on the way to school, Mai passes the school building in question. While examining a strange camera she spotted inside, she gets surprised by Kazuya's assistant. Unknowingly interfering with the investigation, Mai breaks the camera and Kazuya's assistant gets injured. Kazuya forcefully hires Mai in order to pay for the camera and replace his injured assistant. From that point on, Mai begins to learn about the paranormal world and the profession of ghost hunting. [Written by MAL Rewrite]",
+    "title": "Ghost Hunt",
+    "title_english": "Ghost Hunt",
+    "title_japanese": "\u30b4\u30fc\u30b9\u30c8\u30cf\u30f3\u30c8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/i39YnrNdkcI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1571/Ghost_Hunt"
+}

@@ -1,0 +1,167 @@
+{
+    "aired": {
+        "from": "2016-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Apr 1, 2016 to Jun 24, 2016",
+        "to": "2016-06-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kessen Zenya (\u6c7a\u6226\u524d\u591c)\" by LUNKHEAD"
+    ],
+    "episodes": 13,
+    "favorites": 264,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/78567.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 31098,
+    "members": 78145,
+    "opening_themes": [
+        "\"Shuukawari no Kiseki no Shinwa (\u9031\u66ff\u308f\u308a\u306e\u5947\u8de1\u306e\u795e\u8a71)\" by Kinniku Shoujo Tai"
+    ],
+    "popularity": 1252,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1493,
+            "name": "Tokuma Japan Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1493/Tokuma_Japan_Communications"
+        },
+        {
+            "mal_id": 1632,
+            "name": "Daiichi Shokai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1632/Daiichi_Shokai"
+        }
+    ],
+    "rank": 543,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7747,
+                "name": "Ushio to Tora",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7747/Ushio_to_Tora"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 842,
+                "name": "Ushio to Tora",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/842/Ushio_to_Tora"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 29854,
+                "name": "Ushio to Tora (TV)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29854/Ushio_to_Tora_TV"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:d431a2bea00d85e6eae59014f940e7f2e8d4059d",
+    "score": 8.03,
+    "scored_by": 38142,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 569,
+            "name": "MAPPA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        },
+        {
+            "mal_id": 1244,
+            "name": "Studio VOLN",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1244/Studio_VOLN"
+        }
+    ],
+    "synopsis": "Continuation of Ushio to Tora TV series.",
+    "title": "Ushio to Tora (TV) 2nd Season",
+    "title_english": "Ushio & Tora",
+    "title_japanese": "\u3046\u3057\u304a\u3068\u3068\u3089",
+    "title_synonyms": [
+        "Ushio and Tora"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/KMe4UYXNOmg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31098/Ushio_to_Tora_TV_2nd_Season"
+}

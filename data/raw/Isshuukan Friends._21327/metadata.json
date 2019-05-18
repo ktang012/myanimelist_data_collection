@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2014-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 7, 2014 to Jun 23, 2014",
+        "to": "2014-06-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kanade (\u594f (\u304b\u306a\u3067))\" by Kaori Fujimiya (CV: Sora Amamiya)"
+    ],
+    "episodes": 12,
+    "favorites": 1035,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/61891.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21327,
+    "members": 205422,
+    "opening_themes": [
+        "\u201cNiji no Kakera (\u8679\u306e\u304b\u3051\u3089)\u201d by Natsumi Kon"
+    ],
+    "popularity": 460,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        }
+    ],
+    "rank": 1279,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 43967,
+                "name": "Isshuukan Friends.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/43967/Isshuukan_Friends"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24821,
+                "name": "Isshuukan Friends. Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24821/Isshuukan_Friends_Specials"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 30376,
+                "name": "Isshuukan Friends.: Tomodachi to no Omoide",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30376/Isshuukan_Friends__Tomodachi_to_no_Omoide"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:20d7be426710505a2669cc33c3140d82828bad0a",
+    "score": 7.64,
+    "scored_by": 99631,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Sixteen-year-old Yuuki Hase finally finds the courage to speak to his crush and ask her if she wants to become friends. The object of his affection, Kaori Fujimiya, is a quiet and reserved girl who cuts herself off from everyone and does not spare him the same blunt rejection she gives everybody else. Some time after, Yuuki finds her eating lunch on the roof where she secludes herself during break. He decides to start meeting with Kaori every day in the hopes of beginning to understand her better. The more time they spend together, the more she begins to open up to him. However, nearing the end of the week, she starts to push him away once more. It is then revealed to him the reason for Kaori's cold front: at the end of the week, her memories of those close to her, excluding her family, are forgotten, as they are reset every Monday. The result of an accident in middle school, the once popular and kind Kaori is now unable to make friends in fear of hurting the people dear to her. Determined to become more than just one week friends, Yuuki asks her the exact same question each Monday: \"Would you like to be friends?\" Because he knows that deep down, Kaori wishes for that more than anything. [Written by MAL Rewrite]",
+    "title": "Isshuukan Friends.",
+    "title_english": "One Week Friends",
+    "title_japanese": "\u4e00\u9031\u9593\u30d5\u30ec\u30f3\u30ba\u3002",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Vrz_-80bvW4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21327/Isshuukan_Friends"
+}

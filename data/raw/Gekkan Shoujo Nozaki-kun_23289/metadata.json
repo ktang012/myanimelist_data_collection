@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2014-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 7, 2014 to Sep 22, 2014",
+        "to": "2014-09-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The voice acting cast for the anime differs from the cast of the Drama CD adaptation which was released June 2013.",
+    "broadcast": "Mondays at 01:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ura Omote Fortune (\u30a6\u30e9\u30aa\u30e2\u30c6\u30fb\u30d5\u30a9\u30fc\u30c1\u30e5\u30f3)\" by Chiyo Sakura (CV: Ari Ozawa) (eps 1-11)"
+    ],
+    "episodes": 12,
+    "favorites": 8067,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/66083.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 23289,
+    "members": 480275,
+    "opening_themes": [
+        "\"Kimi ja Nakya Dame Mitai (\u541b\u3058\u3083\u306a\u304d\u3083\u30c0\u30e1\u307f\u305f\u3044)\" by Masayoshi Ooishi (\u5927\u77f3\u660c\u826f)"
+    ],
+    "popularity": 116,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        }
+    ],
+    "rank": 429,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 29211,
+                "name": "Gekkan Shoujo Nozaki-kun",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/29211/Gekkan_Shoujo_Nozaki-kun"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 27633,
+                "name": "Gekkan Shoujo Nozaki-kun Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27633/Gekkan_Shoujo_Nozaki-kun_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 22257,
+    "request_cached": true,
+    "request_hash": "request:anime:1655ffb37e8dcbe307a07b6c3f1ca16d480808af",
+    "score": 8.11,
+    "scored_by": 259811,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "Chiyo Sakura is a cheerful high school girl who has fallen head over heels for the oblivious Umetarou Nozaki. Much to Chiyo's confusion, when she confesses to her beloved Nozaki, he hands her an unfamiliar autograph. As it turns out, the stoic teenage boy is actually a respected shoujo mangaka, publishing under the pen name Sakiko Yumeno! A series of misunderstandings leads to Chiyo becoming one of Nozaki's manga assistants. Throughout the hilarious events that ensue, she befriends many of her quirky schoolmates, including her seemingly shameless fellow assistant, Mikoto Mikoshiba, and the \"Prince of the School,\" Yuu Kashima. Gekkan Shoujo Nozaki-kun follows Chiyo as she strives to help Nozaki with his manga and hopes that he will eventually notice her feelings. [Written by MAL Rewrite]",
+    "title": "Gekkan Shoujo Nozaki-kun",
+    "title_english": "Monthly Girls' Nozaki-kun",
+    "title_japanese": "\u6708\u520a\u5c11\u5973\u91ce\u5d0e\u304f\u3093",
+    "title_synonyms": [
+        "Gekkan Shoujo Nozaki-kun"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/8FGsSpcZ-FI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun"
+}

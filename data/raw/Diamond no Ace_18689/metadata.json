@@ -1,0 +1,169 @@
+{
+    "aired": {
+        "from": "2013-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 6, 2013 to Mar 29, 2015",
+        "to": "2015-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Tokyo on September 28, 2013. Regular broadcasting began on October 6, 2013.\r\nAlthough the anime was originally scheduled to run for a year, an additional two cours were ordered while the series was airing, extending its run.",
+    "broadcast": "Sundays at 08:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Seek Diamonds\" by Yoko Hikasa (eps 1-13)",
+        "\"Glory! (\u30b0\u30ed\u30fc\u30ea\u30fc\uff01)\" by Suzuko Mimori (eps 14-25)",
+        "\"Mirai e Tsunage (\u672a\u6765\u3078\u3064\u306a\u3052)\" by DOP (Diamond no Ace Ouen Project: Wakaba, Haruno Yoshikawa, Takako Fujiwara, Sachiko Umemoto, Yui Natsukawa with AOP) (eps 26-37)",
+        "\"CLOUD NINE\" by Seidou High School Basebal Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae) (eps 38-51)",
+        "\"PROMISED FIELD\" by Seidou High School Basebal Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae) (eps 52-63)",
+        "\"FINAL VICTORY\" by Seidou High Baseball Club (Ryota Ohsaka, Nobunaga Shimazaki, Natsuki Hanae) (eps 64-75)"
+    ],
+    "episodes": 75,
+    "favorites": 2594,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/54235.jpg",
+    "licensors": [],
+    "mal_id": 18689,
+    "members": 126553,
+    "opening_themes": [
+        "\"Go EXCEED!!\" by Tom-H@ck featuring Masayoshi Oishi (eps 1-25)",
+        "\"Perfect HERO\" by Tom-H@ck featuring Masayoshi Oishi (eps 26-51)",
+        "\"Hashire! Mirai (\u75be\u8d70\u308c\uff01\u30df\u30e9\u30a4)\" by Glay (eps 52-75)"
+    ],
+    "popularity": 803,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        }
+    ],
+    "rank": 338,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 10884,
+                "name": "Diamond no Ace",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10884/Diamond_no_Ace"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30230,
+                "name": "Diamond no Ace: Second Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30230/Diamond_no_Ace__Second_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 25341,
+                "name": "Diamond no Ace OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25341/Diamond_no_Ace_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 41461,
+    "request_cached": true,
+    "request_hash": "request:anime:7d77f60662ab7bae4b5d9c06618c7db1b8e8e24d",
+    "score": 8.19,
+    "scored_by": 56039,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "With a stray pitch that completely missed the batter, Eijun Sawamura loses his final middle school baseball game. Frustrated by this defeat, Eijun and his teammates vow to reach the national tournament once they are in high school. But everything changes when a scout unexpectedly invites him to Tokyo's prestigious Seidou High School after seeing the potential in his unusual pitching style. Encouraged by his teammates, Eijun accepts the offer, ready to improve his skills and play at a much more competitive level of baseball. However, now surrounded by a large number of skilled players, Eijun struggles to find his place on the team. He declares that he will one day become the team's ace, but that's only if fellow first year Satoru Furuya doesn't take the title first, with his breakneck fastballs that earn him a coveted spot on the starting roster. With the addition of these talented new players to an already powerful lineup, the Seidou baseball team aims to become the best in Japan, facing off against a number of formidable foes that stand in their way. [Written by MAL Rewrite]",
+    "title": "Diamond no Ace",
+    "title_english": "Ace of Diamond",
+    "title_japanese": "\u30c0\u30a4\u30e4\u306eA[\u30a8\u30fc\u30b9]",
+    "title_synonyms": [
+        "Daiya no Ace",
+        "Ace of the Diamond",
+        "Dia no A"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/9RUV98RNnNg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18689/Diamond_no_Ace"
+}

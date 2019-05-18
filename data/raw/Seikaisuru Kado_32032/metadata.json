@@ -1,0 +1,117 @@
+{
+    "aired": {
+        "from": "2017-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 7, 2017 to Jun 30, 2017",
+        "to": "2017-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Eien no Kotae (\u6c38\u9060\u306e\u3053\u305f\u3048)\" by HARUCA"
+    ],
+    "episodes": 12,
+    "favorites": 162,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/85255.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32032,
+    "members": 80961,
+    "opening_themes": [
+        "\"Tabiji (\u65c5\u8a69)\" by Saraka Tsukai starring Mao Ichimichi"
+    ],
+    "popularity": 1207,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 1653,
+            "name": "Kinoshita Group Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1653/Kinoshita_Group_Holdings"
+        }
+    ],
+    "rank": 3956,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 104577,
+                "name": "Seikaisuru Kado",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/104577/Seikaisuru_Kado"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 35369,
+                "name": "Seikaisuru Kado: Ninovo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35369/Seikaisuru_Kado__Ninovo"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35603,
+                "name": "Seikaisuru Kado: Ekwari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35603/Seikaisuru_Kado__Ekwari"
+            },
+            {
+                "mal_id": 37922,
+                "name": "Seikaisuru Kado: Beyond Information",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37922/Seikaisuru_Kado__Beyond_Information"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6294128c29daa142164cc50269896a3c4e59fa9c",
+    "score": 6.94,
+    "scored_by": 28980,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 18,
+            "name": "Toei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ],
+    "synopsis": "Cool-headed and rational, Kojirou Shindou is a government official and master negotiator with a well-earned reputation. While departing on a business trip, a giant cube materializes and his plane is taken undamaged into the mysterious, indestructible structure. As Japanese authorities attempt to identify the cube's properties and origins, Shindou encounters an otherworldly entity known as Yaha-kui zaShunina, who materializes in the form of a human man. He assures Shindou that the passengers are not in any danger and requests help in negotiations with the human world. Hailing from a higher dimensional universe known as Novo, Yaha-kui zaShunina is able to transfer information between Novo and Shindou's universe through a cube called Kado. Despite having these unfathomable abilities, he does not appear hostile. Instead, he announces that he has come to this world with only one intention: to \"advance\" humanity\u2014starting with Japan. [Written by MAL Rewrite]",
+    "title": "Seikaisuru Kado",
+    "title_english": "KADO: The Right Answer",
+    "title_japanese": "\u6b63\u89e3\u3059\u308b\u30ab\u30c9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Ufxk2GNXqNg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32032/Seikaisuru_Kado"
+}

@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2007-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 6, 2007 to Sep 28, 2007",
+        "to": "2007-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Darker than Black was awarded Best Original Anime of The Year by GoGoplex, a popular magazine for teens.  In the 2007 Japan Media Arts Festival, it was one of the jury's recommendations from the category \"Animation Division/Long Animation.\"\r\nOn January 21, 2016, it was announced that Funimation Entertainment, the North American distributor for the anime, no longer holds the license for this season.",
+    "broadcast": "Fridays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tsuki Akari\" by Rie Fu (eps 1-14)",
+        "\"Dreams\" by HIGH and MIGHTY COLOR (eps 15-24)"
+    ],
+    "episodes": 25,
+    "favorites": 14981,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 2025,
+    "members": 619926,
+    "opening_themes": [
+        "\"Howling\" by Abingdon Boys School (eps 1-14)",
+        "\"Kakusei Heroism ~The Hero without a Name~\" by An Cafe (eps 15-23, 25)"
+    ],
+    "popularity": 71,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 334,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1016,
+                "name": "Darker than Black: Kuro no Keiyakusha",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1016/Darker_than_Black__Kuro_no_Keiyakusha"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 7338,
+                "name": "Darker than Black: Kuro no Keiyakusha Gaiden",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7338/Darker_than_Black__Kuro_no_Keiyakusha_Gaiden"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 4182,
+                "name": "Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4182/Darker_than_Black__Kuro_no_Keiyakusha_-_Sakura_no_Hana_no_Mankai_no_Shita"
+            }
+        ]
+    },
+    "request_cache_expiry": 8665,
+    "request_cached": true,
+    "request_hash": "request:anime:b8a2b862f155da0fdf10e736bbd18cd48f07920d",
+    "score": 8.19,
+    "scored_by": 307469,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "It has been 10 years since Heaven's Gate appeared in South America and Hell's Gate appeared in Japan, veiling the once familiar night sky with an oppressive skyscape. Their purposes unknown, these Gates are spaces in which the very laws of physics are ignored. With the appearance of the Gates emerged Contractors, who, in exchange for their humanity, are granted supernatural abilities. In the Japanese city surrounding Hell\u2019s Gate, Section 4 Chief Misaki Kirihara finds herself at odds with an infamous Contractor codenamed Hei. Called \"Black Reaper\" in the underground world, Hei, like his associates, undertakes missions for the mysterious and ruthless Syndicate while slowly peeling back the dark layers covering a nefarious plot that threatens the very existence of Contractors. From the mind of Tensai Okamura comes a sci-fi thriller taking the form of a subtle expos\u00e9 on a war in which political positions and justice have no sway\u2014a war waged exclusively in the shadows. [Written by MAL Rewrite]",
+    "title": "Darker than Black: Kuro no Keiyakusha",
+    "title_english": "Darker than Black",
+    "title_japanese": "Darker than BLACK -\u9ed2\u306e\u5951\u7d04\u8005-",
+    "title_synonyms": [
+        "DTB"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha"
+}

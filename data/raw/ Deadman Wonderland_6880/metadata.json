@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2011-04-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 3,
+                "month": 7,
+                "year": 2011
+            }
+        },
+        "string": "Apr 17, 2011 to Jul 3, 2011",
+        "to": "2011-07-03T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Deadman Wonderland adapts the first 5 volumes of Kazuma Kondou's and Jinsei Kataoka's manga series of the same name. Some characters from the manga were not featured in the anime, notably the then minor character Azami Midou and the gay crossdressing character Masaru Sukegawa.",
+    "broadcast": "Sundays at 01:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"SHINY SHINY\" by NIRGILIS"
+    ],
+    "episodes": 12,
+    "favorites": 5502,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75299.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 6880,
+    "members": 710844,
+    "opening_themes": [
+        "\"One Reason\" by DWB feat.fade"
+    ],
+    "popularity": 57,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 779,
+            "name": "AMG MUSIC",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/779/AMG_MUSIC"
+        }
+    ],
+    "rank": 2195,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3986,
+                "name": "Deadman Wonderland",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3986/Deadman_Wonderland"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10418,
+                "name": "Deadman Wonderland: Akai Knife Tsukai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10418/Deadman_Wonderland__Akai_Knife_Tsukai"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:94718c22ae0c5b7206bc60d617f586f38899c012",
+    "score": 7.37,
+    "scored_by": 410104,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "It looked like it would be a normal day for Ganta Igarashi and his classmates\u2014they were preparing to go on a class field trip to a certain prison amusement park called Deadman Wonderland, where the convicts perform dangerous acts for the onlookers' amusement. However, Ganta's life is quickly turned upside down when his whole class gets massacred by a mysterious man in red. Framed for the incident and sentenced to death, Ganta is sent to the very jail he was supposed to visit. But Ganta's nightmare is only just beginning. The young protagonist is thrown into a world of sadistic inmates and enigmatic powers, to live in constant fear of the lethal collar placed around his neck that is slowed only by winning in the prison's deathly games. Ganta must bet his life to survive in a ruthless place where it isn't always easy to tell friend from foe, all while trying to find the mysterious \"Red Man\" and clear his name, in Deadman Wonderland. [Written by MAL Rewrite]",
+    "title": "Deadman Wonderland",
+    "title_english": "Deadman Wonderland",
+    "title_japanese": "\u30c7\u30c3\u30c9\u30de\u30f3\u30fb\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
+    "title_synonyms": [
+        "DEADMAN WONDERLAND"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/WUTFRxi5RXM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6880/Deadman_Wonderland"
+}

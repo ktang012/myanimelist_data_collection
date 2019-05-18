@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2016-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 1, 2016 to Dec 24, 2016",
+        "to": "2016-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Muchuuryoku Fever (\u7121\u91cd\u529b\u30d5\u30a3\u30fc\u30d0\u30fc)\" by Daisuke Higashida (Yuuichi Nakamura), Masahiro Adachi (Kouki Uchyama), Yuuta Shindou (Kensho Ono) (eps 1-12)",
+        "\"Muchuuryoku Fever (\u7121\u91cd\u529b\u30d5\u30a3\u30fc\u30d0\u30fc)\" by Daisuke Higashida (Yuuichi Nakamura), Hana Miyakoshi (Haruka Tomatsu), Masahiro Adachi (Kouki Uchyama), Sayuri Muranushi (Yoko Hikasa), Yuuta Shindou (Kensho Ono), Shiho Kamakura (Sora Amamiya) (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 236,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/82287.jpg",
+    "licensors": [],
+    "mal_id": 33094,
+    "members": 95828,
+    "opening_themes": [
+        "\"Eyecatch! Too much!\" by Hana Miyakoshi (Haruka Tomatsu), Sayuri Muranushi (Yoko Hikasa), Shiho Kamakura (Sora Amamiya) (eps 1-12)"
+    ],
+    "popularity": 1041,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        }
+    ],
+    "rank": 1612,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 91866,
+                "name": "Working!! Web-ban",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91866/Working_Web-ban"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 6956,
+                "name": "Working!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6956/Working"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10532,
+                "name": "Working'!! Announcement Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10532/Working_Announcement_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:94a9c3f5d9523c25df9b4f5da4bcf5f7573d8351",
+    "score": 7.53,
+    "scored_by": 45483,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Daisuke Higashida is a serious first-year student at Higashizaka High School. He lives a peaceful everyday life even though he is not satisfied with the family who doesn't laugh at all and makes him tired. However, his father's company goes bankrupt one day, and he can no longer afford allowances, cellphone bills, and commuter tickets. When his father orders him to take up a part-time job, Daisuke decides to work at a nearby family restaurant in order to avoid traveling 15 kilometers to school by bicycle.",
+    "title": "WWW.Working!!",
+    "title_english": "WWW.WAGNARIA!!",
+    "title_japanese": "WWW.WORKING!!",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/bYp1SFD6SsQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33094/WWWWorking"
+}

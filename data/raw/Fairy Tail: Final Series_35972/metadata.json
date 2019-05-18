@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2018-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 7, 2018 to ?",
+        "to": null
+    },
+    "airing": true,
+    "background": null,
+    "broadcast": "Sundays at 07:00 (JST)",
+    "duration": "23 min",
+    "ending_themes": [
+        "\"Endless Harmony\" by Beverly (eps 1-13)",
+        "\"Pierce\" by EMPiRE (eps 14-26)",
+        "\"Boku to Kimi no Lullaby (\u50d5\u3068\u541b\u306e\u30e9\u30e9\u30d0\u30a4)\" by Miyuna (\u307f\u3086\u306a) (eps 27-?)"
+    ],
+    "episodes": null,
+    "favorites": 2483,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1536/93863.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35972,
+    "members": 157341,
+    "opening_themes": [
+        "\"power of the dream\" by lol (lol-\u30a8\u30eb\u30aa\u30fc\u30a8\u30eb-) (eps 1-13)",
+        "\"DOWN BY LAW\" by THE RAMPAGE from EXILE TRIBE (eps 14-26)",
+        "\"NO-LIMIT\" by Osaka\u2606Shunka Shuutou (\u5927\u962a\u2606\u6625\u590f\u79cb\u51ac) (eps 27-?)"
+    ],
+    "popularity": 625,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        }
+    ],
+    "rank": 309,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 598,
+                "name": "Fairy Tail",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 22043,
+                "name": "Fairy Tail (2014)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22043/Fairy_Tail_2014"
+            }
+        ]
+    },
+    "request_cache_expiry": 19675,
+    "request_cached": true,
+    "request_hash": "request:anime:6d42578e24368d3a7c185277b661760e48c8075a",
+    "score": 8.22,
+    "scored_by": 30896,
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 397,
+            "name": "Bridge",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/397/Bridge"
+        },
+        {
+            "mal_id": 1835,
+            "name": "CloverWorks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+    ],
+    "synopsis": "Although Fairy Tail has been disbanded and its members are now spread far across Fiore, Natsu Dragneel hasn't given up on reuniting the guild he and others once called home. Along with his companions Happy and Lucy Heartfilia, he will stop at nothing to keep Fairy Tail and its fiery spirit alive even as they face their most difficult trial yet\u2014the invasion of Fiore by the Alvarez Empire's immense army and their all-too-familiar ruler. [Written by MAL Rewrite]",
+    "title": "Fairy Tail: Final Series",
+    "title_english": "Fairy Tail Final Series",
+    "title_japanese": "FAIRY TAIL \u30d5\u30a1\u30a4\u30ca\u30eb\u30b7\u30ea\u30fc\u30ba",
+    "title_synonyms": [
+        "Fairy Tail Season 3",
+        "Fairy Tail (2018)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PVrKCN3D_RY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series"
+}

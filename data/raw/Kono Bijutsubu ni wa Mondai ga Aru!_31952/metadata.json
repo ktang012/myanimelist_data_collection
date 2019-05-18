@@ -1,0 +1,127 @@
+{
+    "aired": {
+        "from": "2016-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 8, 2016 to Sep 23, 2016",
+        "to": "2016-09-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:28 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Koisuru Zukei (cubic futurismo)\" by Sumire Uesaka (eps 1-11)",
+        "\"Kokoro\uff0aPalette (Chorus ver.)\" by Mizuki Usami (CV: Ari Ozawa), Colette (CV: Sumire Uesaka), Maria Imari (CV: Nao Touyama), Yumeko Tachibana (CV: Nana Mizuki) (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 408,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/80688.jpg",
+    "licensors": [],
+    "mal_id": 31952,
+    "members": 147275,
+    "opening_themes": [
+        "\"STARTING NOW!\" by Nana Mizuki"
+    ],
+    "popularity": 683,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+    ],
+    "rank": 2169,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 50331,
+                "name": "Kono Bijutsubu ni wa Mondai ga Aru!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/50331/Kono_Bijutsubu_ni_wa_Mondai_ga_Aru"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ed2e1624779c2769310d623de03a9595e9e43b4e",
+    "score": 7.38,
+    "scored_by": 62047,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ],
+    "synopsis": "Mizuki Usami is a passionate member of her school's art club, but the club has a problem\u2014Usami is the only member who takes her craft seriously! The lazy club president constantly sleeps through activities and Collette hasn't regularly attended club activities in quite some time. Uchimaki Subaru, despite being an exceptional artist who could win an award if he tried, is obsessed with drawing the perfect 2D wife. Light-hearted and comedic in tone, Kono Bijutsubu ni wa Mondai ga Aru! follows Usami as she struggles to do art club-like activities, often obstructed by her motley crew of good-for-nothings and her distracting crush on Subaru. [Written by MAL Rewrite]",
+    "title": "Kono Bijutsubu ni wa Mondai ga Aru!",
+    "title_english": "This Art Club Has a Problem!",
+    "title_japanese": "\u3053\u306e\u7f8e\u8853\u90e8\u306b\u306f\u554f\u984c\u304c\u3042\u308b\uff01",
+    "title_synonyms": [
+        "Konobi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/74nhsY34tpM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31952/Kono_Bijutsubu_ni_wa_Mondai_ga_Aru"
+}

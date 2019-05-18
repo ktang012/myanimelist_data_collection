@@ -1,0 +1,127 @@
+{
+    "aired": {
+        "from": "2016-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 11, 2016 to Mar 28, 2016",
+        "to": "2016-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at an event at TOHO Cinemas Roppongi Hills in Tokyo on December 26, 2015. Regular broadcasting began January 11, 2016. Hai to Gensou no Grimgar has been licensed by Funimation and is scheduled to be streamed in both Japanese and English in North America starting in January of 2016.",
+    "broadcast": "Mondays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Knew day\" by (K)NoW_NAME (ep 1)",
+        "\"Harvest\" by (K)NoW_NAME (eps 2-7, 9-11)",
+        "\"Harvest\" by Shihoru (Haruka Terui) (ep 8)",
+        "\"Cultivate\" by (K)NoW_NAME (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 3994,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/77976.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31859,
+    "members": 404464,
+    "opening_themes": [
+        "\"Knew day\" by (K)NoW_NAME (eps 1-4, 6-11)"
+    ],
+    "popularity": 164,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        }
+    ],
+    "rank": 886,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 56755,
+                "name": "Hai to Gensou no Grimgar",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/56755/Hai_to_Gensou_no_Grimgar"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32561,
+                "name": "Hai to Gensou no Grimgar: Furoagari no Kabe ni Kaketa Seishun - One More Centimeter",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32561/Hai_to_Gensou_no_Grimgar__Furoagari_no_Kabe_ni_Kaketa_Seishun_-_One_More_Centimeter"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:906f6712163b3aa82a669d1a16d4d2b17377fa3f",
+    "score": 7.81,
+    "scored_by": 210121,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Fear, survival, instinct. Thrown into a foreign land with nothing but hazy memories and the knowledge of their name, they can feel only these three emotions resonating deep within their souls. A group of strangers is given no other choice than to accept the only paying job in this game-like world\u2014the role of a soldier in the Reserve Army\u2014and eliminate anything that threatens the peace in their new world, Grimgar. When all of the stronger candidates join together, those left behind must create a party together to survive: Manato, a charismatic leader and priest; Haruhiro, a nervous thief; Yume, a cheerful hunter; Shihoru, a shy mage; Mogzo, a kind warrior; and Ranta, a rowdy dark knight. Despite its resemblance to one, this is no game\u2014there are no redos or respawns; it is kill or be killed. It is now up to this ragtag group of unlikely fighters to survive together in a world where life and death are separated only by a fine line. [Written by MAL Rewrite]",
+    "title": "Hai to Gensou no Grimgar",
+    "title_english": "Grimgar: Ashes and Illusions",
+    "title_japanese": "\u7070\u3068\u5e7b\u60f3\u306e\u30b0\u30ea\u30e0\u30ac\u30eb",
+    "title_synonyms": [
+        "Grimgal of Ashes and Fantasies",
+        "Hai to Gensou no Grimgal"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/nFhwqXYchiY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31859/Hai_to_Gensou_no_Grimgar"
+}

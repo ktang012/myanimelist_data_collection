@@ -1,0 +1,183 @@
+{
+    "aired": {
+        "from": "2014-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 8, 2014 to Sep 23, 2014",
+        "to": "2014-09-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ao Haru Ride is the anime adaptation of the manga series written and illustrated by Io Sakisaka, which was serialized in the shoujo magazine Bessatsu Margaret between 2011 and 2015. It has sold over 5.84 million copies, and released in Germany, France, Italy, Taiwan and Poland. It was adapted into a live action film directed by Takahiro Miki and released on 13 December 2014. The anime is licensed for release in North America with English subtitles by Sentai Filmworks.",
+    "broadcast": "Tuesdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Blue (\u30d6\u30eb\u30fc)\" by Fujifabric"
+    ],
+    "episodes": 12,
+    "favorites": 5289,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/64813.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21995,
+    "members": 389682,
+    "opening_themes": [
+        "\"Sekai wa Koi ni Ochiteiru (\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b)\" by CHiCO with HoneyWorks"
+    ],
+    "popularity": 171,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1449,
+            "name": "Animatic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+        },
+        {
+            "mal_id": 1488,
+            "name": "Hakuhodo DY Media Partners",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+        },
+        {
+            "mal_id": 1516,
+            "name": "Sony PCL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+        }
+    ],
+    "rank": 896,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24294,
+                "name": "Ao Haru Ride",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24294/Ao_Haru_Ride"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24151,
+                "name": "Ao Haru Ride OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24151/Ao_Haru_Ride_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 20706,
+    "request_cached": true,
+    "request_hash": "request:anime:d9c60c348669eec70c7916239fbb1649f3f78ef4",
+    "score": 7.8,
+    "scored_by": 211594,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Futaba Yoshioka used to be an attractive and popular middle-schooler\u2014well liked by the opposite sex, but ostracized by the girls. Nevertheless, she was able to brush all that off, because the only opinion that truly mattered to her was that of Kou Tanaka, a classmate with whom she shared a shelter from rain once, followed by quite a few other precious and significant memories. She even succeeded at making plans to meet with the quiet and innocent boy at the summer festival, but a simple misunderstanding, and Tanaka's subsequent disappearance, left her walking the halls of her school friendless. Now in high school, Futaba is not your typical adolescent girl. Determined to become a class favorite this time, she avoids all unwanted attention and, instead of acting cute and feminine, only stands out through her tomboyish behavior and disheveled look. But still, her world is soon turned upside down when the only boy she ever liked unexpectedly comes into her life once again\u2014except he goes by the name of Kou Mabuchi now, and it is not his name alone that has gone through a sea change. [Written by MAL Rewrite]",
+    "title": "Ao Haru Ride",
+    "title_english": "Blue Spring Ride",
+    "title_japanese": "\u30a2\u30aa\u30cf\u30e9\u30a4\u30c9",
+    "title_synonyms": [
+        "Aoharaido"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/78k9Rh7kiRo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21995/Ao_Haru_Ride"
+}

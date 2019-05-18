@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2014-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 12, 2014 to Sep 27, 2014",
+        "to": "2014-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kyuusei Argyros (\u6551\u4e16\u0386\u03c1\u03b3\u03c5\u03c1\u00f3\u03db)\" by Yousei Teikoku"
+    ],
+    "episodes": 12,
+    "favorites": 169,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/64587.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 21353,
+    "members": 127528,
+    "opening_themes": [
+        "\"Tokyo Zero Hearts (\u6771\u4eac\u30bc\u30ed\u30cf\u30fc\u30c4)\" by Faylan"
+    ],
+    "popularity": 797,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        }
+    ],
+    "rank": 5428,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 18619,
+                "name": "Tokyo ESP",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/18619/Tokyo_ESP"
+            },
+            {
+                "mal_id": 91740,
+                "name": "Tokyo ESP",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91740/Tokyo_ESP"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 4725,
+                "name": "Ga-Rei: Zero",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4725/Ga-Rei__Zero"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:0db44ea029ac7dd90111d4bf9839259751817c8d",
+    "score": 6.62,
+    "scored_by": 54948,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Rinka Urushiba works part time as a waitress to help out her unemployed father. By all accounts, her life in Tokyo is a relatively normal one\u2014but her sense of normalcy begins to fade when she inexplicably sees a flying penguin one day. Chasing it all the way to the top of a building, she encounters more surprises, including flying goldfish and another person\u2014a classmate named Kyoutarou Azuma\u2014who can also see these strange things. After Rinka passes out when a goldfish phases through her, she wakes up an esper with the ability to phase her body through solid matter. However, her newfound ability is not the only strange thing about her: when she uses her powers, her hair turns white. Deciding reluctantly to use this new gift to help the city, she becomes Tokyo's new hero, dubbed the \"White Girl.\" Along with Kyoutarou, who gained the power of teleportation, Rinka begins righting the wrongs in the city while fighting other espers who have much less noble intentions. [Written by MAL Rewrite]",
+    "title": "Tokyo ESP",
+    "title_english": "Tokyo ESP",
+    "title_japanese": "\u6771\u4eacESP",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/mJlKu9ZM1N8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21353/Tokyo_ESP"
+}

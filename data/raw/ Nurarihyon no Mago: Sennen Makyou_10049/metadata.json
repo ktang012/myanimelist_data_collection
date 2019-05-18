@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2011-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Jul 3, 2011 to Dec 18, 2011",
+        "to": "2011-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "VIZ Media released the TV broadcast version of Nurarihyon no Mago: Sennen Makyou on Blu-ray and DVD in North America. They later explained this was the version the Japanese licensors provided them with, and it wasn't possible to obtain the uncut home video version.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Orange Smile\" by Katate\u2606SIZE (eps 1-12)",
+        "\"Departure\" by Katate\u2606SIZE (eps 13-23)"
+    ],
+    "episodes": 24,
+    "favorites": 586,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/77300.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 10049,
+    "members": 109049,
+    "opening_themes": [
+        "\"Hoshi no Arika (\u661f\u306e\u5728\u51e6\u3002\uff0d\u30db\u30b7\u30ce\u30a2\u30ea\u30ab\uff0d)\" by LM.C (eps 1-12)",
+        "\"The LOVE SONG\" by LM.C (eps 13-24)"
+    ],
+    "popularity": 946,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 245,
+            "name": "Toho",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/245/Toho"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 474,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 5664,
+                "name": "Nurarihyon no Mago",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/5664/Nurarihyon_no_Mago"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 15959,
+                "name": "Nurarihyon no Mago OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15959/Nurarihyon_no_Mago_OVA"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 7592,
+                "name": "Nurarihyon no Mago",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7592/Nurarihyon_no_Mago"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 11083,
+                "name": "Nurarihyon no Mago: Sennen Makyou Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11083/Nurarihyon_no_Mago__Sennen_Makyou_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 26,
+    "request_cached": true,
+    "request_hash": "request:anime:80ff245998849a11a7af982c92ee45d4394ece31",
+    "score": 8.08,
+    "scored_by": 56856,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "At first glance, Nura Rikuo seems like nothing more than a normal middle-schooler. In actual fact, he is grandson of Nurarihyon, master of a youkai clan. Having only recently resolved the hostilities between the Nura Clan and the Shikoku Yokai, Rikuo finds no rest as an ancient enemy of the Nura Clan, Haguromo-Gitsune, resurfaces. After 400 years of inactivity, Haguromo-Gitsune suddenly sweeps through Kyoto with overwhelming power. (Source: AniDB)",
+    "title": "Nurarihyon no Mago: Sennen Makyou",
+    "title_english": "Nura: Rise of the Yokai Clan - Demon Capital",
+    "title_japanese": "\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b \u5343\u5e74\u9b54\u4eac",
+    "title_synonyms": [
+        "Nurarihyon no Mago 2",
+        "The Grandson of Nurarihyon 2",
+        "Grandchild of Nurarihyon 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-pqfgDZMqLE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10049/Nurarihyon_no_Mago__Sennen_Makyou"
+}

@@ -1,0 +1,176 @@
+{
+    "aired": {
+        "from": "2014-10-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 19, 2014 to Dec 21, 2014",
+        "to": "2014-12-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kusa no Shitone (\u8349\u306e\u8335)\" by Toshio Masuda (ep 1)",
+        "\"Kaoru Yami (\u9999\u308b\u95c7)\" by Toshio Masuda (ep 2)",
+        "\"Nokori Beni (\u6b8b\u308a\u7d05)\" by Toshio Masuda (ep 3)",
+        "\"Komori E (\u96a0\u308a\u6c5f)\" by Toshio Masuda (ep 4)",
+        "\"Hikari no Ou (\u5149\u306e\u7dd2)\" by Toshio Masuda (ep 5)",
+        "\"Koten no Hoshi (\u58fa\u5929\u306e\u661f)\" by Toshio Masuda (ep 6)",
+        "\"Mizu Aomu (\u6c34\u78a7\u3080)\" by Toshio Masuda (ep 7)",
+        "\"Ikatsuchi no Tamoto (\u96f7\u306e\u8882)\" by Toshio Masuda (ep 8)",
+        "\"Doro no Kusa\" (\u6ce5\u306e\u8349) by Toshio Masuda (ep 9)",
+        "\"Tokoshie no Ki\" (\u5e38\u306e\u6a39) by Toshio Masuda (ep 10)"
+    ],
+    "episodes": 10,
+    "favorites": 840,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/68095.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 24701,
+    "members": 141321,
+    "opening_themes": [
+        "\"SHIVER\" by Lucy Rose"
+    ],
+    "popularity": 711,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        }
+    ],
+    "rank": 29,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 418,
+                "name": "Mushishi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/418/Mushishi"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 21939,
+                "name": "Mushishi Zoku Shou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou"
+            },
+            {
+                "mal_id": 24687,
+                "name": "Mushishi Zoku Shou: Odoro no Michi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24687/Mushishi_Zoku_Shou__Odoro_no_Michi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 28957,
+                "name": "Mushishi Zoku Shou: Suzu no Shizuku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28957/Mushishi_Zoku_Shou__Suzu_no_Shizuku"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:467e8118dc7091a5e3aff9ecaa8637ce64899bc6",
+    "score": 8.81,
+    "scored_by": 57052,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 8,
+            "name": "Artland",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        }
+    ],
+    "synopsis": "Ghostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern as he passes from village to village. Through circumstance, Ginko has become an arbiter, determining which Mushi are blessings and which are curses. But the lines that he seeks to draw are subjective. Some of his patients would rather exercise their new powers until they are utterly consumed by them; others desperately strive to rid themselves of afflictions which are in fact protecting their lives from devastation. Those who cross paths with Mushi must learn to accept seemingly impossible consequences for their actions, and heal wounds they did not know they had. Otherwise, they risk meeting with fates beyond their comprehension. [Written by MAL Rewrite]",
+    "title": "Mushishi Zoku Shou 2nd Season",
+    "title_english": null,
+    "title_japanese": "\u87f2\u5e2b \u7d9a\u7ae0",
+    "title_synonyms": [
+        "Mushishi Zoku Shou 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/zuX3P6ynAgc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/24701/Mushishi_Zoku_Shou_2nd_Season"
+}

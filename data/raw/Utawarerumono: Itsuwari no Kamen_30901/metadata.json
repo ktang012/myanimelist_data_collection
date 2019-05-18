@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2015-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Oct 4, 2015 to Mar 27, 2016",
+        "to": "2016-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Utawarerumono: Itsuwari no Kamen is an adaptation of the visual novel of the same name.\r\nAlthough it came out nearly a decade later, Utawarerumono: Itsuwari no Kamen shares a number of characters and voice actors with the first series, Utawaremono.",
+    "broadcast": "Sundays at 01:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Yume ka Utsutsu ka (\u30e6\u30e1\u30ab\u30a6\u30c4\u30c4\u30ab)\" by Suara (eps 2-5)",
+        "\"Hoshi Furu Sora Aogi Mite (\u661f\u964d\u308b\u7a7a\u4ef0\u304e\u898b\u3066)\" by Suara"
+    ],
+    "episodes": 25,
+    "favorites": 337,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75968.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 30901,
+    "members": 78428,
+    "opening_themes": [
+        "\"Fuantei na Kamisama (\u4e0d\u5b89\u5b9a\u306a\u795e\u69d8)\" by Suara (eps 2-12)",
+        "\"Ame Kakeru Hoshi (\u5929\u304b\u3051\u308b\u661f)\" by Suara (eps 13-)"
+    ],
+    "popularity": 1248,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 882,
+            "name": "Toranoana",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/882/Toranoana"
+        },
+        {
+            "mal_id": 1329,
+            "name": "AQUAPLUS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1329/AQUAPLUS"
+        },
+        {
+            "mal_id": 1330,
+            "name": "ensky",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1330/ensky"
+        },
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+    ],
+    "rank": 2434,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95106,
+                "name": "Utawarerumono: Itsuwari no Kamen",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95106/Utawarerumono__Itsuwari_no_Kamen"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 856,
+                "name": "Utawarerumono",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/856/Utawarerumono"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 36777,
+                "name": "Utawarerumono: Tusukuru-koujo no Karei Naru Hibi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36777/Utawarerumono__Tusukuru-koujo_no_Karei_Naru_Hibi"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33208,
+                "name": "Utawarerumono: Itsuwari no Kamen Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33208/Utawarerumono__Itsuwari_no_Kamen_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 10557,
+    "request_cached": true,
+    "request_hash": "request:anime:46b61d4a190e4023b7a166620f809ab47fb7ba3c",
+    "score": 7.32,
+    "scored_by": 31727,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "Waking up cold and alone in the woods, a nameless man is surrounded by unfamiliar scenes. Without any memories, he is utterly lost until he stumbles upon Kuon\u2014a young girl with animal ears and a tail. She saves him, leading him back to her town while protecting them both from \"boro-gigiri\"\u2014giant centipede-like creatures\u2014and a mysterious red slime. After they arrive, she names him Haku after a prominent historical figure from the area. He quickly realizes he is one of a kind\u2014the only one without animal ears and a tail. The two journey to the capital of Yamato, the country in which Kuon lives, meeting more people and making new friends, all the while unknowingly delving deeper into the politics and inner conflicts of Yamato... Utawarerumono: Itsuwari no Kamen follows Haku as he slowly uncovers the secrets of this alien world. He works to solve the mysteries surrounding the red slimes, as well as to stop war from erupting among the nearby countries. [Written by MAL Rewrite]",
+    "title": "Utawarerumono: Itsuwari no Kamen",
+    "title_english": "Utawarerumono: The False Faces",
+    "title_japanese": "\u3046\u305f\u308f\u308c\u308b\u3082\u306e \u507d\u308a\u306e\u4eee\u9762",
+    "title_synonyms": [
+        "Utawarerumono: The False Mask"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Z3xqwyVfSOQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30901/Utawarerumono__Itsuwari_no_Kamen"
+}

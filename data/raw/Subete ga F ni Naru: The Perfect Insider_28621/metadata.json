@@ -1,0 +1,139 @@
+{
+    "aired": {
+        "from": "2015-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 9, 2015 to Dec 18, 2015",
+        "to": "2015-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Subete ga F ni Naru: The Perfect Insider is based on the Japanese mystery novel of the same name by Hiroshi Mori, which was released on April 5, 1996.\r\nEpisodes 1 and 2 were previewed at a screening at Zepp Tokyo on September 30, 2015. Regular broadcasting began on October 9, 2015.",
+    "broadcast": "Fridays at 00:55 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Nana Hitsuji (\u30ca\u30ca\u30d2\u30c4\u30b8)\" by Scenarioart"
+    ],
+    "episodes": 11,
+    "favorites": 539,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76071.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 28621,
+    "members": 115438,
+    "opening_themes": [
+        "\"talking\" by KANA-BOON"
+    ],
+    "popularity": 890,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        },
+        {
+            "mal_id": 1412,
+            "name": "Kansai Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1412/Kansai_Telecasting"
+        }
+    ],
+    "rank": 2473,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 83459,
+                "name": "Subete ga F ni Naru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/83459/Subete_ga_F_ni_Naru"
+            },
+            {
+                "mal_id": 88994,
+                "name": "Subete ga F ni Naru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/88994/Subete_ga_F_ni_Naru"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f83e50965c821a6a39d43f103d173b3125d58ccf",
+    "score": 7.31,
+    "scored_by": 48981,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "In a research facility hidden away on a remote island, genius programmer Shiki Magata has lived as a recluse for years. She rarely sees guests, but associate professor Souhei Saikawa and university student Moe Nishinosono still seek her out. However, their meeting is cut short when they are caught up in a locked-room murder mystery. Everything is not as it seems, and many secrets are hidden. Within an isolated facility, a seemingly impossible and gruesome crime takes place, and Saikawa and Moe must unravel the truth behind the murder and Magata's shrouded past. [Written by MAL Rewrite]",
+    "title": "Subete ga F ni Naru: The Perfect Insider",
+    "title_english": "The Perfect Insider",
+    "title_japanese": "\u3059\u3079\u3066\u304cF\u306b\u306a\u308b THE PERFECT INSIDER",
+    "title_synonyms": [
+        "Everything Becomes F: The Perfect Insider"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/nmT4jMKAQhk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28621/Subete_ga_F_ni_Naru__The_Perfect_Insider"
+}

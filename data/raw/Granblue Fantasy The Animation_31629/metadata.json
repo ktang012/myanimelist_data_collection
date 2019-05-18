@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2017-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 2, 2017 to Jun 25, 2017",
+        "to": "2017-06-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Sora no Parade (\u30bd\u30e9\u306e\u30d1\u30ec\u30fc\u30c9)\" by HARUHI"
+    ],
+    "episodes": 13,
+    "favorites": 174,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/81630.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 31629,
+    "members": 96722,
+    "opening_themes": [
+        "\"GO\" by BUMP OF CHICKEN"
+    ],
+    "popularity": 1035,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 577,
+            "name": "Tohokushinsha Film Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+            "mal_id": 1587,
+            "name": "Cygames",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+        }
+    ],
+    "rank": 4474,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 106800,
+                "name": "Granblue Fantasy",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/106800/Granblue_Fantasy"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34454,
+                "name": "Granblue Fantasy",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34454/Granblue_Fantasy"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35814,
+                "name": "Granblue Fantasy The Animation: Kabocha no Lantern",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35814/Granblue_Fantasy_The_Animation__Kabocha_no_Lantern"
+            },
+            {
+                "mal_id": 36587,
+                "name": "Granblue Fantasy The Animation Season 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36587/Granblue_Fantasy_The_Animation_Season_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:af01ab33a5929ac1c677edaff6b83d5d7870418c",
+    "score": 6.81,
+    "scored_by": 30752,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "This is a world of the skies, where many islands drift in the sky. A boy named Gran and a talking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries. One day, they come across a girl named Lyria. Lyria had escaped from the Erste Empire, a military government that is trying to rule over this world using powerful military prowess. In order to escape from the Empire, Gran and Lyria head out into the vast skies, holding the letter Gran's father left behind\u2014which said, \"I will be waiting at Estalucia, Island of Stars.\" (Source: Aniplex of America)",
+    "title": "Granblue Fantasy The Animation",
+    "title_english": null,
+    "title_japanese": "GRANBLUE FANTASY The Animation",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/yGZoqzMWRuU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31629/Granblue_Fantasy_The_Animation"
+}

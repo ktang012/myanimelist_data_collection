@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2012-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 3, 2012 to Sep 18, 2012",
+        "to": "2012-09-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"100% Chu~Gakusei (100\uff05\u3061\u3085\uff5e\u5b66\u751f)\" by Nanamori Chu\u2606Goraku Bu (\u4e03\u68ee\u4e2d\u2606\u3054\u3089\u304f\u90e8) (ep 1-7, 9-12)",
+        "\"Girls Power de (\u30ac\u30fc\u30eb\u30ba\u30d1\u30ef\u30fc\u3067)\" by Yui Funami (Minami Tsuda) & Chinatsu Yoshikawa (Rumi Ookubo) (ep 8)"
+    ],
+    "episodes": 12,
+    "favorites": 828,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75174.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 12403,
+    "members": 122446,
+    "opening_themes": [
+        "\"Yes! Yuyuyu\u2606Yuru Yuri\u266a\u266a (\u3044\u3047\u3059! \u3086\u3086\u3086\u2606\u3086\u308b\u3086\u308a\u266a\u266a)\" by Nanamori Chu\u2606Goraku Bu (\u4e03\u68ee\u4e2d\u2606\u3054\u3089\u304f\u90e8) (eps 1-5, 7-10, 12)",
+        "\"Yonde Mirakurun! (\u3088\u3093\u3067\u30df\u30e9\u30af\u308b\u3093!)\" by Majokko Mirakurun (\u9b54\u5973\u3063\u5a18\u30df\u30e9\u30af\u308b\u3093) (Ayana Taketatsu) (ep 6)"
+    ],
+    "popularity": 835,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        }
+    ],
+    "rank": 699,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11593,
+                "name": "Yuru Yuri",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11593/Yuru_Yuri"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10495,
+                "name": "Yuru Yuri",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10495/Yuru_Yuri"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23225,
+                "name": "Yuru Yuri Nachuyachumi!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23225/Yuru_Yuri_Nachuyachumi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:581f359a250266693c966f9c4204399e18705d53",
+    "score": 7.91,
+    "scored_by": 70194,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "The girls of the Amusement Club return in Yuru Yuri\u266a\u266a, finding new ways to make passing time even more enjoyable. Their members consist of the always energetic Kyouko Toshinou; calm and sensible Yui Funami; polite but often overlooked Akari Akaza; and Chinatsu Yoshikawa, who stumbled upon the others while looking for the Tea Ceremony Club. Together they are the Amusement Club, which has the deceptively simple task of keeping its members entertained. Along with the Student Council and the odd family member, they strive to enjoy their youth to the fullest. Whether it's a trip to a hot spring or finishing overdue homework, their lives are never dull, and they will always find an excuse to spend time together. [Written by MAL Rewrite]",
+    "title": "Yuru Yuri\u266a\u266a",
+    "title_english": "YuruYuri: Happy Go Lily \u266a\u266a",
+    "title_japanese": "\u3086\u308b\u3086\u308a\u266a\u266a",
+    "title_synonyms": [
+        "Yuru Yuri S2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/LGSOhBnMEoY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12403/Yuru_Yuri\u266a\u266a"
+}

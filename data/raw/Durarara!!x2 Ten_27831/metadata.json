@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2015-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 4, 2015 to Sep 26, 2015",
+        "to": "2015-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"EXIT\" by REVALCY (eps 1-11)"
+    ],
+    "episodes": 12,
+    "favorites": 647,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/74981.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 27831,
+    "members": 227441,
+    "opening_themes": [
+        "\"Day you laugh\" by Toshiyuki Toyonaga"
+    ],
+    "popularity": 395,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+    ],
+    "rank": 468,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 16816,
+                "name": "Durarara!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16816/Durarara"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 23199,
+                "name": "Durarara!!x2 Shou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23199/Durararax2_Shou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 27833,
+                "name": "Durarara!!x2 Ketsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27833/Durararax2_Ketsu"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31552,
+                "name": "Durarara!!x2 Ten: Onoroke Chakapoko",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31552/Durararax2_Ten__Onoroke_Chakapoko"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:a3787e6e0b42622a0ad4d6d3bc375ce68783a472",
+    "score": 8.08,
+    "scored_by": 115861,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1119,
+            "name": "Shuka",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+        }
+    ],
+    "synopsis": "In Ikebukuro, the lives of its citizens continue intertwining with each other as if their fates are predestined. Mikado Ryuugamine is now one step closer to his goal of living an exciting life, and in turn, delves deeper into the darker side of Ikebukuro. After gaining absolute control over a former rival, he uses his newfound power as he pleases, purging the Dollars from the inside to mold it into the ideal organization. This proves to be as challenging as it sounds as Mikado must now deal with unwanted outside interference, most notably a re-emerging and dearly missed friend. Meanwhile, Izaya Orihara still has some schemes up his sleeve, although a rival information exchange center has proven to be quite the hindrance, lurking within everyone\u2019s favorite downtown district. Undoubtedly, sooner or later, chaos will strike again. [Written by MAL Rewrite]",
+    "title": "Durarara!!x2 Ten",
+    "title_english": "Durarara!! x2 Ten",
+    "title_japanese": "\u30c7\u30e5\u30e9\u30e9\u30e9!!\u00d7\uff12 \u8ee2",
+    "title_synonyms": [
+        "Durarara!!x2 Ten"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/d7wPSLpUcFg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/27831/Durararax2_Ten"
+}

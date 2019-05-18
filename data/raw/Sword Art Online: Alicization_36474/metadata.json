@@ -1,0 +1,185 @@
+{
+    "aired": {
+        "from": "2018-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Oct 7, 2018 to Mar 31, 2019",
+        "to": "2019-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Sword Art Online: Alicization is an adaptation of volumes 9 through 18 of Reki Kawahara's Sword Art Online light novel series.",
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"ADAMAS\" by LiSA (ep 1)",
+        "\"Iris (\u30a2\u30a4\u30ea\u30b9)\" by Eir Aoi (eps 2-13)",
+        "\"forget-me-not\" by ReoNa (eps 14-18, 20-)"
+    ],
+    "episodes": 24,
+    "favorites": 3579,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 36474,
+    "members": 303343,
+    "opening_themes": [
+        "\"ADAMAS\" by LiSA (eps 2-13)",
+        "\"RESISTER\" by ASCA (eps 14-)"
+    ],
+    "popularity": 279,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        },
+        {
+            "mal_id": 1444,
+            "name": "Egg Firm",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+        },
+        {
+            "mal_id": 1683,
+            "name": "Straight Edge",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1683/Straight_Edge"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+            "mal_id": 1858,
+            "name": "Sonilude",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+        }
+    ],
+    "rank": 976,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 21479,
+                "name": "Sword Art Online",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/21479/Sword_Art_Online"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31765,
+                "name": "Sword Art Online Movie: Ordinal Scale",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31765/Sword_Art_Online_Movie__Ordinal_Scale"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 39597,
+                "name": "Sword Art Online: Alicization - War of Underworld",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 39239,
+                "name": "Sword Art Online: Alicization - Recollection",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39239/Sword_Art_Online__Alicization_-_Recollection"
+            }
+        ]
+    },
+    "request_cache_expiry": 5573,
+    "request_cached": true,
+    "request_hash": "request:anime:2639bbd78033ea82a065f479450928c75d8e3fa9",
+    "score": 7.77,
+    "scored_by": 99912,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "\"Where...am I...?\" Before he knows it, Kirito has made a full-dive into an epic, fantasy-like virtual world. With only a murky recollection of what happened right before he logged in, he starts to wander around, searching for clues. He comes upon an enormous, pitch dark tree (the Gigas Cedar), where he encounters a boy. \"My name is Eugeo. Nice to meet you, Kirito.\" Although he is supposedly a resident of the virtual world \u2013 an NPC \u2013 the boy shows the same array of emotions as any human being. As Kirito bonds with Eugeo, he continues to search for a way to log out of this world. Meanwhile, he remembers a certain memory deep down within him. He remembers racing through the mountains with Eugeo as a child... A memory that he should not have in the first place. And in this memory, he sees someone other than Eugeo, a young blond girl. Her name is Alice. And it is a name that must never be forgotten... (Source: Aniplex USA)",
+    "title": "Sword Art Online: Alicization",
+    "title_english": "Sword Art Online: Alicization",
+    "title_japanese": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30a2\u30ea\u30b7\u30bc\u30fc\u30b7\u30e7\u30f3",
+    "title_synonyms": [
+        "Sword Art Online III",
+        "SAO Alicization"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/AgUDAN_6nOE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization"
+}

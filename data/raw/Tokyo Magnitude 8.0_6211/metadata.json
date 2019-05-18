@@ -1,0 +1,131 @@
+{
+    "aired": {
+        "from": "2009-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2009
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Jul 10, 2009 to Sep 18, 2009",
+        "to": "2009-09-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"M/elody\" by Shion Tsuji"
+    ],
+    "episodes": 11,
+    "favorites": 1428,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/13776.jpg",
+    "licensors": [
+        {
+            "mal_id": 490,
+            "name": "Maiden Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+        }
+    ],
+    "mal_id": 6211,
+    "members": 180054,
+    "opening_themes": [
+        "\"Kimi no Uta(\u30ad\u30df\u30ce\u30a6\u30bf)\" by abingdon boys school"
+    ],
+    "popularity": 539,
+    "premiered": "Summer 2009",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 245,
+            "name": "Toho",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/245/Toho"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 417,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Summary": [
+            {
+                "mal_id": 7654,
+                "name": "Tokyo Magnitude 8.0 Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7654/Tokyo_Magnitude_80_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 1983,
+    "request_cached": true,
+    "request_hash": "request:anime:c586925af5eca3f52f093d82c5621ffc746520ae",
+    "score": 8.13,
+    "scored_by": 77605,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        },
+        {
+            "mal_id": 290,
+            "name": "Kinema Citrus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+    ],
+    "synopsis": "Middle school student Mirai Onozawa is dissatisfied with her family circumstances and, in a moment of frustration, wishes to tear everything apart. Unfortunately, these destructive thoughts seem to come true in the form of a magnitude 8.0 earthquake just a few moments later. When summer vacation begins, Mirai reluctantly takes her younger brother Yuuki to Odaiba, where a robot exhibition that he wanted to go to is being held. However, while they are in the exhibition center, the fury of a major earthquake shakes the Kanto region; helpless, both kids witness the devastating power of this natural disaster as it brings the city to its knees. In its aftermath, they stumble upon Mari Kusakabe, a motorcyclist and single mother who decides to help the young siblings. Aiming to return to their homes and reunite with their families, the group sets off on a long and hard journey through the decimated city. [Written by MAL Rewrite]",
+    "title": "Tokyo Magnitude 8.0",
+    "title_english": "Tokyo Magnitude 8.0",
+    "title_japanese": "\u6771\u4eac\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c98.0",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/IqhrKb11rEU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6211/Tokyo_Magnitude_80"
+}

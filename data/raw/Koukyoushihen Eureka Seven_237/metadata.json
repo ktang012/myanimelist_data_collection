@@ -1,0 +1,247 @@
+{
+    "aired": {
+        "from": "2005-04-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 2,
+                "month": 4,
+                "year": 2006
+            }
+        },
+        "string": "Apr 17, 2005 to Apr 2, 2006",
+        "to": "2006-04-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The anime has won multiple awards including \"Best Screenplay,\" \"Best Television Series,\" and \"Best Character Designs\" at the 5th Tokyo Anime Awards, an award in the \"Domestic Digital Contents Category\" at the 20th Digital Content Grand Prix, and the \"Best Female Character\" and \"Best Television Series\" during the 2006 Anime Expo SPJA Awards in the US.",
+    "broadcast": "Sundays at 07:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Himitsu Kichi (\u79d8\u5bc6\u57fa\u5730)\" by Kozue Takada (eps 1-13,26)",
+        "\"Fly Away\" by Izawa Asami (eps 14-25)",
+        "\"Tip Taps Tip\" by HALCALI (eps 27-39)",
+        "\"Canvas\" by COOLON (eps 40-50)"
+    ],
+    "episodes": 50,
+    "favorites": 8459,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 237,
+    "members": 331742,
+    "opening_themes": [
+        "\"DAYS\" by FLOW (eps 1-13)",
+        "\"Shounen Heart\" by Home Made Kazoku (eps 14-26)",
+        "\"Taiyou no Mannaka he\" by Bivattchee (eps 27-39)",
+        "\"Sakura\" by NIRGILIS (eps 40-50)"
+    ],
+    "popularity": 241,
+    "premiered": "Spring 2005",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 230,
+            "name": "Bandai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/230/Bandai"
+        },
+        {
+            "mal_id": 242,
+            "name": "Ashi Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/242/Ashi_Production"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 1097,
+            "name": "Bandai Namco Games",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+        },
+        {
+            "mal_id": 1488,
+            "name": "Hakuhodo DY Media Partners",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+        },
+        {
+            "mal_id": 1588,
+            "name": "Bandai Channel",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1588/Bandai_Channel"
+        },
+        {
+            "mal_id": 1615,
+            "name": "USEN",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1615/USEN"
+        }
+    ],
+    "rank": 399,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1037,
+                "name": "Koukyoushihen Eureka seveN",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1037/Koukyoushihen_Eureka_seveN"
+            },
+            {
+                "mal_id": 23550,
+                "name": "Eureka Seven",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23550/Eureka_Seven"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 4246,
+                "name": "Koukyoushihen Eureka Seven: Pocket ga Niji de Ippai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4246/Koukyoushihen_Eureka_Seven__Pocket_ga_Niji_de_Ippai"
+            },
+            {
+                "mal_id": 13731,
+                "name": "Koukyoushihen Eureka Seven: New Order",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13731/Koukyoushihen_Eureka_Seven__New_Order"
+            },
+            {
+                "mal_id": 35134,
+                "name": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35134/Koukyoushihen_Eureka_Seven_Hi-Evolution_1"
+            },
+            {
+                "mal_id": 35135,
+                "name": "Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35135/Koukyoushihen_Eureka_Seven_Hi-Evolution_2__Anemone"
+            },
+            {
+                "mal_id": 35136,
+                "name": "Koukyoushihen Eureka Seven Hi-Evolution 3",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35136/Koukyoushihen_Eureka_Seven_Hi-Evolution_3"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 12471,
+                "name": "Eureka Seven AO",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12471/Eureka_Seven_AO"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 1631,
+                "name": "Koukyoushihen Eureka Seven: Navigation ray=out",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1631/Koukyoushihen_Eureka_Seven__Navigation_ray_out"
+            }
+        ]
+    },
+    "request_cache_expiry": 9879,
+    "request_cached": true,
+    "request_hash": "request:anime:f590eb075e9c74b28d28191bbc247a8ce0ca9d09",
+    "score": 8.14,
+    "scored_by": 136119,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "In the backwater town of Bellforest lives a 14-year-old boy named Renton Thurston. He desires to leave his home behind and join the mercenary group known as Gekkostate, hoping to find some adventure to brighten up his mundane life. However, stuck between his grandfather's insistence to become a mechanic like him and the pressure of his deceased father's legacy, the only excitement Renton finds is in his pastime of riding the Trapar wave particles that are dispersed throughout the air, an activity akin to surfing. Everything changes when an unknown object crashes through Renton's garage, discovered to be a Light Finding Operation\u2014a robot capable of riding the Trapar waves\u2014specifically known as the Nirvash typeZERO. Its pilot is a young girl named Eureka, a member of the Gekkostate, who requests a tune-up for the Nirvash. Their meeting sparks the beginning of Renton's involvement with the Gekkostate as he takes off alongside Eureka as the co-pilot of the Nirvash. [Written by MAL Rewrite]",
+    "title": "Koukyoushihen Eureka Seven",
+    "title_english": "Eureka Seven",
+    "title_japanese": "\u4ea4\u97ff\u8a69\u7bc7\u30a8\u30a6\u30ec\u30ab\u30bb\u30d6\u30f3",
+    "title_synonyms": [
+        "Psalms of Planets Eureka Seven"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/W6DdmPA6Ye0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven"
+}

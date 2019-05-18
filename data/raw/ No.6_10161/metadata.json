@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Sep 16, 2011",
+        "to": "2011-09-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "No. 6 condenses but largely remains faithful to the the original nine-part light novel series. Changes were made to tone down the amount of violence in the series, in addition to creating an alternate ending.",
+    "broadcast": "Fridays at 01:15 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Rokutousei no Yoru (\u516d\u7b49\u661f\u306e\u591c)\" by Aimer"
+    ],
+    "episodes": 11,
+    "favorites": 5931,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1474/90768.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10161,
+    "members": 245829,
+    "opening_themes": [
+        "\"Spell\" by LAMA"
+    ],
+    "popularity": 363,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        }
+    ],
+    "rank": 1132,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24308,
+                "name": "No.6",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24308/No6"
+            },
+            {
+                "mal_id": 26728,
+                "name": "No.6",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26728/No6"
+            }
+        ]
+    },
+    "request_cache_expiry": 27016,
+    "request_cached": true,
+    "request_hash": "request:anime:61b7de0ed55eb7a7f2d2d1ce6e162386b5226514",
+    "score": 7.7,
+    "scored_by": 121630,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Many years ago, after the end of a bloody world war, mankind took shelter in six city-states that were peaceful and perfect... at least on the surface. However, Shion\u2014an elite resident of the city-state No. 6\u2014gained a new perspective on the world he lives in, thanks to a chance encounter with a mysterious boy, Nezumi. Nezumi turned out to be just one of many who lived in the desolate wasteland beyond the walls of the supposed utopia. But despite knowing that the other boy was a fugitive, Shion decided to take him in for the night and protect him, which resulted in drastic consequences: because of his actions, Shion and his mother lost their status as elites and were relocated elsewhere, and the darker side of the city began to make itself known. Now, a long time after their life-altering first meeting, Shion and Nezumi are finally brought together once again\u2014the former elite and the boy on the run are about to embark on an adventure that will, in time, reveal the shattering secrets of No. 6. [Written by MAL Rewrite]",
+    "title": "No.6",
+    "title_english": "No. 6",
+    "title_japanese": "NO.6\uff3b\u30ca\u30f3\u30d0\u30fc\u30fb\u30b7\u30c3\u30af\u30b9\uff3d",
+    "title_synonyms": [
+        "Number Six",
+        "Number 6",
+        "No. Six"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/x2ig6nNs4xU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10161/No6"
+}

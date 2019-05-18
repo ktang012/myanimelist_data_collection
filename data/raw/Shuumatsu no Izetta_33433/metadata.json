@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2016-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 17,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 1, 2016 to Dec 17, 2016",
+        "to": "2016-12-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:00 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Hikari Aru Basho e (\u5149\u3042\u308b\u5834\u6240\u3078)\" by May'n"
+    ],
+    "episodes": 12,
+    "favorites": 251,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/82119.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33433,
+    "members": 128389,
+    "opening_themes": [
+        "\"cross the line\" by AKINO with bless4"
+    ],
+    "popularity": 789,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 406,
+            "name": "Asahi Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1331,
+            "name": "i0+",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1331/i0_"
+        },
+        {
+            "mal_id": 1537,
+            "name": "Wargaming Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1537/Wargaming_Japan"
+        },
+        {
+            "mal_id": 1538,
+            "name": "JTB Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1538/JTB_Entertainment"
+        },
+        {
+            "mal_id": 1581,
+            "name": "RAY",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1581/RAY"
+        }
+    ],
+    "rank": 4441,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {},
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:437d3870f0dcc08de42b4129ad48113023243036",
+    "score": 6.82,
+    "scored_by": 46905,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 30,
+            "name": "Ajia-Do",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ],
+    "synopsis": "After Germania invaded a neighboring country in 1939, Europe spiraled into a devastating war. During the war, Germania set its sights on the weak alpine country of Elystadt. Boasting a far superior military and having achieved profuse success earlier in the war, it was expected that Germania would conquer Elystadt with ease. Matters are only made worse for the small country when Germanian soldiers capture their princess, Ortfin\u00e9 \"Fin\u00e9\" Fredericka von Eylstadt, as she is heading to a crucial meeting with Britannia. Yet, when a concurrent Germanian transport mission goes awry, Izetta, the last witch alive, escapes. When she recognizes Princess Fin\u00e9 from her childhood, Izetta rescues her from the Germanian soldiers by making use of her magical abilities. Now reunited with the princess, Izetta pledges to protect Elystadt from Germania, and with the last surviving witch on their arsenal, Elystadt hopes to turn the tides against the imperialist war giant. [Written by MAL Rewrite]",
+    "title": "Shuumatsu no Izetta",
+    "title_english": "Izetta: The Last Witch",
+    "title_japanese": "\u7d42\u672b\u306e\u30a4\u30bc\u30c3\u30bf",
+    "title_synonyms": [
+        "Izetta",
+        "Die Letzte Hexe"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/piEEGQdBho8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33433/Shuumatsu_no_Izetta"
+}

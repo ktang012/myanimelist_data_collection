@@ -1,0 +1,232 @@
+{
+    "aired": {
+        "from": "2008-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Apr 4, 2008 to Sep 26, 2008",
+        "to": "2008-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Diamond Crevasse\" by May'n (Episodes 1-6, 8-9, 13-14) (Episode 1 DVD version use DC not Aimo)",
+        "\"Aimo\" by Megumi Nakajima (Episode 7)",
+        "\"Aimo~Tori no Hito\" by Megumi Nakajima (Episode 10)",
+        "\"Neko Nikki\" by Megumi Nakajima (Episode 11)",
+        "\"Ai Oboete Imasu Ka (Deculture Edition)\" by Megumi Nakajima (Episode 12)",
+        "\"Diamond Crevasse\" by Megumi Nakajima and May'n (Episode 15)",
+        "\"Northern Cross\" by May'n (Episode 16-18, 22-24)",
+        "\"Triangler\" by Maaya Sakamoto (Episode 19)",
+        "\"Empty Diamond Crevasse\" by May'n (Episode 20)",
+        "\"Azure Ether\" by Megumi Nakajima (Episode 21)",
+        "\"Triangler (fight on stage)\" by May'n and Megumi Nakajima (Episode 25)"
+    ],
+    "episodes": 25,
+    "favorites": 1772,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/15648.jpg",
+    "licensors": [],
+    "mal_id": 3572,
+    "members": 115615,
+    "opening_themes": [
+        "\"Triangler (\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30e9\u30fc)\" by Maaya Sakamoto (eps 1-16)",
+        "\"Seikan Hikou (\u661f\u9593\u98db\u884c)\" by Megumi Nakajima (ep 17)",
+        "\"Lion (\u30e9\u30a4\u30aa\u30f3)\" by May'n, Megumi Nakajima (eps 18-24)"
+    ],
+    "popularity": 886,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 351,
+            "name": "Big West",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/351/Big_West"
+        }
+    ],
+    "rank": 620,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7238,
+                "name": "Macross Frontier",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7238/Macross_Frontier"
+            },
+            {
+                "mal_id": 94140,
+                "name": "Macross Frontier",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/94140/Macross_Frontier"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 4454,
+                "name": "Macross F: Close Encounter - Deculture Edition",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4454/Macross_F__Close_Encounter_-_Deculture_Edition"
+            },
+            {
+                "mal_id": 4939,
+                "name": "Macross Fufonfia",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4939/Macross_Fufonfia"
+            },
+            {
+                "mal_id": 5310,
+                "name": "Macross F Movie 1: Itsuwari no Utahime",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5310/Macross_F_Movie_1__Itsuwari_no_Utahime"
+            },
+            {
+                "mal_id": 7222,
+                "name": "Macross F Movie 2: Sayonara no Tsubasa",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10050,
+                "name": "Macross F Music Clip Shuu: Nyankuri",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10050/Macross_F_Music_Clip_Shuu__Nyankuri"
+            },
+            {
+                "mal_id": 10361,
+                "name": "Macross F: Choujikuu Gekijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10361/Macross_F__Choujikuu_Gekijou"
+            },
+            {
+                "mal_id": 35077,
+                "name": "Gooorgeous",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35077/Gooorgeous"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 1398,
+                "name": "Macross Dynamite 7",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1398/Macross_Dynamite_7"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 28013,
+                "name": "Macross \u0394",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28013/Macross_\u0394"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 5165,
+                "name": "Macross 25th Anniversary: All That VF Macross F Version",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5165/Macross_25th_Anniversary__All_That_VF_Macross_F_Version"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 15177,
+                "name": "Macross FB7: Ore no Uta wo Kike!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15177/Macross_FB7__Ore_no_Uta_wo_Kike"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:d24e88c56894b3276a776a94696bfc3a84430589",
+    "score": 7.96,
+    "scored_by": 53887,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ],
+    "synopsis": "Following a catastrophic war against a race of giants known as the Zentradi, humanity has escaped towards the center of the galaxy aboard a fleet of colonial vessels called the Macross Frontier. As the extraterrestrial threat is left further and further behind, life on Macross Frontier proceeds as usual. In the year 2059, a young mecha pilot trainee named Alto Saotome and his colleagues are preparing to perform an accompanying routine for the famous singer Sheryl Nome, who has come to Macross Frontier for a concert. During the performance, a biomechanical alien species known as the Vajra make a sudden appearance, breaking through the defensive perimeter surrounding the vessel and crash-landing near the concert venue, plunging the entire city into chaos. As the concertgoers evacuate, a young girl named Ranka Lee is left behind and gets targeted by the Vajra, but she is saved at the last minute by Alto. Following these events, the Strategic Military Services program notes Alto's skill in battle, resulting in his recruitment to combat the new alien threat. [Written by MAL Rewrite]",
+    "title": "Macross F",
+    "title_english": "Macross Frontier",
+    "title_japanese": "\u30de\u30af\u30ed\u30b9F\uff08\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\uff09",
+    "title_synonyms": [],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3572/Macross_F"
+}

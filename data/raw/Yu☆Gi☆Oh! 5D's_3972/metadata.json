@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2008-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2011
+            }
+        },
+        "string": "Apr 2, 2008 to Mar 30, 2011",
+        "to": "2011-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 18:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"START\" by Nakagauchi Masataka (eps 01-26)",
+        "\"CROSS GAME\" by alice nine. (eps 27-64)",
+        "\"-OZONE-\" by vistlip (eps 65-103)",
+        "\"Close to You\" by ALvino (eps 104-129)",
+        "\"Future Colours\" by Plastic Tree (eps 130-154)"
+    ],
+    "episodes": 154,
+    "favorites": 1048,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/83403.jpg",
+    "licensors": [
+        {
+            "mal_id": 252,
+            "name": "4Kids Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/252/4Kids_Entertainment"
+        }
+    ],
+    "mal_id": 3972,
+    "members": 73560,
+    "opening_themes": [
+        "\"Kizuna\" by Kra (eps 01-26)",
+        "\"Last train (New Morning)\" by Knotlmp (eps 27-64)",
+        "\"FREEDOM\" by La-Vie (eps 65-103)",
+        "\"BELIEVE IN NEXUS\" by Masaki Endoh (eps 104-129)",
+        "\"Road to Tomorrow - Going My Way!!\" by Masaaki Endoh (eps 130-154)"
+    ],
+    "popularity": 1312,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        }
+    ],
+    "rank": 1705,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 15372,
+                "name": "Yu\u2606Gi\u2606Oh! 5D's",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/15372/Yu\u2606Gi\u2606Oh_5Ds"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10015,
+                "name": "Yu\u2606Gi\u2606Oh! Zexal",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10015/Yu\u2606Gi\u2606Oh_Zexal"
+            },
+            {
+                "mal_id": 21639,
+                "name": "Yu\u2606Gi\u2606Oh! Arc-V",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21639/Yu\u2606Gi\u2606Oh_Arc-V"
+            },
+            {
+                "mal_id": 34866,
+                "name": "Yu\u2606Gi\u2606Oh! VRAINS",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34866/Yu\u2606Gi\u2606Oh_VRAINS"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 482,
+                "name": "Yu\u2606Gi\u2606Oh!: Duel Monsters GX",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/482/Yu\u2606Gi\u2606Oh__Duel_Monsters_GX"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 5298,
+                "name": "Yu\u2606Gi\u2606Oh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5298/Yu\u2606Gi\u2606Oh_5Ds__Shinkasuru_Kettou_Stardust_vs_Red_Demons"
+            },
+            {
+                "mal_id": 6951,
+                "name": "Yu\u2606Gi\u2606Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6951/Yu\u2606Gi\u2606Oh_Movie__Chou_Yuugou_Toki_wo_Koeta_Kizuna"
+            }
+        ]
+    },
+    "request_cache_expiry": 1155,
+    "request_cached": true,
+    "request_hash": "request:anime:4403e93e733136c96c0ce1d33e3d8912f9d5877a",
+    "score": 7.5,
+    "scored_by": 37550,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 36,
+            "name": "Studio Gallop",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/36/Studio_Gallop"
+        }
+    ],
+    "synopsis": "Yu\u2606Gi\u2606Oh! 5D's, set in the not too distant future, is the sequel to Yu\u2606Gi\u2606Oh!: Duel Monsters GX. Following on from its predecessors, the show is centered on the Duel Monsters Card Game. Neo Domino City, a newer, evolved city is the largest in the world, watched over by its Director, Rex Godwin. Satellite, the renamed old Domino City, is now the city's main waste disposal area and the inhabitants who live there, Satellites, live in poor conditions and are forbidden from Duelling. Fudou Yuusei, the shows main protagonist, has built a D-Wheel (used for the new form of duelling, Riding Duels) in the hope that he can escape to Neo Domino City. Spurred on by revenge towards Jack Atlus, the King of Riding Duels, he manages to escape and duel Jack for his precious card, Stardust Dragon. However when it is summoned along with Jack's ace monster, Red Demons Dragon, a wondrous Crimson Dragon appears, along with a mysterious Birthmark on Yuusei's arm. From here on, Yuusei and his friends are thrown into a world of Darkness, from which they must duel their way out and attempt to save the world from the destructive forces that soon appear.",
+    "title": "Yu\u2606Gi\u2606Oh! 5D's",
+    "title_english": "Yu-Gi-Oh! 5D's",
+    "title_japanese": "\u904a\u2606\u622f\u2606\u738b5D's\uff08\u30d5\u30a1\u30a4\u30d6\u30c7\u30a3\u30fc\u30ba\uff09",
+    "title_synonyms": [
+        "Yuu Gi Ou: Duel Monsters 5DS",
+        "Yugioh 5 D's"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/uUMce3hKZWE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3972/Yu\u2606Gi\u2606Oh_5Ds"
+}

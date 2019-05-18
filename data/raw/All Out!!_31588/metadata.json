@@ -1,0 +1,139 @@
+{
+    "aired": {
+        "from": "2016-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Oct 7, 2016 to Mar 31, 2017",
+        "to": "2017-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Zenryoku Shounen produced by Tamio Okuda (\u5168\u529b\u5c11\u5e74 produced by \u5965\u7530\u6c11\u751f)\" by Sukima Switch",
+        "\"No Side (\u30ce\u30fc\u30b5\u30a4\u30c9)\" by Alisa Takigawa"
+    ],
+    "episodes": 25,
+    "favorites": 251,
+    "genres": [
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/78649.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31588,
+    "members": 70395,
+    "opening_themes": [
+        "\"Flower\" by Lenny code fiction",
+        "\"Seija no Koushin (\u751f\u8005\u30ce\u884c\u9032)\" by CIVILIAN"
+    ],
+    "popularity": 1367,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 94,
+            "name": "Telecom Animation Film",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/94/Telecom_Animation_Film"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        }
+    ],
+    "rank": 2893,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 70739,
+                "name": "All Out!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/70739/All_Out"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c728f17296cd430cbfe677e2898deb5976f10373",
+    "score": 7.2,
+    "scored_by": 27045,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "In rugby, there is no ace striker, there is no number four batter, so who is the star of the team? The story begins at school entrance ceremony of Kanagawa High School where Kenji Gion, a small but gutsy go-getter joins the rugby club. He joins with his classmate, Iwashimizu, who has a complicated past and sub-captain Hachiouji, who always takes good care of his Club members. Lastly, there is Captain Sekizan, who has overwhelming powers but keeps his cards close to his chest. With such differences in both personality and physical performance, the team must learn to work and grow together so they can become the best. (Source: TMS Entertainment)",
+    "title": "All Out!!",
+    "title_english": "All Out!!",
+    "title_japanese": "\u30aa\u30fc\u30eb\u30a2\u30a6\u30c8!!",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/dd4sJUqiWLM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31588/All_Out"
+}

@@ -1,0 +1,161 @@
+{
+    "aired": {
+        "from": "2010-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Jul 9, 2010 to Dec 31, 2010",
+        "to": "2010-12-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Early screening on the 27th of June with the regular airing starting on July 9th.",
+    "broadcast": "Fridays at 01:15 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Walk no Yakusoku (walk\u306e\u7d04\u675f)\" by nangi (eps 1-11)",
+        "\"Gekka Reijin (\u6708\u4e0b\u9e97\u4eba)\" by Buck-Tick (eps 12-22)"
+    ],
+    "episodes": 22,
+    "favorites": 6168,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/21343.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 7724,
+    "members": 366533,
+    "opening_themes": [
+        "\"Kuchizuke\" (\u304f\u3061\u3065\u3051) by Buck-Tick (eps 1-11)",
+        "\"Calendula Requiem\" by kanon x kanon (eps 12-22)"
+    ],
+    "popularity": 197,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 759,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3486,
+                "name": "Shiki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3486/Shiki"
+            },
+            {
+                "mal_id": 114260,
+                "name": "Shiki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/114260/Shiki"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10083,
+                "name": "Shiki Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10083/Shiki_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 40264,
+    "request_cached": true,
+    "request_hash": "request:anime:b5b4ac1d9b94b7dcf4a0abf127e84ffc29714c50",
+    "score": 7.88,
+    "scored_by": 164206,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 39,
+            "name": "Daume",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/39/Daume"
+        }
+    ],
+    "synopsis": "Fifteen-year-old Megumi Shimizu dreamed of a glamorous life in the big city; however, her unexpected death in the quiet village of Sotoba marks the beginning of what appears to be a ferocious epidemic that turns the hot summer into a season of blood and terror. A young doctor named Toshio Ozaki begins to doubt the nature of the disease and comes to understand that to discover the truth, he must abandon his humanity. Meanwhile, Natsuno Yuuki, an antisocial youth from the city, is haunted by the sudden death of Megumi and must realize the pain of friendship in the face of his own tragedy. Toshio and Natsuno form an unlikely pair as they work together to save Sotoba before it transforms into a ghost town of vampires. Shiki, adapted from the horror novel written by Fuyumi Ono, goes beyond the average vampire story. It tells the tragic tale of survival in a world where one cannot easily distinguish between good and evil. Abandoned by God, the Shiki, as the vampires call themselves, have only their will to live as they clash with the fear of the paranoid/unbelieving villagers. Shiki explores the boundary that separates man from monster. [Written by MAL Rewrite]",
+    "title": "Shiki",
+    "title_english": "Shiki",
+    "title_japanese": "\u5c4d\u9b3c",
+    "title_synonyms": [
+        "Corpse Demon"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/pshSDDqKVSA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7724/Shiki"
+}

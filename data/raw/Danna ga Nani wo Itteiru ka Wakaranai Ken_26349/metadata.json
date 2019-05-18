@@ -1,0 +1,121 @@
+{
+    "aired": {
+        "from": "2014-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 3, 2014 to Dec 26, 2014",
+        "to": "2014-12-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:00 (JST)",
+    "duration": "3 min per ep",
+    "ending_themes": [
+        "\"Iikagen ni Shite, Anata (\u3044\u3044\u304b\u3052\u3093\u306b\u3057\u3066\u3001\u3042\u306a\u305f)\" by Kaoru & Hajime (Yukari Tamura & Kenichi Suzumura) (eps 1-8, 10-11, 13)",
+        "\"Okusama no Blues (\u5965\u69d8\u306e\u30d6\u30eb\u30fc\u30b9)\" by Kaoru, Rino Juse, Tanaka-san (Yukari Tamura, Rie Kugimiya, Ryouko Shintani) (ep 12)"
+    ],
+    "episodes": 13,
+    "favorites": 629,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75287.jpg",
+    "licensors": [],
+    "mal_id": 26349,
+    "members": 205990,
+    "opening_themes": [],
+    "popularity": 457,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 615,
+            "name": "Dream Creation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+        }
+    ],
+    "rank": 1708,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 73575,
+                "name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/73575/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 29067,
+                "name": "Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29067/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken_2_Sure-me"
+            }
+        ]
+    },
+    "request_cache_expiry": 3576,
+    "request_cached": true,
+    "request_hash": "request:anime:3423f621cbee5dd961f48f461ddb6902b65ac5ee",
+    "score": 7.49,
+    "scored_by": 114709,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 541,
+            "name": "Seven",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/541/Seven"
+        }
+    ],
+    "synopsis": "Though they couldn't be any more different, love has managed to blossom between Hajime Tsunashi, a hardcore otaku who shuts himself in at home while making a living off his blog, and his wife Kaoru\u2014a hard-working office lady who, in contrast, is fairly ordinary, albeit somewhat of a crazy drunk. As this unlikely couple discovers, love is much more than just a first kiss or a wedding; the years that come afterward in the journey of marriage brings with it many joys as well as challenges. Whether due to their quirky personalities or the peculiar people surrounding them, Hajime and Kaoru find themselves caught up in a variety of baffling and ridiculous antics. But despite the struggles they face, the love that ties them together spurs them to move forward and strive to become better people in order to bring their partner happiness. [Written by MAL Rewrite]",
+    "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+    "title_english": "I Can't Understand What My Husband Is Saying",
+    "title_japanese": "\u65e6\u90a3\u304c\u4f55\u3092\u8a00\u3063\u3066\u3044\u308b\u304b\u308f\u304b\u3089\u306a\u3044\u4ef6",
+    "title_synonyms": [
+        "Danna ga Nani wo Itteiru ka Wakaranai Ken"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/UZhI7a2j9mk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/26349/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken"
+}

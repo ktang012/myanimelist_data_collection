@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2016-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Apr 7, 2016 to Jun 23, 2016",
+        "to": "2016-06-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Namae wo Yobu yo (\u540d\u524d\u3092\u547c\u3076\u3088)\" by Luck Life"
+    ],
+    "episodes": 12,
+    "favorites": 6457,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/79409.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 31478,
+    "members": 433268,
+    "opening_themes": [
+        "\"TRASH CANDY\" by GRANRODEO"
+    ],
+    "popularity": 142,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 687,
+            "name": "Bandai Namco Live Creative",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/687/Bandai_Namco_Live_Creative"
+        },
+        {
+            "mal_id": 1255,
+            "name": "Glovision",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+            "mal_id": 1309,
+            "name": "Lawson HMV Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1309/Lawson_HMV_Entertainment"
+        },
+        {
+            "mal_id": 1516,
+            "name": "Sony PCL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+        }
+    ],
+    "rank": 868,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 56529,
+                "name": "Bungou Stray Dogs",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/56529/Bungou_Stray_Dogs"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32867,
+                "name": "Bungou Stray Dogs 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 42013,
+    "request_cached": true,
+    "request_hash": "request:anime:3f0b473650c1db544d1db7de0e3d483b5e245d45",
+    "score": 7.82,
+    "scored_by": 203705,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "For weeks, Atsushi Nakajima's orphanage has been plagued by a mystical tiger that only he seems to be aware of. Suspected to be behind the strange incidents, the 18-year-old is abruptly kicked out of the orphanage and left hungry, homeless, and wandering through the city. While starving on a riverbank, Atsushi saves a rather eccentric man named Osamu Dazai from drowning. Whimsical suicide enthusiast and supernatural detective, Dazai has been investigating the same tiger that has been terrorizing the boy. Together with Dazai's partner Doppo Kunikida, they solve the mystery, but its resolution leaves Atsushi in a tight spot. As various odd events take place, Atsushi is coerced into joining their firm of supernatural investigators, taking on unusual cases the police cannot handle, alongside his numerous enigmatic co-workers. [Written by MAL Rewrite]",
+    "title": "Bungou Stray Dogs",
+    "title_english": "Bungo Stray Dogs",
+    "title_japanese": "\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9",
+    "title_synonyms": [
+        "Literary Stray Dogs"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/zyc8p_jDdtI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs"
+}

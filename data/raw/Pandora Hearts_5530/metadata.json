@@ -1,0 +1,142 @@
+{
+    "aired": {
+        "from": "2009-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Apr 3, 2009 to Sep 25, 2009",
+        "to": "2009-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Maze\" by savage genius feat. Tomoe Ohmi (eps 1-13)",
+        "\"Watashi wo Mitsukete. (\u79c1\u3092\u898b\u3064\u3051\u3066\u3002)\" by savage genius (eps 14-25)"
+    ],
+    "episodes": 25,
+    "favorites": 5263,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75535.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 5530,
+    "members": 305589,
+    "opening_themes": [
+        "\"Parallel Hearts\" by FictionJunction (Wakana Ootaki, Keiko Kubota, Kaori Oda, Yuriko Kaida)"
+    ],
+    "popularity": 274,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 876,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3031,
+                "name": "Pandora Hearts",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3031/Pandora_Hearts"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6896,
+                "name": "Pandora Hearts Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6896/Pandora_Hearts_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2b465e5b01dc17470aeaad376fca511290c05ad8",
+    "score": 7.82,
+    "scored_by": 125105,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "To young Oz Vessalius, heir to the Vessalius Duke House, the perilous world called the Abyss is nothing more than a folktale used to scare misbehaving children. However, when Oz's coming-of-age ceremony is interrupted by the malicious Baskerville Clan intent on banishing him into the depths of the Abyss, the Vessalius heir realizes that his peaceful life of luxury is at its end. Now, he must confront the world of the Abyss and its dwellers, the monstrous \"Chains,\" which are both not quite as fake as he once believed. Based on the supernatural fantasy manga of the same name, Pandora Hearts tells the story of fifteen-year-old Oz's journey to discover the meaning behind the strange events that have overtaken his life. Assisted by a mysterious Chain named Alice, whose nickname is \"Bloodstained Black Rabbit,\" and members of a clandestine organization known as \"Pandora,\" Oz begins to realize his existence may have more meaning than he could have ever imagined. [Written by MAL Rewrite]",
+    "title": "Pandora Hearts",
+    "title_english": "PandoraHearts",
+    "title_japanese": "\u30d1\u30f3\u30c9\u30e9\u30cf\u30fc\u30c4",
+    "title_synonyms": [
+        "Pandora Hearts"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/9Psc_hBkOoc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5530/Pandora_Hearts"
+}

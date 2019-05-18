@@ -1,0 +1,161 @@
+{
+    "aired": {
+        "from": "2014-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 11, 2014 to Jun 20, 2014",
+        "to": "2014-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ryuugajou Nanana no Maizoukin adapts the first 3 novels of Kazuma Ootorino's light novel series of the same title.",
+    "broadcast": "Fridays at 01:20 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kasukana Hisokana Tashikana Mirai (\u5fae\u304b\u306a\u5bc6\u304b\u306a\u78ba\u304b\u306a\u30df\u30e9\u30a4)\" by Sphere"
+    ],
+    "episodes": 11,
+    "favorites": 255,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/60475.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 21561,
+    "members": 154812,
+    "opening_themes": [
+        "\"Butterfly Effect (\u30d0\u30bf\u30d5\u30e9\u30a4\u30a8\u30d5\u30a7\u30af\u30c8)\" by Shiritsu Ebisu Chuugaku (\u79c1\u7acb\u6075\u6bd4\u5bff\u4e2d\u5b66)"
+    ],
+    "popularity": 638,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 789,
+            "name": "BIGLOBE",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/789/BIGLOBE"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        }
+    ],
+    "rank": 2627,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 36733,
+                "name": "Ryuugajou Nanana no Maizoukin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/36733/Ryuugajou_Nanana_no_Maizoukin"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 13517,
+                "name": "Ryuugajou Nanana no Maizoukin PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13517/Ryuugajou_Nanana_no_Maizoukin_PV"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 25117,
+                "name": "Ryuugajou Nanana no Maizoukin Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25117/Ryuugajou_Nanana_no_Maizoukin_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4f5a30dce2761f3afa38a48b2a9be280097e708e",
+    "score": 7.27,
+    "scored_by": 69304,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Nanae Island is a man-made island in the Pacific Ocean that holds everything necessary for the proper education and training of children. It was created by the Great Seven, a group of adventurers headed by Nanana Ryuugajou, as a place for the young to chase their dreams. After being disowned and exiled by his family, high school student Juugo Yama arrives on this island, happy to finally be free of his father. Upon moving into his new room, he discovers the ghost of Nanana Ryuugajou, bound to the island after her unsolved murder 10 years ago. Nanana tells Juugo that, just before her death, she hid items with unique and mysterious powers all across the island\u2014items known as the Nanana Collection. Hoping to uncover clues that will help him find the culprit behind her death, Juugo, with the help of self-proclaimed \"Master Detective\" Tensai Ikkyuu and her cross-dressing maid Daruku Hoshino, sets out on his search. [Written by MAL Rewrite]",
+    "title": "Ryuugajou Nanana no Maizoukin",
+    "title_english": "Nanana's Buried Treasure",
+    "title_japanese": "\u9f8d\u30f6\u5b22\u4e03\u3005\u3005\u306e\u57cb\u8535\u91d1",
+    "title_synonyms": [
+        "Ryuugajou Nanana no Maizoukin"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/C-J-iw6Fl7Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21561/Ryuugajou_Nanana_no_Maizoukin"
+}

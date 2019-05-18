@@ -1,0 +1,100 @@
+{
+    "aired": {
+        "from": "2018-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Jul 12, 2018 to Sep 27, 2018",
+        "to": "2018-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Sirius (\u30b7\u30ea\u30a6\u30b9)\" by Kishida Kyoudan & The Akeboshi Rockets (eps 1, 12)",
+        "\"Hoshie (\u661f\u7d75)\" by sajou no hana (eps 2-11)"
+    ],
+    "episodes": 12,
+    "favorites": 327,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1456/94897.jpg",
+    "licensors": [],
+    "mal_id": 37569,
+    "members": 99771,
+    "opening_themes": [
+        "\"Sirius (\u30b7\u30ea\u30a6\u30b9)\" by Kishida Kyoudan & The Akeboshi Rockets (eps 2-6, 8-11)"
+    ],
+    "popularity": 1009,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 1386,
+            "name": "Infinite",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+        }
+    ],
+    "rank": 2849,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {},
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:26ebd9a26ed73339c0ef2de9a37357eb5d2c75d0",
+    "score": 7.22,
+    "scored_by": 33993,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 132,
+            "name": "P.A. Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ],
+    "synopsis": "In the year 1930, vampires have infiltrated Tokyo to feast upon its unsuspecting citizens. As the number of victims continues to rise, the city's authorities decide to hire the Jaegers\u2014a strange, diverse group of individuals tasked by the V Shipping Company to hunt down vampires around the world. Carrying musical instrument cases to disguise their identity, the Jaegers battle the vampires with the same mercilessness demonstrated by their foes. Yuliy, the Jaeger's most skilled warrior, is the sole survivor of a vampire raid on his home village. Using the strength granted by his werewolf blood, he works with his team to assist Tokyo's law enforcement with the city's vampire problem. Though under the pretense of helping the police, the Jaegers are actually fighting the vampires over the mystical Ark of Sirius. With its power to change the fate of the world, Yuliy and his friends must locate the artifact before the vampires can use it to achieve their destructive goals. [Written by MAL Rewrite]",
+    "title": "Sirius",
+    "title_english": "Sirius the Jaeger",
+    "title_japanese": "\u5929\u72fc\u3008\u30b7\u30ea\u30a6\u30b9\u3009 Sirius the Jaeger",
+    "title_synonyms": [
+        "Tenrou"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/K1zgQyxJDio?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37569/Sirius"
+}

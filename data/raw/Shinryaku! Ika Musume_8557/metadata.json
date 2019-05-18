@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2010-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 5, 2010 to Dec 21, 2010",
+        "to": "2010-12-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Metamerism (\u30e1\u30bf\u30e1\u30ea\u30ba\u30e0)\" by Kanae Itou"
+    ],
+    "episodes": 12,
+    "favorites": 823,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/27126.jpg",
+    "licensors": [
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        },
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 8557,
+    "members": 131501,
+    "opening_themes": [
+        "\"Shinryaku no Susume\u2606 (\u4fb5\u7565\u30ce\u30b9\u30b9\u30e1\u2606)\" by ULTRA-PRISM with Ika Musume"
+    ],
+    "popularity": 773,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 829,
+            "name": "Studio Jack",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/829/Studio_Jack"
+        }
+    ],
+    "rank": 1580,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 12671,
+                "name": "Shinryaku! Ika Musume",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/12671/Shinryaku_Ika_Musume"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10849,
+                "name": "Shinryaku! Ika Musume: Ika Ice Tabena-ika?",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10849/Shinryaku_Ika_Musume__Ika_Ice_Tabena-ika"
+            },
+            {
+                "mal_id": 15453,
+                "name": "Shinryaku! Ika Musume: Kore ga Umi e no Ai Jana-ika!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15453/Shinryaku_Ika_Musume__Kore_ga_Umi_e_no_Ai_Jana-ika"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10378,
+                "name": "Shinryaku!? Ika Musume",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10378/Shinryaku_Ika_Musume"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9888,
+                "name": "Shinryaku! Ika Musume Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9888/Shinryaku_Ika_Musume_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 19726,
+    "request_cached": true,
+    "request_hash": "request:anime:1782914c94a8d168186fa9412f078f0f3d1b61f7",
+    "score": 7.54,
+    "scored_by": 61003,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "From the depth of the seas rises an evil monster, bent on taking over the human world: Ika Musume. She's ruthless. She's menacing. She's... an adorably non-threatening little girl who makes an awesome squid-ink spaghetti? Ika Musume has come out of her home in the ocean on a quest to punish humanity for polluting her waters. With squid tentacles for hair and some pretty useful ink-spitting skills, Ika Musume is sure she'll have no trouble invading Earth. What she didn't account for were the Aizawa sisters, rough and tumble Eiko and deceptively mellow Chizuru, who immediately bully her into working as a waitress in their seafood restaurant by the shore. Ika Musume decides to take this chance to learn more about the human world, having silly adventures, meeting lots of strange characters, and never once letting world domination out of her sights. Will Ika Musume be able to exact her revenge on the human race that had wronged her? Or will she learn to enjoy the company of these foolish air-breathers and let bygones be bygones?",
+    "title": "Shinryaku! Ika Musume",
+    "title_english": "The Squid Girl",
+    "title_japanese": "\u4fb5\u7565!\u30a4\u30ab\u5a18",
+    "title_synonyms": [
+        "The Invader Comes From the Bottom of the Sea!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/rmAa-lK7C2A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8557/Shinryaku_Ika_Musume"
+}

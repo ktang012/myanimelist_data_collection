@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2011-10-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 14, 2011 to Dec 23, 2011",
+        "to": "2011-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Based on Sakaguchi Ango's novel \"Meiji Kaika Ango Torimonocho\"",
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Fantasy\" by LAMA"
+    ],
+    "episodes": 11,
+    "favorites": 594,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/33009.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10798,
+    "members": 111638,
+    "opening_themes": [
+        "\"How to go\" by school food punishment"
+    ],
+    "popularity": 919,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 245,
+            "name": "Toho",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/245/Toho"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        }
+    ],
+    "rank": 1850,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 34569,
+                "name": "UN-GO: Haisen Tantei Yuuki Shinjuurou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/34569/UN-GO__Haisen_Tantei_Yuuki_Shinjuurou"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 12411,
+                "name": "UN-GO: Inga Nikki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12411/UN-GO__Inga_Nikki"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11531,
+                "name": "UN-GO: Inga-ron",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11531/UN-GO__Inga-ron"
+            }
+        ]
+    },
+    "request_cache_expiry": 12269,
+    "request_cached": true,
+    "request_hash": "request:anime:b2c916c4eed8840758bf9200c3d9be267a2a9c83",
+    "score": 7.46,
+    "scored_by": 44630,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "In a dystopian future, detective Shinjuurou Yuuki\u2014known by some as the \"Defeated Detective\"\u2014solves mysteries throughout Tokyo. Aided by his odd associate Inga, Shinjuurou's insight and ingenuity in cracking cases, particularly homicides, lead to numerous mysteries solved and culprits caught. However, his partner seems to have some other, more sinister intentions for the people they catch, and the truth of the assistant's identity and motivation is shrouded in secrecy. [Written by MAL Rewrite]",
+    "title": "UN-GO",
+    "title_english": "Un-Go",
+    "title_japanese": "UN-GO \u30a2\u30f3 \u30b4",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/xgeU7S7aVdA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10798/UN-GO"
+}

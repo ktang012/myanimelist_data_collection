@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2005-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Oct 8, 2005 to Sep 23, 2006",
+        "to": "2006-09-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 18:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kataritsugu koto\" by Chitose Hajime (eps 1-13, 50)",
+        "\"CRY NO MORE\" by Mika Nakashima (eps 14-25)",
+        "\"This Love\" by Angela Aki (eps 26-38)",
+        "\"Brand New Map\" by K (eps 39-49)"
+    ],
+    "episodes": 50,
+    "favorites": 4295,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg",
+    "licensors": [
+        {
+            "mal_id": 15,
+            "name": "Sony Pictures Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+        }
+    ],
+    "mal_id": 150,
+    "members": 271550,
+    "opening_themes": [
+        "\"Aozora no Namida (\u9752\u7a7a\u306e\u30ca\u30df\u30c0)\" by Hitomi Takahashi (eps 1-13)",
+        "\"SEASON\u2019S CALL\" by HYDE (eps 14-25)",
+        "\"Colors of the Heart\" by UVERworld (eps 26-38)",
+        "\"Raion (\u96f7\u97f3)\" by Jinn (eps 39-50)"
+    ],
+    "popularity": 315,
+    "premiered": "Fall 2005",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 1020,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 747,
+                "name": "Blood+",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/747/Blood_"
+            },
+            {
+                "mal_id": 10410,
+                "name": "Blood+",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10410/Blood_"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 405,
+                "name": "Blood: The Last Vampire",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10490,
+                "name": "Blood-C",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10490/Blood-C"
+            },
+            {
+                "mal_id": 10681,
+                "name": "Blood-C: The Last Dark",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark"
+            }
+        ]
+    },
+    "request_cache_expiry": 40462,
+    "request_cached": true,
+    "request_hash": "request:anime:c763109f2d9a00ba68b9f14b01d122aa7afbc5bc",
+    "score": 7.74,
+    "scored_by": 114196,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year. However, Saya's forgotten past quickly comes back to haunt her\u2014one night, she is attacked at school by a creature that feeds on human blood. Just when all hope seems lost, a mysterious man named Haji appears and fends off the creature temporarily. But when her rescuer forces her to drink his blood, Saya suddenly enters a trance and slays the monster with ease, using her own blood as a catalyst. Saya then learns of an organization named Red Shield, founded for the sole purpose of defeating the hellish beasts. Now Saya and Haji must work together with Red Shield to fight these fearsome monsters and unlock the secrets to the girl's past. [Written by MAL Rewrite]",
+    "title": "Blood+",
+    "title_english": "Blood+",
+    "title_japanese": "\u30d6\u30e9\u30c3\u30c9\u30d7\u30e9\u30b9",
+    "title_synonyms": [
+        "Blood Plus"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/mjJ1W08vCKM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/150/Blood_"
+}

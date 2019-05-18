@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2011-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 8, 2011 to Jun 24, 2011",
+        "to": "2011-06-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Pre-aired on April 6, 2011. The regular TV broadcast started on April 8, 2011.",
+    "broadcast": "Fridays at 01:40 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Humming Girl (\u30cf\u30df\u30f3\u30b0\u30ac\u30fc\u30eb)\" by Kaori Fukuhara, Aoi Yuuki, Yumi Uchiyama, and Minako Kotobuki (eps 1-11)",
+        "\"Harukaze no Kagaku (\u306f\u308b\u304b\u305c\u306e\u5316\u5b66)\" by Kaori Fukuhara, Aoi Yuuki, Yumi Uchiyama, and Minako Kotobuki (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 303,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/29687.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 9776,
+    "members": 77521,
+    "opening_themes": [
+        "\"Morning Arch\" by Marina Kawano"
+    ],
+    "popularity": 1263,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 3645,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 20855,
+                "name": "A-Channel",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/20855/A-Channel"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10737,
+                "name": "A-Channel: +A-Channel",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10737/A-Channel___A-Channel"
+            },
+            {
+                "mal_id": 35285,
+                "name": "A-Channel: Nabe wo Tabeyou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35285/A-Channel__Nabe_wo_Tabeyou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 11339,
+                "name": "A-Channel+smile",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11339/A-Channel_smile"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:fda8b4fb73606514536761bfd9a4d91b062b802a",
+    "score": 7.02,
+    "scored_by": 33736,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 418,
+            "name": "Studio Gokumi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+        }
+    ],
+    "synopsis": "Tooru and Run have been best friends forever, so when Tooru learns that she's managed to get into the same high school as Run, she runs to tell her... only to find Run in a compromising position with yet another girl, Yuko. Needless to say, that makes things a bit awkward at school, with Tooru fending off those who might be interested in Run while Yuko and their other girlfriend, Nagi, have to deal with Run's own penchant for drama. (Source: Sentai Filmworks)",
+    "title": "A-Channel",
+    "title_english": "A-Channel",
+    "title_japanese": "A\u30c1\u30e3\u30f3\u30cd\u30eb",
+    "title_synonyms": [
+        "A-Channel: The Animation"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9776/A-Channel"
+}

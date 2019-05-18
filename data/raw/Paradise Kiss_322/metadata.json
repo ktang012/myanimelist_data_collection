@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2005-10-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2005
+            }
+        },
+        "string": "Oct 14, 2005 to Dec 30, 2005",
+        "to": "2005-12-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Paradise Kiss aired on Fuji Television's noitaminA block.",
+    "broadcast": "Fridays at 00:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Do You Want To\" by Franz Ferdinand"
+    ],
+    "episodes": 12,
+    "favorites": 2190,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/80636.jpg",
+    "licensors": [
+        {
+            "mal_id": 1459,
+            "name": "Geneon Entertainment USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+    ],
+    "mal_id": 322,
+    "members": 115812,
+    "opening_themes": [
+        "\"\u2665Lonely in Gorgeous\u2665\" by Tommy february6"
+    ],
+    "popularity": 886,
+    "premiered": "Fall 2005",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        }
+    ],
+    "rank": 732,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 29,
+                "name": "Paradise Kiss",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/29/Paradise_Kiss"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 852,
+                "name": "Gokinjo Monogatari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/852/Gokinjo_Monogatari"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ed703dca4b0b68f312b77019d3da85436251d949",
+    "score": 7.89,
+    "scored_by": 56492,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Third-year high school student Yukari Hayasaka has no time for frivolous things. She needs to study hard and attend cram school so she can do well on her university exams. She doesn't care which university she gets into; she just wants to leave the town she's grown bored of. Too bad her parents have other opinions on the subject. One day, while Yukari is walking down the street, a guy with multiple piercings and bleached hair flags her down. Suspicious of the stranger, she tries to get away from him but fails and ultimately ends up meeting his friends: a group of third-year fashion design students at a prestigious art school. They want her to be their model for their final project, but Yukari thinks it will only get in the way of her studies. But the more she gets to know them, the more she grows to admire the way they go after their dreams. Will modeling for this eccentric group of would-be fashion designers give Yukari a much-needed push to strive for her own goals? And what about her attraction to the group's leader, George Koizumi? Can a relationship between them work? Watch Paradise Kiss to find out!",
+    "title": "Paradise Kiss",
+    "title_english": "Paradise Kiss",
+    "title_japanese": "Paradise kiss",
+    "title_synonyms": [
+        "ParaKiss"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/btG48UGYVLM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/322/Paradise_Kiss"
+}

@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2008-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 5, 2008 to Mar 29, 2009",
+        "to": "2009-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hakanaku mo Towa no Kanashi\" by UVERworld (ep 1)",
+        "\"Prototype\" by Chiaki Ishikawa (eps 2-13)",
+        "\"TOMORROW\" by Ayumi Tsunematsu (ep 14)",
+        "\"trust you\" by Yuna Ito (eps 15-24 )",
+        "\"DAYBREAK'S BELL\" by L'Arc~en~Ciel (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 1312,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/12782.jpg",
+    "licensors": [
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        }
+    ],
+    "mal_id": 3927,
+    "members": 109636,
+    "opening_themes": [
+        "\"Hakanaku mo Towa no Kanashi\" by UVERworld (eps 2-13)",
+        "\"Namida no Mukou\" by Stereopony (eps 14-25)"
+    ],
+    "popularity": 942,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 379,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 18440,
+                "name": "Mobile Suit Gundam 00 Second Season",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/18440/Mobile_Suit_Gundam_00_Second_Season"
+            },
+            {
+                "mal_id": 19033,
+                "name": "Kidou Senshi Gundam 00 2nd.Season",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/19033/Kidou_Senshi_Gundam_00_2ndSeason"
+            },
+            {
+                "mal_id": 20477,
+                "name": "Mobile Suit Gundam 00 Second Season",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/20477/Mobile_Suit_Gundam_00_Second_Season"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 2581,
+                "name": "Mobile Suit Gundam 00",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6288,
+                "name": "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6288/Mobile_Suit_Gundam_00_The_Movie__A_Wakening_of_the_Trailblazer"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:d62b699e852aa72d65d6513ca83545e7eab7304f",
+    "score": 8.16,
+    "scored_by": 69218,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Mobile Suit Gundam 00 Second Season begins four years after the United Nations Forces were finally able to claim victory against Celestial Being. In order to prevent such an event from recurring, an independent military organization called the Autonomous Peace-Keeping Force, or A-Laws, has been formed in order to keep the ESF Army and other powerful organizations in check. Charged with the duties of eliminating terrorists and resistance groups as well as unifying the nations of the world for the benefit of all mankind, A-Laws seem to be the best solution to the people of the world. Unknown to the public, the A-Laws quickly began to abuse their power. Peoples all over the world and in space soon find themselves stripped of freedoms and forced to live under the A-Laws enforced doctrines all in the name of \u201cunity\u201d and \u201cpeace\u201d. Aware of A-Laws misuse of power, Celestial Being reemerges with the intent of stopping the A-Laws and correcting their past mistakes. What is unknown to these two groups is that a third organization, the Innovators, lurks in the shadows, manipulating events to reshape humanity into their own image.",
+    "title": "Mobile Suit Gundam 00 Second Season",
+    "title_english": "Mobile Suit Gundam 00: Second Season",
+    "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e000 \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3",
+    "title_synonyms": [
+        "Kidou Senshi Gundam 00 2nd Season",
+        "Mobile Suit Gundam 00 2nd Season",
+        "Gundam 00 S2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/xW2ABXyl_jc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3927/Mobile_Suit_Gundam_00_Second_Season"
+}

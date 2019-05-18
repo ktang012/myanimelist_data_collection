@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2012-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 6, 2012 to Mar 30, 2012",
+        "to": "2012-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Futari no Kimochi no Honto no Himitsu (\u3075\u305f\u308a\u306e\u304d\u3082\u3061\u306e\u307b\u3093\u3068\u306e\u3072\u307f\u3064)\" by Yasuna to Sonya (Chinatsu Akasaki & Mutsumi Tamura)"
+    ],
+    "episodes": 13,
+    "favorites": 357,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/87197.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 11079,
+    "members": 78910,
+    "opening_themes": [
+        "\"Kill Me no Baby! (\u30ad\u30eb\u30df\u30fc\u306e\u30d9\u30a4\u30d9\u30fc!)\" by Yasuna to Sonya (Chinatsu Akasaki & Mutsumi Tamura)"
+    ],
+    "popularity": 1239,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        }
+    ],
+    "rank": 4029,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 18472,
+                "name": "Kill Me Baby",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/18472/Kill_Me_Baby"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 20039,
+                "name": "Kill Me Baby: Butsuzou Kegatte Nise Halloween",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20039/Kill_Me_Baby__Butsuzou_Kegatte_Nise_Halloween"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:637857dc919f60a03f609cbeba2b65a6c883afa4",
+    "score": 6.92,
+    "scored_by": 31560,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Kill Me Baby is the touching story of Yasuna, a normal (?) high school girl, and Sonya, her best friend who happens to be an assassin. Unfortunately, little Sonya's trained assassin instincts often work against her and others in her daily high school life, as Yasuna's often-broken wrist can attest to. She just wanted a hug, but she ended up with a broken neck. Isn't it sad? No, it's hilarious. Not even Yasuna's intense ninja training can prepare her for the exciting adventures in this explosive 4-panel manga adaptation.",
+    "title": "Kill Me Baby",
+    "title_english": "Kill Me Baby",
+    "title_japanese": "\u30ad\u30eb\u30df\u30fc\u30d9\u30a4\u30d9\u30fc",
+    "title_synonyms": [
+        "Baby",
+        "Please Kill Me."
+    ],
+    "trailer_url": "https://www.youtube.com/embed/QCJowuoBTMY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11079/Kill_Me_Baby"
+}

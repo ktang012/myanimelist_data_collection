@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2007-07-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 11,
+                "month": 10,
+                "year": 2007
+            }
+        },
+        "string": "Jul 19, 2007 to Oct 11, 2007",
+        "to": "2007-10-11T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Koji\" by Kiyoshi Yoshida"
+    ],
+    "episodes": 12,
+    "favorites": 650,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 21,
+            "name": "Samurai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/10282.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 2216,
+    "members": 74904,
+    "opening_themes": [
+        "\"Shigurui\" by Kiyoshi Yoshida"
+    ],
+    "popularity": 1294,
+    "premiered": "Summer 2007",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 33,
+            "name": "WOWOW",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+            "mal_id": 1373,
+            "name": "Akita Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+        }
+    ],
+    "rank": 1806,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3868,
+                "name": "Shigurui",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3868/Shigurui"
+            }
+        ]
+    },
+    "request_cache_expiry": 26903,
+    "request_cached": true,
+    "request_hash": "request:anime:6e7e53f43ef27ff5b65944762d5283d8890fc689",
+    "score": 7.47,
+    "scored_by": 23782,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "At the beginning of the Edo Era, when people enjoyed a time of peace, Lord Tokugawa Tadanaga holds a fighting tournament. In the past, matches were fought with wooden swords. This time, real swords will be used. One-armed Fujiki Gennosuke and blind Irako Seigen will fight each other in this match. Both are disciples of Iwamoto Kogan, who is known as Japan's greatest swordsman. Each of them are determined to prove himself the successor of Iwamoto's school. However, there can only be one champion. So begins a story of intertwining fates, conflict, and strange destinies. (Source: ANN)",
+    "title": "Shigurui",
+    "title_english": "Shigurui: Death Frenzy",
+    "title_japanese": "\u30b7\u30b0\u30eb\u30a4",
+    "title_synonyms": [
+        "Crazy for Death"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/XE8bImi0_GQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2216/Shigurui"
+}

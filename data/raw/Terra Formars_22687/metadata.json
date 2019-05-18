@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2014-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 9,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Sep 27, 2014 to Dec 20, 2014",
+        "to": "2014-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Lightning\" by TERRASPEX"
+    ],
+    "episodes": 13,
+    "favorites": 511,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/67117.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 22687,
+    "members": 147809,
+    "opening_themes": [
+        "\"AMAZING BREAK\" by TERRASPEX"
+    ],
+    "popularity": 676,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 537,
+            "name": "SANZIGEN",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1449,
+            "name": "Animatic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+        }
+    ],
+    "rank": 3274,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37563,
+                "name": "Terra Formars",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37563/Terra_Formars"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 22689,
+                "name": "Terra Formars: Bugs 2-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22689/Terra_Formars__Bugs_2-hen"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31430,
+                "name": "Terra Formars Revenge",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31430/Terra_Formars_Revenge"
+            }
+        ]
+    },
+    "request_cache_expiry": 8842,
+    "request_cached": true,
+    "request_hash": "request:anime:b163e7b791e124c1b0bf6f6e7083c55ddb481699",
+    "score": 7.12,
+    "scored_by": 74827,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "During the 21st century, humanity attempted to colonize Mars by sending two species which could endure the harsh environment of the planet to terraform it\u2014algae and cockroaches. However, they did not anticipate the species' remarkable ability to adapt. Now in the 26th century, a lethal disease known as the Alien Engine Virus has arrived on Earth, and the cure is suspected to be found only on Mars. The problem is, Mars in the present is overrun by creatures known as \"Terraformars,\" incredibly powerful and intelligent humanoid cockroaches that mutated from those originally sent to the planet. The Annex I team, consisting of a hundred men and women genetically enhanced with characteristics of powerful organisms from earth, has been sent to Mars on a mission to find the cause of the Alien Engine Virus and to help cure humanity\u2014signalling the start of the crew's fight for survival. [Written by MAL Rewrite]",
+    "title": "Terra Formars",
+    "title_english": "Terraformars",
+    "title_japanese": "TERRA FORMARS [\u30c6\u30e9\u30d5\u30a9\u30fc\u30de\u30fc\u30ba]",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/KVx9GrpN5lU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22687/Terra_Formars"
+}

@@ -1,0 +1,186 @@
+{
+    "aired": {
+        "from": "2011-10-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Oct 14, 2011 to Mar 23, 2012",
+        "to": "2012-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first two episodes of Guilty Crown were screened at the New York Anime Festival on October 15, 2011. The screening of the second episode was a world premiere as the episode did not air in Japan until October 20, 2011.",
+    "broadcast": "Fridays at 01:15 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Departures ~Anata ni Okuru Ai no Uta~ (Departures ~\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c~)\" by EGOIST; produced by supercell; performed by Chelly (eps 1-12, 22)",
+        "\"Kokuhaku (\u544a\u767d)\" by supercell; performed by Koeda (eps 13-21)"
+    ],
+    "episodes": 22,
+    "favorites": 16034,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/33713.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 10793,
+    "members": 722797,
+    "opening_themes": [
+        "\"Euterpe\" by EGOIST; produced by supercell; performed by Chelly (ep 1)",
+        "\"My Dearest\" by supercell; performed by Koeda (eps 2-12)",
+        "\"The Everlasting Guilty Crown\" by EGOIST; produced by supercell; performed by Chelly (eps 13-22)"
+    ],
+    "popularity": 54,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 769,
+            "name": "Fuji Pacific Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/769/Fuji_Pacific_Music_Publishing"
+        }
+    ],
+    "rank": 1149,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 30871,
+                "name": "Guilty Crown",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/30871/Guilty_Crown"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 17949,
+                "name": "The Everlasting Guilty Crown",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17949/The_Everlasting_Guilty_Crown"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 13411,
+                "name": "Guilty Crown: Lost Christmas - An Episode of Port Town",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13411/Guilty_Crown__Lost_Christmas_-_An_Episode_of_Port_Town"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 13561,
+                "name": "Guilty Crown: 4-koma Gekijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13561/Guilty_Crown__4-koma_Gekijou"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 12419,
+                "name": "Guilty Crown Kiseki: Reassortment",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12419/Guilty_Crown_Kiseki__Reassortment"
+            }
+        ]
+    },
+    "request_cache_expiry": 26986,
+    "request_cached": true,
+    "request_hash": "request:anime:ac589fc2f626b5d300a9b405a90885cc1c5121b6",
+    "score": 7.69,
+    "scored_by": 377898,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Japan, 2039. Ten years after the outbreak of the \"Apocalypse Virus,\" an event solemnly regarded as \"Lost Christmas,\" the once proud nation has fallen under the rule of the GHQ, an independent military force dedicated to restoring order. Funeral Parlor, a guerilla group led by the infamous Gai Tsutsugami, act as freedom fighters, offering the only resistance to GHQ's cruel despotism. Inori Yuzuriha, a key member of Funeral Parlor, runs into the weak and unsociable Shuu Ouma during a crucial operation, which results in him obtaining the \"Power of Kings\"\u2014an ability which allows the wielder to draw out the manifestations of an individual's personality, or \"voids.\" Now an unwilling participant in the struggle against GHQ, Shuu must learn to control his newfound power if he is to help take back Japan once and for all. Guilty Crown follows the action-packed story of a young high school student who is dragged into a war, possessing an ability that will help him uncover the secrets of the GHQ, Funeral Parlor, and Lost Christmas. However, he will soon learn that the truth comes at a far greater price than he could have ever imagined. [Written by MAL Rewrite]",
+    "title": "Guilty Crown",
+    "title_english": "Guilty Crown",
+    "title_japanese": "\u30ae\u30eb\u30c6\u30a3\u30af\u30e9\u30a6\u30f3",
+    "title_synonyms": [
+        "GUILTY CROWN"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3prqSCE767c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10793/Guilty_Crown"
+}

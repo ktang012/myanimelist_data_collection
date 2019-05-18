@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2016-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 9, 2016 to Mar 26, 2016",
+        "to": "2016-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The actual Japan Self Defense Force has used images from Gate: Jieitai Kanochi nite, Kaku Tatakaeri as part of its recruiting efforts.",
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Itsudatte Communication (\u3044\u3064\u3060\u3063\u3066\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3)\" by Tuka (Hisako Kanemoto), Lelei (Nao Touyama), Rory (Risa Taneda) (eps 1-11)",
+        "\"GATE: Sore wa Akatsuki no you ni (GATE\uff5e\u305d\u308c\u306f\u6681\u306e\u3088\u3046\u306b\uff5e)\" by Kishida Kyoudan & The Akeboshi Rockets (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 1391,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/77382.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 31637,
+    "members": 297771,
+    "opening_themes": [
+        "\"GATE II: Sekai wo Koete (GATE \u2161 \uff5e\u4e16\u754c\u3092\u8d85\u3048\u3066\uff5e)\" by Kishida Kyoudan & The Akeboshi Rockets"
+    ],
+    "popularity": 290,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1097,
+            "name": "Bandai Namco Games",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+        }
+    ],
+    "rank": 720,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 67879,
+                "name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/67879/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 28907,
+                "name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28907/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri"
+            }
+        ]
+    },
+    "request_cache_expiry": 625,
+    "request_cached": true,
+    "request_hash": "request:anime:c3b2224a5694269ebb8a16a00142849122c6e513",
+    "score": 7.89,
+    "scored_by": 180171,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Several months have passed since the infamous Ginza Incident, with tensions between the Empire and JSDF escalating in the vast and mysterious \"Special Region\" over peace negotiations. The greed and curiosity of the global powers have also begun to grow, as reports about the technological limitations of the magical realm's archaic civilizations come to light. Meanwhile, Lieutenant Youji Itami and his merry band of female admirers struggle to navigate the complex political intrigue that plagues the Empire's court. Despite her best efforts, Princess Pi\u00f1a Co Lada faces difficulties attempting to convince her father that the JSDF has no intention of conquering their kingdom. Pressured from both sides of the Gate, Itami must consider even more drastic measures to fulfill his mission. [Written by MAL Rewrite]",
+    "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
+    "title_english": "GATE",
+    "title_japanese": "GATE\uff08\u30b2\u30fc\u30c8\uff09\u81ea\u885b\u968a\u3000\u5f7c\u306e\u5730\u306b\u3066\u3001\u65af\u304f\u6226\u3048\u308a\u3000\u7b2c2\u30af\u30fc\u30eb",
+    "title_synonyms": [
+        "Gate: Thus the JSDF Fought There! Fire Dragon Arc",
+        "Gate: Jieitai Kanochi nite",
+        "Kaku Tatakaeri - Enryuu-hen"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/TrwXsOTWUeU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31637/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri_2nd_Season"
+}

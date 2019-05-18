@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2014-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 12, 2014 to Mar 30, 2014",
+        "to": "2014-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Be mine!\" by Maaya Sakamoto (ep 1)",
+        "\"Bijoumania (\u30d3\u30b8\u30e5\u30e1\u30cb\u30a2)\" by Aoi Yuuki (eps 2-12)"
+    ],
+    "episodes": 12,
+    "favorites": 281,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/56133.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 20973,
+    "members": 101591,
+    "opening_themes": [
+        "\"Be mine!\" by Maaya Sakamoto"
+    ],
+    "popularity": 994,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 703,
+            "name": "Notes",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/703/Notes"
+        },
+        {
+            "mal_id": 1175,
+            "name": "Atelier Musa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        },
+        {
+            "mal_id": 1582,
+            "name": "Ichijinsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        }
+    ],
+    "rank": 3189,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 66709,
+                "name": "Sekai Seifuku: Junketsu no White Light",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66709/Sekai_Seifuku__Junketsu_no_White_Light"
+            },
+            {
+                "mal_id": 66739,
+                "name": "Sekai Seifuku: Bouryaku no Zvezda",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66739/Sekai_Seifuku__Bouryaku_no_Zvezda"
+            },
+            {
+                "mal_id": 66741,
+                "name": "Sekai Seifuku: 4-koma no Zvezda",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66741/Sekai_Seifuku__4-koma_no_Zvezda"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23459,
+                "name": "Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23459/Sekai_Seifuku__Bouryaku_no_Zvezda_-_Shin_Zvezda_Daisakusen"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4386c3444741f594518f58fd018935262e7615e9",
+    "score": 7.14,
+    "scored_by": 40520,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "What does it take to conquer the world?! Every leader of the past has thought of it... but all they have done was to merely dream of its greatness. World domination... nobody has been able to achieve it. Until one little girl by the name of Kate Hoshimiya came along. Kate Hoshimiya will shock the world! How was she able to carry out such a magnificent stunt? So frightful! So glorious! Could this be... the Zvezda Plot?! Let the light of our great Zvezda shine upon this land far and wide! (Source: Aniplex USA)",
+    "title": "Sekai Seifuku: Bouryaku no Zvezda",
+    "title_english": "World Conquest Zvezda Plot",
+    "title_japanese": "\u4e16\u754c\u5f81\u670d\uff5e\u8b00\u7565\u306e\u30ba\u30f4\u30a3\u30ba\u30c0\u30fc\uff5e",
+    "title_synonyms": [
+        "Sekai Seifuku: Bouryaku no Zvezda"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/BRKSi6yO2wk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20973/Sekai_Seifuku__Bouryaku_no_Zvezda"
+}

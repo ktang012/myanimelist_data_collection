@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2009-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Oct 3, 2009 to Mar 27, 2010",
+        "to": "2010-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 22:55 (JST)",
+    "duration": "20 min per ep",
+    "ending_themes": [
+        "\"Hatenaki Michi (\u679c\u3066\u306a\u304d\u9053; Endless Road)\" by HIMEKA (eps 1-13)",
+        "\"Hikari no Kioku (\u5149\u306e\u8a18\u61b6)\" by Angelo (eps 14-25)"
+    ],
+    "episodes": 25,
+    "favorites": 716,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/71808.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 6444,
+    "members": 90472,
+    "opening_themes": [
+        "\"Hajimari no Hi (\u306f\u3058\u307e\u308a\u306e\u65e5; Day of Beginnings)\" by Suga Shikao feat. Mummy-D (eps 1-13)",
+        "\"Love Letter no Kawari ni Kono Uta wo. (\u30e9\u30d6\u30ec\u30bf\u30fc\u306e\u304b\u308f\u308a\u306b\u3053\u306e\u8a69\u3092\u3002)\" by Seira (eps 14-25)"
+    ],
+    "popularity": 1092,
+    "premiered": "Fall 2009",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        }
+    ],
+    "rank": 1118,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1709,
+                "name": "Tegamibachi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1709/Tegamibachi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 8311,
+                "name": "Tegamibachi Reverse",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8311/Tegamibachi_Reverse"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 5538,
+                "name": "Tegamibachi: Hikari to Ao no Gensou Yawa",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5538/Tegamibachi__Hikari_to_Ao_no_Gensou_Yawa"
+            },
+            {
+                "mal_id": 8022,
+                "name": "Tegamibachi Gakuen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8022/Tegamibachi_Gakuen"
+            }
+        ]
+    },
+    "request_cache_expiry": 27384,
+    "request_cached": true,
+    "request_hash": "request:anime:2149e232402a3817c5383ef44423770e66a9f480",
+    "score": 7.71,
+    "scored_by": 33274,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "With his mother taken away from him and having lost everything, Lag Seeing is now a letter whose delivery has been assigned to Gauche Suede, a Letter Bee. Despite their troubling start, the two of them become friends, leading Lag to realize what his aim in life is: to deliver people's most important feelings in the form of letters, just as Gauche has done. [Written by MAL Rewrite]",
+    "title": "Tegamibachi",
+    "title_english": "Tegami Bachi: Letter Bee",
+    "title_japanese": "\u30c6\u30ac\u30df\u30d0\u30c1",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/PUTRDEJfuU0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6444/Tegamibachi"
+}

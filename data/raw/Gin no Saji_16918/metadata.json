@@ -1,0 +1,139 @@
+{
+    "aired": {
+        "from": "2013-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 12, 2013 to Sep 20, 2013",
+        "to": "2013-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Gin no Saji is an anime adaptation of Hiromu Arakawa's ongoing manga of the same name that has sold over 12 million copies in Japan alone and was honored with a nomination for the 19th annual Tezuka Osamu Cultural Prize. The series aired in 2013 on the famous Fuji Television noitaminA block, which has aired several prominent anime including Anohana, Nodame Cantabile and Psycho-Pass. Gin no Saji has been licensed by Aniplex of America for streaming and home video distribution in North America. The anime adaptation was followed by a live-action film adaptation, of the same source material, that premiered in 2014.",
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Hello Especially\" by Sukima Switch"
+    ],
+    "episodes": 11,
+    "favorites": 1977,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/49237.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 16918,
+    "members": 180083,
+    "opening_themes": [
+        "\"kiss you\" by miwa"
+    ],
+    "popularity": 542,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        }
+    ],
+    "rank": 383,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25096,
+                "name": "Gin no Saji",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25096/Gin_no_Saji"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 19363,
+                "name": "Gin no Saji 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19363/Gin_no_Saji_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6e03dde4b5477fc52ebf2612f752907a38b7923b",
+    "score": 8.15,
+    "scored_by": 84234,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Yuugo Hachiken is studious, hard-working, and tired of trying to live up to expectations he just cannot meet. With the ushering in of a brand new school year, he decides to enrol in Ooezo Agricultural High School, a boarding school located in the Hokkaido countryside, as a means to escape from the stress brought upon by his parents. Initially convinced that he would do well at this institution, Hachiken is quickly proven wrong by his talented classmates, individuals who have been living on farms their entire lives and know just about everything when it comes to food, vegetables, and even the physiology of livestock! Whether it be waking up at five in the morning for strenuous labor or to take care of farm animals, Hachiken is a complete amateur when it comes to the harsh agricultural life. Gin no Saji follows the comedic story of a young student at as he tries to fit into a completely new environment, meeting many unique people along the way. As he struggles to appreciate his surroundings, Hachiken hopes to discover his dreams, so that he may lead a fulfilling life on his own terms. [Written by MAL Rewrite]",
+    "title": "Gin no Saji",
+    "title_english": "Silver Spoon",
+    "title_japanese": "\u9280\u306e\u5319",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/b-yCzcYqH5E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16918/Gin_no_Saji"
+}

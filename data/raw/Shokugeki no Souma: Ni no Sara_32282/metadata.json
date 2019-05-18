@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2016-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 2, 2016 to Sep 24, 2016",
+        "to": "2016-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 22:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"ROUGH DIAMONDS\" by SCREEN mode (ep 1)",
+        "\"Snow Drop (\u30b9\u30ce\u30fc\u30c9\u30ed\u30c3\u30d7)\" by nano.RIPE (eps 2-13)"
+    ],
+    "episodes": 13,
+    "favorites": 2603,
+    "genres": [
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/79353.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 32282,
+    "members": 488170,
+    "opening_themes": [
+        "\"ROUGH DIAMONDS\" by SCREEN mode"
+    ],
+    "popularity": 110,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 148,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 45757,
+                "name": "Shokugeki no Souma",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/45757/Shokugeki_no_Souma"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 28171,
+                "name": "Shokugeki no Souma",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34480,
+                "name": "Shokugeki no Souma: Ni no Sara OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34480/Shokugeki_no_Souma__Ni_no_Sara_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 12809,
+    "request_cached": true,
+    "request_hash": "request:anime:471dafa19d077403258cfb43d6c609903b33d1b3",
+    "score": 8.43,
+    "scored_by": 294143,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "The qualifiers of the Autumn Elections are now over, and only eight talented chefs remain. Now, they face off in one-on-one food wars, each with their own unique themes. Met with both new judges and new opponents all with their own specialties, Souma must stay on his toes if he hopes to make it to the top of both the Autumn Elections and Tootsuki Culinary Academy. [Written by MAL Rewrite]",
+    "title": "Shokugeki no Souma: Ni no Sara",
+    "title_english": "Food Wars! The Second Plate",
+    "title_japanese": "\u98df\u621f\u306e\u30bd\u30fc\u30de \u5f0d\u30ce\u76bf",
+    "title_synonyms": [
+        "Shokugeki no Souma 2nd Season",
+        "Shokugeki no Soma 2",
+        "Food Wars: Shokugeki no Soma 2",
+        "Shokugeki no Soma: The Second Plate"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/AB5L9PoXKcA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32282/Shokugeki_no_Souma__Ni_no_Sara"
+}

@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2009-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 5, 2009 to Dec 28, 2009",
+        "to": "2009-12-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Soba ni Irareru Dake de (\u305d\u3070\u306b\u3044\u3089\u308c\u308b\u3060\u3051\u3067 )\" by Blue Drops (ep 1)",
+        "\"Misaki Meguri (\u5cac\u3081\u3050\u308a)\" by Mina (ep 2)",
+        "\"Taiyou ga Kureta Kisetsu (\u592a\u967d\u304c\u304f\u308c\u305f\u5b63\u7bc0)\" by Hayami Saori, Mina, Takagaki Ayahi, Hoshi Souichirou, and Suzuki Tatsuhisa (ep 3)",
+        "\"Senshi no Kyuusoku (\u6226\u58eb\u306e\u4f11\u606f)\" by Hoshi Souichirou (ep 4)",
+        "\"Yuke! Yuke! Kawaguchi Hiroshi (\u3086\u3051!\u3086\u3051!\u5ddd\u53e3\u6d69)\" by Kamon Tatsuo (ep 5)",
+        "\"Natsu-iro no Nancy (\u590f\u8272\u306e\u30ca\u30f3\u30b7\u30fc)\" by Nomizu Iori (ep 6)",
+        "\"Furimuku na Kimi wa Utsukushii (\u3075\u308a\u5411\u304f\u306a\u541b\u306f\u7f8e\u3057\u3044)\" by Hayami Saori, Nomizu Iori, Mina, Takagaki Ayahi, Hoshi Souichirou and Suzuki Tatsuhisa (ep 7)",
+        "\"Wild Seven (\u30ef\u30a4\u30eb\u30c9\u30bb\u30d6\u30f3)\" by Hoshi Souichirou and Suzuki Tatsuhisa (ep 8)",
+        "\"Hatsukoi (\u521d\u604b)\" by Hayami Saori and Takagaki Ayahi (ep 9)",
+        "\"Bokura no Diary (\u50d5\u7b49\u306e\u30c0\u30a4\u30a2\u30ea\u30fc)\" by Takagaki Ayahi and Suzuki Tatsuhisa (ep 10)",
+        "\"Champion (\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3)\" by Hoshi Souichirou and Fujita Saki (ep 11)",
+        "\"Akai Hana Shiroi Hana (\u8d64\u3044\u82b1\u767d\u3044\u82b1)\" by Hayami Saori (ep 12)",
+        "\"Soba ni Irareru Dake de (\u305d\u3070\u306b\u3044\u3089\u308c\u308b\u3060\u3051\u3067 )\" by Blue Drops (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 3728,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/50307.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 5958,
+    "members": 323483,
+    "opening_themes": [
+        "\"Ring My Bell (Main Vocal Hitomi)\" by Blue Drops (eps 1-10, 12)",
+        "\"Ring My Bell (Main Vocal Saori)\" by Blue Drops (ep 11)"
+    ],
+    "popularity": 255,
+    "premiered": "Fall 2009",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 689,
+            "name": "NTT Docomo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+        }
+    ],
+    "rank": 1608,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8144,
+                "name": "Sora no Otoshimono",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8144/Sora_no_Otoshimono"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 7858,
+                "name": "Sora no Otoshimono: Project Pink",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7858/Sora_no_Otoshimono__Project_Pink"
+            }
+        ]
+    },
+    "request_cache_expiry": 15345,
+    "request_cached": true,
+    "request_hash": "request:anime:5397234180dcca8e5f063f4385f436fd5bcaedba",
+    "score": 7.53,
+    "scored_by": 172018,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 88,
+            "name": "AIC A.S.T.A.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+        }
+    ],
+    "synopsis": "Ever since he was a child, Tomoki Sakurai has always woke up with tears after a dream of an angel. His childhood friend Sohara Mitsuki worries about this and decides to seek the help of Eishirou Sugata, an eccentric sky maniac. He concludes that Tomoki's dream is undoubtedly connected to what is known as the New World, a floating anomaly that scientists have failed to understand. Recruiting the New World Discovery Club's first members, Eishirou schedules a time to meet up in order to observe the mystery in the sky. That day, Tomoki's peaceful life is changed forever when a strange girl falls from the sky and begins to call him master. Sora no Otoshimono follows the daily activities of the New World Discovery Club as they begin to learn more about the Angeloids that have arrived on Earth. [Written by MAL Rewrite]",
+    "title": "Sora no Otoshimono",
+    "title_english": "Heaven's Lost Property",
+    "title_japanese": "\u305d\u3089\u306e\u304a\u3068\u3057\u3082\u306e",
+    "title_synonyms": [
+        "Lost Property of the Sky",
+        "Misplaced by Heaven"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/PqpdFT8wHh8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5958/Sora_no_Otoshimono"
+}

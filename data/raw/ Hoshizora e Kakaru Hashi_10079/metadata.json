@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2011-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 11, 2011 to Jun 27, 2011",
+        "to": "2011-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 09:00 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Dasshu do Cinderella (\u3060\u3063\u3057\u3085\u3069\u30b7\u30f3\u30c7\u30ec\u30e9)\" by Eriko Nakamura and Ai Shimizu (eps 1-9, 11)",
+        "\"Water Lily\"  by Ai Shimizu (ep 10)",
+        "\"Hoshikaze no Horoscope (\u661f\u98a8\u306e\u30db\u30ed\u30b9\u30b3\u30fc\u30d7)\" by Eriko Nakamura, Ringo Aoba & Ai Shimizu (Ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 311,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/73521.jpg",
+    "licensors": [],
+    "mal_id": 10079,
+    "members": 121486,
+    "opening_themes": [
+        "\"Hoshikaze no Horoscope (\u661f\u98a8\u306e\u30db\u30ed\u30b9\u30b3\u30fc\u30d7)\" by Nomico"
+    ],
+    "popularity": 837,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 699,
+            "name": "feng",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/699/feng"
+        },
+        {
+            "mal_id": 753,
+            "name": "PRA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/753/PRA"
+        },
+        {
+            "mal_id": 755,
+            "name": "Jumondo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/755/Jumondo"
+        }
+    ],
+    "rank": 3977,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 57729,
+                "name": "Hoshizora e Kakaru Hashi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/57729/Hoshizora_e_Kakaru_Hashi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 11161,
+                "name": "Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11161/Hoshizora_e_Kakaru_Hashi__Kakaru_ka_Gakuensai_ni_Koi_no_Hashi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:1823cd39e2682b580c58cdf8932074bc57e2a7e3",
+    "score": 6.93,
+    "scored_by": 64249,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "Kazuma Hoshino is preparing himself for a new stage of his life as a teenager. Because of his brother Ayumu\u2019s weaker than average health, their parents thought it best for the family to move out from the city to a more rural environment. Now the two brothers are off to the Yorozuyo Inn where they\u2019ll be staying until their parents can settle affairs back in the city and set up their new home. Their arrival to the inn doesn\u2019t go as planned though when they catch the wrong bus, wind up in the middle of nowhere, Ayumu gets his hat stolen by a wild monkey, and Kazuma gets lost in the woods trying to track the animal down. It all leads to a chance encounter with a spirited young girl named Ui, who Kazuma ends up accidentally falling onto and kissing while she tries leading him back to the bus stop. This hardly sits well with Ui\u2019s friend Ibuki who swiftly kicks Kazuma and sends him on his way. Much to Kazuma\u2019s continued horror, his bad luck is perpetuated at the inn thanks to its landlady Senka and her slightly perverted sense of humor, and then finding out that two of his classmates are the girls he embarrassed himself in front of back in the woods! Hoshizora e Kakaru Hashi finds Kazuma adapting to his new school, dealing with the multiple women who have entered his life, providing emotional support for his younger brother, and coping with living with his new landlady. However, for some reason, something about this place is bringing whispers of the past into Kazuma's mind. Small flashes back to a more innocent time and a friendship long forgotten. What could this d\u00e9j\u00e0 vu mean?",
+    "title": "Hoshizora e Kakaru Hashi",
+    "title_english": "A Bridge to the Starry Skies",
+    "title_japanese": "\u661f\u7a7a\u3078\u67b6\u304b\u308b\u6a4b",
+    "title_synonyms": [
+        "Hoshizora e Kakaru Hashi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/o5332AVvrsg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10079/Hoshizora_e_Kakaru_Hashi"
+}

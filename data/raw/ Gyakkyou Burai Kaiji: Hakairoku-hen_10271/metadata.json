@@ -1,0 +1,124 @@
+{
+    "aired": {
+        "from": "2011-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 6, 2011 to Sep 28, 2011",
+        "to": "2011-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"C Kara Hajimaru ABC\" by Wasureranneeyo (eps 1-25)",
+        "\"Mirai wa Bokura no Te no Naka\" by Kaiji with Redbourn Cherries (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 1472,
+    "genres": [
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/30599.jpg",
+    "licensors": [],
+    "mal_id": 10271,
+    "members": 99403,
+    "opening_themes": [
+        "\"Chase the Light!\" by Fear, and Loathing in Las Vegas"
+    ],
+    "popularity": 1013,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 277,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3573,
+                "name": "Tobaku Hakairoku Kaiji",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3573/Tobaku_Hakairoku_Kaiji"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 3002,
+                "name": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor"
+            }
+        ]
+    },
+    "request_cache_expiry": 33835,
+    "request_cached": true,
+    "request_hash": "request:anime:3c237583cba298579423d0bfa1a682199cad5c78",
+    "score": 8.27,
+    "scored_by": 54967,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Owing to an increasing debt, Kaiji Itou ends up resuming his old lifestyle. One day, while walking on the street, he stumbles upon Yuuji Endou, who is hunting Kaiji due to the money he owes to the Teiai Group. Unaware of this, Kaiji eagerly follows Endou, hoping for a chance to participate in another gamble, but soon finds out the loan shark's real intentions when he is kidnapped. Given that Kaiji is unable to pay off his huge debt, the Teiai Group instead sends him to work in an underground labor camp. He is told that he will have to live in this hell for 15 years, alongside other debtors, until he can earn his freedom. His only hope to put an early end to this nightmare is by saving enough money to be able to go back to the surface for a single day. Once he is there, he plans to obtain the remaining money needed to settle his account by making a high-stakes wager. However, as many temptations threaten his scarce income, Kaiji may have to resort to gambling sooner than he had expected. [Written by MAL Rewrite]",
+    "title": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+    "title_english": "Kaiji: Against All Rules",
+    "title_japanese": "\u9006\u5883\u7121\u983c\u30ab\u30a4\u30b8 \u7834\u6212\u9332\u7bc7",
+    "title_synonyms": [
+        "Gyakkyou Burai Kaiji S2",
+        "The Suffering Pariah Kaiji: Backslide Arc"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10271/Gyakkyou_Burai_Kaiji__Hakairoku-hen"
+}

@@ -1,0 +1,152 @@
+{
+    "aired": {
+        "from": "2011-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 11, 2011 to Jun 26, 2011",
+        "to": "2011-06-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Manatsu no Photograph (\u771f\u590f\u306e\u30d5\u30a9\u30c8\u30b0\u30e9\u30d5)\" by azusa"
+    ],
+    "episodes": 12,
+    "favorites": 226,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/75562.jpg",
+    "licensors": [],
+    "mal_id": 9736,
+    "members": 103878,
+    "opening_themes": [
+        "\"Tenshi no CLOVER (\u5929\u4f7f\u306eCLOVER)\" by Aimi"
+    ],
+    "popularity": 975,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        }
+    ],
+    "rank": 4906,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 6778,
+                "name": "Rotte no Omocha!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/6778/Rotte_no_Omocha"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10582,
+                "name": "Astarotte no Omocha! EX",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10582/Astarotte_no_Omocha_EX"
+            }
+        ]
+    },
+    "request_cache_expiry": 13514,
+    "request_cached": true,
+    "request_hash": "request:anime:a468ec0c15a1d64f572e356674791ad38fdf9e40",
+    "score": 6.72,
+    "scored_by": 50111,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "The young succubus princess Astarotte Ygvar hates men. She hates them so much, in fact, that she goes out of her way to surround herself with women, and ends up with quite a collection of ladies with quirky personalities. Unfortunately, her duties as a succubus require her to form a harem of men to replenish her magic. Astarotte lives a fairly carefree life, until the World Tree opens a path into another realm and swallows up one of her companions. Luckily, Astarotte's friend returns unharmed, along with a handsome surprise. Naoya Touhara is a man, and a human one at that. He's perfect for becoming Astarotte's first male companion, if she can get over her hatred of men and accept him into her life. Naoya decides to stay in Astarotte's world and help her on her journey into adulthood, under one condition: he wants to bring his daughter Asuha with him.",
+    "title": "Astarotte no Omocha!",
+    "title_english": "Astarotte's Toy",
+    "title_japanese": "\u30a2\u30b9\u30bf\u30ed\u30c3\u30c6\u306e\u304a\u3082\u3061\u3083\uff01",
+    "title_synonyms": [
+        "Lotte no Omocha!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/qKo1bHKI_PA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9736/Astarotte_no_Omocha"
+}

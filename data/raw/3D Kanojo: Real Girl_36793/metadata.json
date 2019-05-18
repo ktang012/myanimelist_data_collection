@@ -1,0 +1,110 @@
+{
+    "aired": {
+        "from": "2018-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Apr 4, 2018 to Jun 20, 2018",
+        "to": "2018-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 01:59 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"HiDE the BLUE\" by BiSH"
+    ],
+    "episodes": 12,
+    "favorites": 435,
+    "genres": [
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1327/93616.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 36793,
+    "members": 116776,
+    "opening_themes": [
+        "\"Daiji na Koto (\u3060\u3044\u3058\u306a\u3053\u3068)\" by Quruli"
+    ],
+    "popularity": 875,
+    "premiered": "Spring 2018",
+    "producers": [],
+    "rank": 4525,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 50767,
+                "name": "Real Girl",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/50767/Real_Girl"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37956,
+                "name": "3D Kanojo: Real Girl 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37956/3D_Kanojo__Real_Girl_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 14854,
+    "request_cached": true,
+    "request_hash": "request:anime:1ac92183bac9bb918269d31cbde4378cb7646643",
+    "score": 6.8,
+    "scored_by": 45821,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 346,
+            "name": "Hoods Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/346/Hoods_Entertainment"
+        }
+    ],
+    "synopsis": "For Hikari Tsutsui, life within the two-dimensional realm is much simpler. Socially inept and awkward, he immerses himself in video games and anime, only to be relentlessly ridiculed and ostracized by his classmates. Sharing his misery is Yuuto Itou, his only friend, who wears cat ears and is equally obsessed with the world of games. After being forced to clean the pool as punishment for arriving late, Tsutsui meets Iroha Igarashi, but he attempts to steer clear of her, as her notoriety precedes her. Brazenly blunt, loathed by female classmates, and infamous for messing around with boys, Tsutsui believes that getting involved with her would cause nothing but problems. 3D Kanojo: Real Girl is a story revolving around these two outcasts\u2014a boy full of emotions he has never experienced before, struggling to lay them bare, and a girl who strives to break him out of his shell. [Written by MAL Rewrite]",
+    "title": "3D Kanojo: Real Girl",
+    "title_english": null,
+    "title_japanese": "3D\u5f7c\u5973 \u30ea\u30a2\u30eb\u30ac\u30fc\u30eb",
+    "title_synonyms": [
+        "3D Girlfriend"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/4b1Lpm_px04?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36793/3D_Kanojo__Real_Girl"
+}

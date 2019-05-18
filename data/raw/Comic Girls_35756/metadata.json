@@ -1,0 +1,112 @@
+{
+    "aired": {
+        "from": "2018-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Apr 5, 2018 to Jun 21, 2018",
+        "to": "2018-06-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "''Namida wa Misenai (\u6d99\u306f\u307f\u305b\u306a\u3044)'' by Comic Girls (Hikaru Akao, Rie Takahashi, Saori Oonishi, Kaede Hondo) (eps 2-12)"
+    ],
+    "episodes": 12,
+    "favorites": 432,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1207/91794.jpg",
+    "licensors": [],
+    "mal_id": 35756,
+    "members": 79902,
+    "opening_themes": [
+        "''Memories'' by Comic Girls (Hikaru Akao, Rie Takahashi, Saori Oonishi, Kaede Hondo) (eps 2-12)"
+    ],
+    "popularity": 1222,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 1412,
+            "name": "Kansai Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1412/Kansai_Telecasting"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1744,
+            "name": "My Theater D.D.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1744/My_Theater_DD"
+        }
+    ],
+    "rank": 1560,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 96240,
+                "name": "Comic Girls",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/96240/Comic_Girls"
+            }
+        ]
+    },
+    "request_cache_expiry": 8543,
+    "request_cached": true,
+    "request_hash": "request:anime:728ebcb4439f046812f4d4d3c7994fd349622817",
+    "score": 7.54,
+    "scored_by": 31204,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 852,
+            "name": "Nexus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/852/Nexus"
+        }
+    ],
+    "synopsis": "Moeta Kaoruko ia a 15-year-old high school student and manga creator, who uses the pen name Chaos. After ranking at the bottom of a reader survey, Kaoruko's editor recommends that she enter an all-female dormitory for manga creators. Kaoruko's roommates are shoujo manga creator Koizuka Koyume, teen romance manga creator Irokawa Ruki, and shounen manga creator Katsuki Tsubasa. The girls support each other as they work to become better manga creators. (Source: Anime News Network)",
+    "title": "Comic Girls",
+    "title_english": null,
+    "title_japanese": "\u3053\u307f\u3063\u304f\u304c\u30fc\u308b\u305a",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/iWIpU_htE0Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35756/Comic_Girls"
+}

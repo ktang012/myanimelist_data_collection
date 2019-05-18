@@ -1,0 +1,132 @@
+{
+    "aired": {
+        "from": "2015-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 5, 2015 to Jun 28, 2015",
+        "to": "2015-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episodes 1, 2, and 3 were previewed at a screening at Shinjuku Wald 9 in Tokyo on March 28, 2015. Regular broadcasting began on April 5, 2015.",
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"ring your bell\" by Kalafina (eps 1-2, 4-12)",
+        "\"ring your bell (in the silence)\" by Kalafina (ep 3)",
+        "\"Fukaki Nemuri (\u6df1\u304d\u7720\u308a) UBW Extended\" composed by Hideyuki Fukasawa (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 4727,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/72863.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 28701,
+    "members": 400539,
+    "opening_themes": [
+        "\"Brave Shine\" by Aimer (eps 1-7, 9-12)"
+    ],
+    "popularity": 167,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 703,
+            "name": "Notes",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/703/Notes"
+        }
+    ],
+    "rank": 176,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Alternative version": [
+            {
+                "mal_id": 31389,
+                "name": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31389/Fate_stay_night__Unlimited_Blade_Works_2nd_Season_-_Sunny_Day"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 22297,
+                "name": "Fate/stay night: Unlimited Blade Works",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+            }
+        ]
+    },
+    "request_cache_expiry": 15101,
+    "request_cached": true,
+    "request_hash": "request:anime:3a43ee49a5a5ba43dc1c4b6a997c35bc8c372a94",
+    "score": 8.39,
+    "scored_by": 254564,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 43,
+            "name": "ufotable",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ],
+    "synopsis": "In the midst of the Fifth Holy Grail War, Caster sets her plans into motion, beginning with the capture of Shirou's Servant Saber. With the witch growing ever more powerful, Rin and Archer determine she is a threat that must be dealt with at once. But as the balance of power in the war begins to shift, the Master and Servant find themselves walking separate ways. Meanwhile, despite losing his Servant and stumbling from injuries, Shirou ignores Rin's warning to abandon the battle royale, forcing his way into the fight against Caster. Determined to show his resolve in his will to fight, Shirou's potential to become a protector of the people is put to the test. Amidst the bloodshed and chaos, the motivations of each Master and Servant are slowly revealed as they sacrifice everything in order to arise as the victor and claim the Holy Grail. [Written by MAL Rewrite]",
+    "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+    "title_english": "Fate/stay night [Unlimited Blade Works] Season 2",
+    "title_japanese": "Fate/stay night [Unlimited Blade Works] 2nd \u30b7\u30fc\u30ba\u30f3",
+    "title_synonyms": [
+        "Fate/stay night (2015)",
+        "Fate - Stay Night"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/0PY9qcyr3-0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28701/Fate_stay_night__Unlimited_Blade_Works_2nd_Season"
+}

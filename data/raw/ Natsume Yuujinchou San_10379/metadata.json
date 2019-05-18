@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2011-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 5, 2011 to Sep 27, 2011",
+        "to": "2011-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kimi no Kakera feat. Miyamoto Emiri\" (\u541b\u30ce\u30ab\u30b1\u30e9 feat \u5bae\u672c\u7b11\u91cc) by Kousuke Atari"
+    ],
+    "episodes": 13,
+    "favorites": 1068,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/82394.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 10379,
+    "members": 156349,
+    "opening_themes": [
+        "\"Boku ni Dekiru Koto\" (\u50d5\u306b\u3067\u304d\u308b\u3053\u3068) by HOW MERRY MARRY"
+    ],
+    "popularity": 628,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 63,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1859,
+                "name": "Natsume Yuujinchou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1859/Natsume_Yuujinchou"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 5300,
+                "name": "Zoku Natsume Yuujinchou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 11665,
+                "name": "Natsume Yuujinchou Shi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi"
+            }
+        ]
+    },
+    "request_cache_expiry": 26185,
+    "request_cached": true,
+    "request_hash": "request:anime:14555d14376746f21ffdc5040802b46e7222a60d",
+    "score": 8.64,
+    "scored_by": 75957,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Natsume Yuujinchou San follows Takashi Natsume, a boy who is able to see youkai. Natsume and his bodyguard Madara, nicknamed Nyanko-sensei, continue on their quest to release youkai from their contracts in the \"Book of Friends.\" Natsume comes to terms with his ability to see youkai and stops thinking of it as a curse. As he spends more time with his human and youkai friends, he realizes how much he values them both and decides he doesn't have to choose between the spirit and human worlds to be happy. [Written by MAL Rewrite]",
+    "title": "Natsume Yuujinchou San",
+    "title_english": "Natsume's Book of Friends Season 3",
+    "title_japanese": "\u590f\u76ee\u53cb\u4eba\u5e33 \u53c2",
+    "title_synonyms": [
+        "Natsume Yuujinchou Three",
+        "Natsume Yuujinchou 3",
+        "Natsume Yujincho 3"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/eGagSxjjA0s?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San"
+}

@@ -1,0 +1,154 @@
+{
+    "aired": {
+        "from": "2014-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 10, 2014 to Mar 20, 2015",
+        "to": "2015-03-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Winner in the anime division of the 2016 Sugoi Japan\u00ae Awards.",
+    "broadcast": "Fridays at 01:20 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Kirameki (\u30ad\u30e9\u30e1\u30ad)\" by wacci (eps 1-11)",
+        "\"Orange (\u30aa\u30ec\u30f3\u30b8)\" by 7!! (eps 12-21)",
+        "\"Orange (\u30aa\u30ec\u30f3\u30b8) (Acoustic Ver.)\" by 7!! (ep 22)"
+    ],
+    "episodes": 22,
+    "favorites": 48107,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/67177.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 23273,
+    "members": 876119,
+    "opening_themes": [
+        "\"Hikaru nara (\u5149\u308b\u306a\u3089)\" by Goose house (eps 1-11)",
+        "\"Nanairo Symphony (\u4e03\u8272\u30b7\u30f3\u30d5\u30a9\u30cb\u30fc)\" by Coala Mode. (\u30b3\u30a2\u30e9\u30e2\u30fc\u30c9.) (eps 12-22)"
+    ],
+    "popularity": 32,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        }
+    ],
+    "rank": 24,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37707,
+                "name": "Shigatsu wa Kimi no Uso",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37707/Shigatsu_wa_Kimi_no_Uso"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 28069,
+                "name": "Shigatsu wa Kimi no Uso: Moments",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28069/Shigatsu_wa_Kimi_no_Uso__Moments"
+            }
+        ]
+    },
+    "request_cache_expiry": 8804,
+    "request_cached": true,
+    "request_hash": "request:anime:e8174931ee0fd804584e7c3be4394dba6c0fab90",
+    "score": 8.86,
+    "scored_by": 504095,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Music accompanies the path of the human metronome, the prodigious pianist Kousei Arima. But after the passing of his mother, Saki Arima, Kousei falls into a downward spiral, rendering him unable to hear the sound of his own piano. Two years later, Kousei still avoids the piano, leaving behind his admirers and rivals, and lives a colorless life alongside his friends Tsubaki Sawabe and Ryouta Watari. However, everything changes when he meets a beautiful violinist, Kaori Miyazono, who stirs up his world and sets him on a journey to face music again. Based on the manga series of the same name, Shigatsu wa Kimi no Uso approaches the story of Kousei's recovery as he discovers that music is more than playing each note perfectly, and a single melody can bring in the fresh spring air of April. [Written by MAL Rewrite]",
+    "title": "Shigatsu wa Kimi no Uso",
+    "title_english": "Your Lie in April",
+    "title_japanese": "\u56db\u6708\u306f\u541b\u306e\u5618",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/AbTfMbmucpI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso"
+}

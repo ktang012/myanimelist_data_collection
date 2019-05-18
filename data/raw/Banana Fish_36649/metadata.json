@@ -1,0 +1,120 @@
+{
+    "aired": {
+        "from": "2018-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Jul 6, 2018 to Dec 21, 2018",
+        "to": "2018-12-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:55 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Prayer X\" by King Gnu (eps 1-13)",
+        "\"RED\" by Survive Said The Prophet (eps 14-24)"
+    ],
+    "episodes": 24,
+    "favorites": 3714,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+    "licensors": [],
+    "mal_id": 36649,
+    "members": 139900,
+    "opening_themes": [
+        "\"found & lost\" by Survive Said The Prophet",
+        "\"FREEDOM\" by BLUE ENCOUNT"
+    ],
+    "popularity": 721,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1856,
+            "name": "dugout",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1856/dugout"
+        }
+    ],
+    "rank": 225,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 756,
+                "name": "Banana Fish",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/756/Banana_Fish"
+            }
+        ]
+    },
+    "request_cache_expiry": 37881,
+    "request_cached": true,
+    "request_hash": "request:anime:def0cf34304b262dacbdc7516165965a54ec8899",
+    "score": 8.32,
+    "scored_by": 41605,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 569,
+            "name": "MAPPA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ],
+    "synopsis": "Aslan Jade Callenreese, known as Ash Lynx, was a runaway picked off the streets of New York City and raised by the infamous godfather of the mafia, Dino Golzine. Now 17 years old and the boss of his own gang, Ash gets his hands on a mysterious drug called \"Banana Fish\"\u2014the same two words his older brother, Griffin, has muttered since his return from the Iraq War. However, his investigation is hindered when Dino sends his men to retrieve the drug from Ash at an underground bar he uses as a hideout. At the bar, Skip, Ash's friend, introduces him to Shunichi Ibe and his assistant, Eiji Okumura, who are Japanese photographers reporting on American street gangs. However, their conversation is interrupted when Shorter Wong, one of Ash's allies, calls to warn him about Dino. Soon, Dino's men storm the bar, and in the ensuing chaos kidnap Skip and Eiji. Now, Ash must find a way to rescue them and continue his investigation into Banana Fish, but will his history with the mafia prevent him from succeeding? [Written by MAL Rewrite]",
+    "title": "Banana Fish",
+    "title_english": null,
+    "title_japanese": "BANANA FISH",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/t2kCCDiWlVg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36649/Banana_Fish"
+}

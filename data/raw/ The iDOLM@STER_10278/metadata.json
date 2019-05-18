@@ -1,0 +1,214 @@
+{
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Dec 23, 2011",
+        "to": "2011-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:25 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"The world is all one!!\" by 765PRO ALLSTARS (ep 1)",
+        "\"Positive! (\u30dd\u30b8\u30c6\u30a3\u30d6!)\" by Iori Minase & Yayoi Takatsuki (Rie Kugimiya & Mayako Nigo) (ep 2)",
+        "\"First Stage\" by Yukiho Hagiwara & Makoto Kikuchi (Azumi Asakura & Hiromi Hirata) (ep 3)",
+        "\"Aoi Tori (\u84bc\u3044\u9ce5)\" by Chihaya Kisaragi (Asami Imai) (ep 4)",
+        "\"MOONY\" by Chihaya Kisaragi & Azusa Miura & Makoto Kikuchi & Miki Hoshii & Hibiki Ganaha & Ritsuko Akizuki (Asami Imai & Chiaki Takahashi & Hiromi Hirata & Akiko Hasegawa & Manami Numakura & Naomi Wakabayashi) (ep 5)",
+        "\"THE IDOLM@STER\" by 765PRO ALLSTARS (ep 6)",
+        "\"Ohayou!! Asagohan (\u304a\u306f\u3088\u3046!! \u671d\u3054\u98ef)\" by Yayoi Takatsuki (Mayako Nigo) (ep 7)",
+        "\"Hanikami! First Bite (\u30cf\u30cb\u30ab\u30df! \u30d5\u30a1\u30fc\u30b9\u30c8\u30d0\u30a4\u30c8)\" by Ryuuguu Komachi (Iori Minase & Azusa Miura & Ami Futami) (Rie Kugimiya & Chiaki Takahashi & Asami Shimoda) (ep 8)",
+        "\"Reimei Starline (\u9ece\u660e\u30b9\u30bf\u30fc\u30e9\u30a4\u30f3)\" by Ami Futami & Mami Futami (Asami Shimoda) (ep 9)",
+        "\"GO MY WAY!!\" by 765PRO ALLSTARS & 876PRO ALLSTARS (ep 10)",
+        "\"START!!\" by Haruka Amami (Eriko Nakamura) (ep 11)",
+        "''Shocking na Kare! (\u30b7\u30e7\u30c3\u30ad\u30f3\u30b0\u306a\u5f7c!)'' by Miki Hoshii (Akiko Hasegawa) (ep 12)",
+        "\"i\" by 765PRO ALLSTARS (ep 13)",
+        "\"Colorful Days\" by Haruka Amami & Miki Hoshii & Chihaya Kisaragi & Ami Futami & Mami Futami & Takane Shijou & Hibiki Ganaha (Eriko Nakamura & Akiko Hasegawa & Asami Imai & Asami Shimoda & Yumi Hara & Manami Numakura) (ep 14)",
+        "\"MEGARE!\" by 765PRO ALLSTARS (ep 15)",
+        "\"Brand New Day!\" by Hibiki Ganaha (Manami Numakura) (ep 16)",
+        "\"Cheering Letter (\u30c1\u30a2\u30ea\u30f3\u30b0\u30ec\u30bf\u30fc)\" by Makoto Kikuchi (Hiromi Hirata) (ep 17)",
+        "\"Mahou wo Kakete! (\u9b54\u6cd5\u3092\u304b\u3051\u3066!)\" by Ritsuko Akizuki (Naomi Wakabayashi) (ep 18)",
+        "\"Kazahana (\u98a8\u82b1)\" by Takane Shijou (Yumi Hara) (ep 19)",
+        "\"Yakusoku (\u7d04\u675f)\" by Chihaya Kisaragi & Haruka Amami & Miki Hoshii & Yayoi Takatsuki & Yukiho Hagiwara & Makoto Kikuchi & Ami Futami & Mami Futami & Iori Minase & Azusa Miura & Takane Shijou & Hibiki Ganaha",
+        "cont. (Asami Imai & Eriko Nakamura & Akiko Hasegawa & Mayako Nigo & Azumi Asakura & Hiromi Hirata & Asami Shimoda & Rie Kugimiya & Chiaki Takahashi & Yumi Hara & Manami Numakura) (ep 20)",
+        "\"Sora (\u7a7a)\" by Kotori Otonashi (Juri Takita) (ep 21)",
+        "\"Happy Christmas\" by Haruka Amami & Chihaya Kisaragi & Ami Futami & Mami Futami & Azusa Miura & Takane Shijou & Hibiki Ganaha (Eriko Nakamura & Asami Imai & Asami Shimoda & Chiaki Takahashi & Yumi Hara & Manami Numakura) (ep 22)",
+        "\"Mitsumete (\u898b\u3064\u3081\u3066) (instrumental)\" (ep 23)",
+        "\"Massugu (\u307e\u3063\u3059\u3050)\" by 765PRO ALLSTARS (ep 24)",
+        "\"Watashi-tachi wa Zutto...Deshou? (\u79c1\u305f\u3061\u306f\u305a\u3063\u3068\u2026\u3067\u3057\u3087\u3046\uff1f)\" by 765PRO ALLSTARS (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 1483,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/41085.jpg",
+    "licensors": [],
+    "mal_id": 10278,
+    "members": 111998,
+    "opening_themes": [
+        "\"READY!!\" by 765PRO ALLSTARS (eps 2-12)",
+        "\"CHANGE!!!!\" by 765PRO ALLSTARS (eps 14-19, 21-23, 25)"
+    ],
+    "popularity": 915,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        }
+    ],
+    "rank": 1161,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 44037,
+                "name": "The iDOLM@STER",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/44037/The_iDOLMSTER"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 1694,
+                "name": "iDOLM@STER Xenoglossia",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1694/iDOLMSTER_Xenoglossia"
+            },
+            {
+                "mal_id": 23587,
+                "name": "The iDOLM@STER Cinderella Girls",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23587/The_iDOLMSTER_Cinderella_Girls"
+            },
+            {
+                "mal_id": 29801,
+                "name": "The iDOLM@STER Million Live! 1st Anniversary PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29801/The_iDOLMSTER_Million_Live_1st_Anniversary_PV"
+            },
+            {
+                "mal_id": 31894,
+                "name": "The iDOLM@STER Million Live! \"Dreaming!\" Animation PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31894/The_iDOLMSTER_Million_Live_Dreaming_Animation_PV"
+            },
+            {
+                "mal_id": 34915,
+                "name": "The iDOLM@STER SideM",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34915/The_iDOLMSTER_SideM"
+            },
+            {
+                "mal_id": 35081,
+                "name": "The iDOLM@STER Million Live! 4th Anniversary PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35081/The_iDOLMSTER_Million_Live_4th_Anniversary_PV"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 4033,
+                "name": "The iDOLM@STER Live For You!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4033/The_iDOLMSTER_Live_For_You"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 11889,
+                "name": "The iDOLM@STER: 765 Pro to Iu Monogatari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11889/The_iDOLMSTER__765_Pro_to_Iu_Monogatari"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 15649,
+                "name": "Puchimas!: Petit iDOLM@STER",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15649/Puchimas__Petit_iDOLMSTER"
+            },
+            {
+                "mal_id": 21073,
+                "name": "Puchimas!!: Petit Petit iDOLM@STER",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21073/Puchimas__Petit_Petit_iDOLMSTER"
+            }
+        ]
+    },
+    "request_cache_expiry": 23967,
+    "request_cached": true,
+    "request_hash": "request:anime:b510d4b2051c5e87c42d93483de1dfb7f1c66552",
+    "score": 7.69,
+    "scored_by": 38512,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "765 Production Studio manages the unique talents of 13 professional idols as they slowly make their way to the top and become country-wide celebrities. But the girls' journey is far from just fun and games: hard work, sweat, and tears are some of the prerequisites needed to flourish in this industry\u2014and for 765 Pro in particular, a watchful eye out for their rival, the infamous 961 Production. As the girls' fame grows, however, their time together as a family diminishes, and now the very popularity they sought is threatening to tear them apart. A difficult balance of work and bonding must be achieved, or they risk everyone going their separate ways. The personal and professional ordeals of these idols can't be conquered alone, but with each other's loving support, any obstacle or hardship can be overcome! [Written by MAL Rewrite]",
+    "title": "The iDOLM@STER",
+    "title_english": "THE IDOLM@STER",
+    "title_japanese": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc",
+    "title_synonyms": [
+        "The Idolmaster"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/sz53h6_Iq_4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10278/The_iDOLMSTER"
+}

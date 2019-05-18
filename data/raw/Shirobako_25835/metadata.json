@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2014-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 9, 2014 to Mar 26, 2015",
+        "to": "2015-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Shirobako won the Animation Kobe Television Award in 2015.",
+    "broadcast": "Thursdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"COLORFUL BOX\" by Yoko Ishida (ep 1)",
+        "\"Animetic Love Letter\" by Aoi Miyamori (Juri Kimura), Ema Yasuhara (Haruka Yoshimura), Shizuka Sakaki (Haruka Chisuga) (eps 2-12)",
+        "\"Platinum Jet (\u30d7\u30e9\u30c1\u30ca\u30b8\u30a7\u30c3\u30c8)\" by Doughnut\u25ceQuintet (\u3069\u30fc\u306a\u3064\u25ce\u304f\u3044\u3093\u3066\u3063\u3068) (eps 13, 15-18, 20-24)",
+        "\"Yama Harinezumi Andes Chucky (\u5c71\u306f\u308a\u306d\u305a\u307f\u30a2\u30f3\u30c7\u30b9\u30c1\u30e3\u30c3\u30ad\u30fc)\" by Miyuki Kunitake (ep 19)"
+    ],
+    "episodes": 24,
+    "favorites": 5190,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1918/93511.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 25835,
+    "members": 262965,
+    "opening_themes": [
+        "\"I'm Sorry EXODUS (\u3042\u3044\u3080\u305d\u30fc\u308a\u30fcEXODUS)\" by Tracy (\u30c8\u30ec\u30a4\u30b7\u30fc) (Mai Nakahara, Shizuka Itou, Ai Kayano) (ep 1)",
+        "\"COLORFUL BOX\" by Yoko Ishida (eps 2-11)",
+        "\"Takarabako -TREASURE BOX- (\u5b9d\u7bb1-TREASURE BOX-)\" by Masami Okui (eps 13-22)"
+    ],
+    "popularity": 332,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1386,
+            "name": "Infinite",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+        }
+    ],
+    "rank": 159,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 80441,
+                "name": "Shirobako: Kaminoyama Koukou Animation Doukoukai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/80441/Shirobako__Kaminoyama_Koukou_Animation_Doukoukai"
+            },
+            {
+                "mal_id": 84949,
+                "name": "Shirobako: Introduction",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/84949/Shirobako__Introduction"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37804,
+                "name": "Shirobako Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37804/Shirobako_Movie"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 28105,
+                "name": "Shirobako Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28105/Shirobako_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 42998,
+    "request_cached": true,
+    "request_hash": "request:anime:d75e6ca0d0e47c300ed3806be2150df8c6cf42da",
+    "score": 8.42,
+    "scored_by": 85809,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 132,
+            "name": "P.A. Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ],
+    "synopsis": "It all started in Kaminoyama High School, when five best friends\u2014Aoi Miyamori, Ema Yasuhara, Midori Imai, Shizuka Sakaki, and Misa Toudou\u2014discovered their collective love for all things anime and formed the animation club. After making their first amateur anime together and showcasing it at the culture festival, the group vow to pursue careers in the industry, aiming to one day work together and create their own mainstream show. Two and a half years later, Aoi and Ema have managed to land jobs at the illustrious Musashino Animation production company. The others, however, are finding it difficult to get their dream jobs. Shizuka is feeling the weight of not being recognized as a capable voice actor, Misa has a secure yet unsatisfying career designing 3D models for a car company, and Midori is a university student intent on pursuing her dream as a story writer. These five girls will learn that the path to success is one with many diversions, but dreams can still be achieved through perseverance and a touch of eccentric creativity. [Written by MAL Rewrite]",
+    "title": "Shirobako",
+    "title_english": "Shirobako",
+    "title_japanese": "SHIROBAKO",
+    "title_synonyms": [
+        "White Box"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/fpp0mfi6HmY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/25835/Shirobako"
+}

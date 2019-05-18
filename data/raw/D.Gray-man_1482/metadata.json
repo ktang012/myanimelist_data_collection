@@ -1,0 +1,176 @@
+{
+    "aired": {
+        "from": "2006-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Oct 3, 2006 to Sep 30, 2008",
+        "to": "2008-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "D.Gray-man is based on Katsura Hoshino's manga series of the same title. The anime adapts the first 158 chapters from the first 16 volumes, while adding anime exclusive content, mainly during the first half of the series.\r\nFUNimation Entertainment licensed and released only the first 51 episodes of D.Gray-man. The explanation they provided for not acquiring the remaining episodes was that there were licensing issues with Dentsu. However, on June 30, 2016, it was announced that Funimation acquired the rights the second half of the anime.",
+    "broadcast": "Tuesdays at 18:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Snow Kiss\" by NIRGILIS (eps 1-13)",
+        "\"Pride of Tomorrow\" by JUNE (eps 14-25)",
+        "\"Yume no Tsuduki e\" by surface (eps 26-38)",
+        "\"Antoinette Blue\" by Kitade Nana (eps 39-51)",
+        "\"Anata ga Koko ni Iru Riyuu\" by Rie fu (eps 52-64)",
+        "\"Wish\" by Sowelu (eps 65-76)",
+        "\"Regret\" by Hoshimura Mai (eps 77-89)",
+        "\"Changin'\" by Stephanie (eps 90-103)"
+    ],
+    "episodes": 103,
+    "favorites": 12717,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75194.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 1482,
+    "members": 466080,
+    "opening_themes": [
+        "\"INNOCENT SORROW\" by abingdon boys school  (eps 1-25)",
+        "\"Brightdown\" by Tamaki Nami (eps 26-51)",
+        "\"Doubt & Trust\" by access (eps 52-76)",
+        "\"Gekidou\" by UVERworld (eps 77-103)"
+    ],
+    "popularity": 124,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 829,
+            "name": "Studio Jack",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/829/Studio_Jack"
+        }
+    ],
+    "rank": 391,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24,
+                "name": "D.Gray-man",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24/DGray-man"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32370,
+                "name": "D.Gray-man Hallow",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32370/DGray-man_Hallow"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:3ea19f2817a32af21c7df21e71e4e12da071f9cc",
+    "score": 8.14,
+    "scored_by": 184037,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "Losing a loved one is so painful that one may sometimes wish to be able to resurrect them\u2014a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as \"Akuma,\" he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, \"Innocence.\" After spending three years as the disciple of General Cross, Allen Walker is sent to the Black Order\u2014an organization comprised of those willing to fight Akuma and the Millennium Earl\u2014to become an official Exorcist. With an arm as his Innocence and a cursed eye that can see the suffering souls within an Akuma, it's up to Allen and his fellow Exorcists to stop the Millennium Earl's ultimate plot: one that can lead to the destruction of the world. [Written by MAL Rewrite]",
+    "title": "D.Gray-man",
+    "title_english": "D.Gray-man",
+    "title_japanese": "\u30c7\u30a3\u30fc\u30fb\u30b0\u30ec\u30a4\u30de\u30f3",
+    "title_synonyms": [
+        "D. Gray-man",
+        "D. Grey-man"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/MLsOM04Y7Qc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1482/DGray-man"
+}

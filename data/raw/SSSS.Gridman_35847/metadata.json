@@ -1,0 +1,146 @@
+{
+    "aired": {
+        "from": "2018-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Oct 7, 2018 to Dec 23, 2018",
+        "to": "2018-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"youthful beautiful\" by Maaya Uchida"
+    ],
+    "episodes": 12,
+    "favorites": 598,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1973/95616.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35847,
+    "members": 121371,
+    "opening_themes": [
+        "\"UNION\" by OxT"
+    ],
+    "popularity": 841,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 453,
+            "name": "Tsuburaya Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/453/Tsuburaya_Productions"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 894,
+            "name": "Graphinica",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1358,
+            "name": "Fields",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1358/Fields"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 2144,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {},
+    "request_cache_expiry": 25558,
+    "request_cached": true,
+    "request_hash": "request:anime:a2b2ba66ae439bee1599761167f86a6c66ba874f",
+    "score": 7.39,
+    "scored_by": 47918,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 803,
+            "name": "Trigger",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ],
+    "synopsis": "You're not alone. Whenever, forever. Yuuta Hibiki is a first-year student in high school living in Tsutsujidai. One day, he wakes up without his memories. Yuuta later meets Hyper Agent GRIDMAN who is inside an old computer. GRIDMAN tells him to fulfill his purpose. Yuuta's quest to understand the meaning behind those words and to find his memories begins. While all of this is sudden, Yuuta has helpful assistance from his classmates, Shou Utsumi, Rikka Takarada, and Akane Shinjou, but... Those peaceful days are destroyed mercilessly by a monster that suddenly appears. (Source: Tsuburaya Productions)",
+    "title": "SSSS.Gridman",
+    "title_english": null,
+    "title_japanese": "SSSS.GRIDMAN",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/kZdZmbvln4g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35847/SSSSGridman"
+}

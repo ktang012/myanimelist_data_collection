@@ -1,0 +1,129 @@
+{
+    "aired": {
+        "from": "2013-07-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 13, 2013 to Sep 28, 2013",
+        "to": "2013-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The North American release of the Gatchaman Crowds anime series does not contain the director's cut of episode 12, which remains exclusive to Japan.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"INNOCENT NOTE\" by Hajime Ichinose (CV: Maaya Uchida)"
+    ],
+    "episodes": 12,
+    "favorites": 1179,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/52471.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 18229,
+    "members": 144186,
+    "opening_themes": [
+        "\"Crowds\" by WHITE ASH"
+    ],
+    "popularity": 699,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 2077,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Alternative version": [
+            {
+                "mal_id": 23703,
+                "name": "Gatchaman Crowds: Embrace",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23703/Gatchaman_Crowds__Embrace"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 2389,
+                "name": "Kagaku Ninja-tai Gatchaman",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2389/Kagaku_Ninja-tai_Gatchaman"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30925,
+                "name": "Gatchaman Crowds Insight: Inbound",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30925/Gatchaman_Crowds_Insight__Inbound"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:08b358482e53b17135e29100c6962bdfd92bf582",
+    "score": 7.4,
+    "scored_by": 54122,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 103,
+            "name": "Tatsunoko Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ],
+    "synopsis": "Hajime Ichinose's ordinary life is in for a change when a transcendent being named J.J Robinson hands her a small book called NOTE\u2014a device which transforms her into one of the Gatchaman, the legendary protectors of Tachikawa City. Stressing that the existence of their group must remain a secret, fellow Gatchaman Sugane Tachibana takes Hajime to their base of operations, where Paiman, the panda-like alien leader of the Gatchaman, reveals their purpose: to eliminate aliens that pose a danger to humanity. These existential threats, called MESS, are becoming increasingly dangerous, destroying everything they touch. Now it's up to the Gatchaman and their new recruit to stop them before the world is engulfed in chaos. [Written by MAL Rewrite]",
+    "title": "Gatchaman Crowds",
+    "title_english": "Gatchaman Crowds",
+    "title_japanese": "\u30ac\u30c3\u30c1\u30e3\u30de\u30f3 \u30af\u30e9\u30a6\u30ba",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ecYxVCXI844?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18229/Gatchaman_Crowds"
+}

@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2017-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 8, 2017 to Dec 24, 2017",
+        "to": "2017-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Donna Hoshizora yori mo, Donna Omoide yori mo (\u3069\u3093\u306a\u661f\u7a7a\u3088\u308a\u3082\u3001\u3069\u3093\u306a\u601d\u3044\u51fa\u3088\u308a\u3082)\" by Aira Yuuki (eps 1-3, 5-8, 10-12)",
+        "\"Dairokkan no Mistress (\u7b2c\u516d\u611f\u306e\u30df\u30b9\u30c8\u30ec\u30b9)\" by Manami Numakura (ep 4)",
+        "\"Innocent Lovely (\u30a4\u30ce\u30bb\u30f3\u30c8\u30fb\u30e9\u30d6\u30ea\u30fc)\" by Akane Fujita (ep 9)"
+    ],
+    "episodes": 12,
+    "favorites": 939,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/88472.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35413,
+    "members": 150820,
+    "opening_themes": [
+        "\"Ashita no Kimi sae Ireba Ii. (\u660e\u65e5\u306e\u541b\u3055\u3048\u3044\u308c\u3070\u3044\u3044\u3002)\" by ChouCho"
+    ],
+    "popularity": 656,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1430,
+            "name": "Shogakukan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        }
+    ],
+    "rank": 1628,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 86310,
+                "name": "Imouto sae Ireba Ii.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/86310/Imouto_sae_Ireba_Ii"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 37045,
+                "name": "Imouto sae Ireba Ii. (ONA)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37045/Imouto_sae_Ireba_Ii_ONA"
+            },
+            {
+                "mal_id": 37047,
+                "name": "Imouto sae Ireba Ii. (ONA) Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37047/Imouto_sae_Ireba_Ii_ONA_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:e8a9c6c87d0a01c85528ec3b71f7afd4774470d6",
+    "score": 7.52,
+    "scored_by": 66824,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "Itsuki Hashima is a light novelist obsessed with little sisters, strictly focusing on them when he writes his stories. Despite his personality, he is surrounded by a tight circle of friends: Nayuta Kani, a genius yet perverted novelist who is in love with him; Haruto Fuwa, a fellow male author whose work has seen considerable success; Miyako Shirakawa, a good friend that he met in college; and Chihiro, his perfect younger step-brother who takes care of the housework and cooking. Together, they play strange games, go on spontaneous journeys, crack silly jokes, and celebrate each other's successes. However, each individual must also deal with their own issues, whether it is struggling to meet a deadline or coming to terms with traumatic events buried in their past. [Written by MAL Rewrite]",
+    "title": "Imouto sae Ireba Ii.",
+    "title_english": "A Sister's All You Need",
+    "title_japanese": "\u59b9\u3055\u3048\u3044\u308c\u3070\u3044\u3044\u3002",
+    "title_synonyms": [
+        "It'd be Good if Only Little Sister Was Here"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35413/Imouto_sae_Ireba_Ii"
+}

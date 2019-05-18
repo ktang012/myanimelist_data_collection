@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2013-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 8, 2013 to Dec 24, 2013",
+        "to": "2013-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Tokyo on September 1, 2013. Regular broadcasting began on October 8, 2013.",
+    "broadcast": "Tuesdays at 02:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Non Non Biyori (\u306e\u3093\u306e\u3093\u65e5\u548c)\" by Renge Miyauchi (Kotori Koiwai), Hotaru Ichijou (Rie Murakawa), Natsumi Koshigaya (Ayane Sakura), Komari Koshigaya (Kana Asumi)"
+    ],
+    "episodes": 12,
+    "favorites": 3679,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/51581.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 17549,
+    "members": 220971,
+    "opening_themes": [
+        "\"Nanairo Biyori (\u306a\u306a\u3044\u308d\u3073\u3088\u308a)\" by nano.RIPE"
+    ],
+    "popularity": 412,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        }
+    ],
+    "rank": 581,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17552,
+                "name": "Non Non Biyori",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17552/Non_Non_Biyori"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23623,
+                "name": "Non Non Biyori Repeat",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23623/Non_Non_Biyori_Repeat"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 21667,
+                "name": "Non Non Biyori: Okinawa e Ikukoto ni Natta",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21667/Non_Non_Biyori__Okinawa_e_Ikukoto_ni_Natta"
+            }
+        ]
+    },
+    "request_cache_expiry": 42560,
+    "request_cached": true,
+    "request_hash": "request:anime:4d99649cf7e2c6eb67e814243f15d9b62ae15816",
+    "score": 8,
+    "scored_by": 94256,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "Asahigaoka might look like typical, boring countryside to most; however, no day in this village can ever be considered colorless thanks to five students of varying ages occupying the only class in the only school in town. The youngest student is first grader Renge Miyauchi, who brings an unadulterated wit, curiosity, and her characteristic catchphrase, \"Nyanpasu!\" Then there are the Koshigaya siblings consisting of the quiet ninth grader and elder brother Suguru, diminutive eighth grader Komari, and the mischievous seventh grader Natsumi. The recent arrival of Tokyo-raised fifth grader Hotaru Ichijou, who appears overdeveloped for her age and thus naturally holds an air of maturity, rounds out this lively and vibrant group of five classmates. Based on the manga penned and illustrated by Atto, Non Non Biyori chronicles the not-so-normal daily lives of this group of friends as they engage in their own brand of fun and frolic, and playfully struggle with the realities of living in a rural area. [Written by MAL Rewrite]",
+    "title": "Non Non Biyori",
+    "title_english": "Non Non Biyori",
+    "title_japanese": "\u306e\u3093\u306e\u3093\u3073\u3088\u308a",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/GtOCzzLNsOY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/17549/Non_Non_Biyori"
+}

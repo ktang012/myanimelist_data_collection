@@ -1,0 +1,175 @@
+{
+    "aired": {
+        "from": "2018-01-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Jan 13, 2018 to Jun 30, 2018",
+        "to": "2018-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 06:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Howling\" by FLOW x GRANRODEO (ep 1)",
+        "\"Beautiful\" by Anly (eps 2-12)",
+        "\"Chikai (\u8a93\u3044)\" by Sora Amamiya (eps 13-23)",
+        "\"Ame ga Furu kara Niji ga Deru (\u96e8\u304c\u964d\u308b\u304b\u3089\u8679\u304c\u51fa\u308b)\" by Sky Peace (\u30b9\u30ab\u30a4\u30d4\u30fc\u30b9) (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 3822,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/90089.jpg",
+    "licensors": [],
+    "mal_id": 34577,
+    "members": 374254,
+    "opening_themes": [
+        "\"Howling\" by FLOW x GRANRODEO (eps 2-12)",
+        "\"Ame ga Furu kara Niji ga Deru (\u96e8\u304c\u964d\u308b\u304b\u3089\u8679\u304c\u51fa\u308b)\" by Sky Peace (\u30b9\u30ab\u30a4\u30d4\u30fc\u30b9) (eps 13-23)"
+    ],
+    "popularity": 188,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 1345,
+            "name": "Sammy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        }
+    ],
+    "rank": 279,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 44485,
+                "name": "Nanatsu no Taizai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/44485/Nanatsu_no_Taizai"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31722,
+                "name": "Nanatsu no Taizai: Seisen no Shirushi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31722/Nanatsu_no_Taizai__Seisen_no_Shirushi"
+            },
+            {
+                "mal_id": 36923,
+                "name": "Nanatsu no Taizai: Imashime no Fukkatsu Joshou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36923/Nanatsu_no_Taizai__Imashime_no_Fukkatsu_Joshou"
+            }
+        ],
+        "Sequel": [],
+        "Side story": [
+            {
+                "mal_id": 35946,
+                "name": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35946/Nanatsu_no_Taizai_Movie__Tenkuu_no_Torawarebito"
+            },
+            {
+                "mal_id": 38198,
+                "name": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38198/Nanatsu_no_Taizai__Eiyuu-tachi_wa_Hashagu"
+            }
+        ]
+    },
+    "request_cache_expiry": 1096,
+    "request_cached": true,
+    "request_hash": "request:anime:4b20925fb873d25bc81ad702fb54b1ba6a7fafde",
+    "score": 8.27,
+    "scored_by": 180022,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "The fierce battle between Meliodas, the captain of the Seven Deadly Sins, and the Great Holy Knight Hendrickson has devastating consequences. Armed with the fragments necessary for the revival of the Demon Clan, Hendrickson breaks the seal, allowing the Commandments to escape, all of whom are mighty warriors working directly under the Demon King himself. Through a mysterious connection, Meliodas instantly identifies them; likewise, the 10 Commandments, too, seem to sense his presence. As the demons leave a path of destruction in their wake, the Seven Deadly Sins must find a way to stop them before the Demon Clan drowns Britannia in blood and terror. [Written by MAL Rewrite]",
+    "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "title_english": "The Seven Deadly Sins: Revival of the Commandments",
+    "title_japanese": "\u4e03\u3064\u306e\u5927\u7f6a \u6212\u3081\u306e\u5fa9\u6d3b",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/lgkv0Lqr-Iw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu"
+}

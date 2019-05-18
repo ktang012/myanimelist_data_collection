@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2017-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 12, 2017 to Sep 27, 2017",
+        "to": "2017-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Caste Room (\u30ab\u30fc\u30b9\u30c8\u30eb\u30fc\u30e0)\" by ZAQ (ep 1)",
+        "\"Beautiful Soldier\" by Minami (eps 2-11)"
+    ],
+    "episodes": 12,
+    "favorites": 4109,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/86830.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35507,
+    "members": 291618,
+    "opening_themes": [
+        "\"Caste Room (\u30ab\u30fc\u30b9\u30c8\u30eb\u30fc\u30e0)\" by ZAQ (eps 2-8, 10-11)"
+    ],
+    "popularity": 298,
+    "premiered": "Summer 2017",
+    "producers": [
+        {
+            "mal_id": 101,
+            "name": "Studio Hibari",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 882,
+            "name": "Toranoana",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/882/Toranoana"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+            "mal_id": 1707,
+            "name": "AKABEiSOFT2",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1707/AKABEiSOFT2"
+        }
+    ],
+    "rank": 667,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 89357,
+                "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/89357/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 30813,
+                "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30813/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_PV"
+            }
+        ]
+    },
+    "request_cache_expiry": 13920,
+    "request_cached": true,
+    "request_hash": "request:anime:0da8f19672f5153534a878b5fd30a199f0715ffd",
+    "score": 7.93,
+    "scored_by": 166880,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "On the surface, Koudo Ikusei Senior High School is a utopia. The students enjoy an unparalleled amount of freedom, and it is ranked highly in Japan. However, the reality is less than ideal. Four classes, A through D, are ranked in order of merit, and only the top classes receive favorable treatment. Kiyotaka Ayanokouji is a student of Class D, where the school dumps its worst. There he meets the unsociable Suzune Horikita, who believes she was placed in Class D by mistake and desires to climb all the way to Class A, and the seemingly amicable class idol Kikyou Kushida, whose aim is to make as many friends as possible. While class membership is permanent, class rankings are not; students in lower ranked classes can rise in rankings if they score better than those in the top ones. Additionally, in Class D, there are no bars on what methods can be used to get ahead. In this cutthroat school, can they prevail against the odds and reach the top? [Written by MAL Rewrite]",
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "title_english": "Classroom of the Elite",
+    "title_japanese": "\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078",
+    "title_synonyms": [
+        "Welcome to the Classroom of the Elite"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/iYsx6w5PNno?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e"
+}

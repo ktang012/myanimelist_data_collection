@@ -1,0 +1,183 @@
+{
+    "aired": {
+        "from": "2014-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 5, 2014 to Jun 21, 2014",
+        "to": "2014-06-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Nozue no Utage\" (\u91ce\u672b\u306e\u5bb4) by Toshio Masuda (ep 1)",
+        "\"Saezuru Kai\" (\u56c0\u308b\u8c9d) by Toshio Masuda (ep 2)",
+        "\"Yuki no Shita\" (\u96ea\u306e\u4e0b) by Toshio Masuda (ep 3)",
+        "\"Yoru wo Naderu Te\" (\u591c\u3092\u64ab\u3067\u308b\u624b) by Toshio Masuda (ep 4)",
+        "\"Kagami ga Fuchi\" (\u93e1\u304c\u6df5) by Toshio Masuda (ep 5)",
+        "\"Hana Madoi\" (\u82b1\u60d1\u3044) by Toshio Masuda (ep 6)",
+        "\"Hi Teru Ame\" (\u65e5\u7167\u308b\u96e8) by Toshio Masuda (ep 7)",
+        "\"Shimaki Tatsu\" (\u98a8\u5dfb\u7acb\u3064) by Toshio Masuda (ep 8)",
+        "\"Ushio Waku Tani\" (\u6f6e\u308f\u304f\u8c37) by Toshio Masuda (ep 9)",
+        "\"Fuyu no Soko\" (\u51ac\u306e\u5e95) by Toshio Masuda (ep 10)"
+    ],
+    "episodes": 10,
+    "favorites": 1053,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 21939,
+    "members": 169302,
+    "opening_themes": [
+        "\"Shiver\" by Lucy Rose"
+    ],
+    "popularity": 577,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        }
+    ],
+    "rank": 36,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 418,
+                "name": "Mushishi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/418/Mushishi"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 457,
+                "name": "Mushishi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/457/Mushishi"
+            },
+            {
+                "mal_id": 21329,
+                "name": "Mushishi Special: Hihamukage",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21329/Mushishi_Special__Hihamukage"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24687,
+                "name": "Mushishi Zoku Shou: Odoro no Michi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24687/Mushishi_Zoku_Shou__Odoro_no_Michi"
+            },
+            {
+                "mal_id": 24701,
+                "name": "Mushishi Zoku Shou 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24701/Mushishi_Zoku_Shou_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:b9d1a4cba6d2a36067e0fa2fc9d4ca48e3c49d9d",
+    "score": 8.76,
+    "scored_by": 69121,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 8,
+            "name": "Artland",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        }
+    ],
+    "synopsis": "Perceived as strange and feared by man, over time the misshapen ones came to be known as Mushi. Although they harbor no ill intentions towards humans, many suffer from the side effects of their existence and strange nature; exploiting the Mushi without understanding them, even unintentionally, can lead to disaster and strife for any involved. Mushishi Zoku Shou continues the story of Mushishi Ginko on his journey to help the visible world to coexist with the Mushi. During his travels, Ginko discovers various gifted individuals\u2014those cursed by circumstance and those maintaining a fragile symbiosis with the Mushi\u2014inevitably confronting the question of whether humanity, talented and tortured alike, can manage the responsibility of the unseen. Moreover, as a Mushishi, Ginko must learn more about these strange beings and decide if he has the right to interfere with the complex relationships between Mushi and mankind. [Written by MAL Rewrite]",
+    "title": "Mushishi Zoku Shou",
+    "title_english": "MUSHI-SHI -Next Passage-",
+    "title_japanese": "\u87f2\u5e2b \u7d9a\u7ae0",
+    "title_synonyms": [
+        "Mushi-shi Zoku Shou",
+        "Mushishi: The Next Chapter"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/CXhPRWY1L0E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou"
+}

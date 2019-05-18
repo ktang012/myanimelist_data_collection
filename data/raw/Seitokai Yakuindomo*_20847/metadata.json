@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2014-01-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 4, 2014 to Mar 30, 2014",
+        "to": "2014-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Mirai Night (\u30df\u30e9\u30a4\u30ca\u30a4\u30c8)\" by Satomi Satou"
+    ],
+    "episodes": 13,
+    "favorites": 442,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/56941.jpg",
+    "licensors": [],
+    "mal_id": 20847,
+    "members": 155470,
+    "opening_themes": [
+        "\"Hanasaku\u2606Saikyou Legend Days (\u82b1\u54b2\u304f\u2606\u6700\u5f37\u30ec\u30b8\u30a7\u30f3\u30c9Days)\" by Triple Booking"
+    ],
+    "popularity": 635,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        }
+    ],
+    "rank": 910,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14110,
+                "name": "Seitokai Yakuindomo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14110/Seitokai_Yakuindomo"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 34504,
+                "name": "Seitokai Yakuindomo Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34504/Seitokai_Yakuindomo_Movie"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10119,
+                "name": "Seitokai Yakuindomo OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10119/Seitokai_Yakuindomo_OVA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 26123,
+                "name": "Seitokai Yakuindomo* OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26123/Seitokai_Yakuindomo_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 797,
+    "request_cached": true,
+    "request_hash": "request:anime:33babace01c6ebb24c94ef49b6a167b17d747df3",
+    "score": 7.8,
+    "scored_by": 77693,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 309,
+            "name": "GoHands",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+    ],
+    "synopsis": "They say that the more things change, the more they stay the same, and those words could not be more true for the student council of Ousai Private Academy. Though an entire year has passed\u2014bringing the senior members to their final year of high school\u2014not much has changed. President Shino Amakusa is just as perverted as ever, Secretary Aria Shichijou still refuses to put on a pair of panties, Treasurer Suzu Hagimura has yet to grow an inch, and Vice President Takatoshi Tsuda is still stuck as the straight man to their crazy antics. Of course, limiting the fun to a four-way might get a little stale; although the group still messes around with the Judo Club and the Newspaper Club, more girls have come to get in on the excitement. Takatoshi's sister Kotomi, a new student at Ousai, is as perverse as the president, while Uomi, the aloof student council president of the nearby Eiryou High School, fits right in with the insanity at Ousai. With loads of absurdity and sexual humor that keeps on coming, Takatoshi needs to harden up if he is going to keep up with all the madness around him. [Written by MAL Rewrite]",
+    "title": "Seitokai Yakuindomo*",
+    "title_english": null,
+    "title_japanese": "\u751f\u5f92\u4f1a\u5f79\u54e1\u5171\uff0a",
+    "title_synonyms": [
+        "Seitokai Yakuindomo 2",
+        "SYD*"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20847/Seitokai_Yakuindomo"
+}

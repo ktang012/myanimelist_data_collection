@@ -1,0 +1,134 @@
+{
+    "aired": {
+        "from": "2018-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Jul 14, 2018 to Sep 29, 2018",
+        "to": "2018-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"SWEET HURT\" by ReoNa (eps 1-8, 10-12)",
+        "\"Canaria (\u30ab\u30ca\u30ea\u30a2)\" by ReoNa (ep 9)"
+    ],
+    "episodes": 12,
+    "favorites": 741,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1086/91313.jpg",
+    "licensors": [],
+    "mal_id": 37517,
+    "members": 95049,
+    "opening_themes": [
+        "\"One Room Sugar Life (\u30ef\u30f3\u30eb\u30fc\u30e0\u30b7\u30e5\u30ac\u30fc\u30e9\u30a4\u30d5)\" by Akari Nanawo (\u30ca\u30ca\u30f2\u30a2\u30ab\u30ea)"
+    ],
+    "popularity": 1048,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1869,
+            "name": "Bit Promotion",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1869/Bit_Promotion"
+        }
+    ],
+    "rank": 3574,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 92160,
+                "name": "Happy Sugar Life",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/92160/Happy_Sugar_Life"
+            }
+        ]
+    },
+    "request_cache_expiry": 21593,
+    "request_cached": true,
+    "request_hash": "request:anime:c8bf9961bd0970b285fba82abd62056b0bde20b2",
+    "score": 7.04,
+    "scored_by": 35598,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1864,
+            "name": "Ez\u03ccla",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1864/Ez%CF%8Cla"
+        }
+    ],
+    "synopsis": "Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive with men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love. Telling others that she lives with her aunt, Satou secretly shares an apartment with Shio. Despite her innocent appearance, Satou is willing to do anything to protect her beloved, resorting to desperate measures to ensure that their \"happy sugar life\" remains intact. [Written by MAL Rewrite]",
+    "title": "Happy Sugar Life",
+    "title_english": null,
+    "title_japanese": "\u30cf\u30c3\u30d4\u30fc\u30b7\u30e5\u30ac\u30fc\u30e9\u30a4\u30d5",
+    "title_synonyms": [
+        "White Sugar Garden",
+        "Black Salt Cage"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/lxjHUh5I5P4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37517/Happy_Sugar_Life"
+}

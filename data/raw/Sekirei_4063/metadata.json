@@ -1,0 +1,144 @@
+{
+    "aired": {
+        "from": "2008-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Jul 2, 2008 to Sep 17, 2008",
+        "to": "2008-09-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Sekirei's English adaptation was done by FUNimation in 2010, two years after its initial Japanese release. The series covers approximately the first fifty chapters of the manga on which it is based.",
+    "broadcast": "Wednesdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Dear sweet heart\" by Saori Hayami, Marina Inoue, Kana Hanazawa, and Aya Endo (ep 1-10)",
+        "\"Kimi wo Omou Toki (\u304d\u307f\u3092\u60f3\u3046\u3068\u304d)\" by Saori Hayami (ep 11)"
+    ],
+    "episodes": 12,
+    "favorites": 1608,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/15182.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 4063,
+    "members": 265613,
+    "opening_themes": [
+        "\"Sekirei (\u30bb\u30ad\u30ec\u30a4)\" by Saori Hayami, Marina Inoue, Kana Hanazawa, and Aya Endo"
+    ],
+    "popularity": 323,
+    "premiered": "Summer 2008",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 2551,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 873,
+                "name": "Sekirei",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/873/Sekirei"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 5277,
+                "name": "Sekirei: Pure Engagement",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5277/Sekirei__Pure_Engagement"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 5279,
+                "name": "Sekirei: Hajimete no Otsukai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5279/Sekirei__Hajimete_no_Otsukai"
+            }
+        ]
+    },
+    "request_cache_expiry": 34154,
+    "request_cached": true,
+    "request_hash": "request:anime:37beb323a162fb01e9c4e932acc29fdd9713cb4c",
+    "score": 7.29,
+    "scored_by": 139775,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 35,
+            "name": "Seven Arcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ],
+    "synopsis": "Struggling yet brilliant teenager Minato Sahashi has failed his college entrance exams for the second time, resulting in him being regarded as worthless by those around him. However, the course of his seemingly bleak future is altered dramatically when a beautiful, supernatural woman falls from the sky and into his life. That woman, Musubi, is a unique being known as a \"Sekirei,\" a humanoid extraterrestrial with extraordinary abilities. These aliens are known for kissing humans carrying the Ashikabi gene in order to awaken additional latent powers deep within. Recognizing the potential within the seemingly insignificant youth, Musubi kisses the bewildered Minato, initiating a bond between the two of them. This drags him into the high-stakes world of the Sekirei, where he and his new partner must compete against others in a battle for survival called the \"Sekirei Plan.\" However, unbeknownst to the contestants, there is far more at risk that what the competition initially entailed. [Written by MAL Rewrite]",
+    "title": "Sekirei",
+    "title_english": "Sekirei",
+    "title_japanese": "\u30bb\u30ad\u30ec\u30a4",
+    "title_synonyms": [
+        "Wagtail"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/bIks3uAzT1M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4063/Sekirei"
+}

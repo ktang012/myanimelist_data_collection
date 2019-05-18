@@ -1,0 +1,171 @@
+{
+    "aired": {
+        "from": "2018-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Jan 6, 2018 to Jun 23, 2018",
+        "to": "2018-06-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"PLEDGE\" by ASCA",
+        "\"Shoudou (\u885d\u52d5)\" by Mashiro Ayano"
+    ],
+    "episodes": 24,
+    "favorites": 509,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/89883.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 34279,
+    "members": 130633,
+    "opening_themes": [
+        "\"starry\" by Mashiro Ayano",
+        "\"Rin (\u51db)\" by ASCA"
+    ],
+    "popularity": 779,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1500,
+            "name": "ABC Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        },
+        {
+            "mal_id": 1653,
+            "name": "Kinoshita Group Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1653/Kinoshita_Group_Holdings"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+            "mal_id": 1788,
+            "name": "Cromea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1788/Cromea"
+        },
+        {
+            "mal_id": 1858,
+            "name": "Sonilude",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+        }
+    ],
+    "rank": 2412,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 58065,
+                "name": "Grancrest Senki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/58065/Grancrest_Senki"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 37505,
+                "name": "Grancrest Senki Tsuisou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37505/Grancrest_Senki_Tsuisou"
+            }
+        ]
+    },
+    "request_cache_expiry": 32102,
+    "request_cached": true,
+    "request_hash": "request:anime:a7dff4f9776683b3aab028e19497af2c538d2469",
+    "score": 7.32,
+    "scored_by": 42965,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "The continent of Atlatan once again finds itself devoured by the flames of war after a horrific event known as the Great Hall Tragedy. What was supposed to be a joyful occasion that would establish peace between the Fantasia Union and the Factory Alliance, the marriage of Sir Alexis Douse and Lady Marrine Kreische, was instead a tragedy. As the bride and groom walked down the aisle, the ceremony was suddenly interrupted by a powerful convergence of \"Chaos,\" a dark energy from another dimension that corrupts the land and brings forth monsters and demons into the world. From within that energy appeared the Demon Lord of Diabolos, an evil being who instantly murdered the archdukes of both factions, shattering any hope for peace between them. Having failed to prevent this disaster, Siluca Meletes, an Alliance mage, is traveling through the Chaos-infested countryside to study under a master magician. When she is intercepted by a group of soldiers working with the Federation, Siluca is rescued by Theo Cornaro, a young warrior carrying a mysterious \"Crest,\" a magical symbol that gives its wielder the ability to banish Chaos. Bearing no allegiance to a specific domain, Theo hopes to attain the rank of Lord so that he can liberate his home town of Sistina from its tyrannical ruler and the Chaos spreading within it. Impressed by his noble goal, Siluca enters into a magical contract with Theo, and the two embark on a journey to restore balance to their war-torn land. [Written by MAL Rewrite]",
+    "title": "Grancrest Senki",
+    "title_english": "Record of Grancrest War",
+    "title_japanese": "\u30b0\u30e9\u30f3\u30af\u30ec\u30b9\u30c8\u6226\u8a18",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/S-HBLiUdH1k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34279/Grancrest_Senki"
+}

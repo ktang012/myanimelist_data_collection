@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2015-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Apr 9, 2015 to Sep 24, 2015",
+        "to": "2015-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:29 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Shiawase no Arika (\u5e78\u305b\u306e\u3042\u308a\u304b)\" by LOCAL CONNECT (eps 1-23)",
+        "\"Miraikei Answer (\u672a\u6765\u5f62Answer)\" by TRUSTRICK (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 3161,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/69455.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 28297,
+    "members": 341791,
+    "opening_themes": [
+        "\"Miraikei Answer (\u672a\u6765\u5f62Answer)\" by TRUSTRICK (eps 1-23)"
+    ],
+    "popularity": 224,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 508,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 36933,
+                "name": "Ore Monogatari!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/36933/Ore_Monogatari"
+            }
+        ]
+    },
+    "request_cache_expiry": 2194,
+    "request_cached": true,
+    "request_hash": "request:anime:7004faed6b37832b536838ec1a3bfcc093ec647c",
+    "score": 8.05,
+    "scored_by": 158536,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "With his muscular build and tall stature, Takeo Gouda is not exactly your average high school freshman. However, behind his intimidating appearance hides a heart of gold, and he is considered a hero by the boys for his courage and chivalry. Unfortunately, these traits do not help much with his love life. As if his looks are not enough to scare the opposite sex away, Takeo's cool and handsome best friend and constant companion Makoto Sunakawa easily steals the hearts of the female students\u2014including every girl Takeo has ever liked. When Takeo gallantly saves cute and angelic Rinko Yamato from being molested, he falls in love with her instantly, but suspects that she might be interested in Sunakawa. With his own love for Yamato continuing to bloom, Takeo unselfishly decides to act as her cupid, even as he yearns for his own love story. [Written by MAL Rewrite]",
+    "title": "Ore Monogatari!!",
+    "title_english": "My Love Story!!",
+    "title_japanese": "\u4ffa\u7269\u8a9e!!",
+    "title_synonyms": [
+        "Ore Monogatari!!",
+        "My Story!!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/2oAYS6jWyIs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28297/Ore_Monogatari"
+}

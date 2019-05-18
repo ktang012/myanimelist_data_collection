@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2017-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 8, 2017 to Mar 26, 2017",
+        "to": "2017-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Fairy Tale (\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb)\" by Sangatsu no Phantasia"
+    ],
+    "episodes": 12,
+    "favorites": 1063,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/83417.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33988,
+    "members": 225877,
+    "opening_themes": [
+        "\"Original. (\u30aa\u30ea\u30b8\u30ca\u30eb\u3002)\" by TrySail"
+    ],
+    "popularity": 402,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1677,
+            "name": "Kanetsu Co., LTD.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1677/Kanetsu_Co_LTD"
+        }
+    ],
+    "rank": 1024,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 82745,
+                "name": "Demi-chan wa Kataritai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/82745/Demi-chan_wa_Kataritai"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35823,
+                "name": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35823/Demi-chan_wa_Kataritai__Demi-chan_no_Natsuyasumi"
+            }
+        ]
+    },
+    "request_cache_expiry": 1041,
+    "request_cached": true,
+    "request_hash": "request:anime:17cf3f19da976cfd362bbba78ef50ee442faa614",
+    "score": 7.74,
+    "scored_by": 116633,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "High school biology teacher Tetsuo Takahashi may look like your average everyday instructor, but beneath his gentle appearance lies something less ordinary: his fascination for the \"Ajin,\" more commonly known as \"Demi.\" Although these half-human, half-monster beings have integrated into human society, Takahashi believes that much about them will remain unknown unless he interacts with them firsthand. Demi-chan wa Kataritai follows Takahashi's daily life in Shibasaki High School together with his three Demi students\u2014Hikari Takanashi, an energetic vampire; Kyouko Machi, a gentle dullahan; and Yuki Kusakabe, the shy snow woman. Along the way, Takahashi also meets fellow teacher Sakie Satou, a succubus with an aversion towards men. To fulfill his goal of learning more about the Demi, Takahashi decides to conduct casual interviews with the girls to learn more about their abilities, psyche, and interaction with human society. As Takahashi strengthens his bond with his students, he soon discovers that the Demi are not as unusual as he initially believed. [Written by MAL Rewrite]",
+    "title": "Demi-chan wa Kataritai",
+    "title_english": "Interviews With Monster Girls",
+    "title_japanese": "\u4e9c\u4eba\u3061\u3083\u3093\u306f\u8a9e\u308a\u305f\u3044",
+    "title_synonyms": [
+        "Ajin-chan wa Kataritai"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/v1FaOeclBp0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33988/Demi-chan_wa_Kataritai"
+}

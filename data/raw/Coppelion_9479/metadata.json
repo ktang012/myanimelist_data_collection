@@ -1,0 +1,108 @@
+{
+    "aired": {
+        "from": "2013-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 2, 2013 to Dec 25, 2013",
+        "to": "2013-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Coppelion was first announced to receive an anime adaptation in 2010, but the project was put on hold after the 2011 tsunami that struck northeastern Japan caused the failure of a nuclear power plant in Fukushima.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tooku Made (\u9060\u304f\u307e\u3067)\" by angela (eps 1-12)",
+        "\"Bye Bye All Right (\u30d0\u30a4\u30d0\u30a4\u30aa\u30fc\u30e9\u30a4)\" by angela (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 191,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75543.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 9479,
+    "members": 94714,
+    "opening_themes": [
+        "\"ANGEL\" by angela"
+    ],
+    "popularity": 1050,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        }
+    ],
+    "rank": 5821,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14729,
+                "name": "Coppelion",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14729/Coppelion"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:0b11cb5951a2217930dc8a067a465859c2082e27",
+    "score": 6.53,
+    "scored_by": 39436,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 309,
+            "name": "GoHands",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+    ],
+    "synopsis": "In 2016, a meltdown of a nuclear power plant creates a big catastrophe in Tokyo. 20 years later, the city has become a ghost town due to the high levels of radiation. From that area a distress signal is received. The Self Defense forces dispatch three girls from the special unit Coppelion to search for survivors. But why aren't they wearing any protection against radiation? (Source: MU, edited)",
+    "title": "Coppelion",
+    "title_english": "Coppelion",
+    "title_japanese": "\u30b3\u30c3\u30da\u30ea\u30aa\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/-vGytBT04l0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9479/Coppelion"
+}

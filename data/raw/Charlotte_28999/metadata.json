@@ -1,0 +1,154 @@
+{
+    "aired": {
+        "from": "2015-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 5, 2015 to Sep 27, 2015",
+        "to": "2015-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Yake Ochinai Tsubasa (\u707c\u3051\u843d\u3061\u306a\u3044\u7ffc)\" by Aoi Tada (eps 2, 5, 7-12)",
+        "\"Rakuen made (\u697d\u5712\u307e\u3067)\" by Yusa Nishimori (Maaya Uchida) (eps 3-4)",
+        "\"Tasogare (\u9ec4\u660f)\" by Anant-Garde Eyes (ep 6)",
+        "\"Kimi no Moji (\u541b\u306e\u6587\u5b57)\" by Anri Kumaki (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 11858,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/74683.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 28999,
+    "members": 648935,
+    "opening_themes": [
+        "\"Bravely You\" by Lia (eps 2-9, 12-13)"
+    ],
+    "popularity": 65,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 203,
+            "name": "Visual Art's",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/203/Visual_Arts"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 687,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 91913,
+                "name": "Charlotte",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91913/Charlotte"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31553,
+                "name": "Charlotte: Tsuyoimono-tachi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31553/Charlotte__Tsuyoimono-tachi"
+            }
+        ]
+    },
+    "request_cache_expiry": 22085,
+    "request_cached": true,
+    "request_hash": "request:anime:24383e124284d9be75666c17dd3e89610f3e9fe8",
+    "score": 7.91,
+    "scored_by": 384237,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 132,
+            "name": "P.A. Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ],
+    "synopsis": "While on the surface Yuu Otosaka appears to be just another charming and intelligent teenager, he has a secret\u2014he has the ability to slip into people's minds and fully control their body for five seconds at a time. Yuu has been using this skill for years to gain the highest grades, which allowed him to enter a prestigious high school. When the enigmatic Nao Tomori catches Yuu using his power, she coerces him and his sister Ayumi into transferring to Hoshinoumi Academy, a school for students with supernatural abilities. The student council of the school, led by Nao, is tasked with secretly tracking down adolescents who abuse their powers. Yuu is forced to join the student council and together, they face formidable challenges that bring him closer to the shocking truth that his own, seemingly incomplete ability, might be more powerful than he could have ever imagined. An original story from Jun Maeda, creator of Angel Beats and Clannad, Charlotte explores the supernatural lives of these teenagers and the price they must pay for being special. [Written by MAL Rewrite]",
+    "title": "Charlotte",
+    "title_english": "Charlotte",
+    "title_japanese": "Charlotte\uff08\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\uff09",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/6AgEzww-a0w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28999/Charlotte"
+}

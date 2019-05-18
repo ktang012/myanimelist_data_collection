@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2017-10-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 14, 2017 to Dec 23, 2017",
+        "to": "2017-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Opera (\u30aa\u30da\u30e9)\" by Phero\u2606Men"
+    ],
+    "episodes": 11,
+    "favorites": 155,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/89682.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32271,
+    "members": 91569,
+    "opening_themes": [
+        "\"Kadenz\" by Yui Sakakibara"
+    ],
+    "popularity": 1084,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 1671,
+            "name": "DMM pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+        },
+        {
+            "mal_id": 1743,
+            "name": "Greenwood",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1743/Greenwood"
+        },
+        {
+            "mal_id": 1744,
+            "name": "My Theater D.D.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1744/My_Theater_DD"
+        },
+        {
+            "mal_id": 1745,
+            "name": "Brave Hearts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1745/Brave_Hearts"
+        },
+        {
+            "mal_id": 1784,
+            "name": "Crunchyroll SC Anime Fund",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+        }
+    ],
+    "rank": 9425,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 96414,
+                "name": "Dies Irae: Amantes Amentes",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/96414/Dies_Irae__Amantes_Amentes"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 36521,
+                "name": "Dies Irae: Irasshai Zonnenji",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36521/Dies_Irae__Irasshai_Zonnenji"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 36524,
+                "name": "Dies Irae: Reimei",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36524/Dies_Irae__Reimei"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 36515,
+                "name": "Dies Irae: To the Ring Reincarnation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36515/Dies_Irae__To_the_Ring_Reincarnation"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 37148,
+                "name": "Dies Irae: Marie's Memory \"Michi ni Tsuuzu Kiseki\"",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37148/Dies_Irae__Maries_Memory_Michi_ni_Tsuuzu_Kiseki"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:baa9432d83b4f43a41a2388254f7ba4f793d4fb8",
+    "score": 5.49,
+    "scored_by": 20999,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 179,
+            "name": "A.C.G.T.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/179/ACGT"
+        }
+    ],
+    "synopsis": "On May 1, 1945 in Berlin, as the Red Army raises the Soviet flag over the Reichskanzlei, a group of Nazi officers conduct a ritual. For them, the slaughter in the city is nothing but the perfect ritual sacrifice in order to bring back the Order of the 13 Lances, a group of supermen whose coming would bring the world's destruction. Years later, no one knows if this group of officers succeeded, or whether they lived or died. Few know of their existence, and even those who knew began to pass away as the decades passed. Now in December in the present day in Suwahara City, Ren Fujii spends his days at the hospital. It has been two months since the incident that brought him to the hospital: a fight with his friend Shirou Yusa where they almost tried to kill each other. He tries to value what he has left to him, but every night he sees the same dream: a guillotine, murderers who hunt people, and the black clothed knights who pursue the murderers. He is desperate to return to his normal, everyday life, but even now he hears Shirou's words: \"Everyone who remains in this city eventually loses their minds.\" (Source: ANN)",
+    "title": "Dies Irae",
+    "title_english": "Dies irae",
+    "title_japanese": "Dies irae",
+    "title_synonyms": [
+        "Day of Wrath"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ps-hE6UXczs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32271/Dies_Irae"
+}

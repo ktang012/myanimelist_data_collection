@@ -1,0 +1,191 @@
+{
+    "aired": {
+        "from": "2014-01-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 5, 2014 to Mar 23, 2014",
+        "to": "2014-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Aside from the anime and manga there is a mobile game titled Noragami -Kami to Enishi-.",
+    "broadcast": "Sundays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Heart Realize (\u30cf\u30fc\u30c8\u30ea\u30a2\u30e9\u30a4\u30ba)\" by Tia"
+    ],
+    "episodes": 12,
+    "favorites": 21855,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/77809.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 20507,
+    "members": 1009278,
+    "opening_themes": [
+        "\"Goya no Machiawase (\u5348\u591c\u306e\u5f85\u3061\u5408\u308f\u305b)\" by Hello Sleepwalkers"
+    ],
+    "popularity": 15,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 1041,
+            "name": "Ai Addiction",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1041/Ai_Addiction"
+        },
+        {
+            "mal_id": 1309,
+            "name": "Lawson HMV Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1309/Lawson_HMV_Entertainment"
+        },
+        {
+            "mal_id": 1635,
+            "name": "A-Sketch",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1635/A-Sketch"
+        }
+    ],
+    "rank": 411,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24692,
+                "name": "Noragami",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24692/Noragami"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 32700,
+                "name": "Heart Realize",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32700/Heart_Realize"
+            },
+            {
+                "mal_id": 35773,
+                "name": "Noraneko",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35773/Noraneko"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30503,
+                "name": "Noragami Aragoto",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30503/Noragami_Aragoto"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 20767,
+                "name": "Noragami OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20767/Noragami_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 33830,
+    "request_cached": true,
+    "request_hash": "request:anime:2f1f94f590a0bbe7c3e2280d2380cba984f9065b",
+    "score": 8.13,
+    "scored_by": 592766,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "In times of need, if you look in the right place, you just may see a strange telephone number scrawled in red. If you call this number, you will hear a young man introduce himself as the Yato God. Yato is a minor deity and a self-proclaimed \"Delivery God,\" who dreams of having millions of worshippers. Without a single shrine dedicated to his name, however, his goals are far from being realized. He spends his days doing odd jobs for five yen apiece, until his weapon partner becomes fed up with her useless master and deserts him. Just as things seem to be looking grim for the god, his fortune changes when a middle school girl, Hiyori Iki, supposedly saves Yato from a car accident, taking the hit for him. Remarkably, she survives, but the event has caused her soul to become loose and hence able to leave her body. Hiyori demands that Yato return her to normal, but upon learning that he needs a new partner to do so, reluctantly agrees to help him find one. And with Hiyori's help, Yato's luck may finally be turning around. [Written by MAL Rewrite]",
+    "title": "Noragami",
+    "title_english": "Noragami: Stray God",
+    "title_japanese": "\u30ce\u30e9\u30ac\u30df",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/IQnnwUXd_0U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20507/Noragami"
+}

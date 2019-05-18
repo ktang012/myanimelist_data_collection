@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2010-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 7, 2010 to Dec 23, 2010",
+        "to": "2010-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "There was a limited viewing on September 25, 2010. The regular TV broadcasts started on October 7, 2010.",
+    "broadcast": "Thursdays at 01:50 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Koi no Shirushi (\u30b3\u30a4\u30ce\u30b7\u30eb\u30b7) feat. Ayumi Takahara\" by Kami no Mizo Shiri-tai featuring Ayana Taketatsu (ep 1-2)",
+        "\"Koi no Shirushi (\u30b3\u30a4\u30ce\u30b7\u30eb\u30b7) feat. Mio Aoyama\" by Kami no Mizo Shiri-tai featuring Aoi Yuuki (ep 3, 5-6)",
+        "\"Datta Ichido no Kiseki (\u3060\u3063\u305f\u4e00\u5ea6\u306e\u5947\u8de1)\" by Tomo Sakurai (ep 4)",
+        "\"Happy Crescent (\u30cf\u30c3\u30d4\u30fc\u30af\u30ec\u30bb\u30f3\u30c8)\" by Nao Toyama (ep 7)",
+        "\"Koi no Shirushi from Elsie (\u30b3\u30a4\u30ce\u30b7\u30eb\u30b7 from Elsie)\" by Kanae Itou (ep 8)",
+        "\"Koi no Shirushi (\u30b3\u30a4\u30ce\u30b7\u30eb\u30b7) feat. Kanon Nakagawa\" by Kami no Mizo Shiri-tai featuring Nao Toyama (ep 9-10)",
+        "\"Koi no Shirushi (\u30b3\u30a4\u30ce\u30b7\u30eb\u30b7) feat. Shiori Shiomiya\" by Kami no Mizo Shiri-tai featuring Kana Hanazawa (ep 11)",
+        "\"Shuuseki Kairo no Yume Tabibito (\u96c6\u7a4d\u56de\u8def\u306e\u5922\u65c5\u4eba)\" by Hiro Shimono with Oratorio The World God Only Knows (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 5092,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/43361.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 8525,
+    "members": 405351,
+    "opening_themes": [
+        "\"God only knows Daisanmaku (God only knows \u7b2c\u4e09\u5e55)\" by Oratorio The World God Only Knows"
+    ],
+    "popularity": 163,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        }
+    ],
+    "rank": 811,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7519,
+                "name": "Kami nomi zo Shiru Sekai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 11507,
+                "name": "Kami nomi zo Shiru Sekai: Nonstop!! Hunters",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11507/Kami_nomi_zo_Shiru_Sekai__Nonstop_Hunters"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 9675,
+                "name": "Kami nomi zo Shiru Sekai: Flag 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9675/Kami_nomi_zo_Shiru_Sekai__Flag_0"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10080,
+                "name": "Kami nomi zo Shiru Sekai II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10080/Kami_nomi_zo_Shiru_Sekai_II"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 17725,
+                "name": "Magical\u2606Star Kanon 100%",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17725/Magical\u2606Star_Kanon_100"
+            }
+        ]
+    },
+    "request_cache_expiry": 15529,
+    "request_cached": true,
+    "request_hash": "request:anime:5d5051dae03f2fb7ef76c1e04259ce569215dc39",
+    "score": 7.85,
+    "scored_by": 223745,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "Keima Katsuragi, known online as the legendary \"God of Conquest,\" can conquer any girl's heart\u2014in dating sim games, at least. In reality, he opts for the two-dimensional world of gaming over real life because he is an unhealthily obsessed otaku of galge games (a type of Japanese video game centered on interactions with attractive girls). When he arrogantly accepts an anonymous offer to prove his supremacy at dating sim games, Keima is misled into aiding a na\u00efve and impish demon from hell named Elucia \"Elsie\" de Lute Ima with her mission: retrieving runaway evil spirits who have escaped from hell and scattered themselves throughout the human world. Keima discovers that the only way to capture these spirits is to conquer what he hates the most: the unpredictable hearts of three-dimensional girls! Shackled to Elsie via a deadly collar, Keima now has his title of \"God of Conquest\" put to the ultimate test as he is forced to navigate through the hearts of a multitude of real-life girls. [Written by MAL Rewrite]",
+    "title": "Kami nomi zo Shiru Sekai",
+    "title_english": "The World God Only Knows",
+    "title_japanese": "\u795e\u306e\u307f\u305e\u77e5\u308b\u30bb\u30ab\u30a4",
+    "title_synonyms": [
+        "Kaminomi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/OdBmj4TWqzk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai"
+}

@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2010-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 3, 2010 to Dec 19, 2010",
+        "to": "2010-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ore no Imouto ga Konnani Kawaii Wake ga Nai also has a drama CD, a radio show and video games based on the franchise.",
+    "broadcast": "Sundays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Imouto Please! (\u59b9\u30d7\u30ea\uff5e\u30ba\uff01)\" by Ayana Taketatsu (ep 1)",
+        "\"Shine!\" by Ayana Taketatsu (ep 2)",
+        "\"Horaizumu (\u307b\u3089\u3044\u305a\u3080)\" by Ayana Taketatsu (ep 3)",
+        "\"Shiroi Kokoro (\u767d\u3044\u30b3\u30b3\u30ed)\" by Saori Hayami (ep 4)",
+        "\"Orange (\u30aa\u30ec\u30f3\u30b8)\" by Ayana Taketatsu (ep 5)",
+        "\"MAEGAMI (\u30de\u30a8\u30ac\u30df\u2606)\" by Satomi Satou (ep 6)",
+        "\"Masquerade!\" by Kana Hanazawa (ep 7)",
+        "\"KAMEREON DAUGHTER (\u30ab\u30e1\u30ec\u30aa\u30f3\u30c9\u30fc\u30bf\u30fc)\" by Hitomi Nabatame (ep 8)",
+        "\"Suki nanda mon!! (\u597d\u304d\u306a\u3093\u3060\u3082\u3093\uff01\uff01)\" by Ayana Taketatsu (ep 9)",
+        "\"Iie, Tomu wa Imouto ni Taishite Seiteki na Koufun wo Oboete imasu (\u3044\u3044\u3048\u3001\u30c8\u30e0\u306f\u59b9\u306b\u5bfe\u3057\u3066\u6027\u7684\u306a\u8208\u596e\u3092\u304a\u307c\u3048\u3066\u3044\u307e\u3059)\" by Yukari Tamura (ep 10)",
+        "\"AKIHABARA Dance Now!! (\u30a2\u30ad\u30cf\u30d0\u30e9\u2606\u3060\u3093\u3059\u2606\u306a\u3046!!)\" by Ayana Taketatsu, Kana Hanazawa, and Hitomi Nabatame (ep 11)#12 \"Tadaima (\u305f\u3060\u3044\u307e\u3002) \" by Ayana Taketatsu (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 4320,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/24875.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 8769,
+    "members": 461387,
+    "opening_themes": [
+        "\"irony\" by ClariS"
+    ],
+    "popularity": 129,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 755,
+            "name": "Jumondo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/755/Jumondo"
+        }
+    ],
+    "rank": 2549,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13667,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13667/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 19727,
+                "name": "Nexus",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19727/Nexus"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10020,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10020/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10108,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai: SD Chara ni Yoru Character Commentary",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10108/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai__SD_Chara_ni_Yoru_Character_Commentary"
+            }
+        ]
+    },
+    "request_cache_expiry": 23197,
+    "request_cached": true,
+    "request_hash": "request:anime:46b9d7d934096b5bdbc21a39001b2227af04c70c",
+    "score": 7.29,
+    "scored_by": 268840,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 436,
+            "name": "AIC Build",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/436/AIC_Build"
+        }
+    ],
+    "synopsis": "Kirino Kousaka embodies the ideal student with equally entrancing looks. Her grades are near perfect, and to cover her personal expenses, she works as a professional model alongside her best friend Ayase Aragaki, who abhors liars and all things otaku. But what Ayase doesn't know is that Kirino harbors a deep, entrenched secret that will soon be brought to light. At home one day, Kyousuke, Kirino's perfectly average brother, stumbles upon an erotic game that belongs to none other than his seemingly flawless little sister. With her reputation at stake, Kirino places a gag order on her sibling while simultaneously introducing him to the world of eroge and anime. Through Kirino, Kyousuke encounters the gothic lolita Ruri Gokou and the bespectacled otaku Saori Makishima, thus jump-starting an entirely new lifestyle. But as he becomes more and more involved in his little sister's secret life, it becomes that much harder to keep under wraps. [Written by MAL Rewrite]",
+    "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "title_english": "OreImo",
+    "title_japanese": "\u4ffa\u306e\u59b9\u304c\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u308f\u3051\u304c\u306a\u3044",
+    "title_synonyms": [
+        "My Little Sister Can't Be This Cute"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/f_2F7u2-6yc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8769/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai"
+}

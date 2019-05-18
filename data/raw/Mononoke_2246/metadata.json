@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2007-07-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Jul 13, 2007 to Sep 28, 2007",
+        "to": "2007-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The main protagonist of the series, Kusuriuri, was first introduced in \"Bakeneko,\" the final chapter of the Ayakashi: Japanese Classic Horror anthology series. Mononoke was originally broadcast during the NoitaminA programming block in Japan.",
+    "broadcast": "Unknown",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Natsu no Hana\" by JUJU"
+    ],
+    "episodes": 12,
+    "favorites": 4141,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/20713.jpg",
+    "licensors": [
+        {
+            "mal_id": 1163,
+            "name": "Flatiron Film Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+        }
+    ],
+    "mal_id": 2246,
+    "members": 146892,
+    "opening_themes": [
+        "\"Kagen no Tsuki\" by Ryouta Komatsu and Charlie Kosei"
+    ],
+    "popularity": 686,
+    "premiered": "Summer 2007",
+    "producers": [
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        }
+    ],
+    "rank": 142,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 5158,
+                "name": "Mononoke",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/5158/Mononoke"
+            },
+            {
+                "mal_id": 88229,
+                "name": "Mononoke: Umibouzu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/88229/Mononoke__Umibouzu"
+            },
+            {
+                "mal_id": 89059,
+                "name": "Mononoke: Zashiki Warashi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/89059/Mononoke__Zashiki_Warashi"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 586,
+                "name": "Ayakashi: Japanese Classic Horror",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/586/Ayakashi__Japanese_Classic_Horror"
+            }
+        ]
+    },
+    "request_cache_expiry": 27972,
+    "request_cached": true,
+    "request_hash": "request:anime:63666372f940367f913b941c376256ce7d0c777d",
+    "score": 8.44,
+    "scored_by": 42169,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 18,
+            "name": "Toei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ],
+    "synopsis": "The \"Medicine Seller\" is a deadly and mysterious master of the occult who travels across feudal Japan in search of malevolent spirits called \"mononoke\" to slay. When he locates one of these spirits, he cannot simply kill it; he must first learn its Form, its Truth, and its Reason in order to wield the mighty Exorcism Sword and fight against it. He must begin his strange exorcisms with intense psychological analysis and careful investigative work\u2014an extremely dangerous step, as he must first confront and learn about the mononoke before he even has the means to defeat it. The Medicine Seller's journey leads him to an old-fashioned inn where Shino, a pregnant woman, has finally found a place to rest. The owner has reluctantly placed her in the last vacant room; however, as she settles in, it quickly becomes clear that the room is infested by a lethal band of mononoke, the Zashiki Warashi. With his hunter's intuition, the Medicine Seller begins his investigation to discover the Form, the Truth, and the Reason before the Zashiki Warashi can kill again. [Written by MAL Rewrite]",
+    "title": "Mononoke",
+    "title_english": "Mononoke",
+    "title_japanese": "\u30e2\u30ce\u30ce\u602a",
+    "title_synonyms": [],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2246/Mononoke"
+}

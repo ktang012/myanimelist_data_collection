@@ -1,0 +1,194 @@
+{
+    "aired": {
+        "from": "2013-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 4, 2013 to Mar 28, 2014",
+        "to": "2014-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Strike the Blood adapts volumes 1 through 6 of the original light novel series. The series was banned in China due to its violent content and plot filled with crimes against \"public morality.\"",
+    "broadcast": "Fridays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Strike the Blood (\u30b9\u30c8\u30e9\u30a4\u30af\u30fb\u30b6\u30fb\u30d6\u30e9\u30c3\u30c9)\" by Kishida Kyoudan & The Akeboshi Rockets (ep 1)",
+        "\"Strike my soul\" by Yuka Iguchi (eps 2-13)",
+        "\"signal\" by Kanon Wakeshima (eps 14-24)"
+    ],
+    "episodes": 24,
+    "favorites": 1901,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/56163.jpg",
+    "licensors": [
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 18277,
+    "members": 375474,
+    "opening_themes": [
+        "\"Strike the Blood (\u30b9\u30c8\u30e9\u30a4\u30af\u30fb\u30b6\u30fb\u30d6\u30e9\u30c3\u30c9)\" by Kishida Kyoudan & The Akeboshi Rockets (eps 2-7, 9-13)",
+        "\"Fight 4 Real\" by ALTIMA (eps 14-24)"
+    ],
+    "popularity": 187,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2472,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 41021,
+                "name": "Strike the Blood",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/41021/Strike_the_Blood"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33286,
+                "name": "Strike the Blood II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33286/Strike_the_Blood_II"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 30321,
+                "name": "Strike the Blood: Valkyria no Oukoku-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30321/Strike_the_Blood__Valkyria_no_Oukoku-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 38632,
+    "request_cached": true,
+    "request_hash": "request:anime:55768f7e48d64635a4f0c3f43991e00eb0cac875",
+    "score": 7.31,
+    "scored_by": 184377,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        },
+        {
+            "mal_id": 957,
+            "name": "Connect",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/957/Connect"
+        }
+    ],
+    "synopsis": "Kojou Akatsuki's days as an ordinary high school student in the Demon District of Itogami Island come to an abrupt end after a fateful encounter leaves him with the remarkable abilities of a vampire. It isn't long before he is thrust into the center of attention when it is discovered that he is the fourth primogenitor, an immensely powerful vampire whom most consider to be merely a legend. Fearing Kojou's destructive potential, the Lion King Organization sends in an apprentice sword-shaman, Yukina Himeragi, to monitor, and should he become a threat, kill the boy deemed the world's most powerful vampire. Forced together by circumstance, the two form an unlikely alliance as Kojou comes to terms with his abilities and they both struggle to protect the city from various emerging chaotic forces. [Written by MAL Rewrite]",
+    "title": "Strike the Blood",
+    "title_english": "Strike the Blood",
+    "title_japanese": "\u30b9\u30c8\u30e9\u30a4\u30af\u30fb\u30b6\u30fb\u30d6\u30e9\u30c3\u30c9",
+    "title_synonyms": [
+        "SutoBura"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/NzVpBvxalKk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18277/Strike_the_Blood"
+}

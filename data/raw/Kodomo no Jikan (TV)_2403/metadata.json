@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2007-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Oct 12, 2007 to Dec 28, 2007",
+        "to": "2007-12-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hanamaru\u2606Sensation (\u30cf\u30ca\u30de\u30eb\u2606\u30bb\u30f3\u30bb\u30a4\u30b7\u30e7\u30f3)\" by Little Non",
+        "\"Yasashii (\u3084\u3055\u3057\u3044)\" by Chata (ep 6)",
+        "\"Otome Chikku Shoshinsha desu\" by Eri Kitamura, Kei Shindou, Mai Kadowaki (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 494,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/28234.jpg",
+    "licensors": [],
+    "mal_id": 2403,
+    "members": 85072,
+    "opening_themes": [
+        "\"Rettsu! Ohime-sama Dakko (\u308c\u3063\u3064\uff01\u304a\u3072\u3081\u3055\u307e\u3060\u3063\u3053)\" by Eri Kitamura, Kei Shindou, and Mai Kadowaki"
+    ],
+    "popularity": 1142,
+    "premiered": "Fall 2007",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 399,
+            "name": "Dream Force",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/399/Dream_Force"
+        },
+        {
+            "mal_id": 1377,
+            "name": "Futabasha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+        }
+    ],
+    "rank": 3814,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 582,
+                "name": "Kodomo no Jikan",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/582/Kodomo_no_Jikan"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 4195,
+                "name": "Kodomo no Jikan: Ni Gakki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4195/Kodomo_no_Jikan__Ni_Gakki"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 3121,
+                "name": "Kodomo no Jikan OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3121/Kodomo_no_Jikan_OVA"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 4786,
+                "name": "Kodomo no Jikan Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4786/Kodomo_no_Jikan_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 13437,
+    "request_cached": true,
+    "request_hash": "request:anime:d0770bc6db8f25311ffbe8734863b4e29525cd4f",
+    "score": 6.98,
+    "scored_by": 40598,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "3rd grade teacher Aoki Daisuke didn't expect the first class he ever taught to be one of the toughest obstacles of his life. After getting off on the wrong foot with the entire class, a moment of kind-heartedness instantly convinces one of his students, Rin Kokonoe, to make the ill-fated Aoki-sensei her lover. But what exactly are Rin's intentions for wanting to actively seduce Aoki-sensei, and will Aoki-sensei be able to help her to deal with them?",
+    "title": "Kodomo no Jikan (TV)",
+    "title_english": null,
+    "title_japanese": "\u3053\u3069\u3082\u306e\u3058\u304b\u3093",
+    "title_synonyms": [
+        "Nymphet",
+        "A Child's Time",
+        "Kojika"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2403/Kodomo_no_Jikan_TV"
+}

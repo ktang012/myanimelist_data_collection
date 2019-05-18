@@ -1,0 +1,189 @@
+{
+    "aired": {
+        "from": "2017-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 18,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 2, 2017 to Jun 18, 2017",
+        "to": "2017-06-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"I4U\" by MICHI"
+    ],
+    "episodes": 12,
+    "favorites": 188,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/84461.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34019,
+    "members": 77244,
+    "opening_themes": [
+        "\"METAMORISER\" by Band Ja Naimon!"
+    ],
+    "popularity": 1265,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 140,
+            "name": "Animax",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/140/Animax"
+        },
+        {
+            "mal_id": 141,
+            "name": "Toei Video",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 781,
+            "name": "Studio NOIX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/781/Studio_NOIX"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1377,
+            "name": "Futabasha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+        },
+        {
+            "mal_id": 1563,
+            "name": "Hakuhodo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1563/Hakuhodo"
+        },
+        {
+            "mal_id": 1649,
+            "name": "Kakao Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1649/Kakao_Japan"
+        },
+        {
+            "mal_id": 1744,
+            "name": "My Theater D.D.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1744/My_Theater_DD"
+        }
+    ],
+    "rank": 3275,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14369,
+                "name": "Tsugumomo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14369/Tsugumomo"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 39470,
+                "name": "Tsugumomo OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39470/Tsugumomo_OVA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 39469,
+                "name": "Tsugu Tsugumomo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39469/Tsugu_Tsugumomo"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:452b8b53d1d5d43bed292143c70b57fdfc87ffd0",
+    "score": 7.12,
+    "scored_by": 30407,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1379,
+            "name": "Zero-G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+        }
+    ],
+    "synopsis": "Kazuya Kagami never goes anywhere without the precious \"Sakura Obi\" his mother gave him. One day a beautiful, kimono-clad girl named Kiriha appeared before him. Kiriha naturally began to live with Kazuya in his room. Then there's Chisato, Kazuya's childhood friend with glasses and a ponytail, who meddles in his affairs. Soon there's also an overprotective older sister who seems to want to take baths with him. Jumble in a huge-chested priestess, a good-looking sorceress named Kokuyoura, beautiful women, and hot girls, and Kazuya's happy, embarrassing, confusing life begins\u2026 (Source: MAL News)",
+    "title": "Tsugumomo",
+    "title_english": "Tsugumomo",
+    "title_japanese": "\u3064\u3050\u3082\u3082",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ptCRrKccB0E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34019/Tsugumomo"
+}

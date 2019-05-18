@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2007-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 7, 2007 to Sep 29, 2007",
+        "to": "2007-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Seirei no Moribito is based on Nahoko Uehashi's Moribito novel series. It adapts the first novel in the series, and greatly expands the midsection of the novel.",
+    "broadcast": "Saturdays at 08:06 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Itoshii Hito e (\u611b\u3057\u3044\u4eba\u3078; To the loved one)\" by Sachi Tainaka"
+    ],
+    "episodes": 26,
+    "favorites": 2319,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        },
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        },
+        {
+            "mal_id": 1459,
+            "name": "Geneon Entertainment USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+    ],
+    "mal_id": 1827,
+    "members": 145965,
+    "opening_themes": [
+        "\"SHINE\" by L'Arc~en~Ciel"
+    ],
+    "popularity": 693,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        },
+        {
+            "mal_id": 1175,
+            "name": "Atelier Musa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        }
+    ],
+    "rank": 332,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 12070,
+                "name": "Moribito Series",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/12070/Moribito_Series"
+            }
+        ]
+    },
+    "request_cache_expiry": 1598,
+    "request_cached": true,
+    "request_hash": "request:anime:77f97c0b6ffad61c49dab0e6bdc86cb58b75acc8",
+    "score": 8.2,
+    "scored_by": 55161,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "On the precipice of a cataclysmic drought, the Star Readers of the Shin Yogo Empire must devise a plan to avoid widespread famine. It is written in ancient myths that the first emperor, along with eight warriors, slew a water demon to avoid a great drought and save the land that was to become Shin Yogo. If a water demon was to appear once more, its death could bring salvation. However, the water demon manifests itself within the body of the emperor's son, Prince Chagum\u2014by the emperor's order, Chagum is to be sacrificed to save the empire. Meanwhile, a mysterious spear-wielding mercenary named Balsa arrives in Shin Yogo on business. After saving Chagum from a thinly veiled assassination attempt, she is tasked by Chagum's mother to protect him from the emperor and his hunters. Bound by a sacred vow she once made, Balsa accepts. Seirei no Moribito follows Balsa as she embarks on her journey to protect Chagum, exploring the beauty of life, nature, family, and the bonds that form between strangers. [Written by MAL Rewrite]",
+    "title": "Seirei no Moribito",
+    "title_english": "Moribito - Guardian of the Spirit",
+    "title_japanese": "\u7cbe\u970a\u306e\u5b88\u308a\u4eba",
+    "title_synonyms": [
+        "Guardian of the Sacred Spirit"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/9I8doA-vYvU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito"
+}

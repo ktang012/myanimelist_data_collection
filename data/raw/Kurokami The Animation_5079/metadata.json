@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2009-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Jan 9, 2009 to Jun 19, 2009",
+        "to": "2009-06-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:40 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Irodori no Nai Sekai (\u5f69\u306e\u7121\u3044\u4e16\u754c)\" by Yousei Teikoku (eps 1-16, 22-23)",
+        "\"Gekkou no Chigiri (\u6708\u5149\u306e\u5951\u308a)\" by Yousei Teikoku (eps 17-21)"
+    ],
+    "episodes": 23,
+    "favorites": 303,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/78669.jpg",
+    "licensors": [
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        },
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        },
+        {
+            "mal_id": 595,
+            "name": "NYAV Post",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+        }
+    ],
+    "mal_id": 5079,
+    "members": 94511,
+    "opening_themes": [
+        "\"Sympathizer\" by Minami Kuribayashi (eps 1-12, 23)",
+        "\"tRANCE\" by GRANRODEO (eps 13-22)"
+    ],
+    "popularity": 1053,
+    "premiered": "Winter 2009",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 55,
+            "name": "TV Asahi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        }
+    ],
+    "rank": 2832,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 982,
+                "name": "Kurokami",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/982/Kurokami"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6794,
+                "name": "Kurokami: Tora to Tsubasa",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6794/Kurokami__Tora_to_Tsubasa"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 6587,
+                "name": "Kurokami: Intermission",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6587/Kurokami__Intermission"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ecc6e578795227468a92e29a56c00b6e18410100",
+    "score": 7.22,
+    "scored_by": 35095,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "High school student Ibuki Keita has been haunted by misfortune for as long as he can remember. For no apparent reason, everyone around him dies tragically. Ultimately, he refuses to become too close to anyone, even his childhood friend Akane. This leaves Keita alone in a life full of misery and disgrace. While eating at his favorite ramen shop one evening, Keita meets a strange young girl named Kuro. Possessing abilities that surpass that of a normal human being, Kuro classifies herself as a Mototsumitama. She explains to Keita about \"Terra,\" a life-energy force split between three identical looking people; a global phenomenon dubbed the \"Doppeliner System.\" As a Mototsumitama, Kuro guards the \"Coexistence Equilibrium,\" the beings that protect the flow of Terra around the world. Keita refuses to believe her story, until he is caught up in the crossfire of this hidden world. On the verge of death, he makes a contract with Kuro, unbeknownst to its true meaning. Now he is bound to Kuro, and must be with her at all times. Could Keita's misfortune possibly get any greater? [Written by MAL Rewrite]",
+    "title": "Kurokami The Animation",
+    "title_english": "Kurokami The Animation",
+    "title_japanese": "\u9ed2\u795e The Animation",
+    "title_synonyms": [
+        "Kurokami",
+        "Kurogami",
+        "Kuro Kami",
+        "Dark God"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/hVA5WPxbbPc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5079/Kurokami_The_Animation"
+}

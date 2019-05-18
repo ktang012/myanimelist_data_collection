@@ -1,0 +1,133 @@
+{
+    "aired": {
+        "from": "2010-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 9, 2010 to Dec 25, 2010",
+        "to": "2010-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Preview airing on October 2nd. Regular airing started on October 9th.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"I miss you\" by Veil (eps 1-11)",
+        "\"\u7d46-kizunairo-\u8272\" by Lia (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 501,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/26876.jpg",
+    "licensors": [],
+    "mal_id": 8536,
+    "members": 90367,
+    "opening_themes": [
+        "\"\u7d46-kizunairo-\u8272\" by Lia (eps 1-11)"
+    ],
+    "popularity": 1093,
+    "premiered": "Fall 2010",
+    "producers": [
+        {
+            "mal_id": 689,
+            "name": "NTT Docomo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+        },
+        {
+            "mal_id": 779,
+            "name": "AMG MUSIC",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/779/AMG_MUSIC"
+        }
+    ],
+    "rank": 4471,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 6320,
+                "name": "Fortune Arterial",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/6320/Fortune_Arterial"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 9347,
+                "name": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9347/Fortune_Arterial__Akai_Yakusoku_-_Tadoritsuita_Basho"
+            }
+        ]
+    },
+    "request_cache_expiry": 23778,
+    "request_cached": true,
+    "request_hash": "request:anime:28810406f17ebfa1791e7f826d729eb755dbcb34",
+    "score": 6.81,
+    "scored_by": 49019,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        },
+        {
+            "mal_id": 218,
+            "name": "Zexcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ],
+    "synopsis": "Fortune Arterial's story revolves around the male protagonist Kohei Hasekura, who transfers into a prestigious public school in the style of an English six-year school encompassing junior-high and high school students. The school is on an island named Tamatsu Island off-shore from mainland Japan, and the only way to get there is by boat. Soon after transferring, he discovers that one of the student in the class next door to his, Sendo Erika, is in fact a type of vampire. (Source: Wikipedia)",
+    "title": "Fortune Arterial: Akai Yakusoku",
+    "title_english": null,
+    "title_japanese": "FORTUNE ARTERIAL \u8d64\u3044\u7d04\u675f",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/zCllt9ZySFw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8536/Fortune_Arterial__Akai_Yakusoku"
+}

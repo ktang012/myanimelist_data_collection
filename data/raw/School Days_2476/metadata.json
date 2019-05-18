@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2007-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Jul 4, 2007 to Sep 27, 2007",
+        "to": "2007-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "School Days is based on the visual novel of the same name.",
+    "broadcast": "Wednesdays at 02:15 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Usotsuki (\u30a6\u30bd\u30c4\u30ad)\" by CooRie (eps 1, 8)",
+        "\"Ai no kakera (\u611b\u306e\u30ab\u30b1\u30e9)\" by Miyuki Hashimoto (ep 2)",
+        "\"Waltz (\u30ef\u30eb\u30c4)\" by Kanako Itou (eps 3, 11)",
+        "\"Kioku no Umi (\u8a18\u61b6\u306e\u6d77])\" by yozuca* (eps 4, 7)",
+        "\"Look at Me\" by YURIA (ep 5)",
+        "\"Namida no Riyuu (\u6d99\u306e\u7406\u7531)\" by Minami Kuribayashi (eps 6, 10)",
+        "\"Anata ga... Inai (\u3042\u306a\u305f\u304c...\u3044\u306a\u3044) -Remix Ver.-\" by  Minami Kuribayashi (ep 9)",
+        "\"Still I Love You ~Mitsumeru Yori wa Shiawase~ (\uff5e\u307f\u3064\u3081\u308b\u3088\u308a\u306f\u5e78\u305b\uff5e)\" by Kiriko \u2013 (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 2605,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/86373.jpg",
+    "licensors": [
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        }
+    ],
+    "mal_id": 2476,
+    "members": 402777,
+    "opening_themes": [
+        "\"Innocent Blue (\u30a4\u30ce\u30bb\u30f3\u30c8\u30fb\u30d6\u30eb\u30fc)\" by DeviceHigh"
+    ],
+    "popularity": 165,
+    "premiered": "Summer 2007",
+    "producers": [
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        }
+    ],
+    "rank": 8187,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1288,
+                "name": "School Days",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1288/School_Days"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 756,
+                "name": "School Days ONA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/756/School_Days_ONA"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 3759,
+                "name": "School Days: Valentine Days",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3759/School_Days__Valentine_Days"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 3328,
+                "name": "School Days: Magical Heart Kokoro-chan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3328/School_Days__Magical_Heart_Kokoro-chan"
+            }
+        ]
+    },
+    "request_cache_expiry": 8586,
+    "request_cached": true,
+    "request_hash": "request:anime:3988c32263f8a385e7364201656b9c3be1ce749a",
+    "score": 5.95,
+    "scored_by": 242096,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 120,
+            "name": "TNK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ],
+    "synopsis": "High school student Makoto Itou first notices Kotonoha Katsura at the start of his second semester, freshman year. Immediately, he becomes entranced by her beauty, but his bashfulness doesn't allow him to approach her, even though they ride the same train every day. Instead, he snaps a photo of her in secret and sets it as his cell phone's wallpaper: a charm that, if kept under wraps, would supposedly help you realize your love. However, classmate Sekai Saionji spots the picture, but instead of ratting him out, she offers to help set him up with Kotonoha\u2014going so far as befriending her just for him. Thus, the trio begins a rather impromptu friendship. School Days follows the lives of these three teenagers as they traverse the joys and hardships that come with being a high schooler. In a story alive and brimming with romance and melancholy, the tale of these three students will linger in memory long after the momentous conclusion. [Written by MAL Rewrite]",
+    "title": "School Days",
+    "title_english": "School Days",
+    "title_japanese": "\u30b9\u30af\u30fc\u30eb\u30c7\u30a4\u30ba",
+    "title_synonyms": [],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2476/School_Days"
+}

@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2017-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 4, 2017 to Dec 20, 2017",
+        "to": "2017-12-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 20:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Haru Urara, Kimi to Sakihokoru\" (\u6625\u30a6\u30e9\u30e9\u3001\u541b\u30c8\u54b2\u30ad\u8a87\u30eb) by Konohana-tei Nakai no Kai [Satsuki (Sawako Hata), Natsume (Ayaka Suwa), Ren (Risa Kubota), Sakura (Ai Kakuma), Kiri (Manami Numakura), Yuzu (Yuuko Oono)] (eps 1-3)",
+        "\"Natsu Saki Koi Hanabi\" (\u590f\u54b2\u304d\u604b\u82b1\u706b) by Natsume (Ayaka Suwa) & Ren (Risa Kubota) (eps 4-6)",
+        "\"Akane Sora, Kimi Mai fu Koyou no Sanpomichi\" (\u831c\u7a7a\u3001\u541b\u821e\u30d5\u7d05\u8449\u30ce\u6563\u6b69\u9053) by Sakura (Ai Kakuma) & Kiri (Manami Numakura) (eps 7-9)",
+        "\"Yukihana Kirameku Ieji nite\" (\u96ea\u83ef\u714c\u3081\u304f\u5bb6\u8def\u306b\u3066) by Yuzu (Yuuko Oono), Satsuki (Sawako Hata) (eps 10-11)",
+        "\"Shiji: Kusa no Yukari\" (\u56db\u6642\u30fb\u8349\u306e\u7e01) by Yuzu (Yuuko Oono) (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 376,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/88431.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35241,
+    "members": 76805,
+    "opening_themes": [
+        "\"Kokoro ni Tsubomi (\u30b3\u30b3\u30ed\u30cb\u30c4\u30dc\u30df)\" by eufonius"
+    ],
+    "popularity": 1275,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 470,
+            "name": "GAGA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/470/GAGA"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+            "mal_id": 719,
+            "name": "Studio Mausu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+            "mal_id": 1576,
+            "name": "DeNA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1576/DeNA"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+            "mal_id": 1821,
+            "name": "Melonbooks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1821/Melonbooks"
+        }
+    ],
+    "rank": 1224,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 93399,
+                "name": "Konohana Kitan",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/93399/Konohana_Kitan"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:8dcdf978d4a0620c987eedeb04ec90976465ec2b",
+    "score": 7.66,
+    "scored_by": 25194,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "In a bustling village of spirits, Yuzu, a cheerful fox girl, starts her first job as an attendant at the traditional hot springs inn Konohanatei. Though Yuzu has no experience working at such a high-class establishment, Kiri, the affable and reliable head attendant, immediately puts her to work learning the basics. While Yuzu's eagerness initially proves to be more of a hindrance than a blessing, her playful nature brings a unique charm to the inn, as both customers and her fellow workers quickly warm up to her clumsy yet well-meaning mistakes. Under the guidance of the other foxes\u2014the rigid Satsuki, the carefree Natsume, the critical Ren, and the quiet Sakura\u2014Yuzu steadily learns the trade of an inn attendant while learning to love the magical world surrounding her. Konohana Kitan presents the heartwarming tale of a simple fox girl forging bonds with others and finding a home amidst the mysterious, beautiful world of spirits. [Written by MAL Rewrite]",
+    "title": "Konohana Kitan",
+    "title_english": "Konohana Kitan",
+    "title_japanese": "\u3053\u306e\u306f\u306a\u7dba\u8b5a",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/XnOWZOwoRow?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35241/Konohana_Kitan"
+}

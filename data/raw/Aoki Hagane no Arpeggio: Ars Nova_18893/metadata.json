@@ -1,0 +1,164 @@
+{
+    "aired": {
+        "from": "2013-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 8, 2013 to Dec 24, 2013",
+        "to": "2013-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Oosaka on September 21, 2013. Regular broadcasting began on October 8, 2013.",
+    "broadcast": "Tuesdays at 02:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Savior of Song\" by Nano feat. MY FIRST STORY (ep 1)",
+        "\"Blue Field (\u30d6\u30eb\u30fc\u30fb\u30d5\u30a3\u30fc\u30eb\u30c9)\" by Trident (Mai Fuchigami, Manami Numakura, and Hibiki Yamamura) (eps 2-4, 6-8)",
+        "\"Innocent Blue\" by Trident (Mai Fuchigami, Manami Numakura, and Hibiki Yamamura) (ep 5, 9, 11)",
+        "\"Our Story\" by nano (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 856,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/56143.jpg",
+    "licensors": [
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 18893,
+    "members": 115391,
+    "opening_themes": [
+        "\"Savior of Song\" by Nano feat. MY FIRST STORY"
+    ],
+    "popularity": 891,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1553,
+            "name": "Shounen Gahousha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1553/Shounen_Gahousha"
+        }
+    ],
+    "rank": 1741,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25861,
+                "name": "Aoki Hagane no Arpeggio",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25861/Aoki_Hagane_no_Arpeggio"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 24919,
+                "name": "Aoki Hagane no Arpeggio: Ars Nova DC",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24919/Aoki_Hagane_no_Arpeggio__Ars_Nova_DC"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 23627,
+                "name": "Aoki Hagane no Arpeggio: Ars Nova - Kirikumas",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23627/Aoki_Hagane_no_Arpeggio__Ars_Nova_-_Kirikumas"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5670135106b516ba00bd9da7939d75ad70265e82",
+    "score": 7.48,
+    "scored_by": 52520,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 537,
+            "name": "SANZIGEN",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        }
+    ],
+    "synopsis": "In the year 2039, the drastic effects of global warming have caused sea levels to rise, resulting in major loss of land. To ensure humanity learns its lesson, a fleet of powerful warships equipped with advanced weaponry emerges, causing overwhelming defeat for naval forces throughout the world. Calling themselves the Fleet of Fog, each ship has a \"Mental Model,\" a humanoid avatar which represents the ship's heart, its \"Union Core.\" Each model has a different personality but all follow an unknown authority known as the Admiralty Code, who have implemented a blockade to prevent humans from traveling across the sea. Seventeen years after the blockade, Gunzou Chihaya, a National Marine Academy alumnus, stumbles upon I-401 and its Mental Model, Iona, who sides with mankind for unknown reasons. Utilizing this newfound hope of achieving peace for humanity, Gunzou and his friends form a group of privateers, known as the Blue Steel, as they set out on a dangerous journey. [Written by MAL Rewrite]",
+    "title": "Aoki Hagane no Arpeggio: Ars Nova",
+    "title_english": "Arpeggio of Blue Steel -Ars Nova-",
+    "title_japanese": "\u84bc\u304d\u92fc\u306e\u30a2\u30eb\u30da\u30b8\u30aa \u2010\u30a2\u30eb\u30b9\u30fb\u30ce\u30f4\u30a1\u2010",
+    "title_synonyms": [
+        "Aoki Hagane no Arpeggio: Ars Nova"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/4I9zfuf3bbQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18893/Aoki_Hagane_no_Arpeggio__Ars_Nova"
+}

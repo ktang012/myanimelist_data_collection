@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2014-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 4, 2014 to Mar 28, 2015",
+        "to": "2015-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 17:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Wonderful Wonder World*\" by Yun*chi"
+    ],
+    "episodes": 25,
+    "favorites": 1243,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/68097.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 23321,
+    "members": 358066,
+    "opening_themes": [
+        "\"database feat. TAKUMA (10 Feet)\" by MAN WITH A MISSION"
+    ],
+    "popularity": 208,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+    ],
+    "rank": 1205,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 46024,
+                "name": "Log Horizon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/46024/Log_Horizon"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 17265,
+                "name": "Log Horizon",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17265/Log_Horizon"
+            }
+        ]
+    },
+    "request_cache_expiry": 25973,
+    "request_cached": true,
+    "request_hash": "request:anime:e028adf98a1596474fca09c88cdad2334b20f8a6",
+    "score": 7.67,
+    "scored_by": 193867,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "After being trapped in the world of Elder Tale for six months, Shiroe and the other Adventurers have begun to get the hang of things in their new environment. The Adventurers are starting to gain the trust of the People of the Land, and Akiba has flourished thanks to the law and order established by Shiroe's Round Table Alliance, regaining its everyday liveliness. Despite this success, however, the Alliance faces a new crisis: they are running out of funds to govern Akiba, and spies from the Minami district have infiltrated the city. As formidable forces rise in other districts, there is also a need to discover more about the vast new world they are trapped in\u2014leading Shiroe to decide that the time has come to venture outside the city. Accompanied by his friend Naotsugu and the Sage of Mirror Lake Regan, the calculative Shiroe makes his move, hoping to unravel new possibilities and eventually find a way home. [Written by MAL Rewrite]",
+    "title": "Log Horizon 2nd Season",
+    "title_english": "Log Horizon 2",
+    "title_japanese": "\u30ed\u30b0\u30fb\u30db\u30e9\u30a4\u30ba\u30f3 \u7b2c2\u30b7\u30ea\u30fc\u30ba",
+    "title_synonyms": [
+        "Log Horizon Second Season",
+        "Log Horizon Dai 2 Series"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/lJrCR6up9jE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season"
+}

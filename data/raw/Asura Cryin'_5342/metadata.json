@@ -1,0 +1,122 @@
+{
+    "aired": {
+        "from": "2009-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Apr 2, 2009 to Jun 25, 2009",
+        "to": "2009-06-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 08:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Link\" by angela"
+    ],
+    "episodes": 13,
+    "favorites": 189,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/17071.jpg",
+    "licensors": [],
+    "mal_id": 5342,
+    "members": 82853,
+    "opening_themes": [
+        "\"Spiral\" by angela"
+    ],
+    "popularity": 1180,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 729,
+            "name": "Raku High Student Council",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/729/Raku_High_Student_Council"
+        }
+    ],
+    "rank": 3598,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13631,
+                "name": "Asura Cryin'",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13631/Asura_Cryin"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6676,
+                "name": "Asura Cryin' 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6676/Asura_Cryin_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 19285,
+    "request_cached": true,
+    "request_hash": "request:anime:2fdac0c30fdcbf2b06147287402d301e1824e134",
+    "score": 7.03,
+    "scored_by": 39136,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 35,
+            "name": "Seven Arcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ],
+    "synopsis": "Natsume Tomoharu is a normal high-school student in every way with one exception: he's being followed by the ghost of his best friend, Misao. After moving into his brother's old house, Tomoharu expects to continue living his normal life but is one day left with a mysterious and locked briefcase without any instruction. At first he plans to leave it in storage; however, his house is soon invaded by multiple groups of people after the briefcase. Although still not knowing the purpose of the briefcase, Tomoharu and Misao attempt to escape with it. From there on, Tomoharu tries to learn the secrets behind the briefcase, the connections between it and Misao, and why it has the power to change the world. [Written by MAL Rewrite]",
+    "title": "Asura Cryin'",
+    "title_english": null,
+    "title_japanese": "\u30a2\u30b9\u30e9\u30af\u30e9\u30a4\u30f3",
+    "title_synonyms": [
+        "Asura Kurain"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/avjKr-VvKjI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5342/Asura_Cryin"
+}

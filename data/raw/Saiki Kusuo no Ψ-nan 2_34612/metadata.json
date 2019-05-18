@@ -1,0 +1,186 @@
+{
+    "aired": {
+        "from": "2018-01-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Jan 17, 2018 to Jun 27, 2018",
+        "to": "2018-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"\u03a8 Hakkenden! (\u03a8\u767a\u898b\u4f1d\uff01)\" by Dempagumi.inc",
+        "\"Duet\u2661Shitekuda\u03a8 (Duet\u2661\u3057\u3066\u304f\u3060\u03a8)\" Saiki-kku Lover feat Kusuo Saiki (Hiroshi Kamiya), Kokomi Teruhashi (Ai Kayano), Mikoto Aiura (Eri Kitamura)"
+    ],
+    "episodes": 24,
+    "favorites": 1479,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1961/91383.jpg",
+    "licensors": [],
+    "mal_id": 34612,
+    "members": 136797,
+    "opening_themes": [
+        "\"\u03a8lent Prisoner (\u03a8\u30ec\u30f3\u30c8\u30d7\u30ea\u30ba\u30ca\u30fc)\" by Saiki-kku Lover feat. Kusuo Saiki (Hiroshi Kamiya), Riki Nendou (Daisuke Ono), Shun Kaidou (Nobunaga Shimazaki)",
+        "\"Oteage Psychics (\u304a\u624b\u4e0a\u3052\u30b5\u30a4\u30ad\u30af\u30b9)\" by Shiggy Jr."
+    ],
+    "popularity": 737,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 62,
+            "name": "Shogakukan Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan_Productions"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1390,
+            "name": "Toy's Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1390/Toys_Factory"
+        },
+        {
+            "mal_id": 1803,
+            "name": "Dear Stage inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1803/Dear_Stage_inc"
+        }
+    ],
+    "rank": 70,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37755,
+                "name": "Saiki Kusuo no \u03a8-nan",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37755/Saiki_Kusuo_no_\u03a8-nan"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 33255,
+                "name": "Saiki Kusuo no \u03a8-nan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33255/Saiki_Kusuo_no_\u03a8-nan"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38249,
+                "name": "Saiki Kusuo no \u03a8-nan: Kanketsu-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38249/Saiki_Kusuo_no_\u03a8-nan__Kanketsu-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 6622,
+    "request_cached": true,
+    "request_hash": "request:anime:0fb7de771f204497641c50916348e757b5eee0ad",
+    "score": 8.63,
+    "scored_by": 64606,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        },
+        {
+            "mal_id": 1444,
+            "name": "Egg Firm",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+        }
+    ],
+    "synopsis": "The disastrous life of the gifted psychic Kusuo Saiki continues, despite his utmost effort to live an ordinary life. Although he has certainly grown accustomed to dealing with his troublesome friends\u2014who are his biggest hurdle to achieving a peaceful life\u2014he still has a long way to go. Also joining the usual oddballs are a few new faces whose shenanigans add to Saiki's misery, making his dreams of a hassle-free life a distant fantasy. [Written by MAL Rewrite]",
+    "title": "Saiki Kusuo no \u03a8-nan 2",
+    "title_english": "The Disastrous Life of Saiki K. 2",
+    "title_japanese": "\u6589\u6728\u6960\u96c4\u306e\u03a8\u96e3 2",
+    "title_synonyms": [
+        "Saiki Kusuo no Psi Nan 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Aha1TjvvEUs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34612/Saiki_Kusuo_no_\u03a8-nan_2"
+}

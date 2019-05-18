@@ -1,0 +1,199 @@
+{
+    "aired": {
+        "from": "2016-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 16,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 6, 2016 to Dec 16, 2016",
+        "to": "2016-12-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Reason Living\" by SCREEN mode (ep 1)",
+        "\"Kaze ga Fuku Machi (\u98a8\u304c\u5439\u304f\u8857)\" by Luck Life (eps 2-11)",
+        "\"Namae wo Yobu yo (\u540d\u524d\u3092\u547c\u3076\u3088)\" by Luck Life (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 2828,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/88585.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 32867,
+    "members": 261168,
+    "opening_themes": [
+        "\"Reason Living\" by SCREEN mode (eps 2, 3, 5-12)"
+    ],
+    "popularity": 337,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 687,
+            "name": "Bandai Namco Live Creative",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/687/Bandai_Namco_Live_Creative"
+        },
+        {
+            "mal_id": 1255,
+            "name": "Glovision",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+            "mal_id": 1309,
+            "name": "Lawson HMV Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1309/Lawson_HMV_Entertainment"
+        },
+        {
+            "mal_id": 1516,
+            "name": "Sony PCL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+        }
+    ],
+    "rank": 245,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 56529,
+                "name": "Bungou Stray Dogs",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/56529/Bungou_Stray_Dogs"
+            },
+            {
+                "mal_id": 98380,
+                "name": "Bungou Stray Dogs",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/98380/Bungou_Stray_Dogs"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31478,
+                "name": "Bungou Stray Dogs",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33071,
+                "name": "Bungou Stray Dogs: Hitori Ayumu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33071/Bungou_Stray_Dogs__Hitori_Ayumu"
+            },
+            {
+                "mal_id": 38003,
+                "name": "Bungou Stray Dogs 3rd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 34944,
+                "name": "Bungou Stray Dogs: Dead Apple",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34944/Bungou_Stray_Dogs__Dead_Apple"
+            }
+        ]
+    },
+    "request_cache_expiry": 14066,
+    "request_cached": true,
+    "request_hash": "request:anime:0ea96df49a6923c1c7d8b572ddb3a462b8d0b465",
+    "score": 8.3,
+    "scored_by": 137162,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Despite their differences in position, three men\u2014the youngest senior executive of the Port Mafia, Osamu Dazai, the lowest ranking member, Sakunosuke Oda, and the intelligence agent, Angou Sakaguchi\u2014gather at the Lupin Bar at the end of the day to relax and take delight in the company of friends. However, one night, Angou disappears. A photograph taken at the bar is all that is left of the three together. Fast forward to the present, and Dazai is now a member of the Armed Detective Agency. The Guild, an American gifted organisation, has entered the fray and is intent on taking the Agency's work permit. They must now divide their attention between the two groups, the Guild and the Port Mafia, who oppose their very existence. [Written by MAL Rewrite]",
+    "title": "Bungou Stray Dogs 2nd Season",
+    "title_english": "Bungo Stray Dogs 2",
+    "title_japanese": "\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/A70E8AXQhjg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season"
+}

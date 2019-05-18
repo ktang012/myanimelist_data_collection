@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2015-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Oct 4, 2015 to Mar 27, 2016",
+        "to": "2016-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Raise your flag\" by MAN WITH A MISSION (ep 1)",
+        "\"Orphans no Namida (\u30aa\u30eb\u30d5\u30a7\u30f3\u30ba\u306e\u6d99)\" by MISIA (eps 2-13, 21)",
+        "\"Steel: Tekketsu no Kizuna (STEEL-\u9244\u8840\u306e\u7d46-)\" by TRUE (eps 14-18, 20, 22-25)",
+        "\"Senka no Tomoshibi (\u6226\u706b\u306e\u706f\u706b)\" by Yuko Suzuhana (ep 19)"
+    ],
+    "episodes": 25,
+    "favorites": 1479,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/75879.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31251,
+    "members": 117708,
+    "opening_themes": [
+        "\"Raise your flag\" by MAN WITH A MISSION (eps 2-13)",
+        "\"Survivor\" by BLUE ENCOUNT (eps 14-25)"
+    ],
+    "popularity": 864,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 142,
+            "name": "Asatsu DK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 536,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 93408,
+                "name": "Kidou Senshi Gundam: Tekketsu no Orphans",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/93408/Kidou_Senshi_Gundam__Tekketsu_no_Orphans"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 80,
+                "name": "Mobile Suit Gundam",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33051,
+                "name": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33051/Mobile_Suit_Gundam__Iron-Blooded_Orphans_2nd_Season"
+            },
+            {
+                "mal_id": 38982,
+                "name": "Mobile Suit Gundam: Iron-Blooded Orphans - Ur\u00f0r Hunt",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38982/Mobile_Suit_Gundam__Iron-Blooded_Orphans_-_Ur\u00f0r_Hunt"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:9c83fc0c184e956bace98ff0cd0f2a94e2e8cf5a",
+    "score": 8.03,
+    "scored_by": 56314,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Over three hundred years have passed since the Calamity War, the great conflict between Earth and its outer space colonies. Now Earth is ruled over by four economic blocs, and the military organization Gjallarhorn is responsible for keeping the peace. Mars, on the other hand, depends heavily on Earth's economy. Horrified by the appalling living conditions that Mars' inhabitants have to bear, Kudelia Aina Bernstein, a young aristocrat from the Chryse Autonomous Region, gets involved in the Red Planet's independence movement. She hires the services of a local company, Chryse Guard Security (CGS), to escort her on the journey to Earth to negotiate economic conditions with the earthly bloc that controls the region. The Third Army Division\u2014consisting of Mikazuki Augus, Orga Itsuka, and many other child soldiers\u2014are chosen to protect her. When Gjallarhorn attacks the CGS facilities to assassinate the young revolutionary threatening their interests, Orga and his comrades must not let the attackers accomplish their goal\u2014in fact, Gjallarhorn's actions might turn out to be the unintentional catalyst that leads the children to be the forgers of their own destiny. [Written by MAL Rewrite]",
+    "title": "Mobile Suit Gundam: Iron-Blooded Orphans",
+    "title_english": "Mobile Suit Gundam: Iron-Blooded Orphans",
+    "title_japanese": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u9244\u8840\u306e\u30aa\u30eb\u30d5\u30a7\u30f3\u30ba",
+    "title_synonyms": [
+        "Kidou Senshi Gundam: Tekketsu no Orphans",
+        "G-Tekketsu"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/eDDhJ01zlFs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans"
+}

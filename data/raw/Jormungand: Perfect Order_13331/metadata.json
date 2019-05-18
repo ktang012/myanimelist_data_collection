@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2012-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 10, 2012 to Dec 26, 2012",
+        "to": "2012-12-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Laterality (\u30e9\u30c6\u30e9\u30ea\u30c6\u30a3)\" by Nagi Yanagi (ep 1-2, 4-6, 8-11)",
+        "\"Shinjitsu no Hane (\u771f\u5b9f\u306e\u7fbd\u6839)\" by Nagi Yanagi (ep 3)",
+        "\"UNDER/SHAFT\" by Maon Kurosaki (ep 7)",
+        "\"Niji Koukai (\u8679\u822a\u6d77)\" by Caoli Cano (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 540,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/73278.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 13331,
+    "members": 120634,
+    "opening_themes": [
+        "\"UNDER/SHAFT\" by Maon Kurosaki (eps 1-6, 8-12)"
+    ],
+    "popularity": 845,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 62,
+            "name": "Shogakukan Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan_Productions"
+        }
+    ],
+    "rank": 579,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 4611,
+                "name": "Jormungand",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/4611/Jormungand"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 12413,
+                "name": "Jormungand",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12413/Jormungand"
+            },
+            {
+                "mal_id": 15735,
+                "name": "Jormungand: Perfect Order Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15735/Jormungand__Perfect_Order_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 37603,
+    "request_cached": true,
+    "request_hash": "request:anime:b86a76ffa6b755fb78ba883fa53be0907ffe33a4",
+    "score": 8,
+    "scored_by": 67426,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "A ruthless arms dealer on a quixotic quest for world peace and a child soldier born into chaotic conflict. Their lives will intertwine as they journey together through the seedy underbelly of the world's arms market. (Source: FUNimation, edited)",
+    "title": "Jormungand: Perfect Order",
+    "title_english": "Jormungand Season 2: Perfect Order",
+    "title_japanese": "\u30e8\u30eb\u30e0\u30f3\u30ac\u30f3\u30c9 PERFECT ORDER",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/0qofZjpp-6A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/13331/Jormungand__Perfect_Order"
+}

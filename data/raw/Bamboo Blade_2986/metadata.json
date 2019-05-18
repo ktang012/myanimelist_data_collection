@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2007-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2008
+            }
+        },
+        "string": "Oct 2, 2007 to Apr 1, 2008",
+        "to": "2008-04-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"STAR RISE\" by Ryou Hirohashi, Megumi Toyoguchi, Sachiko Kojima, Houko Kuwashima & Rina Satou"
+    ],
+    "episodes": 26,
+    "favorites": 285,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/6979.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 2986,
+    "members": 72914,
+    "opening_themes": [
+        "\"BAMBOO BEAT\" by Ryou Hirohashi, Megumi Toyoguchi, Sachiko Kojima, Houko Kuwashima & Rina Satou"
+    ],
+    "popularity": 1322,
+    "premiered": "Fall 2007",
+    "producers": [
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 164,
+            "name": "d-rights",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/164/d-rights"
+        },
+        {
+            "mal_id": 210,
+            "name": "Studio Tulip",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 2110,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 720,
+                "name": "Bamboo Blade",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/720/Bamboo_Blade"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 28813,
+                "name": "Bamboo Blade: Fanfu-Fufe-Fo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28813/Bamboo_Blade__Fanfu-Fufe-Fo"
+            }
+        ]
+    },
+    "request_cache_expiry": 14561,
+    "request_cached": true,
+    "request_hash": "request:anime:55526ac211477772b1349d1322cf3da571d2e7a0",
+    "score": 7.39,
+    "scored_by": 33194,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 88,
+            "name": "AIC A.S.T.A.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+        }
+    ],
+    "synopsis": "Kojirou is the kendo instructor for Muroe High School and he's totally broke. But then an unexpected chance is given to him: his team must win against his senpai's team and the prize is: free meals for a whole year! Now, the only problem left... where to find girls skilled enough and willing to join the kendo team?",
+    "title": "Bamboo Blade",
+    "title_english": "Bamboo Blade",
+    "title_japanese": "\u30d0\u30f3\u30d6\u30fc\u30d6\u30ec\u30fc\u30c9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/_wWhcB8Yh3g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2986/Bamboo_Blade"
+}

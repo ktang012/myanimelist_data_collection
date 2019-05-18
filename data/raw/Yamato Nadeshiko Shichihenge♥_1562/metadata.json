@@ -1,0 +1,105 @@
+{
+    "aired": {
+        "from": "2006-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 4, 2006 to Mar 28, 2007",
+        "to": "2007-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "#1 \"Carnation\" by Kiyoharu (ep.1-18)",
+        "\"\u221eChanging\u221e\" by BON-BON BLANCO (ep. 19-24)#3 \"\"Slow\" by Kiyoharu (ep. 25)"
+    ],
+    "episodes": 25,
+    "favorites": 2263,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/7701.jpg",
+    "licensors": [
+        {
+            "mal_id": 97,
+            "name": "ADV Films",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 1562,
+    "members": 113342,
+    "opening_themes": [
+        "\"Slow\" by Kiyoharu (ep.1-24)"
+    ],
+    "popularity": 905,
+    "premiered": "Fall 2006",
+    "producers": [],
+    "rank": 839,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 422,
+                "name": "Yamato Nadeshiko Shichihenge\u2665",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/422/Yamato_Nadeshiko_Shichihenge\u2665"
+            }
+        ]
+    },
+    "request_cache_expiry": 20193,
+    "request_cached": true,
+    "request_hash": "request:anime:7e5fcf68152cf2210be72eb2aef95b129f9bd337",
+    "score": 7.84,
+    "scored_by": 59343,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 22,
+            "name": "Nippon Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+        }
+    ],
+    "synopsis": "Takano Kyohei, Oda Takenaga, Toyama Yukinojo, and Morii Ranmaru are going to rent a house to go to school for free on the condition that they make the girl of the house a \"lady.\" However, Nakahara Sunako, the girl living there, is gloomy, weird, and horror movie maniac. She has a trauma of when she was told she was ugly by the boy whom she loved when she was in junior high school. She doesn't like beautiful things and gets a nosebleed when she looks at something beautiful. (Source: AnimeNfo)",
+    "title": "Yamato Nadeshiko Shichihenge\u2665",
+    "title_english": "The Seven Metamorphoses of Yamato Nadeshiko",
+    "title_japanese": "\u30e4\u30de\u30c8\u30ca\u30c7\u30b7\u30b3\u4e03\u5909\u5316\u2665",
+    "title_synonyms": [
+        "Yamato Nadeshiko Shichi Henge",
+        "Perfect Girl Evolution",
+        "The Wallflower"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/VJhIshF_daw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1562/Yamato_Nadeshiko_Shichihenge\u2665"
+}

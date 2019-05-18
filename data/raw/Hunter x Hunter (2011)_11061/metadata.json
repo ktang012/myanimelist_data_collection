@@ -1,0 +1,183 @@
+{
+    "aired": {
+        "from": "2011-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Oct 2, 2011 to Sep 24, 2014",
+        "to": "2014-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 10:55 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Just Awake\" by Fear, and Loathing in Las Vegas (eps 1-26)",
+        "\"HUNTING FOR YOUR DREAM\" by Galneryus (eps 27-50, 52-58)",
+        "\"Riot\" by Yoshihisa Hirano (ep 51)",
+        "\"REASON\" by YUZU (\u3086\u305a) (eps 59-75, 147)",
+        "\"Nagareboshi Kirari (YUZU Version) (\u6d41\u308c\u661f\u30ad\u30e9\u30ea (\u3086\u305a\u30d0\u30fc\u30b8\u30e7\u30f3))\" by YUZU (\u3086\u305a) (eps 76-98)",
+        "\"Hyouriittai (\u8868\u88cf\u4e00\u4f53)\" by YUZU (\u3086\u305a) (eps 99-134, 136)",
+        "\"Understanding\" by Yoshihisa Hirano (ep 135)",
+        "\"Hyouriittai -second version- (\u8868\u88cf\u4e00\u4f53)\" by YUZU (\u3086\u305a) (eps 137-146)",
+        "\"departure!\" by Ono Masatoshi (ep 148)"
+    ],
+    "episodes": 148,
+    "favorites": 81716,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 11061,
+    "members": 898223,
+    "opening_themes": [
+        "\"departure!\" by Ono Masatoshi (eps 1-26, 50-52, 62-75, 101-103, 137-147)",
+        "\"departure! -second version-\" by Ono Masatoshi (eps 27-49, 76-100, 109-134, 136)",
+        "\"departure! -Opening Tokubetsu-hen-\" by Ono Masatoshi (eps 53-61, 104-108)"
+    ],
+    "popularity": 26,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 5,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26,
+                "name": "Hunter x Hunter",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 136,
+                "name": "Hunter x Hunter",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+            },
+            {
+                "mal_id": 137,
+                "name": "Hunter x Hunter: Yorkshin City Kanketsu-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Yorkshin_City_Kanketsu-hen"
+            },
+            {
+                "mal_id": 138,
+                "name": "Hunter x Hunter: Greed Island",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island"
+            },
+            {
+                "mal_id": 139,
+                "name": "Hunter x Hunter: Greed Island Final",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 13271,
+                "name": "Hunter x Hunter Movie 1: Phantom Rouge",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13271/Hunter_x_Hunter_Movie_1__Phantom_Rouge"
+            },
+            {
+                "mal_id": 19951,
+                "name": "Hunter x Hunter Movie 2: The Last Mission",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19951/Hunter_x_Hunter_Movie_2__The_Last_Mission"
+            }
+        ]
+    },
+    "request_cache_expiry": 32017,
+    "request_cached": true,
+    "request_hash": "request:anime:e09f711f9e532dc4ffb4d5649b5dbd6e0fb25648",
+    "score": 9.12,
+    "scored_by": 499412,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined. Along the way to becoming an official Hunter, Gon befriends the lively doctor-in-training Leorio, vengeful Kurapika, and rebellious ex-assassin Killua. To attain their own goals and desires, together the four of them take the Hunter Exam, notorious for its low success rate and high probability of death. Throughout their journey, Gon and his friends embark on an adventure that puts them through many hardships and struggles. They will meet a plethora of monsters, creatures, and characters\u2014all while learning what being a Hunter truly means. [Written by MAL Rewrite]",
+    "title": "Hunter x Hunter (2011)",
+    "title_english": "Hunter x Hunter",
+    "title_japanese": "HUNTER\u00d7HUNTER\uff08\u30cf\u30f3\u30bf\u30fc\u00d7\u30cf\u30f3\u30bf\u30fc\uff09",
+    "title_synonyms": [
+        "HxH (2011)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/D9iTQRB4XRk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+}

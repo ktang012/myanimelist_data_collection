@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2018-07-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 2,
+                "month": 10,
+                "year": 2018
+            }
+        },
+        "string": "Jul 10, 2018 to Oct 2, 2018",
+        "to": "2018-10-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 22:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Silent Solitude\" by OxT"
+    ],
+    "episodes": 13,
+    "favorites": 2321,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1511/93473.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 37675,
+    "members": 272090,
+    "opening_themes": [
+        "\"VORACITY\" by MYTH\uff06ROID"
+    ],
+    "popularity": 314,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+    ],
+    "rank": 365,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 81669,
+                "name": "Overlord",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/81669/Overlord"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 37781,
+                "name": "Overlord: Ple Ple Pleiades 3",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37781/Overlord__Ple_Ple_Pleiades_3"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 35073,
+                "name": "Overlord II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35073/Overlord_II"
+            }
+        ]
+    },
+    "request_cache_expiry": 16729,
+    "request_cached": true,
+    "request_hash": "request:anime:aa4d39afa80fe6235b658502c515e6f778710aa7",
+    "score": 8.17,
+    "scored_by": 147279,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "The third Season of Overlord.",
+    "title": "Overlord III",
+    "title_english": "Overlord III",
+    "title_japanese": "\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9\u2162",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/awYU-9jVZxE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37675/Overlord_III"
+}

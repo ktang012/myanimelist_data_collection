@@ -1,0 +1,171 @@
+{
+    "aired": {
+        "from": "2017-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 29,
+                "month": 7,
+                "year": 2017
+            }
+        },
+        "string": "Apr 15, 2017 to Jul 29, 2017",
+        "to": "2017-07-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Welcome to our diabolic paradise\" by Mia REGINA"
+    ],
+    "episodes": 12,
+    "favorites": 204,
+    "genres": [
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/86621.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33834,
+    "members": 82996,
+    "opening_themes": [
+        "\"My Sweet Maiden\" by Mia REGINA"
+    ],
+    "popularity": 1178,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 547,
+            "name": "Hobby Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/547/Hobby_Japan"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1494,
+            "name": "Kanon Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1494/Kanon_Sound"
+        },
+        {
+            "mal_id": 1654,
+            "name": "Orchid Seed",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1654/Orchid_Seed"
+        }
+    ],
+    "rank": 8781,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 106119,
+                "name": "Sin: Nanatsu no Taizai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/106119/Sin__Nanatsu_no_Taizai"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 35417,
+                "name": "Sin: Nanatsu no Taizai Zange-roku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35417/Sin__Nanatsu_no_Taizai_Zange-roku"
+            },
+            {
+                "mal_id": 36569,
+                "name": "Nanatsu no Taizai: Tsumi no Kokuhaku Dennou Grimoire!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36569/Nanatsu_no_Taizai__Tsumi_no_Kokuhaku_Dennou_Grimoire"
+            },
+            {
+                "mal_id": 36847,
+                "name": "Nanatsu no Bitoku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36847/Nanatsu_no_Bitoku"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35559,
+                "name": "Sin: Nanatsu no Taizai - Masani Akuma no Shogyou...",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35559/Sin__Nanatsu_no_Taizai_-_Masani_Akuma_no_Shogyou"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4be091f0825257424f67d27e62756290a87fd2fc",
+    "score": 5.74,
+    "scored_by": 22003,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 8,
+            "name": "Artland",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        },
+        {
+            "mal_id": 120,
+            "name": "TNK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ],
+    "synopsis": "You, will you be a worshipper of the devil lords? These beautiful lords lead humans to the seven deadly sins: pride, envy, wrath, sloth, greed, gluttony, and lust. A revealing fantasy that craves to corrupt and steal true happiness starts now. (Source: MAL News)",
+    "title": "Sin: Nanatsu no Taizai",
+    "title_english": "Seven Mortal Sins",
+    "title_japanese": "sin \u4e03\u3064\u306e\u5927\u7f6a",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/KQH6l2UPhao?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33834/Sin__Nanatsu_no_Taizai"
+}

@@ -1,0 +1,139 @@
+{
+    "aired": {
+        "from": "2009-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Jan 9, 2009 to Mar 27, 2009",
+        "to": "2009-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:29 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Life and Proud\" by Misato Aki"
+    ],
+    "episodes": 12,
+    "favorites": 326,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/20621.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 4999,
+    "members": 148103,
+    "opening_themes": [
+        "\"Egao no Riyuu (\u7b11\u9854\u306e\u7406\u7531)\" by meg rock"
+    ],
+    "popularity": 672,
+    "premiered": "Winter 2009",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 4016,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3214,
+                "name": "Asu no Yoichi!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3214/Asu_no_Yoichi"
+            }
+        ]
+    },
+    "request_cache_expiry": 20338,
+    "request_cached": true,
+    "request_hash": "request:anime:13f9d587ccfe26de9f5b32dc07277a61c44c2c88",
+    "score": 6.92,
+    "scored_by": 82203,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 48,
+            "name": "AIC",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ],
+    "synopsis": "Yoichi Karasuma has spent all of his life in the mountains, training in the Soaring Wind, Divine Wind swordsmanship style. Under his father\u2019s guidance, he is able to master the technique at the age of 17. With nothing left to learn, Yoichi is sent to a new dojo located in the city so he can continue to train and gain an understanding of modern society. Unfortunately, Yoichi has no idea how to act or speak to anyone in the present day and acts like a samurai, complete with odd speech and traditional clothing. As he goes to live with the Ikaruga sisters at the dojo, Yoichi, clueless on how to interact with others, is constantly hurtled in hilarious misunderstandings. Asu no Yoichi! follows Yoichi as he stumbles through his new life and tries to learn how to live in the modern world with his new family. [Written by MAL Rewrite]",
+    "title": "Asu no Yoichi!",
+    "title_english": "Samurai Harem",
+    "title_japanese": "\u660e\u65e5\u306e\u3088\u3044\u3061\uff01",
+    "title_synonyms": [
+        "Ashita no Yoichi!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Nw3K2Frc8nU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4999/Asu_no_Yoichi"
+}

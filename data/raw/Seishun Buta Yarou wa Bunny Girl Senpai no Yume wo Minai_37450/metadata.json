@@ -1,0 +1,172 @@
+{
+    "aired": {
+        "from": "2018-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Oct 4, 2018 to Dec 27, 2018",
+        "to": "2018-12-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 02:20 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Fukashigi no Carte (\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6)\" by Mai Sakurajima (Asami Seto), Tomoe Koga (Nao Touyama), Rio Futaba (Atsumi Tanezaki), Nodoka Toyohama (Maaya Uchida), Kaede Azusawara (Yurika Kubo), Shouko Makinohara (Inori Minase) (eps 1, 13)",
+        "\"Fukashigi no Carte (\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6)\" by Mai Sakurajima (Asami Seto) (eps 2-3)",
+        "\"Fukashigi no Carte (\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6)\" Tomoe Koga (Nao Touyama) (eps 4-5)",
+        "\"Fukashigi no Carte (\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6)\" by Rio Futaba (Atsumi Tanezaki) (eps 7-8)",
+        "\"Fukashigi no Carte (\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6)\" by Nodoka Toyohama (Maaya Uchida) (eps 9-10)",
+        "\"Fukashigi no Carte (\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6)\" by Kaede Azusawara (Yurika Kubo) (eps 11-12)"
+    ],
+    "episodes": 13,
+    "favorites": 10333,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 37450,
+    "members": 364191,
+    "opening_themes": [
+        "\"Kimi no Sei (\u541b\u306e\u305b\u3044)\" by the peggies"
+    ],
+    "popularity": 200,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1366,
+            "name": "Nagoya Broadcasting Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1500,
+            "name": "ABC Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+    ],
+    "rank": 110,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 70399,
+                "name": "Seishun Buta Yarou Series",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/70399/Seishun_Buta_Yarou_Series"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38329,
+                "name": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 38938,
+                "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38938/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai_Picture_Drama"
+            }
+        ]
+    },
+    "request_cache_expiry": 28960,
+    "request_cached": true,
+    "request_hash": "request:anime:20c213307de007e9fac4e97d7235a0fa43e9cf75",
+    "score": 8.5,
+    "scored_by": 192399,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1835,
+            "name": "CloverWorks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+    ],
+    "synopsis": "The rare and inexplicable Puberty Syndrome is thought of as a myth. It is a rare disease which only affects teenagers, and its symptoms are so supernatural that hardly anyone recognizes it as a legitimate occurrence. However, high school student Sakuta Azusagawa knows from personal experience that it is very much real, and happens to be quite prevalent in his school. Mai Sakurajima is a third-year high school student who gained fame in her youth as a child actress, but recently halted her promising career for reasons unknown to the public. With an air of unapproachability, she is well known throughout the school, but none dare interact with her\u2014that is until Sakuta sees her wandering the library in a bunny girl costume. Despite the getup, no one seems to notice her, and after confronting her, he realizes that she is another victim of Puberty Syndrome. As Sakuta tries to help Mai through her predicament, his actions bring him into contact with more girls afflicted with the elusive disease. [Written by MAL Rewrite]",
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "title_english": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "title_japanese": "\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb\u5148\u8f29\u306e\u5922\u3092\u898b\u306a\u3044",
+    "title_synonyms": [
+        "AoButa"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ku7XxxXpIKI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai"
+}

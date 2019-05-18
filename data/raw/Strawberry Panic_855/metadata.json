@@ -1,0 +1,134 @@
+{
+    "aired": {
+        "from": "2006-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Apr 4, 2006 to Sep 26, 2006",
+        "to": "2006-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 02:45 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Himitsu Dolls (\u79d8\u5bc6\u30c9\u30fc\u30eb\u30ba)\" by Mai Nakahara & Ai Shimizu (eps 1-13)",
+        "\"Ichigo Tsumi Monogatari (\u82fa\u6458\u307f\u7269\u8a9e)\" by Mai Nakahara & Ai Shimizu (eps 14-25)",
+        "\"Shoujo Meiro de Tsukamaete (Mellow Berry Balad) (\u5c11\u5973\u8ff7\u8def\u3067\u3064\u304b\u307e\u3048\u3066\uff08Mellow Berry Balad\uff09)\" by Aki Misato (eps 26)"
+    ],
+    "episodes": 26,
+    "favorites": 1738,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/14070.jpg",
+    "licensors": [
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        }
+    ],
+    "mal_id": 855,
+    "members": 95660,
+    "opening_themes": [
+        "\"Shoujo Meiro de Tsukamaete\" by Aki Misato (eps 1-13)",
+        "\"Kuchibiru Daydream\" by Aki Misato (eps 14-26)"
+    ],
+    "popularity": 1043,
+    "premiered": "Spring 2006",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 715,
+            "name": "Dwango",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/715/Dwango"
+        }
+    ],
+    "rank": 2099,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3039,
+                "name": "Strawberry Panic",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3039/Strawberry_Panic"
+            },
+            {
+                "mal_id": 4974,
+                "name": "Strawberry Panic",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/4974/Strawberry_Panic"
+            }
+        ]
+    },
+    "request_cache_expiry": 34584,
+    "request_cached": true,
+    "request_hash": "request:anime:fcf3baaf233482ebc8c9e0c16d765d86ef126dd8",
+    "score": 7.4,
+    "scored_by": 40522,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 75,
+            "name": "Imagin",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/75/Imagin"
+        }
+    ],
+    "synopsis": "Aoi Nagisa transfers to one of the three affiliated all-girl Catholic schools on Astraea Hill, St. Miator's Girls' Academy. There, she discovers a community of fellow students entwined in an intricate hierarchy, in which two Etoiles represent the three schools. In order to fit in, Nagisa must go to class, join clubs, and make new friends. Meanwhile, Shizuma Hanazono, the sole Etoile of Astraea Hill, finds herself drawn to this new, exciting transfer student. As Shizuma and Nagisa get to know each other, Shizuma finally decides it is time to face her troubled past.",
+    "title": "Strawberry Panic",
+    "title_english": "Strawberry Panic",
+    "title_japanese": "\u30b9\u30c8\u30ed\u30d9\u30ea\u30fc\u30fb\u30d1\u30cb\u30c3\u30af",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/XN_wGU4cCEo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/855/Strawberry_Panic"
+}

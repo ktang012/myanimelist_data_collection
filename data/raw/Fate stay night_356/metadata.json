@@ -1,0 +1,238 @@
+{
+    "aired": {
+        "from": "2006-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": 17,
+                "month": 6,
+                "year": 2006
+            }
+        },
+        "string": "Jan 7, 2006 to Jun 17, 2006",
+        "to": "2006-06-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Anata ga Ita Mori (\u3042\u306a\u305f\u304c\u3044\u305f\u68ee)\" by Jyukai (eps 1-13, 15-23)",
+        "\"Hikari (\u30d2\u30ab\u30ea)\" by Jyukai (ep 14)",
+        "\"Kimi to no Ashita (\u541b\u3068\u306e\u660e\u65e5)\" by Tainaka Sachi (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 6219,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/30327.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        },
+        {
+            "mal_id": 1459,
+            "name": "Geneon Entertainment USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+    ],
+    "mal_id": 356,
+    "members": 561400,
+    "opening_themes": [
+        "\"disillusion\" by Tainaka Sachi (eps 1-14)",
+        "\"Kirameku Namida wa Hoshi ni (\u304d\u3089\u3081\u304f\u6d99\u306f\u661f\u306b)\" by Tainaka Sachi (eps 15-23)"
+    ],
+    "popularity": 87,
+    "premiered": "Winter 2006",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 703,
+            "name": "Notes",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/703/Notes"
+        }
+    ],
+    "rank": 1711,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 715,
+                "name": "Fate/stay night",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/715/Fate_stay_night"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 14829,
+                "name": "Fate/kaleid liner Prisma\u2606Illya",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14829/Fate_kaleid_liner_Prisma\u2606Illya"
+            },
+            {
+                "mal_id": 33047,
+                "name": "Fate/Extra: Last Encore",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33047/Fate_Extra__Last_Encore"
+            },
+            {
+                "mal_id": 34321,
+                "name": "Fate/Grand Order: First Order",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34321/Fate_Grand_Order__First_Order"
+            },
+            {
+                "mal_id": 34662,
+                "name": "Fate/Apocrypha",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34662/Fate_Apocrypha"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 6922,
+                "name": "Fate/stay night Movie: Unlimited Blade Works",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6922/Fate_stay_night_Movie__Unlimited_Blade_Works"
+            },
+            {
+                "mal_id": 12565,
+                "name": "Fate/Prototype",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12565/Fate_Prototype"
+            },
+            {
+                "mal_id": 22297,
+                "name": "Fate/stay night: Unlimited Blade Works",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+            },
+            {
+                "mal_id": 25537,
+                "name": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_-_I_Presage_Flower"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 10012,
+                "name": "Carnival Phantasm",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10012/Carnival_Phantasm"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11741,
+                "name": "Fate/Zero 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11741/Fate_Zero_2nd_Season"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 37033,
+                "name": "Emiya-san Chi no Kyou no Gohan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37033/Emiya-san_Chi_no_Kyou_no_Gohan"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 7559,
+                "name": "Fate/stay night TV Reproduction",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7559/Fate_stay_night_TV_Reproduction"
+            }
+        ]
+    },
+    "request_cache_expiry": 41793,
+    "request_cached": true,
+    "request_hash": "request:anime:80bc050ad19cbdddb84a05c4eb6a74e6d8a4a6f7",
+    "score": 7.49,
+    "scored_by": 304963,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "After a mysterious inferno kills his family, Shirou is saved and adopted by Kiritsugu Emiya, who teaches him the ways of magic and justice. One night, years after Kiritsugu's death, Shirou is cleaning at school, when he finds himself caught in the middle of a deadly encounter between two superhumans known as Servants. During his attempt to escape, the boy is caught by one of the Servants and receives a life-threatening injury. Miraculously, he survives, but the same Servant returns to finish what he started. In desperation, Shirou summons a Servant of his own, a knight named Saber. The two must now participate in the Fifth Holy Grail War, a battle royale of seven Servants and the mages who summoned them, with the grand prize being none other than the omnipotent Holy Grail itself. Fate/stay night follows Shirou as he struggles to find the fine line between a hero and a killer, his ideals clashing with the harsh reality around him. Will the boy become a hero like his foster father, or die trying? [Written by MAL Rewrite]",
+    "title": "Fate/stay night",
+    "title_english": "Fate/stay night",
+    "title_japanese": "Fate/stay night",
+    "title_synonyms": [
+        "Fate - Stay Night"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/gy1MP1j_oXM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/356/Fate_stay_night"
+}

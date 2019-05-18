@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2013-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 7, 2013 to Jun 30, 2013",
+        "to": "2013-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kanjou-sen loop (\u611f\u60c5\u7ddaloop)\" by Kirino Kousaka (CV: Ayana Taketatsu) (ep 1)",
+        "\"Filter (\u30d5\u30a3\u30eb\u30bf\u30fc)\" by Ayase Aragaki (CV: Saori Hayami) (ep 2)",
+        "\"Zutto... (\u305a\u3063\u3068...)\" by Kirino Kousaka, Kuroneko, and Saori Bajeena (CV: Ayana Taketatsu, Kana Hanazawa, and Hitomi Nabatame) (ep 3)",
+        "\"Honest\u2606Rhapsody (\u307b\u306d\u3059\u3068\u2606\u30e9\u30d7\u30bd\u30c7\u30a3\u30fc)\" by Kirino Kousaka (CV: Ayana Taketatsu) (ep 4)",
+        "\"Keep\" by Kirino Kousaka (CV: Ayana Taketatsu) (ep 5)",
+        "\"Monochrome\u2606HAPPY DAY (\u30e2\u30ce\u30af\u30ed\u2606HAPPY DAY)\" by Kuroneko (CV: Kana Hanazawa) (ep 6)",
+        "\"Kyou mo Shiawase (\u304d\u3087\u3046\u3082\u3057\u3042\u308f\u305b)\" by Tamaki Gokou (CV: Yui Ogura) (ep 7)",
+        "\"Setsuna no Destiny (\u5239\u90a3\u306eDestiny)\" by Kuroneko (CV: Kana Hanazawa) (ep 8)",
+        "\"answer\" by Kirino Kousaka (CV: Ayana Taketatsu) (ep 9)",
+        "\"reunion\" by ClariS (ep 10)",
+        "\"Arifureta Mirai he (\u3042\u308a\u3075\u308c\u305f\u672a\u6765\u3078)\" by Manami Tamura (CV: Satomi Satou) (ep 11)",
+        "\"Omou Koto (\u60f3\u3046\u30b3\u30c8) (Things that i think)\" by Ayase Aragaki (CV: Saori Hayami) (ep 12)",
+        "\"Honto no Kimochi (\u30db\u30f3\u30c8\u306e\u6c17\u6301\u3061)\" by Kirino Kousaka and Manami Tamura (CV: Ayana Taketatsu and Satomi Satou) (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 1162,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/45769.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 13659,
+    "members": 288896,
+    "opening_themes": [
+        "\"reunion\" by ClariS (eps 2-8, 11-13)",
+        "\"Hoshikuzu Cosplay\u2606Witch! Desu! Omega! (\u661f\u304f\u305a\u3053\u3059\u3077\u308c\u2606\u3046\u3043\u3063\u3061\uff01\u3067\u3059\uff01)\" by Bridget Evans (CV: Misaki Kuno) (ep 10)"
+    ],
+    "popularity": 302,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+    ],
+    "rank": 2753,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13667,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13667/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 19287,
+                "name": "Reunion (Music)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19287/Reunion_Music"
+            },
+            {
+                "mal_id": 19845,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.: SD Chara ni Yoru Short Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19845/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai__SD_Chara_ni_Yoru_Short_Movie"
+            },
+            {
+                "mal_id": 23363,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.: Ore no Imouto ga Konnani Eroge na Wake Nai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23363/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai__Ore_no_Imouto_ga_Konnani_Eroge_na_Wake_Nai"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10020,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10020/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18857,
+                "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18857/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 17407,
+    "request_cached": true,
+    "request_hash": "request:anime:c21ff69c88664d1cc28bac0932fd7ad2dabd19ed",
+    "score": 7.24,
+    "scored_by": 178126,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Kirino is back from her trip to America, but the fun doesn't stop here! In the second season of Ore no Imouto ga Konnani Kawaii Wake ga Nai, Kyousuke continues to give Kirino life consultations. This time, romance lurks on the horizon for both siblings...",
+    "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+    "title_english": "Oreimo 2",
+    "title_japanese": "\u4ffa\u306e\u59b9\u304c\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u308f\u3051\u304c\u306a\u3044\u3002",
+    "title_synonyms": [
+        "My Little Sister Can't Be This Cute 2",
+        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/l17ArMkPNf4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/13659/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai"
+}

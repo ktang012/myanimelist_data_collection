@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2012-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 7, 2012 to Mar 24, 2012",
+        "to": "2012-03-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kiss Shite\u2191Agenai\u2193 (\u30ad\u30b9\u30b7\u30c6\u2191\u30a2\u30b2\u30ca\u30a4\u2193)\" by Louise (Rie Kugimiya)"
+    ],
+    "episodes": 12,
+    "favorites": 1080,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/75559.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 11319,
+    "members": 263968,
+    "opening_themes": [
+        "\"I'll Be There For You\" by ICHIKO"
+    ],
+    "popularity": 330,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 619,
+            "name": "Cospa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/619/Cospa"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 1186,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 5450,
+                "name": "Zero no Tsukaima",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/5450/Zero_no_Tsukaima"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 3712,
+                "name": "Zero no Tsukaima: Princesses no Rondo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3712/Zero_no_Tsukaima__Princesses_no_Rondo"
+            }
+        ]
+    },
+    "request_cache_expiry": 9510,
+    "request_cached": true,
+    "request_hash": "request:anime:558b6017a3afe24e8b1fff6820717404d015bd2b",
+    "score": 7.68,
+    "scored_by": 155661,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Saito Hiraga and Louise Fran\u00e7oise Le Blanc de La Valli\u00e8re go on the offensive after the events of Zero no Tsukaima: Princesses no Rondo. Together, they face off against King Joseph in the Holy City of Romalia with the help of two others who control the power of the \u201cvoid\u201d. But in the midst of the many conflicts ahead of them, an ancient evil begins to stir in the shadows. Will their close bonds blossom into something more or will they be shattered through the ever increasing difficulty of the tasks that they must undertake? Zero no Tsukaima F follows the story of Louise and Saito as they face their final challenges together. [Written by MAL Rewrite]",
+    "title": "Zero no Tsukaima F",
+    "title_english": "The Familiar of Zero F",
+    "title_japanese": "\u30bc\u30ed\u306e\u4f7f\u3044\u9b54F",
+    "title_synonyms": [
+        "Zero no Tsukaima Final Series",
+        "Zero's Familiar Final Series",
+        "Zero no Tsukaima S4"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/eEXzj3IS-ms?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11319/Zero_no_Tsukaima_F"
+}

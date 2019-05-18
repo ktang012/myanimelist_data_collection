@@ -1,0 +1,140 @@
+{
+    "aired": {
+        "from": "2008-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 16,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 2, 2008 to Mar 16, 2009",
+        "to": "2009-03-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Reason\" by K\u2227N\u2227 (eps 1-12)",
+        "\"Aoi Kage \u300c\u84bc\u3044\u5f71\u300d\" by Otoyakichiemon'Ju (ep 13)",
+        "\"Hikari to Kage\u300c\u5149\u3068\u5f71\u300d\" by Shinji Kuno (eps 14-23)",
+        "\"A Path\" by Nami Miyahara (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 1291,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/23336.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 4981,
+    "members": 110775,
+    "opening_themes": [
+        "\"Aoi Hana (\u9752\u3044\u82b1)\" by Color Bottle"
+    ],
+    "popularity": 928,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1615,
+            "name": "USEN",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1615/USEN"
+        }
+    ],
+    "rank": 1446,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Alternative version": [
+            {
+                "mal_id": 1598,
+                "name": "Casshern: Robot Hunter",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1598/Casshern__Robot_Hunter"
+            },
+            {
+                "mal_id": 4810,
+                "name": "Shinzou Ningen Casshern",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4810/Shinzou_Ningen_Casshern"
+            }
+        ]
+    },
+    "request_cache_expiry": 22903,
+    "request_cached": true,
+    "request_hash": "request:anime:55bd5d6fca1cdbcf99539e16dd65f36e92b3c9df",
+    "score": 7.58,
+    "scored_by": 38436,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 103,
+            "name": "Tatsunoko Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ],
+    "synopsis": "In a distant future, Earth has become a wasteland and humanity as we know it has died out. All that remains are sentient robots. They were supposed to be able to live forever\u2014until the one called Luna died and The Ruin started. Their bodies will rust, and there is nothing that can be done to fix it. Now the robots are left only to contemplate their deaths, kept going only by the rumor that if they eat the one called Casshern they will gain immortality. Casshern knows nothing about his past, why he exists or what he is, but he must find out or he will face the constant torment of being hunted by robots who don't want to die. Casshern leaves death wherever he goes, but he must face it if he is to find out the truth of this world. [Written by MAL Rewrite]",
+    "title": "Casshern Sins",
+    "title_english": "Casshern Sins",
+    "title_japanese": "\u30ad\u30e3\u30b7\u30e3\u30fc\u30f3 SINS",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/kMACcRttess?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4981/Casshern_Sins"
+}

@@ -1,0 +1,123 @@
+{
+    "aired": {
+        "from": "2012-06-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 6,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 2,
+                "year": 2013
+            }
+        },
+        "string": "Jun 4, 2012 to Feb 25, 2013",
+        "to": "2013-02-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "On December 12, 2012 the manga won a Guinness World Record for manga written by the most people. The record was made possible due to its \"Social Kingdom\" Campaign where artists, fans, and voice actors redrew the entire 26th volume. Each of them picked 1 frame and redrew it and the top 100 would be given a special edition of the manga.  (One Piece),  (Naruto),  (JoJo no Kimyou na Bouken) and many others were among the participants.",
+    "broadcast": "Mondays at 19:00 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Voice of Soul\" by Takumi Ishida (eps 1-19)",
+        "\"Destiny Sky\" by Yuki Wakai (eps 20-30)",
+        "\"Never Ending\" by Dasoku (eps 31-38)"
+    ],
+    "episodes": 38,
+    "favorites": 796,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/39511.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 12031,
+    "members": 88270,
+    "opening_themes": [
+        "\"Pride\" by Nothing's Carved In Stone"
+    ],
+    "popularity": 1110,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+    ],
+    "rank": 375,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 16765,
+                "name": "Kingdom",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/16765/Kingdom"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 17389,
+                "name": "Kingdom 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17389/Kingdom_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 2810,
+    "request_cached": true,
+    "request_hash": "request:anime:aefec7e340b877cd33f473703ef909deb2193218",
+    "score": 8.16,
+    "scored_by": 29747,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "China\u2019s Warring States period, a raging dragon that would raze the land for 500 years, saw many kingdoms rise and fall, making way for the next generation of kings and generals to fight for supremacy. Eventually, seven powerful states emerged from the endless cycle of warfare. In the kingdom of Qin, Xin Li, a war-orphaned slave, trains vigorously with fellow slave and best friend, Piao, who shares his proud dream of one day becoming a Great General of the Heavens. However, the two are suddenly forced to part ways when Piao is recruited to work in the royal palace by a retainer of the King. After a fierce coup d'\u00e9tat unfolds, Piao returns to Xin, half dead, with a mission that will lead him to a meeting with China's young King, Zheng Ying, who bears a striking resemblance to Piao. Kingdom follows Xin as he takes his first steps into the great blood-soaked pages of China's history. He must carve his own path to glory on his long quest to become a Great General of the historic Seven Warring States. [Written by MAL Rewrite]",
+    "title": "Kingdom",
+    "title_english": "Kingdom",
+    "title_japanese": "\u30ad\u30f3\u30b0\u30c0\u30e0",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ZmDorgdAG4g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12031/Kingdom"
+}

@@ -1,0 +1,206 @@
+{
+    "aired": {
+        "from": "2009-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 4,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "Apr 5, 2009 to Jul 4, 2010",
+        "to": "2010-07-04T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Fullmetal Alchemist: Brotherhood is an alternate retelling of Hiromu Arakawa's Fullmetal Alchemist manga that is closer to the source material than the previous 2003 adaptation, this time covering the entire story.\r\nOn March 31, 2016, FUNimation Entertainment's license to the series expired.",
+    "broadcast": "Sundays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Uso (\u5618)\" by SID (eps 1-14)",
+        "\"LET IT OUT\" by Miho Fukuhara (eps 15-26)",
+        "\"Tsunaida Te (\u3064\u306a\u3044\u3060\u624b)\" by Lil'B (eps 27-38)",
+        "\"Shunkan Sentimental (\u77ac\u9593\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb)\" by SCANDAL (eps 39-50)",
+        "\"RAY OF LIGHT\" by Nakagawa Shouko (eps 51-62)",
+        "\"Rain (\u30ec\u30a4\u30f3)\" by SID (ep 63)",
+        "\"Hologram (\u30db\u30ed\u30b0\u30e9\u30e0)\" by NICO Touches the Walls (ep 64)"
+    ],
+    "episodes": 64,
+    "favorites": 125990,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 5114,
+    "members": 1427864,
+    "opening_themes": [
+        "\"again\" by YUI (eps 1-14)",
+        "\"Hologram (\u30db\u30ed\u30b0\u30e9\u30e0)\" by NICO Touches the Walls (eps 15-26)",
+        "\"Golden Time Lover (\u30b4\u30fc\u30eb\u30c7\u30f3\u30bf\u30a4\u30e0\u30e9\u30d0\u30fc)\" by Sukima Switch (eps 27-38)",
+        "\"Period\" by Chemistry (eps 39-50)",
+        "\"Rain (\u30ec\u30a4\u30f3)\" by SID (eps 51-62)"
+    ],
+    "popularity": 4,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1155,
+            "name": "Studio Moriken",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1155/Studio_Moriken"
+        }
+    ],
+    "rank": 1,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25,
+                "name": "Fullmetal Alchemist",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 121,
+                "name": "Fullmetal Alchemist",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6421,
+                "name": "Fullmetal Alchemist: Brotherhood Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials"
+            },
+            {
+                "mal_id": 9135,
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 7902,
+                "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater"
+            }
+        ]
+    },
+    "request_cache_expiry": 4519,
+    "request_cached": true,
+    "request_hash": "request:anime:704c9a8ba55a2888accf1b2b89d9d6a2308d2ac5",
+    "score": 9.24,
+    "scored_by": 867978,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "\"In order for something to be obtained, something of equal value must be lost.\" Alchemy is bound by this Law of Equivalent Exchange\u2014something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression\u2014Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist. Three years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity. [Written by MAL Rewrite]",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "title_english": "Fullmetal Alchemist: Brotherhood",
+    "title_japanese": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST",
+    "title_synonyms": [
+        "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+        "Fullmetal Alchemist (2009)",
+        "FMA",
+        "FMAB"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/--IcmZkvL0Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
+}

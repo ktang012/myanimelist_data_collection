@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2009-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Apr 5, 2009 to Sep 27, 2009",
+        "to": "2009-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ano Kaze ni Notte (\u30a2\u30ce\u98a8\u30cb\u30ce\u30c3\u30c6)\" by pe'zmoku (eps 1-13)",
+        "\"Hitotsu no Negai (\u3072\u3068\u3064\u306e\u9858\u3044)\" by Inoue Hikari (eps 14-25)",
+        "\"Brightest Morning\" by Hikari Inoue with 7th Squad (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 615,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/53901.jpg",
+    "licensors": [],
+    "mal_id": 5507,
+    "members": 102531,
+    "opening_themes": [
+        "\"Asu e no Kizuna (\u660e\u65e5\u3078\u306e\u30ad\u30ba\u30ca)\" by HIMEKA (eps 1-13)",
+        "\"Kanashimi Rensa (\u30ab\u30ca\u30b7\u30df\u30ec\u30f3\u30b5)\" by MARIA (eps 14-26)"
+    ],
+    "popularity": 984,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 167,
+            "name": "Sega",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/167/Sega"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 1158,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11664,
+                "name": "Senjou no Valkyria: Gallian Chronicles",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11664/Senjou_no_Valkyria__Gallian_Chronicles"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 9793,
+                "name": "Senjou no Valkyria 3: Tagatame no Juusou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9793/Senjou_no_Valkyria_3__Tagatame_no_Juusou"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 37908,
+                "name": "Senjou no Valkyria Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37908/Senjou_no_Valkyria_Special"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 7016,
+                "name": "Senjou no Valkyria: SenVal Theater",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7016/Senjou_no_Valkyria__SenVal_Theater"
+            }
+        ]
+    },
+    "request_cache_expiry": 6422,
+    "request_cached": true,
+    "request_hash": "request:anime:c882dd413885a1196f80e821b7768983b989b284",
+    "score": 7.69,
+    "scored_by": 42781,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Valkyria Chronicles is set in a fictitious continent reminiscent of 1930s Europe. The continent, called Europa, is divided into two main powers: The Imperial Empire, a monarchy in the east, and the alliance of democracies called the Federation in the west. In this world, there is a very important resource called ragnite; its uses range from fueling weapons of war to use in medical treatments. Since ragnite is such an important resource, the Federation and the Empire are constantly at war with each other for it. The story takes place in the neutral country of Gallia, known for its bountiful reserves of ragnite, when the Empire decides to invade and seize the ragnite for themselves. The story follows Welkin, the son of a former war hero; Isara, Welkin's Darcsen adoptive sister; and Alicia, a member of the Bruhl town watch, as they fight the Imperials in the ragtag Gallian militia group, Squad 7. Squad 7 fights to regain their homes and livelihoods with Welkin as the squad leader and commander of the Edelweiss tank; Alicia as a scout; Isara as the pilot of the Edelweiss, and a variety of colorful individuals.",
+    "title": "Senjou no Valkyria",
+    "title_english": "Valkyria Chronicles",
+    "title_japanese": "\u6226\u5834\u306e\u30f4\u30a1\u30eb\u30ad\u30e5\u30ea\u30a2",
+    "title_synonyms": [
+        "Battlefield Valkyria: Gallian Chronicles"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/uiRAzl5Q3Ko?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5507/Senjou_no_Valkyria"
+}

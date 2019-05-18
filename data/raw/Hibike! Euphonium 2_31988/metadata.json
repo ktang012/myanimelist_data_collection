@@ -1,0 +1,167 @@
+{
+    "aired": {
+        "from": "2016-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 29,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 6, 2016 to Dec 29, 2016",
+        "to": "2016-12-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Vivace! (\u30f4\u30a3\u30f4\u30a1\u30fc\u30c1\u30a7\uff01)\" by Kitauji Quartet (\u5317\u5b87\u6cbb\u30ab\u30eb\u30c6\u30c3\u30c8) Kumiko Oumae (Tomoyo Kurosawa), Hazuki Katou (Ayaka Asai), Sapphire Kawashima (Moe Toyota), Reina Kousaka (Chika Anzai) (eps 1-8, 10-13)"
+    ],
+    "episodes": 13,
+    "favorites": 1552,
+    "genres": [
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/81155.jpg",
+    "licensors": [
+        {
+            "mal_id": 1201,
+            "name": "Ponycan USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+        }
+    ],
+    "mal_id": 31988,
+    "members": 115753,
+    "opening_themes": [
+        "\"Soundscape (\u30b5\u30a6\u30f3\u30c9\u30b9\u30b1\u30fc\u30d7)\" by TRUE"
+    ],
+    "popularity": 885,
+    "premiered": "Fall 2016",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        }
+    ],
+    "rank": 261,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 96125,
+                "name": "Hibike! Euphonium: Kitauji Koukou Suisougaku-bu no Ichiban Atsui Natsu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/96125/Hibike_Euphonium__Kitauji_Koukou_Suisougaku-bu_no_Ichiban_Atsui_Natsu"
+            },
+            {
+                "mal_id": 113830,
+                "name": "Hibike! Euphonium",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/113830/Hibike_Euphonium"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34204,
+                "name": "Hibike! Euphonium 2 Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34204/Hibike_Euphonium_2_Specials"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 27989,
+                "name": "Hibike! Euphonium",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35678,
+                "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35678/Hibike_Euphonium_Movie_3__Chikai_no_Finale"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 35677,
+                "name": "Liz to Aoi Tori",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35082,
+                "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35082/Hibike_Euphonium_Movie_2__Todoketai_Melody"
+            }
+        ]
+    },
+    "request_cache_expiry": 14458,
+    "request_cached": true,
+    "request_hash": "request:anime:c40a7ec38bdbf40198139241b3117aff30fcdd09",
+    "score": 8.29,
+    "scored_by": 57544,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Following their success in the qualifying round for the Kansai regional competition, the members of the Kitauji High School concert band set their sights on the next upcoming performance. Utilizing their summer break to the utmost, the band participates in a camp where they are instructed by their band advisor Noboru Taki and his friends who make their living as professional musicians. Kumiko Oumae and her friends remain determined to attain gold at the Kansai competition, but trouble arises when a student who once quit the band shows interest in rejoining and sparks unpleasant memories for the second-year members. Kumiko also learns about her teacher's surprising past and the motivation behind his desire to lead the band to victory. Reaching nationals will require hard work, and the adamant conviction in each student's commitment to the band will be put to the test. [Written by MAL Rewrite]",
+    "title": "Hibike! Euphonium 2",
+    "title_english": "Sound! Euphonium 2",
+    "title_japanese": "\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02",
+    "title_synonyms": [
+        "Hibike! Euphonium Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/d2Di5swwzxg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+}

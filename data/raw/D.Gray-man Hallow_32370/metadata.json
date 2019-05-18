@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2016-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 5, 2016 to Sep 27, 2016",
+        "to": "2016-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "D.Gray-man Hallow is based on Katsura Hoshino's manga series of the same title and adapts chapters 165 to 208 from the 17th to 23rd volumes. \r\nThe anime was not released on Blu-ray or DVD. The first volumes were scheduled to start release in September 2016, but were indefinitely delayed to improve their quality. The release was later cancelled in March 2017.",
+    "broadcast": "Tuesdays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Lotus Pain\" by Mashiro Ayano"
+    ],
+    "episodes": 13,
+    "favorites": 1022,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/80766.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32370,
+    "members": 123652,
+    "opening_themes": [
+        "\"Key -bring it on, my Destiny-\" by Lenny code fiction"
+    ],
+    "popularity": 825,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 741,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24,
+                "name": "D.Gray-man",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24/DGray-man"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 1482,
+                "name": "D.Gray-man",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1482/DGray-man"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:8065a16c72dfb933469c6577a39da7139f86bc6d",
+    "score": 7.88,
+    "scored_by": 47511,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "Despite the recent Akuma attack, the members of the Black Order are in high spirits as they set about moving to a new base. Immediately upon his arrival, however, Allen Walker is suddenly called by the Central Agency and has his arm forcefully sealed by the Order. He is then led to a surprising meeting with his master, General Cross Marian, who reveals staggering secrets surrounding the enigmatic 14th Noah. A phantom thief incident, the arrival of a mysterious group of Exorcists, the death of an important comrade, and an all-out battle against the Noah Family\u2014just what does this mean for Allen, Yuu Kanda, and the rest of the Order? This is but the beginning of a series of strange, seemingly unconnected events that lead to something far greater. [Written by MAL Rewrite]",
+    "title": "D.Gray-man Hallow",
+    "title_english": "D.Gray-man HALLOW",
+    "title_japanese": "\u30c7\u30a3\u30fc\u30fb\u30b0\u30ec\u30a4\u30de\u30f3 \u30cf\u30ed\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/WTS94iHIH5o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32370/DGray-man_Hallow"
+}

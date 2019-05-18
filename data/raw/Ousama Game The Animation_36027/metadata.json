@@ -1,0 +1,181 @@
+{
+    "aired": {
+        "from": "2017-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 5, 2017 to Dec 21, 2017",
+        "to": "2017-12-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Lost Paradise\" by Pile"
+    ],
+    "episodes": 12,
+    "favorites": 222,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 5,
+            "name": "Dementia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/5/Dementia"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/88190.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 36027,
+    "members": 125955,
+    "opening_themes": [
+        "\"FEED THE FIRE\" by coldrain"
+    ],
+    "popularity": 810,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1011,
+            "name": "Warner Music Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1011/Warner_Music_Japan"
+        },
+        {
+            "mal_id": 1313,
+            "name": "Amuse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1313/Amuse"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1377,
+            "name": "Futabasha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+        },
+        {
+            "mal_id": 1649,
+            "name": "Kakao Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1649/Kakao_Japan"
+        },
+        {
+            "mal_id": 1732,
+            "name": "Spacey Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1732/Spacey_Music_Entertainment"
+        },
+        {
+            "mal_id": 1733,
+            "name": "A-Craft",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1733/A-Craft"
+        },
+        {
+            "mal_id": 1734,
+            "name": "Tohan Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1734/Tohan_Corporation"
+        }
+    ],
+    "rank": 10040,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24836,
+                "name": "Ousama Game",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24836/Ousama_Game"
+            },
+            {
+                "mal_id": 47332,
+                "name": "Ousama Game: Shuukyoku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/47332/Ousama_Game__Shuukyoku"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2995e19d8f3b28ffb4e3bb932145ad85978d5094",
+    "score": 5.16,
+    "scored_by": 54476,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 541,
+            "name": "Seven",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/541/Seven"
+        }
+    ],
+    "synopsis": "It can be rough transferring to a new school\u2014even more so if you don't want to make any friends, like Nobuaki Kanazawa. But the reason for his antisocial behavior soon becomes clear when his class receives a text from someone called \"The King.\" Included are instructions for the \"King's Game,\" and all class members must participate. Those who refuse to play, quit halfway, or don't follow an order in the allotted time of 24 hours will receive a deadly punishment. Having played the game before and watched as those around him died, Nobuaki tries to warn his clueless classmates. Unfortunately, they only believe him after the King's Game claims its first casualties. Stuck in a horrific situation with no chance of escape, Nobuaki has a choice: put his own survival above those around him, or do what he couldn't before and save his classmates. [Written by MAL Rewrite]",
+    "title": "Ousama Game The Animation",
+    "title_english": "King's Game",
+    "title_japanese": "\u738b\u69d8\u30b2\u30fc\u30e0 The Animation",
+    "title_synonyms": [
+        "Ou-sama Game"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/JgFQC9Avfhk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36027/Ousama_Game_The_Animation"
+}

@@ -1,0 +1,154 @@
+{
+    "aired": {
+        "from": "2013-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 5, 2013 to Dec 28, 2013",
+        "to": "2013-12-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kimi to no Nakushi Mono (\u541b\u3068\u306e\u306a\u304f\u3057\u3082\u306e)\" by Ayaka Kitazawa (\u5317\u6ca2\u7dbe\u9999) (eps 1-2, 4-5, 7, 12)",
+        "\"Song for friends\" by Rita (eps 3, 8-9)",
+        "\"Hanabi\" by Lia (ep 6)",
+        "\"Boys be Smile\" by Suzuyu (\u9234\u6e6f) (ep 10)",
+        "\"Haruka Kanata (\u9065\u304b\u5f7c\u65b9)\" by Rita (ep 11)",
+        "\"Little Busters! -Little Jumper Ver.-\" by Rita (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 1733,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/55049.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 18195,
+    "members": 107045,
+    "opening_themes": [
+        "\"Boys be Smile\" by Suzuyu (\u9234\u6e6f) (eps 1-9, 11-13)"
+    ],
+    "popularity": 956,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 250,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 55065,
+                "name": "Little Busters!: End of Refrain",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/55065/Little_Busters__End_of_Refrain"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 13655,
+                "name": "Little Busters!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13655/Little_Busters"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 20517,
+                "name": "Little Busters!: EX",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20517/Little_Busters__EX"
+            }
+        ]
+    },
+    "request_cache_expiry": 7699,
+    "request_cached": true,
+    "request_hash": "request:anime:b9855089d667e3732dca8d5dae8b9b9bdfd275d9",
+    "score": 8.3,
+    "scored_by": 52307,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Riki and his friends have been managing to form a complete team for the Little Busters baseball team and after overcoming some of its new members' internal conflicts, Riki and Rin slowly approach the \"secret of this world.\" Will they be ready for the truth? In this world devoid of logic, something has started to move and soon will come the time when the lives of the Little Busters will change forever. (Source: Koi-nya, edited)",
+    "title": "Little Busters!: Refrain",
+    "title_english": "Little Busters! ~Refrain~",
+    "title_japanese": "\u30ea\u30c8\u30eb\u30d0\u30b9\u30bf\u30fc\u30ba\uff01\uff5eRefrain\uff5e",
+    "title_synonyms": [
+        "LB!: Refrain"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/xxMfedk54z0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18195/Little_Busters__Refrain"
+}

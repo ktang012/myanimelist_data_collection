@@ -1,0 +1,191 @@
+{
+    "aired": {
+        "from": "2008-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 5, 2008 to Mar 19, 2009",
+        "to": "2009-03-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Toaru Majutsu no Index is the anime adaption of a series of light novels created in the year 2004 by Kazuma Kamachi, illustrated by Kiyotaka Haimura, and published by ASCII Media Works. The anime produced by J.C. Staff aired in Japan from October of 2008 to March of 2009 and used the first six light novels as the source material. It was later licensed by Funimation for release in North America and has since produced a second season, Toaru Majutsu no Index II, and an animated movie, Toaru Majutsu no Index: Endymion no Kiseki.",
+    "broadcast": "Sundays at 01:35 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Rimless ~Fuchinashi no Sekai~ (Rimless\uff5e\u30d5\u30c1\u30ca\u30b7\u30ce\u30bb\u30ab\u30a4\uff5e)\" by IKU (eps 1-19)",
+        "\"Chikaigoto ~Sukoshi Dake Mou Ichido~ (\u8a93\u3044\u8a00\uff5e\u30b9\u30b3\u30b7\u3060\u3051\u3082\u3046\u4e00\u5ea6\uff5e)\" by IKU (eps 20-24)"
+    ],
+    "episodes": 24,
+    "favorites": 4572,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/75533.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 4654,
+    "members": 477976,
+    "opening_themes": [
+        "\"PSI-missing\" by Mami Kawada (eps 1-16)",
+        "\"masterpiece\" by Mami Kawada (eps 17-24)"
+    ],
+    "popularity": 118,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 685,
+            "name": "Kadokawa Contents Gate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/685/Kadokawa_Contents_Gate"
+        }
+    ],
+    "rank": 1438,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 12854,
+                "name": "Toaru Majutsu no Index",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/12854/Toaru_Majutsu_no_Index"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 27509,
+                "name": "Toaru Majutsu no Index 10th Anniversary PV",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27509/Toaru_Majutsu_no_Index_10th_Anniversary_PV"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 8937,
+                "name": "Toaru Majutsu no Index II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8937/Toaru_Majutsu_no_Index_II"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6213,
+                "name": "Toaru Kagaku no Railgun",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun"
+            },
+            {
+                "mal_id": 16049,
+                "name": "Toaru Kagaku no Railgun S",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16049/Toaru_Kagaku_no_Railgun_S"
+            },
+            {
+                "mal_id": 38480,
+                "name": "Toaru Kagaku no Accelerator",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38480/Toaru_Kagaku_no_Accelerator"
+            },
+            {
+                "mal_id": 38481,
+                "name": "Toaru Kagaku no Railgun 3",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38481/Toaru_Kagaku_no_Railgun_3"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 5955,
+                "name": "Toaru Majutsu no Index-tan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5955/Toaru_Majutsu_no_Index-tan"
+            }
+        ]
+    },
+    "request_cache_expiry": 25279,
+    "request_cached": true,
+    "request_hash": "request:anime:74d59a373586734a4f085d6e6115c3390f184ea6",
+    "score": 7.59,
+    "scored_by": 226201,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Academy City, Japan, is at the forefront of science. Besides being 30 years ahead of the world technologically, more than three-fourths of this peculiar city's population consists of students developing their psychic abilities as espers in various institutions. Among these students is Touma Kamijou, a high school boy with the lowest psychic rank of zero, but with a mysterious power no scientist can understand: \"Imagine Breaker,\" which allows him to negate other supernatural abilities. This, however, doesn't affect Kamijou's life in the least as he plays his role as a regular teenager; that is, until he meets the strange Index Librorum Prohibitorum, a young girl who has memorized the entirety of the forbidden grimoires, and now a dangerous organization is hunting Index down. With several magicians looking to harm the girl, Kamijou will defend his new companion at all costs as he discovers a strange new realm of the supernatural. [Written by MAL Rewrite]",
+    "title": "Toaru Majutsu no Index",
+    "title_english": "A Certain Magical Index",
+    "title_japanese": "\u3068\u3042\u308b\u9b54\u8853\u306e\u7981\u66f8\u76ee\u9332",
+    "title_synonyms": [
+        "Toaru Majutsu no Kinsho Mokuroku"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/qAp6NfXosNU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index"
+}

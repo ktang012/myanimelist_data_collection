@@ -1,0 +1,140 @@
+{
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 22,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 6, 2014 to Jun 22, 2014",
+        "to": "2014-06-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"REASON FOR...\" by Apollon Agana Belea (Miyu Irino), Hades Aidoneus (Daisuke Ono), Tsukito Totsuka (Yuuto Uemura), Takeru Totsuka (Toshiyuki Toyonaga), Balder Hringhorni (Hiroshi Kamiya), Loki Laevatein (Yoshimasa Hosoya)"
+    ],
+    "episodes": 12,
+    "favorites": 671,
+    "genres": [
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/60703.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 21563,
+    "members": 91218,
+    "opening_themes": [
+        "\"TILL THE END\" by Apollon Agana Belea (Miyu Irino), Hades Aidoneus (Daisuke Ono), Tsukito Totsuka (Yuuto Uemura), Takeru Totsuka (Toshiyuki Toyonaga), Balder Hringhorni (Hiroshi Kamiya), Loki Laevatein (Yoshimasa Hosoya) (eps 2-12)"
+    ],
+    "popularity": 1088,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 116,
+            "name": "Broccoli",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2614,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 73145,
+                "name": "Kamigami no Asobi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/73145/Kamigami_no_Asobi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6068a80254fe0b6092ec37ef4ac0b3eeb1ec5d17",
+    "score": 7.27,
+    "scored_by": 39698,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Yui Kusanagi, normal human girl, was suddenly transported to another world for a very special mission: to show the young gods of the divine realm what it means to be human. Over the years, these handsome young gods have lost their ability to empathize with or interact with humans. Anyone would be happy to be surrounded by such dizzyingly good-looking people, but the problem is, she only has one year to complete her mission, and if she fails, all of them will be stuck in this realm forever. With many of the gods showing great reluctance to even participate in the compassion project, Yui faces an uphill battle. Will she be able to convince them all to learn a lesson in humanity or will they all be stuck together for the rest of their lives?",
+    "title": "Kamigami no Asobi",
+    "title_english": "Kamigami no Asobi",
+    "title_japanese": "\u795e\u3005\u306e\u60aa\u622f",
+    "title_synonyms": [
+        "Kamigami no Asobi: Ludere deorum",
+        "Kamiaso"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/xW5r60YFruw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/21563/Kamigami_no_Asobi"
+}

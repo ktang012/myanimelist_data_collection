@@ -1,0 +1,146 @@
+{
+    "aired": {
+        "from": "2012-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 9,
+                "year": 2012
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Sep 29, 2012 to Mar 23, 2013",
+        "to": "2013-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 00:30 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Wareta Ringo (\u5272\u308c\u305f\u30ea\u30f3\u30b4)\" by Saki Watanabe (Risa Taneda) (eps 1-16)",
+        "\"Yuki ni Saku Hana (\u96ea\u306b\u54b2\u304f\u82b1)\" by Maria Akizuki (Kana Hanazawa) (eps 17-24)"
+    ],
+    "episodes": 25,
+    "favorites": 17979,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/36775.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 13125,
+    "members": 474319,
+    "opening_themes": [
+        "\"Yuki ni Saku Hana (\u96ea\u306b\u54b2\u304f\u82b1)\" by Maria Akizuki (Kana Hanazawa) (ep 16)"
+    ],
+    "popularity": 120,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 55,
+            "name": "TV Asahi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        }
+    ],
+    "rank": 143,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 41575,
+                "name": "Shinsekai yori",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/41575/Shinsekai_yori"
+            },
+            {
+                "mal_id": 116949,
+                "name": "Shin Sekai Yori",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/116949/Shin_Sekai_Yori"
+            }
+        ]
+    },
+    "request_cache_expiry": 26361,
+    "request_cached": true,
+    "request_hash": "request:anime:d953e4111026c72032384550d1d622577321d110",
+    "score": 8.44,
+    "scored_by": 177988,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Following a sudden outbreak of psychokinesis in 0.1% of the population, a rapid transformation swept the world. The godlike ability to manipulate matter remotely turned many power wielders to violence, inciting a long period of upheaval. Finally, after a chaotic era shaped by the rise and fall of oppressive regimes, the psychic humans were able to achieve a fragile peace by isolating their society, creating a new world bound by complex rules. In the town of Kamisu 66, 12-year-old Saki Watanabe has just awakened to her powers and is relieved to rejoin her friends\u2014the mischievous Satoru Asahina, the shy Mamoru Itou, the cheerful Maria Akizuki, and Shun Aonuma, a mysterious boy whom Saki admires\u2014at Sage Academy, a special school for psychics. However, unease looms as Saki begins to question the fate of those unable to awaken to their powers, and the children begin to get involved with secretive matters such as the rumored Tainted Cats said to abduct children. Shinsekai yori tells the unique coming-of-age story of Saki and her friends as they journey to grow into their roles in the supposed utopia. Accepting these roles, however, might not come easy when faced with the dark and shocking truths of society, and the impending havoc born from the new world. [Written by MAL Rewrite]",
+    "title": "Shinsekai yori",
+    "title_english": "From the New World",
+    "title_japanese": "\u65b0\u4e16\u754c\u3088\u308a",
+    "title_synonyms": [
+        "Shin Sekai yori"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/oYWBoSDpwdQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/13125/Shinsekai_yori"
+}

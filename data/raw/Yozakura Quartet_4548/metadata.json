@@ -1,0 +1,142 @@
+{
+    "aired": {
+        "from": "2008-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 3, 2008 to Dec 19, 2008",
+        "to": "2008-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Nagareboshi (\u30ca\u30ac\u30ec\u30dc\u30b7; Shooting Star)\" by ROUND TABLE featuring Nino"
+    ],
+    "episodes": 12,
+    "favorites": 164,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/74266.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 4548,
+    "members": 100715,
+    "opening_themes": [
+        "\"JUST TUNE\" by savage genius"
+    ],
+    "popularity": 1000,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        }
+    ],
+    "rank": 4113,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 2060,
+                "name": "Yozakura Quartet",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/2060/Yozakura_Quartet"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 8457,
+                "name": "Yozakura Quartet: Hoshi no Umi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8457/Yozakura_Quartet__Hoshi_no_Umi"
+            },
+            {
+                "mal_id": 18497,
+                "name": "Yozakura Quartet: Hana no Uta",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18497/Yozakura_Quartet__Hana_no_Uta"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:cba16fa17b33644a5c704d953999f3d21e627bf4",
+    "score": 6.9,
+    "scored_by": 26095,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 70,
+            "name": "Nomad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/70/Nomad"
+        }
+    ],
+    "synopsis": "The world of Yozakura Quartet is actually not one, but two worlds: one of humans, and one of youkai. Despite appearing mostly human, youkai may have animal like physical traits, along with a number of special abilities. Normally youkai are confined to their world, but some have found their way into the realm of humanity. As a symbol of peace, and a bridge between the two realms, a city was constructed within the protective barrier of seven magical trees, otherwise known as the Seven Pillars. This city of Sakurashin is home to both humans and youkai, with the peace between them maintained by the Hizumi Life Counseling Office. The director of this office is Akina Hiizumi, a teenager with the inherited family ability to perform \u201ctuning,\u201d which can send harmful youkai back to their world permanently. He is aided by a group of girls, including the town\u2019s 16 year old youkai mayor, Hime Yarizakura, their town\u2019s announcer and resident telepath, Ao Nanami, and Kotoha Isone, a half-youkai who can summon objects just by stating the object\u2019s name. As new residents enter and mysterious events begin to take place, this quartet of protectors and their closest friends must continue to guard the city of Sakurashin, and maintain the fragile balance of peace between humans and youkai.",
+    "title": "Yozakura Quartet",
+    "title_english": null,
+    "title_japanese": "\u591c\u685c\u56db\u91cd\u594f \uff5e\u30e8\u30b6\u30af\u30e9\u30ab\u30eb\u30c6\u30c3\u30c8\uff5e",
+    "title_synonyms": [
+        "Yozakura Shijuusou",
+        "Quartet of Cherry Blossoms in the Night"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/AE4Lvrn7Zxg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4548/Yozakura_Quartet"
+}

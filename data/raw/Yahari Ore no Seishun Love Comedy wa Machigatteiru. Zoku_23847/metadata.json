@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2015-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 3, 2015 to Jun 26, 2015",
+        "to": "2015-06-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. adapts volumes 7 to 11 of Wataru Watari's light novel series of the same title.",
+    "broadcast": "Fridays at 01:28 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Everyday World (\u30a8\u30d6\u30ea\u30c7\u30a4\u30ef\u30fc\u30eb\u30c9)\" by Yukino Yukinoshita (Saori Hayami) & Yui Yuigahama (Nao Touyama) (eps 1-6, 8-11, 13)",
+        "\"Everyday World -Ballade Arrange-Yukino Solo Ver. (\u30a8\u30d6\u30ea\u30c7\u30a4\u30ef\u30fc\u30eb\u30c9 -Ballade Arrange-Yukino Solo Ver.)\" by Yukino Yukinoshita (Saori Hayami) (ep 7)",
+        "\"Everyday World -Ballade Arrange-Yui Solo Ver. (\u30a8\u30d6\u30ea\u30c7\u30a4\u30ef\u30fc\u30eb\u30c9 -Ballade Arrange-Yui Solo Ver.)\" by Yui Yuigahama (Nao Touyama) (ep 12)"
+    ],
+    "episodes": 13,
+    "favorites": 11419,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75376.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 23847,
+    "members": 429256,
+    "opening_themes": [
+        "\"Harumodoki (\u6625\u64ec\u304d)\" by Nagi Yanagi"
+    ],
+    "popularity": 147,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 751,
+            "name": "Marvelous AQL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/751/Marvelous_AQL"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        }
+    ],
+    "rank": 268,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 40171,
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/40171/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 14813,
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 39547,
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. 3rd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39547/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_3rd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33161,
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33161/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 37040,
+    "request_cached": true,
+    "request_hash": "request:anime:0bc8a96a645c824897d0e517f1154bd1b358ca82",
+    "score": 8.29,
+    "scored_by": 264519,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ],
+    "synopsis": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku picks up immediately after the events of the first season, continuing the adventures of the Volunteer Service Club\u2014the dispassionate Hachiman Hikigaya, the cheerful Yui Yuigahama, and the competitive Yukino Yukinoshita\u2014as it dedicates itself to helping any student with issues that they may face. With the rift among his own group widening, Hachiman begins to realize that his knack for quickly getting to the root of other people's troubles is a double-edged sword: sometimes the best solution is not necessarily the most appropriate one. [Written by MAL Rewrite]",
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+    "title_english": "My Teen Romantic Comedy SNAFU TOO!",
+    "title_japanese": "\u3084\u306f\u308a\u4ffa\u306e\u9752\u6625\u30e9\u30d6\u30b3\u30e1\u306f\u307e\u3061\u304c\u3063\u3066\u3044\u308b\u3002\u7d9a",
+    "title_synonyms": [
+        "Oregairu 2",
+        "My Teen Romantic Comedy SNAFU 2",
+        "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Second Season",
+        "Yahari Ore no Seishun Love Comedy wa Machigatteiru. 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/oUeaCmj8yos?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku"
+}

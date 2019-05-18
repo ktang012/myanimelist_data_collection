@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2012-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Apr 11, 2012 to Jun 27, 2012",
+        "to": "2012-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ambivalentidea\" by Nagi Yanagi (eps 1-3, 5-12)",
+        "\"Shiroku Yawaraka na Hana (\u767d\u304f\u3084\u308f\u3089\u304b\u306a\u82b1)\" by Nagi Yanagi (ep 4)"
+    ],
+    "episodes": 12,
+    "favorites": 2062,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/73280.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 12413,
+    "members": 209127,
+    "opening_themes": [
+        "\"Borderland\" by Mami Kawada"
+    ],
+    "popularity": 448,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 62,
+            "name": "Shogakukan Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan_Productions"
+        }
+    ],
+    "rank": 693,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 4611,
+                "name": "Jormungand",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/4611/Jormungand"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 13331,
+                "name": "Jormungand: Perfect Order",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13331/Jormungand__Perfect_Order"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 15735,
+                "name": "Jormungand: Perfect Order Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15735/Jormungand__Perfect_Order_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 7229,
+    "request_cached": true,
+    "request_hash": "request:anime:3705f90371f3d3c973fce19dec011c962f31e488",
+    "score": 7.91,
+    "scored_by": 94170,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "Brought up in a conflict-ridden environment, child soldier Jonathan \"Jonah\" Mar hates weapons and those who deal them. But when Koko Hekmatyar, an international arms dealer, takes on Jonah as one of her bodyguards, he has little choice but to take up arms. Along with Koko's other bodyguards, composed mostly of former special-ops soldiers, Jonah is now tasked with protecting Koko and her overly idealistic goal of world peace from the countless dangers that come from her line of work. Jormungand follows Koko, Jonah, and the rest of crew as they travel the world selling weapons under the international shipping company HCLI. As Koko's work is illegal under international law, she is forced to constantly sidestep both local and international authorities while doing business with armies, private militaries, and militias. With the CIA always hot on her trail, and assassins around every corner, Jonah and the crew must guard Koko and her dream of world peace with their lives or die trying. [Written by MAL Rewrite]",
+    "title": "Jormungand",
+    "title_english": "Jormungand",
+    "title_japanese": "\u30e8\u30eb\u30e0\u30f3\u30ac\u30f3\u30c9",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/N4B7Lewld-8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12413/Jormungand"
+}

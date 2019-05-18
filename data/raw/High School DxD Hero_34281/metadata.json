@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2018-04-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 3,
+                "month": 7,
+                "year": 2018
+            }
+        },
+        "string": "Apr 17, 2018 to Jul 3, 2018",
+        "to": "2018-07-03T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Motenai Kuse ni (\u30e2\u30c6\u306a\u3044\u304f\u305b\u306b(`;\u03c9;\u00b4))\" by Tapimiru"
+    ],
+    "episodes": 12,
+    "favorites": 1489,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1189/93528.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34281,
+    "members": 171733,
+    "opening_themes": [
+        "\"SWITCH\" by Minami"
+    ],
+    "popularity": 566,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        }
+    ],
+    "rank": 1716,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25409,
+                "name": "High School DxD",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25409/High_School_DxD"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 32215,
+                "name": "High School DxD BorN: Yomigaeranai Fushichou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32215/High_School_DxD_BorN__Yomigaeranai_Fushichou"
+            },
+            {
+                "mal_id": 37719,
+                "name": "High School DxD Hero: Taiikukan-ura no Holy",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37719/High_School_DxD_Hero__Taiikukan-ura_no_Holy"
+            }
+        ]
+    },
+    "request_cache_expiry": 11071,
+    "request_cached": true,
+    "request_hash": "request:anime:124abed8a07b00bc7158e21aad04fe1629869a1d",
+    "score": 7.49,
+    "scored_by": 63586,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 911,
+            "name": "Passione",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/911/Passione"
+        }
+    ],
+    "synopsis": "The fourth season of High School DxD.",
+    "title": "High School DxD Hero",
+    "title_english": null,
+    "title_japanese": "\u30cf\u30a4\u30b9\u30af\u30fc\u30ebDxD HERO",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/qshTs9nTaxw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34281/High_School_DxD_Hero"
+}

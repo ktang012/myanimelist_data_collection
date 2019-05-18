@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2008-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 3, 2008 to Dec 19, 2008",
+        "to": "2008-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Sweet Gift\" by Kugimiya Rie (eps 1-2)",
+        "\"Confusion...\" by Ryou Hirohashi (ep 3)",
+        "\"Shoujo Test wa Muzukashii (\u5c11\u5973\u30c6\u30b9\u30c8\u306f\u96e3\u3057\u3044)\" by Emiri Katou (ep 4)",
+        "\"Akane-Iro Hometown (\u831c\u8272hometown)\" by Rie Kugimiya (ep 5)",
+        "\"Cherry pink mystery\" by Emiri Katou (ep 6)",
+        "\"Make a Miracle!\" by Rie Tanaka (ep 7)",
+        "\"Love Diving (\u30e9\u30d6\u30c0\u30a4\u30d3\u30f3\u30b0)\" by Marina Inoue (ep 8)",
+        "\"Chu.chu.ru. no yakusoku\" by Rie Tanaka (ep 9)",
+        "\"Mezamenai Wish... (\u76ee\u899a\u3081\u306a\u3044 Wish...)\" by Aya Hirano (eps 10-11)",
+        "\"ai Koko Kara (ai\u30fb\u30b3\u30b3\u30ab\u30e9)\" by Aya Hirano (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 248,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/21525.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 4744,
+    "members": 117483,
+    "opening_themes": [
+        "\"Hatsukoi Parachute (\u521d\u604b\u30d1\u30e9\u30b7\u30e5\u30fc\u30c8)\" by Miyuki Hashimoto"
+    ],
+    "popularity": 866,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 699,
+            "name": "feng",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/699/feng"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        },
+        {
+            "mal_id": 1557,
+            "name": "Pony Canyon Enterprise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprise"
+        }
+    ],
+    "rank": 5565,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8897,
+                "name": "Akaneiro ni Somaru Saka",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8897/Akaneiro_ni_Somaru_Saka"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 5772,
+                "name": "Akaneiro ni Somaru Saka: Hardcore",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5772/Akaneiro_ni_Somaru_Saka__Hardcore"
+            }
+        ]
+    },
+    "request_cache_expiry": 2871,
+    "request_cached": true,
+    "request_hash": "request:anime:815b2398215136cc1ad9e537590761a59caea0a2",
+    "score": 6.58,
+    "scored_by": 64449,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 120,
+            "name": "TNK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ],
+    "synopsis": "Yuuhi Katagiri is not your average girl \u2013 she's the treasured daughter of the Katagiri family. She's generally kept under strict supervision, but one day ends up walking home from school on her own. This proves to be instant trouble when a group of boys start harassing her. Junichi Nagase, who was on his way home from a convenience store, sees the troubled Yuuhi and comes to her rescue. One of the boys recognized Junichi as the famed \"Geno Killer\" and they dash off. Yuuhi thanks Junichi and when she asked for his name, he just waves and leaves. Of course, he regrets trying to act cool in front of the beautiful girl right away, wishing he asked her name. The following day, a transfer student joins Junichi's class \u2013 it's Yuuhi! She calls Junichi out as the \"Geno Killer\", the only name she remembers him by, and rumors about the two spread quickly. Matters are made worse when Junichi kisses Yuuhi due to a misunderstanding. And on top of all that, it turns out that Junichi is Yuuhi's fianc\u00e9! Yuuhi doesn't see Junichi as someone worthy. But, she could not go against her father's wishes. The only thing that Yuuhi can do is live with Junichi in the house he shares with his little sister Minato, and prove that Junichi is not worthy to be her husband. Will she succeed in proving his unworthiness, or will she fall in love on the way?",
+    "title": "Akaneiro ni Somaru Saka",
+    "title_english": "Akane Iro ni Somaru Saka",
+    "title_japanese": "\u3042\u304b\u306d\u8272\u306b\u67d3\u307e\u308b\u5742",
+    "title_synonyms": [
+        "Akasaka",
+        "The Hill Dyed Rose Madder"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/W06t4r3-3kc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4744/Akaneiro_ni_Somaru_Saka"
+}

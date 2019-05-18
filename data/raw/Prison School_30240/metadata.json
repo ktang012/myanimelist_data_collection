@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2015-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 11, 2015 to Sep 26, 2015",
+        "to": "2015-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The Japanese cast has been universally praised for their work while in contrast the English dub has been heavily criticized for its casting, voice acting and writing.",
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tsumibukaki Oretachi no Sanka (\u7f6a\u6df1\u304d \u4ffa\u305f\u3061\u306e\u8cdb\u6b4c)\" by Kangoku Danshi (\u76e3\u7344\u7537\u5b50) (Hiroshi Kamiya, Katsuyuki Konishi, Kenichi Suzumura, Daisuke Namikawa, Kazuyuki Okitsu)"
+    ],
+    "episodes": 12,
+    "favorites": 4160,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/74231.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30240,
+    "members": 461650,
+    "opening_themes": [
+        "\"Ai no Prison (\u611b\u306e\u30d7\u30ea\u30ba\u30f3)\" by Kangoku Danshi (\u76e3\u7344\u7537\u5b50) (Hiroshi Kamiya, Katsuyuki Konishi, Kenichi Suzumura, Daisuke Namikawa, Kazuyuki Okitsu)"
+    ],
+    "popularity": 128,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 773,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25297,
+                "name": "Prison School",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25297/Prison_School"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32485,
+                "name": "Prison School: Mad Wax",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32485/Prison_School__Mad_Wax"
+            }
+        ]
+    },
+    "request_cache_expiry": 35146,
+    "request_cached": true,
+    "request_hash": "request:anime:9d49f84c7c0a634a0b71610daeac8ac6d3f13352",
+    "score": 7.87,
+    "scored_by": 261248,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Located on the outskirts of Tokyo, Hachimitsu Private Academy is a prestigious all-girls boarding school, famous for its high-quality education and disciplined students. However, this is all about to change due to the revision of the school's most iconic policy, as boys are now able to enroll as well. At the start of the first semester under this new decree, a mere five boys have been accepted, effectively splitting the student body into a ratio of two hundred girls to one boy. Kiyoshi, Gakuto, Shingo, Andre, and Jo are quickly cast away without having a chance to make any kind of a first impression. Unable to communicate with their fellow female students, the eager boys set their sights on a far more dangerous task: peeping into the girls' bath! It's only after their plan is thoroughly decimated by the infamous Underground Student Council that the motley crew find their freedom abruptly taken from them, as they are thrown into the school's prison with the sentence of an entire month as punishment. Thus begins the tale of the boys' harsh lives in Prison School, a righteous struggle that will ultimately test the bonds of friendship and perverted brotherhood. [Written by MAL Rewrite]",
+    "title": "Prison School",
+    "title_english": "Prison School",
+    "title_japanese": "\u76e3\u7344\u5b66\u5712\u3008\u30d7\u30ea\u30ba\u30f3\u30b9\u30af\u30fc\u30eb\u3009",
+    "title_synonyms": [
+        "Kangoku Gakuen"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/L5UUgGyNp9o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30240/Prison_School"
+}

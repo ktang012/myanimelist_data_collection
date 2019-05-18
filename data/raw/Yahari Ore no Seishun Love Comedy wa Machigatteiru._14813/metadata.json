@@ -1,0 +1,164 @@
+{
+    "aired": {
+        "from": "2013-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 5, 2013 to Jun 28, 2013",
+        "to": "2013-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. adapts the first 6 novels of Wataru Watari's light novel series of the same title.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hello Alone\" by Yukino Yukinoshita (Saori Hayami) & Yui Yuigahama (Nao Touyama) (eps 1-4, 6-12)",
+        "\"Hello Alone -Yui Ballade-\" by Yui Yuigahama (Nao Touyama) (ep 5)",
+        "\"Hello Alone -Band arrange-\" by Yukino Yukinoshita (Saori Hayami) & Yui Yuigahama (Nao Touyama) (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 16414,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/49459.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 14813,
+    "members": 617991,
+    "opening_themes": [
+        "\"Yukitoki (\u30e6\u30ad\u30c8\u30ad)\" by Nagi Yanagi"
+    ],
+    "popularity": 74,
+    "premiered": "Spring 2013",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        },
+        {
+            "mal_id": 751,
+            "name": "Marvelous AQL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/751/Marvelous_AQL"
+        },
+        {
+            "mal_id": 1175,
+            "name": "Atelier Musa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+        }
+    ],
+    "rank": 443,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 40171,
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/40171/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23847,
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 18753,
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18753/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 36029,
+    "request_cached": true,
+    "request_hash": "request:anime:53deef2289c1aa1e681bbac942df141c1f9d5156",
+    "score": 8.11,
+    "scored_by": 356172,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Hachiman Hikigaya is an apathetic high school student with narcissistic and semi-nihilistic tendencies. He firmly believes that joyful youth is nothing but a farce, and everyone who says otherwise is just lying to themselves. In a novel punishment for writing an essay mocking modern social relationships, Hachiman's teacher forces him to join the Volunteer Service Club, a club that aims to extend a helping hand to any student who seeks their support in achieving their goals. With the only other club member being the beautiful ice queen Yukino Yukinoshita, Hachiman finds himself on the front line of other people's problems\u2014a place he never dreamed he would be. As Hachiman and Yukino use their wits to solve many students' problems, will Hachiman's rotten view of society prove to be a hindrance or a tool he can use to his advantage? [Written by MAL Rewrite]",
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+    "title_english": "My Teen Romantic Comedy SNAFU",
+    "title_japanese": "\u3084\u306f\u308a\u4ffa\u306e\u9752\u6625\u30e9\u30d6\u30b3\u30e1\u306f\u307e\u3061\u304c\u3063\u3066\u3044\u308b\u3002",
+    "title_synonyms": [
+        "Oregairu",
+        "My youth romantic comedy is wrong as I expected."
+    ],
+    "trailer_url": "https://www.youtube.com/embed/u-bpwWPNEpE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru"
+}

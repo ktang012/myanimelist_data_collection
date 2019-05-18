@@ -1,0 +1,156 @@
+{
+    "aired": {
+        "from": "2013-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 9, 2013 to Sep 24, 2013",
+        "to": "2013-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kizuna no Yukue feat. Kanon Nakagawa (\u30ad\u30ba\u30ca\u30ce\u30e6\u30af\u30a8 feat. \u4e2d\u5ddd\u304b\u306e\u3093)\" by Kanon Nakagawa starring Nao Touyama (ep 2)",
+        "\"Kizuna no Yukue feat. Tenri Ayukawa (\u30ad\u30ba\u30ca\u30ce\u30e6\u30af\u30a8 feat. \u9b8e\u5ddd\u5929\u7406)\" by Tenri Ayukawa starring Kaori Nazuka (ep 3)",
+        "\"Kizuna no Yukue feat. Tsukiyo Kujou (\u30ad\u30ba\u30ca\u30ce\u30e6\u30af\u30a8 feat. \u4e5d\u6761\u6708\u591c)\" by Tsukiyo Kujou starring Yuka Iguchi (ep 4)",
+        "\"Kizuna no Yukue feat. Yui Goidou (\u30ad\u30ba\u30ca\u30ce\u30e6\u30af\u30a8 feat. \u4e94\u4f4d\u5802 \u7d50)\" by Yui Goidou starring Ayahi Takagaki (ep 5)",
+        "\"Kizuna no Yukue feat. Shiori Shinomiya (\u30ad\u30ba\u30ca\u30ce\u30e6\u30af\u30a8 feat. \u6c50\u5bae \u681e)\" by Shiori Shinomiya starring Kana Hanazawa (ep 6)",
+        "\"Hajimete Koi wo Shita Kioku ~Piano Bansou~ (\u521d\u3081\u3066\u604b\u3092\u3057\u305f\u8a18\u61b6 \u301c\u30d4\u30a2\u30ce\u4f34\u594f\u301c)\" by Chihiro Kosaka starring Kana Asumi (ep 7)",
+        "\"Hitomi kara Snow (\u77b3\u304b\u3089\u30b9\u30ce\u30fc)\" by Kanon Nakagawa starring Nao Touyama (ep 8)",
+        "\"Kizuna no Yukue feat. Ayumi Takahara (\u30ad\u30ba\u30ca\u30ce\u30e6\u30af\u30a8 feat. \u9ad8\u539f\u6b69\u7f8e)\" by Ayumi Takahara starring Ayana Taketatsu (ep 9)",
+        "\"With...you...\" by Haqua du Lot Herminium starring Saori Hayami (ep 10)",
+        "\"Kizuna no Yukue (\u30ad\u30ba\u30ca\u30ce\u30e6\u30af\u30a8)\" by Jupiter Sisters (ep 11)",
+        "\"Hajimete Koi wo Shita Kioku (\u521d\u3081\u3066\u604b\u3092\u3057\u305f\u8a18\u61b6)\" by 2B PENCILS & Kanon Nakagawa (2B PENCILS & \u4e2d\u5ddd\u304b\u306e\u3093); Vocal by Chihiro Kosaka starring Kana Asumi; Back Ground Vocal by Kanon Nakagawa starring Nao Touyama (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 1613,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/51949.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 16706,
+    "members": 214077,
+    "opening_themes": [
+        "\"God only knows -Secrets of the Goddess-\" by Oratorio The World God Only Knows"
+    ],
+    "popularity": 432,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 1430,
+            "name": "Shogakukan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+        }
+    ],
+    "rank": 339,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7519,
+                "name": "Kami nomi zo Shiru Sekai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 15117,
+                "name": "Kami nomi zo Shiru Sekai: Tenri-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15117/Kami_nomi_zo_Shiru_Sekai__Tenri-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 35934,
+    "request_cached": true,
+    "request_hash": "request:anime:789183bc1715103e9b3dbe4ed645741fa55c98cf",
+    "score": 8.19,
+    "scored_by": 124677,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "Having freed a myriad of women from the runaway spirits possessing their hearts, the \"God of Conquest\" Keima Katsuragi is confronted with a new task: find the Jupiter Sisters, the goddesses that sealed Old Hell in the past. Diana, the goddess that resides inside his childhood friend Tenri Ayukawa, explains that they have taken shelter in the hearts of the girls he had assisted previously. Moreover, once Diana and her sisters are reunited, their power can seal the runaway spirits away for good and relieve Keima of his exorcising duties. Though he is initially reluctant to get involved in yet another chore, everything changes when tragedy befalls one of the hosts. Discovering that the goddesses are being targeted by a mysterious organization known as Vintage, Keima is caught in a race against time to reunite the sisters and rescue the girl who has already fallen prey. With deeper resolve than ever before, Keima works together with demons Elsie and Haqua to recapture the hearts of the girls he had charmed in the past. However, the road ahead is a difficult one, as he is soon met with the consequences of his previous conquests. [Written by MAL Rewrite]",
+    "title": "Kami nomi zo Shiru Sekai: Megami-hen",
+    "title_english": "The World God Only Knows: Goddesses",
+    "title_japanese": "\u795e\u306e\u307f\u305e\u77e5\u308b\u30bb\u30ab\u30a4 \u5973\u795e\u7bc7",
+    "title_synonyms": [
+        "Kami nomi zo Shiru Sekai III",
+        "Kami nomi zo Shiru Sekai 3",
+        "Kaminomi III",
+        "Kaminomi 3",
+        "The World God Only Knows III",
+        "The World God Only Knows 3"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/SuY_Pl_b3Uc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16706/Kami_nomi_zo_Shiru_Sekai__Megami-hen"
+}

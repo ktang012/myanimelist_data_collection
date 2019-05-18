@@ -1,0 +1,115 @@
+{
+    "aired": {
+        "from": "2018-01-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 12, 2018 to Mar 30, 2018",
+        "to": "2018-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:55 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Ref:rain\" by Aimer"
+    ],
+    "episodes": 12,
+    "favorites": 625,
+    "genres": [
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1271/90136.jpg",
+    "licensors": [],
+    "mal_id": 34984,
+    "members": 133074,
+    "opening_themes": [
+        "\"Nostalgic Rainfall (\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb)\" by CHiCO with HoneyWorks"
+    ],
+    "popularity": 759,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1671,
+            "name": "DMM pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+        }
+    ],
+    "rank": 1359,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 88600,
+                "name": "Koi wa Ameagari no You ni",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/88600/Koi_wa_Ameagari_no_You_ni"
+            }
+        ]
+    },
+    "request_cache_expiry": 32550,
+    "request_cached": true,
+    "request_hash": "request:anime:2ef798391cec218bb0da3e4dbf47f74fe83c677d",
+    "score": 7.61,
+    "scored_by": 51314,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 858,
+            "name": "Wit Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ],
+    "synopsis": "Akira Tachibana, a reserved high school student and former track runner, has not been able to race the same as she used to since she experienced a severe foot injury. And although she is regarded as attractive by her classmates, she is not interested in the boys around school. While working part-time at the Garden Cafe, Akira begins to develop feelings for the manager\u2014a 45-year-old man named Masami Kondou\u2014despite the large age gap. Kondou shows genuine concern and kindness toward the customers of his restaurant, which, while viewed by others as soft or weak, draws Akira to him. Spending time together at the restaurant, they grow closer, which only strengthens her feelings. Weighed down by these uncertain emotions, Akira finally resolves to confess, but what will be the result? [Written by MAL Rewrite]",
+    "title": "Koi wa Ameagari no You ni",
+    "title_english": "After the Rain",
+    "title_japanese": "\u604b\u306f\u96e8\u4e0a\u304c\u308a\u306e\u3088\u3046\u306b",
+    "title_synonyms": [
+        "Koi wa Amaagari no You ni",
+        "Love is Like after the Rain"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/EHLYugCBtjs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34984/Koi_wa_Ameagari_no_You_ni"
+}

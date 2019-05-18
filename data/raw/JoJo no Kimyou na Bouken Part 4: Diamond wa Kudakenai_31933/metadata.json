@@ -1,0 +1,174 @@
+{
+    "aired": {
+        "from": "2016-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Apr 2, 2016 to Dec 24, 2016",
+        "to": "2016-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai is a full adaptation of the fourth part of the JoJo no Kimyou na Bouken manga series.",
+    "broadcast": "Saturdays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"I WANT YOU\" by Savage Garden (eps 2-7, 9-16, 18-19, 21-23, 25-26, 28-33, 35, 37-38)",
+        "\"Great Days -Units Ver.-\" by JO\u2606UNITED (ep 39)"
+    ],
+    "episodes": 39,
+    "favorites": 10892,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/79156.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 31933,
+    "members": 264958,
+    "opening_themes": [
+        "\"Crazy Noisy Bizarre Town\" by THE DU (eps 2-7, 11-13)",
+        "\"Crazy Noisy Bizarre Town ~EDM Arrange Ver.~\" by THE DU (eps 8-9)",
+        "\"chase\" by batta (eps 15-16, 18-19, 21-24, 26)",
+        "\"Great Days\" by Karen Aoki, Daisuke Hasegawa (27-31, 33-38)"
+    ],
+    "popularity": 329,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 60,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3006,
+                "name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3006/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 26055,
+                "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/26055/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_2nd_Season"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37991,
+                "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33191,
+                "name": "Kishibe Rohan wa Ugokanai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33191/Kishibe_Rohan_wa_Ugokanai"
+            }
+        ]
+    },
+    "request_cache_expiry": 38072,
+    "request_cached": true,
+    "request_hash": "request:anime:2c5a34f80312118f91d1a8cdc0955221107468c6",
+    "score": 8.64,
+    "scored_by": 151093,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 287,
+            "name": "David Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ],
+    "synopsis": "The year is 1999. Morioh, a normally quiet and peaceful town, has recently become a hotbed of strange activity. Joutarou Kuujou, now a marine biologist, heads to the mysterious town to meet Jousuke Higashikata. While the two may seem like strangers at first, Jousuke is actually the illegitimate child of Joutarou's grandfather, Joseph Joestar. When they meet, Joutarou realizes that he may have more in common with Jousuke than just a blood relation. Along with the mild-mannered Kouichi Hirose and the boisterous Okuyasu Nijimura, the group dedicates themselves to investigating recent disappearances and other suspicious occurrences within Morioh. Aided by the power of Stands, the four men will encounter danger at every street corner, as it is up to them to unravel the town's secrets, before another occurs. [Written by MAL Rewrite]",
+    "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "title_english": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "title_japanese": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044",
+    "title_synonyms": [
+        "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+        "Diamond is not Crash"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/gagUdy3AY14?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai"
+}

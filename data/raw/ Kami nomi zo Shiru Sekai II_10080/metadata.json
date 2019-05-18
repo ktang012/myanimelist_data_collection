@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2011-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 12, 2011 to Jun 28, 2011",
+        "to": "2011-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Ai no Yokan (\u30a2\u30a4\u30ce\u30e8\u30ab\u30f3) by Kami no Mizo Shiri-tai (eps 1-3, 5-7, 9-11)",
+        "\"Ai no Yokan (\u30a2\u30a4\u30ce\u30e8\u30ab\u30f3) by Kakedama-tai (eps 4, 8)",
+        "\"God only knows Daisanmaku (God only knows \u7b2c\u4e09\u5e55)\" by Oratorio The World God Only Knows (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 930,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/30030.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10080,
+    "members": 266835,
+    "opening_themes": [
+        "\"A Whole New World God Only Knows\" by Oratorio The World God Only Knows"
+    ],
+    "popularity": 322,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        }
+    ],
+    "rank": 519,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7519,
+                "name": "Kami nomi zo Shiru Sekai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 8525,
+                "name": "Kami nomi zo Shiru Sekai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10805,
+                "name": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10805/Kami_nomi_zo_Shiru_Sekai__4-nin_to_Idol"
+            }
+        ]
+    },
+    "request_cache_expiry": 20157,
+    "request_cached": true,
+    "request_hash": "request:anime:80a0905a9d9d90730229a3c2a536bd5d6d8ba71a",
+    "score": 8.04,
+    "scored_by": 167702,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "Keima Katsuragi, the \"God of Conquest,\" returns to his quest of expelling runaway spirits that have possessed the hearts of women. Still stuck in his contract with the demon Elsie, he must continue to utilize the knowledge he has gained from mastering multitudes of dating simulators and chase out the phantoms that reside within by capturing the hearts of that which he hates most: three-dimensional girls. However, the God of Conquest has his work cut out for him. From exorcising karate practitioners and student teachers to the arrival of Elsie's best friend from Hell, he is up against a wide array of girls that will test his wit and may even take him by surprise. Though he would much rather stick to the world of 2D, he is trapped in lousy reality, and so Keima must trudge forward in his conquest of love. [Written by MAL Rewrite]",
+    "title": "Kami nomi zo Shiru Sekai II",
+    "title_english": "The World God Only Knows II",
+    "title_japanese": "\u795e\u306e\u307f\u305e\u77e5\u308b\u30bb\u30ab\u30a4 II",
+    "title_synonyms": [
+        "Kami nomi zo Shiru Sekai 2",
+        "Kaminomi II",
+        "The World God Only Knows 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/fI1GrHO3Bpo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10080/Kami_nomi_zo_Shiru_Sekai_II"
+}

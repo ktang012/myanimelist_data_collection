@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2011-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 5, 2011 to Sep 20, 2011",
+        "to": "2011-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"My Pace de Ikimashou (\u30de\u30a4\u307a\u30fc\u30b9\u3067\u3044\u304d\u307e\u3057\u3087\u3046)\" by Nanamori Chu\u2606Goraku Bu (\u4e03\u68ee\u4e2d\u2606\u3054\u3089\u304f\u90e8)"
+    ],
+    "episodes": 12,
+    "favorites": 3905,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/75173.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 10495,
+    "members": 225361,
+    "opening_themes": [
+        "\"Yuriyurarararayuruyuri Daijiken (\u3086\u308a\u3086\u3089\u3089\u3089\u3089\u3086\u308b\u3086\u308a\u5927\u4e8b\u4ef6)\" by Nanamori Chu\u2606Goraku Bu (\u4e03\u68ee\u4e2d\u2606\u3054\u3089\u304f\u90e8)"
+    ],
+    "popularity": 403,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 39,
+            "name": "Daume",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/39/Daume"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 497,
+            "name": "Studio Gram",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/497/Studio_Gram"
+        },
+        {
+            "mal_id": 753,
+            "name": "PRA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/753/PRA"
+        },
+        {
+            "mal_id": 755,
+            "name": "Jumondo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/755/Jumondo"
+        }
+    ],
+    "rank": 1241,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11593,
+                "name": "Yuru Yuri",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11593/Yuru_Yuri"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 12403,
+                "name": "Yuru Yuri\u266a\u266a",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12403/Yuru_Yuri\u266a\u266a"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 12665,
+                "name": "Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12665/Yuru_Yuri__Doushite_Tomaranai_Tokimeki_Dokidoki_Paradox_Eternal"
+            }
+        ]
+    },
+    "request_cache_expiry": 11761,
+    "request_cached": true,
+    "request_hash": "request:anime:0d18620d931d4c0841c2fa16c753f02b15c429c4",
+    "score": 7.66,
+    "scored_by": 103011,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "After a year in grade school without her childhood friends, first year student Akari Akaza is finally reunited with second years Yui Funami and Kyouko Toshinou at their all-girls' middle school. During the duo's first year, Yui and Kyouko formed the \"Amusement Club\" which occupies the now nonexistent Tea Club's room. Shortly after Akari joins, one of her fellow classmates, Chinatsu Yoshikawa, pays the trio a visit under the impression that they are the Tea Club; it is only once the three girls explain that the Tea Club has been disbanded that they can convince Chinatsu to join the Amusement Club\u2014a group with no purpose other than to provide entertainment for its members. Based on the slice-of-life manga by Namori, Yuru Yuri is an eccentric comedy about a group of girls who spend their spare time drinking tea and fawning over each other, all while completely failing to even notice the supposed main character Akari amongst them. [Written by MAL Rewrite]",
+    "title": "Yuru Yuri",
+    "title_english": "YuruYuri: Happy Go Lily",
+    "title_japanese": "\u3086\u308b\u3086\u308a",
+    "title_synonyms": [
+        "YRYR"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/T_WOMFl7Bd8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10495/Yuru_Yuri"
+}

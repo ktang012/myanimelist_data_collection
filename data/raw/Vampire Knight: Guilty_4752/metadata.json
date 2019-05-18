@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2008-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 7, 2008 to Dec 30, 2008",
+        "to": "2008-12-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Suna no Oshiro\" by Kanon Wakeshima"
+    ],
+    "episodes": 13,
+    "favorites": 3196,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/10075.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 4752,
+    "members": 252273,
+    "opening_themes": [
+        "\"Rondo\" by ON/OFF"
+    ],
+    "popularity": 348,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+    ],
+    "rank": 2010,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 618,
+                "name": "Vampire Knight",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/618/Vampire_Knight"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 3457,
+                "name": "Vampire Knight",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3457/Vampire_Knight"
+            }
+        ]
+    },
+    "request_cache_expiry": 13578,
+    "request_cached": true,
+    "request_hash": "request:anime:0fd582b39071ca49cb1962eaa881d04dd91f07d4",
+    "score": 7.42,
+    "scored_by": 156164,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "As a direct continuation of the first season, Zero comes back after his disappearance from the academy. Despite her relief, Yuuki, whose past is still shrouded in mystery, wonders what exactly happened to Zero during the separation. As Zero continues having the strange vision that appeared since the day he drank Kaname's blood, he visits the now awakened Maria Kurenai in an attempt to find answers. She only provides him with a cryptic answer that suggests who the true enemy really might be. In the meantime, vampires from the Supreme Vampire Council arrive at the academy in order to punish Zero with death for his sin of killing a pureblood. However, Kaname intervenes with the council's decision with not only the intention of saving Zero but with another purpose unbeknown to everyone around him. [Written by MAL Rewrite]",
+    "title": "Vampire Knight: Guilty",
+    "title_english": "Vampire Knight: Guilty",
+    "title_japanese": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u9a0e\u58eb\u3008\u30ca\u30a4\u30c8\u3009Guilty",
+    "title_synonyms": [
+        "Vampire Kishi 2",
+        "Vampire Knight 2",
+        "Vampire Kishi Guilty"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/1OLs8BUHMGk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4752/Vampire_Knight__Guilty"
+}

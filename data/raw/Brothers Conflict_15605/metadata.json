@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2013-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 2, 2013 to Sep 17, 2013",
+        "to": "2013-09-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Idea Factory released two games based on the franchise for the Sony PlayStation Portable. A compilation of short stories that were first featured in Dengeki Girl\u2019s Style and Sylph was also released.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"14 to 1\" by ASAHINA Bros.+JULI"
+    ],
+    "episodes": 12,
+    "favorites": 738,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/51409.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 15605,
+    "members": 107072,
+    "opening_themes": [
+        "\"BELOVED\u00d7SURVIVAL\" by Gero"
+    ],
+    "popularity": 955,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        }
+    ],
+    "rank": 6085,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24373,
+                "name": "Brothers Conflict",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24373/Brothers_Conflict"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 22745,
+                "name": "Brothers Conflict: Setsubou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22745/Brothers_Conflict__Setsubou"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 25437,
+                "name": "Brothers Conflict OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25437/Brothers_Conflict_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:fe405a305c282d76462ffa3eb664626451812ff8",
+    "score": 6.47,
+    "scored_by": 54582,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Imagine being the only child your whole life, and then suddenly finding yourself gaining 13 step-brothers! Ema Hinata's lonely life takes a new and exciting turn when her single father Rintarou Hinata, a famous adventurer, falls in love and marries Miwa Asahina, an apparel maker. In order to give the newly-wed couple space, Ema starts living with her new step-brothers in a mansion called Sunrise Residence and for the first time, experiences being part of a lively and big family. She finally feels safe and content. Each brother has his own unique personality, and Ema soon realizes that it is not only family love that grows between them, but romance as well. Which brother will be the one to steal her heart in the end?",
+    "title": "Brothers Conflict",
+    "title_english": "Brothers Conflict",
+    "title_japanese": "BROTHERS CONFLICT",
+    "title_synonyms": [
+        "BroCon"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/cqrTp49PoYQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15605/Brothers_Conflict"
+}

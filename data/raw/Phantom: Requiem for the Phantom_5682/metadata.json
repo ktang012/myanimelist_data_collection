@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2009-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Apr 3, 2009 to Sep 25, 2009",
+        "to": "2009-09-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:15 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Jigoku no Mon (\u5730\u7344\u306e\u9580)\" by ALI PROJECT (1-19)",
+        "\"Transparent\" by KOKIA (20-26)"
+    ],
+    "episodes": 26,
+    "favorites": 3900,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/22470.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 5682,
+    "members": 222554,
+    "opening_themes": [
+        "\"Karma\" by KOKIA (eps 1-19)",
+        "\"Senritsu no Kodomotachi (\u6226\u6144\u306e\u5b50\u4f9b\u305f\u3061)\" by ALI PROJECT (20-26)"
+    ],
+    "popularity": 408,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        }
+    ],
+    "rank": 460,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14804,
+                "name": "Phantom: Requiem for the Phantom",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14804/Phantom__Requiem_for_the_Phantom"
+            },
+            {
+                "mal_id": 90576,
+                "name": "Phantom: Phantom of Inferno",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/90576/Phantom__Phantom_of_Inferno"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 438,
+                "name": "Phantom The Animation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/438/Phantom_The_Animation"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 8705,
+                "name": "Phantom: Requiem for the Phantom Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8705/Phantom__Requiem_for_the_Phantom_Picture_Drama"
+            }
+        ]
+    },
+    "request_cache_expiry": 2231,
+    "request_cached": true,
+    "request_hash": "request:anime:9e3f98e8d557d173da97fde6e9bc61ad88797a6b",
+    "score": 8.09,
+    "scored_by": 89693,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 5,
+            "name": "Bee Train",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+        }
+    ],
+    "synopsis": "Mafia is rife in America where assassinations are a regular occurrence on the streets. Inferno, a mysterious company, is behind most of these dealings through the use of their near-invincible human weapon, \"Phantom.\" One day, a Japanese tourist accidentally witnesses Phantom's latest murder. Desperate to escape, the tourist hides in a secluded building. However, Phantom, revealed to be a young woman named Ein, and the leader of Inferno \"Scythe Master\" captures the tourist and brainwashes him. Given the name \"Zwei,\" this once peaceful tourist is now a puppet of Inferno with no memories. Drawn into a world of lies, deceit, and violence, Zwei must fight to survive, hopefully to one day regain his memories and escape from this world where he is constantly on the brink of death. [Written by MAL Rewrite]",
+    "title": "Phantom: Requiem for the Phantom",
+    "title_english": "Phantom: Requiem for the Phantom",
+    "title_japanese": "Phantom \u301cRequiem for the Phantom\u301c",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/pHPv47m6hRY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5682/Phantom__Requiem_for_the_Phantom"
+}

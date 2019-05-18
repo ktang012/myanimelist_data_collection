@@ -1,0 +1,204 @@
+{
+    "aired": {
+        "from": "2015-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jul 5, 2015 to Mar 25, 2018",
+        "to": "2018-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Dragon Ball Super's first 27 episodes are adaptations of the films Dragon Ball Z Movie 14: Kami to Kami (episodes 1-14) and Dragon Ball Z Movie 15: Fukkatsu no F (episodes 15-27).",
+    "broadcast": "Sundays at 09:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Hello Hello Hello (\u30cf\u30ed\u30fc\u30cf\u30ed\u30fc\u30cf\u30ed\u30fc)\" by Good Morning America (eps 1-12)",
+        "\"Starring Star (\u30b9\u30bf\u30fc\u30ea\u30f3\u30b0\u30b9\u30bf\u30fc)\" by KEYTALK (eps 13-25)",
+        "\"Usubeni (\u8584\u7d05)\" by LACCO TOWER (eps 26-36)",
+        "\"Forever Dreaming\" by Czecho No Republic (eps 37-49)",
+        "\"Yoka-Yoka Dance (\u3088\u304b\u3088\u304b\u30c0\u30f3\u30b9)\" by Batten Shoujo-tai (\u3070\u3063\u3066\u3093\u5c11\u5973\u968a) (eps 50-59)",
+        "\"Chaohan MUSIC (\u7092\u98efMUSIC)\" by Arukara (60-72)",
+        "\"Aku no Tenshi to Seigi no Akuma\" by THE COLLECTORS (73-83)",
+        "\"Boogie Back\" by Miyu Inoue (\u4e95\u4e0a\u5b9f\u512a) (eps 84-96)",
+        "\"Haruka (\u9065)\" by LACCO TOWER (eps 97-108)",
+        "\"70cm Shiho no Madobe (70cm\u56db\u65b9\u306e\u7a93\u8fba)\" by ROTTENGRAFFTY (eps 109-121)",
+        "\"LAGRIMA\" by ONEPIXCEL (eps 122-131)"
+    ],
+    "episodes": 131,
+    "favorites": 5644,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30694,
+    "members": 321522,
+    "opening_themes": [
+        "\"Chouzetsu\u2606Dynamic! (\u8d85\u7d76\u2606\u30c0\u30a4\u30ca\u30df\u30c3\u30af!)\" by Kazuya Yoshii (\u5409\u4e95\u548c\u54c9) (eps 1-76)",
+        "\"Genkai Toppa \u00d7 Survivor (\u9650\u754c\u7a81\u7834\u00d7\u30b5\u30d0\u30a4\u30d0\u30fc)\" by Kiyoshi Hikawa (\u6c37\u5ddd\u304d\u3088\u3057) (eps 77- 131)"
+    ],
+    "popularity": 259,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        }
+    ],
+    "rank": 1144,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 89734,
+                "name": "Dragon Ball Super",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/89734/Dragon_Ball_Super"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 14837,
+                "name": "Dragon Ball Z Movie 14: Kami to Kami",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14837/Dragon_Ball_Z_Movie_14__Kami_to_Kami"
+            },
+            {
+                "mal_id": 25389,
+                "name": "Dragon Ball Z Movie 15: Fukkatsu no \"F\"",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25389/Dragon_Ball_Z_Movie_15__Fukkatsu_no_F"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 2222,
+                "name": "Dr. Slump: Arale-chan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2222/Dr_Slump__Arale-chan"
+            }
+        ],
+        "Parent story": [
+            {
+                "mal_id": 813,
+                "name": "Dragon Ball Z",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+            },
+            {
+                "mal_id": 22777,
+                "name": "Dragon Ball Kai (2014)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22777/Dragon_Ball_Kai_2014"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 36946,
+                "name": "Dragon Ball Super Movie: Broly",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36946/Dragon_Ball_Super_Movie__Broly"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 37885,
+                "name": "Dragon Ball Heroes",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37885/Dragon_Ball_Heroes"
+            }
+        ]
+    },
+    "request_cache_expiry": 43174,
+    "request_cached": true,
+    "request_hash": "request:anime:e8b5f47627be9c406df0f5ab0e6c00b899221ae6",
+    "score": 7.69,
+    "scored_by": 150889,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 18,
+            "name": "Toei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ],
+    "synopsis": "Seven years after the events of Dragon Ball Z, Earth is at peace, and its people live free from any dangers lurking in the universe. However, this peace is short-lived; a sleeping evil awakens in the dark reaches of the galaxy: Beerus, the ruthless God of Destruction. Disturbed by a prophecy that he will be defeated by a \"Super Saiyan God,\" Beerus and his angelic attendant Whis start searching the universe for this mysterious being. Before long, they reach Earth where they encounter Gokuu Son, one of the planet's mightiest warriors, and his similarly powerful friends. [Written by MAL Rewrite]",
+    "title": "Dragon Ball Super",
+    "title_english": "Dragon Ball Super",
+    "title_japanese": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85\uff08\u30b9\u30fc\u30d1\u30fc\uff09",
+    "title_synonyms": [
+        "Dragon Ball Chou",
+        "DB Super",
+        "DBS"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super"
+}

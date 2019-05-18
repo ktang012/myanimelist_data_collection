@@ -1,0 +1,136 @@
+{
+    "aired": {
+        "from": "2016-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 5, 2016 to Sep 20, 2016",
+        "to": "2016-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 01:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Maybe\" by Brian the Sun"
+    ],
+    "episodes": 12,
+    "favorites": 644,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
+    "licensors": [],
+    "mal_id": 32828,
+    "members": 174750,
+    "opening_themes": [
+        "\"Harebare Fanfare (\u6674\u30ec\u6674\u30ec\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec)\" by MimimemeMIMI"
+    ],
+    "popularity": 560,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 141,
+            "name": "Toei Video",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 247,
+            "name": "Shin-Ei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 1492,
+            "name": "Yomiuri TV Enterprise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+        },
+        {
+            "mal_id": 1507,
+            "name": "Sumitomo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1507/Sumitomo"
+        }
+    ],
+    "rank": 1494,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 63535,
+                "name": "Amaama to Inazuma",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/63535/Amaama_to_Inazuma"
+            }
+        ]
+    },
+    "request_cache_expiry": 16873,
+    "request_cached": true,
+    "request_hash": "request:anime:a136e3cb2f356146eeff3281e9027dbc3405566d",
+    "score": 7.56,
+    "scored_by": 76691,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "Since the death of his wife, Kouhei Inuzuka has been caring for his young daughter Tsumugi to the best of his abilities. However, with his lack of culinary knowledge and his busy job as a teacher, he is left relying on ready-made meals from convenience stores to feed the little girl. Frustrated at his own incapability to provide a fresh, nutritious meal for his daughter, Kouhei takes up an offer from his student, Kotori Iida, to come have dinner at her family's restaurant. But on their very first visit, the father and daughter discover that the restaurant is often closed due to Kotori's mother being away for work and that Kotori often eats alone. After much pleading from his pupil, Kouhei decides to continue to go to the restaurant with Tsumugi to cook and share delicious homemade food with Kotori. Amaama to Inazuma follows the heartwarming story of a caring father trying his hardest to make his adorable little daughter happy, while exploring the meanings and values behind cooking, family, and the warm meals at home that are often taken for granted. [Written by MAL Rewrite]",
+    "title": "Amaama to Inazuma",
+    "title_english": "Sweetness & Lightning",
+    "title_japanese": "\u7518\u3005\u3068\u7a32\u59bb",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/dyDTqDFprlY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32828/Amaama_to_Inazuma"
+}

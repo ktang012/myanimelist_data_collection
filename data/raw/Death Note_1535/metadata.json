@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2006-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2007
+            }
+        },
+        "string": "Oct 4, 2006 to Jun 27, 2007",
+        "to": "2007-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Death Note has been adapted into live action films, TV dramas, video games, light novels and a musical composed by a Broadway composer.  It is licensed in North America by Viz Media.",
+    "broadcast": "Wednesdays at 00:56 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Alumina\" by Nightmare (eps 1-19)",
+        "\"Zetsub\u014d Billy\" by Maximum the Hormone (eps 20-36)",
+        "\"Coda ~ Death Note\" by Yoshihisa Hirano (ep 37)"
+    ],
+    "episodes": 37,
+    "favorites": 99761,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 39,
+            "name": "Police",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/39/Police"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 1535,
+    "members": 1684324,
+    "opening_themes": [
+        "\"the WORLD\" by Nightmare (eps 1-19)",
+        "\"What's up, people?!\" by Maximum the Hormone (eps 20-37)"
+    ],
+    "popularity": 1,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 85,
+            "name": "Konami",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/85/Konami"
+        },
+        {
+            "mal_id": 242,
+            "name": "Ashi Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/242/Ashi_Production"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 54,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 21,
+                "name": "Death Note",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/21/Death_Note"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 2994,
+                "name": "Death Note: Rewrite",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2994/Death_Note__Rewrite"
+            }
+        ]
+    },
+    "request_cache_expiry": 30850,
+    "request_cached": true,
+    "request_hash": "request:anime:afd096715f162a8eaf9f409bb14704ecb20f5c16",
+    "score": 8.66,
+    "scored_by": 1152074,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "A shinigami, as a god of death, can kill any person\u2014provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and\u2014since he deplores the state of the world\u2014tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite]",
+    "title": "Death Note",
+    "title_english": "Death Note",
+    "title_japanese": "\u30c7\u30b9\u30ce\u30fc\u30c8",
+    "title_synonyms": [
+        "DN"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Vt_3c8BgxV4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1535/Death_Note"
+}

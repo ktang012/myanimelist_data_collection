@@ -1,0 +1,174 @@
+{
+    "aired": {
+        "from": "2017-01-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 4, 2017 to Mar 29, 2017",
+        "to": "2017-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"B Ambitious!\" by YuiKaori (ep 1)",
+        "\"Rirai Mirai (\u30ea\u30e9\u30a4\u30df\u30e9\u30a4)\" by MimimemeMimi (ep 2)",
+        "\"Sanki Tousen! (\u30b5\u30f3\u30ad\u30c8\u30a6\u30bb\u30f3!)\" by Earphones (Rie Takahashi, Yuki Nagaku, Marika Kouno) (ep 3, 11)",
+        "\"Sanki Tousen! (\u30b5\u30f3\u30ad\u30c8\u30a6\u30bb\u30f3!)\" by Manias (Rie Takahashi, Yuki Nagaku, Marika Kouno) (ep 4)",
+        "\"Chou Hannou Girl (\u8d85\u53cd\u5fdc\u30ac\u30fc\u30eb)\" by AOP (ep 5)",
+        "\"Kokoro no Memory (\u5fc3\u306e\u30e1\u30e2\u30ea\u30fc)\" by every\u2665ing! (ep 6)",
+        "\"Koi ni Shinzan! (\u604b\u306b\u65b0\u53c2\uff01)\" by Shoko Nakagawa (ep 7)",
+        "\"Fighting\u2606Dramatic\" by Milky Holmes (ep 8)",
+        "\"Sekai Jyuu no AKIHABARA de (\u30bb\u30ab\u30a4\u3058\u3085\u3046\u306eAKIHABARA\u3067)\" by Momoi Haruko (ep 9)",
+        "\"Kuufuku Kara Yarinaose! (\u7a7a\u8179\u304b\u3089\u3084\u308a\u306a\u304a\u305b\uff01)\" by petit milady",
+        "\"DIVE TO LIVE\" by i\u2606Ris"
+    ],
+    "episodes": 13,
+    "favorites": 212,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/83185.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34051,
+    "members": 88804,
+    "opening_themes": [
+        "\"Ikken Rakuchaku Goyoujin (\u4e00\u4ef6\u843d\u7740\u30b4\u7528\u5fc3)\" by Earphones"
+    ],
+    "popularity": 1106,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 276,
+            "name": "DLE",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/276/DLE"
+        },
+        {
+            "mal_id": 719,
+            "name": "Studio Mausu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1241,
+            "name": "Evil Line Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1241/Evil_Line_Records"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1414,
+            "name": "bilibili",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+        },
+        {
+            "mal_id": 1542,
+            "name": "DMM.com",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1542/DMMcom"
+        },
+        {
+            "mal_id": 1597,
+            "name": "Sotsu Music Publishing",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+        },
+        {
+            "mal_id": 1598,
+            "name": "Exa International",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1598/Exa_International"
+        }
+    ],
+    "rank": 5053,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {},
+    "request_cache_expiry": 1241,
+    "request_cached": true,
+    "request_hash": "request:anime:694b30742e6152c21d905243bb9cd18e260a76c1",
+    "score": 6.69,
+    "scored_by": 33588,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 3,
+            "name": "Gonzo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ],
+    "synopsis": "Otaku siblings Tamotsu and Niwaka Denkigai are shopping in Akihabara when it is overrun by vampiric cosplaying monsters! These creatures, known as \"Bugged Ones,\" can possess anyone they bite and soon they begin causing mayhem across the city. As Tamotsu finds himself at the mercy of one of these creatures, he is rescued by the mysterious baseball bat-wielding Matome Mayonaka. Together, they fight through several more encounters with the Bugged Ones, but before long, Tamotsu is fatally wounded protecting Matome. With no other choice, she revives him as a high level Bugged One\u2014just like her! Tamotsu and Matome, along with excitable otaku cosplayer Arisa Ahokainen, make up the group \"The Electric Mayonnaise\" and they begin dispatching the Bugged Ones in the only way they know how: by ripping off their clothes and exposing them to sunlight! [Written by MAL Rewrite]",
+    "title": "Akiba's Trip The Animation",
+    "title_english": "Akiba's Trip The Animation",
+    "title_japanese": "AKIBA'S TRIP THE ANIMATION",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Oov26OFUjFE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34051/Akibas_Trip_The_Animation"
+}

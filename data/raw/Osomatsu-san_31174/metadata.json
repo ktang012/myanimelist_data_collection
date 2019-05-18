@@ -1,0 +1,204 @@
+{
+    "aired": {
+        "from": "2015-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Oct 6, 2015 to Mar 29, 2016",
+        "to": "2016-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Osomatsu-san was made to commemorate the 80th birthday of the series' late original creator, Fujio Akatsuka. \r\nA parody of Anpanman, a popular kids anime, in the third episode was reanimated following complaints to the network, while the first episode, due to the fact that it contained multiple parodies, has been pulled entirely from streaming sites and the Japanese Blu-Ray release.",
+    "broadcast": "Tuesdays at 01:35 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"SIX SAME FACES ~Konya wa Saikou!!!!!!~ (SIX SAME FACES \uff5e\u4eca\u591c\u306f\u6700\u9ad8!!!!!!\uff5e)\" by VOICE by Iyami feat. Osomatsu x Karamatsu x Choromatsu x Ichimatsu x Juushimatsu x Todomatsu",
+        "cont. (Kenichi Suzumura, Takahiro Sakurai, Yuuichi Nakamura, Hiroshi Kamiya, Jun Fukuyama, Daisuke Ono, Miyu Irino) (eps. 1-11)",
+        "\"SIX SHAME FACES ~Konya mo Saikou!!!!!!~ (SIX SHAME FACES \uff5e\u4eca\u591c\u3082\u6700\u9ad8!!!!!!\uff5e)\" by VOICE by Totoko feat. Osomatsu x Karamatsu x Choromatsu x Ichimatsu x Juushimatsu x Todomatsu",
+        "cont. (Aya Endo, Takahiro Sakurai, Yuuichi Nakamura, Hiroshi Kamiya, Jun Fukuyama, Daisuke Ono, Miyu Irino) (eps. 13-24)",
+        "\"SIX SAME FACES ~Konya mo Saikou!!!!!!~ Type Final (SIX SAME FACES \uff5e\u4eca\u591c\u3082\u6700\u9ad8!!!!!!\uff5e type FINAL)\" by VOICE by Iyami & Totoko feat. Osomatsu-san All Stars (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 3227,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76540.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 31174,
+    "members": 109885,
+    "opening_themes": [
+        "\"Hanamaru Pippi wa Yoiko dake (\u306f\u306a\u307e\u308b\u3074\u3063\u3074\u306f\u3088\u3044\u3053\u3060\u3051)\" by AOP",
+        "\"Zenryoku Batankyuu! (\u5168\u529b\u30d0\u30bf\u30f3\u30ad\u30e5\u30fc\uff01)\" by AOP"
+    ],
+    "popularity": 936,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1632,
+            "name": "Daiichi Shokai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1632/Daiichi_Shokai"
+        },
+        {
+            "mal_id": 1822,
+            "name": "Fujio Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1822/Fujio_Production"
+        }
+    ],
+    "rank": 412,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95212,
+                "name": "Osomatsu-san",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95212/Osomatsu-san"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 33903,
+                "name": "All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33903/All-Free_kono_Natsu_Ichioshi_Monogatari_Campaign_Kokuchi_Douga"
+            },
+            {
+                "mal_id": 34238,
+                "name": "Osomatsu-san: Ouma de Kobanashi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34238/Osomatsu-san__Ouma_de_Kobanashi"
+            },
+            {
+                "mal_id": 34239,
+                "name": "Mutsugo to Ouma no Monogatari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34239/Mutsugo_to_Ouma_no_Monogatari"
+            },
+            {
+                "mal_id": 36664,
+                "name": "Matsumotokiyoshi x Osomatsu-san",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36664/Matsumotokiyoshi_x_Osomatsu-san"
+            },
+            {
+                "mal_id": 36714,
+                "name": "Hashire! Osomatsu-san",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36714/Hashire_Osomatsu-san"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 9883,
+                "name": "Osomatsu-kun (1988)",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9883/Osomatsu-kun_1988"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35067,
+                "name": "Osomatsu-san 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32026,
+                "name": "Osomatsu-san Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32026/Osomatsu-san_Special"
+            },
+            {
+                "mal_id": 32383,
+                "name": "Osomatsu-san Short Film Series",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32383/Osomatsu-san_Short_Film_Series"
+            },
+            {
+                "mal_id": 35018,
+                "name": "Osomatsu-san: Haru no Zenkoku Dai Senbatsu Jouei-sai - Sentou Quiz 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35018/Osomatsu-san__Haru_no_Zenkoku_Dai_Senbatsu_Jouei-sai_-_Sentou_Quiz_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 37672,
+    "request_cached": true,
+    "request_hash": "request:anime:898c80ee3b1e6443f5898d956045033eb73dcead",
+    "score": 8.13,
+    "scored_by": 38718,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "The majority of the Matsuno household is comprised of six identical siblings: self-centered leader Osomatsu, manly Karamatsu, voice of reason Choromatsu, cynical Ichimatsu, hyperactive Juushimatsu, and lovable Todomatsu. Despite each one of them being over the age of 20, they are incredibly lazy and have absolutely no motivation to get a job, choosing to live as NEETs instead. In the rare occurrence that they try to look for employment and are somehow able to land an interview, their unique personalities generally lead to their swift rejection. From trying to pick up girlfriends to finding the perfect job, the daily activities of the Matsuno brothers are never dull as they go on all sorts of crazy, and often downright bizarre, adventures. Though they desperately search for a way to improve their social standing, it won't be possible if they can't survive the various challenges that come with being sextuplets! [Written by MAL Rewrite]",
+    "title": "Osomatsu-san",
+    "title_english": "Mr. Osomatsu",
+    "title_japanese": "\u304a\u305d\u677e\u3055\u3093",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/_imsKXx0Stk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31174/Osomatsu-san"
+}

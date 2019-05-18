@@ -1,0 +1,132 @@
+{
+    "aired": {
+        "from": "2006-10-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 5,
+                "month": 2,
+                "year": 2008
+            }
+        },
+        "string": "Oct 16, 2006 to Feb 5, 2008",
+        "to": "2008-02-05T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Akai Ito (\u8d64\u3044\u7cf8)\" by Koshi Inaba (eps 1-15, 38, 40, 48, 52)",
+        "\"Sekaijyuu Doko wo Sagashitemo (\u4e16\u754c\u4e2d\u3069\u3053\u3092\u63a2\u3057\u3066\u3082)\" by Aiko Kitahara (eps 16-23, 39, 44, 51)",
+        "\"My Mirai (\u30de\u30a4\u30df\u30e9\u30a4)\" by Saeka Uura (eps 24-30, 41, 46, 49)",
+        "\"Kyuukei Jikan Juppun (\u4f11\u61a9\u6642\u959310\u5206)\" by Saeka Uura (eps 31-37, 42-43, 45, 47, 50)"
+    ],
+    "episodes": 52,
+    "favorites": 537,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75191.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 1606,
+    "members": 79452,
+    "opening_themes": [
+        "\"Sha la la \u2013Ayakashi NIGHT\u2013\" by Saeka Uura"
+    ],
+    "popularity": 1234,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 577,
+            "name": "Tohokushinsha Film Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        }
+    ],
+    "rank": 1172,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 105,
+                "name": "Kekkaishi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/105/Kekkaishi"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 39315,
+                "name": "Kekkaishi: Yoshimori no Omoi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39315/Kekkaishi__Yoshimori_no_Omoi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:172b29f9ac02a76542eaaf73746db3def41289ed",
+    "score": 7.68,
+    "scored_by": 36059,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Yoshimura Sumimura comes from a long line of \"Kekkaishi,\" individuals who have supernatural abilities and are able to destroy evil creatures called Ayakashi that venture into the human realm from time to time. The Ayakashi are demons that look to feast on the power emanating from the land of Karasumori, which also happens to be where Yoshimura's high school is located. Now, Yoshimura must fight to protect his beloved school and hometown. Although, if it were up to him, he would rather be baking cakes than fighting off the ugly characters that show up at night. Thankfully, Yoshimura isn't the only one helping to keep the baddies at bay. His childhood friend and neighbor, Tokine Yukimura, joins him in this righteous battle. Despite the fact that they are from rival clans, these two make a fantastic team. And teamwork is something vital to fighting the evil that is closing in, as the Ayakashi attack in waves, looking to claim the land as their own, and a shadowy organization looks on, ready to pounce when the time is right...",
+    "title": "Kekkaishi",
+    "title_english": "Kekkaishi",
+    "title_japanese": "\u7d50\u754c\u5e2b",
+    "title_synonyms": [
+        "Barrier Master"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/xht0MY1Tjnk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1606/Kekkaishi"
+}

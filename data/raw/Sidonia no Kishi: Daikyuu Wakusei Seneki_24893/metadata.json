@@ -1,0 +1,158 @@
+{
+    "aired": {
+        "from": "2015-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 11, 2015 to Jun 27, 2015",
+        "to": "2015-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ichizu no Hikari (\u4e00\u7b4b\u306e\u5149\u660e)\" by Customi Z (advance screening)",
+        "\"Requiem (\u93ae\u9b42\u6b4c -\u30ec\u30af\u30a4\u30a8\u30e0-)\" by Customi Z (eps 1-11)",
+        "\"Sidonia (\u30b7\u30c9\u30cb\u30a2)\" by angela (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 333,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/72712.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 24893,
+    "members": 86583,
+    "opening_themes": [
+        "\"Kishi Shinkoukyoku (\u9a0e\u58eb\u884c\u9032\u66f2)\" by angela"
+    ],
+    "popularity": 1124,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 719,
+            "name": "Studio Mausu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        }
+    ],
+    "rank": 815,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13723,
+                "name": "Sidonia no Kishi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13723/Sidonia_no_Kishi"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 19775,
+                "name": "Sidonia no Kishi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19775/Sidonia_no_Kishi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 35759,
+                "name": "Sidonia no Kishi 3",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35759/Sidonia_no_Kishi_3"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f20181572ebbf639d089c5e7fe80fed0264f2977",
+    "score": 7.85,
+    "scored_by": 46671,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1023,
+            "name": "Polygon Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ],
+    "synopsis": "Having narrowly avoided the collision with the asteroid, the Sidonia sets a course for the Lem system in order to wipe out the Gauna nest. (Source: Polygon Pictures)",
+    "title": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+    "title_english": "Knights of Sidonia: Battle for Planet Nine",
+    "title_japanese": "\u30b7\u30c9\u30cb\u30a2\u306e\u9a0e\u58eb \u7b2c\u4e5d\u60d1\u661f\u6226\u5f79",
+    "title_synonyms": [
+        "Knights of Sidonia: War of the Ninth Planet",
+        "Sidonia no Kishi: Dai-kyuu Wakusei Seneki"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/wj5-pxmqdbk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/24893/Sidonia_no_Kishi__Daikyuu_Wakusei_Seneki"
+}

@@ -1,0 +1,187 @@
+{
+    "aired": {
+        "from": "2013-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 6, 2013 to Mar 30, 2014",
+        "to": "2014-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 01:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"WALK\" by OLDCODEX (eps 1-13)",
+        "\"FANTASTIC TUNE\" by Kensho Ono (eps 14-24)",
+        "\"Hengen Jizai no Magical Star (\u5909\u5e7b\u81ea\u5728\u306e\u30de\u30b8\u30ab\u30eb\u30b9\u30bf\u30fc)\" by GRANRODEO (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 3764,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/56155.jpg",
+    "licensors": [],
+    "mal_id": 16894,
+    "members": 407336,
+    "opening_themes": [
+        "\"The Other self\" by GRANRODEO (eps 1-13)",
+        "\"Hengen Jizai no Magical Star (\u5909\u5e7b\u81ea\u5728\u306e\u30de\u30b8\u30ab\u30eb\u30b9\u30bf\u30fc)\" by GRANRODEO (eps 14-24)"
+    ],
+    "popularity": 162,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 1121,
+            "name": "Banpresto",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1121/Banpresto"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        }
+    ],
+    "rank": 138,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11652,
+                "name": "Kuroko no Basket",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11652/Kuroko_no_Basket"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 22673,
+                "name": "Kuroko no Basket 2nd Season NG-shuu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22673/Kuroko_no_Basket_2nd_Season_NG-shuu"
+            },
+            {
+                "mal_id": 29583,
+                "name": "Kuroko no Basket: Oshaberi Demo Shimasen ka",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29583/Kuroko_no_Basket__Oshaberi_Demo_Shimasen_ka"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11771,
+                "name": "Kuroko no Basket",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24415,
+                "name": "Kuroko no Basket 3rd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 22125,
+                "name": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22125/Kuroko_no_Basket__Mou_Ikkai_Yarimasen_ka"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 32870,
+                "name": "Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32870/Kuroko_no_Basket_Movie_2__Winter_Cup_-_Namida_no_Saki_e"
+            }
+        ]
+    },
+    "request_cache_expiry": 28297,
+    "request_cached": true,
+    "request_hash": "request:anime:9074ae2d931a43525ac69270a1786f66498f789f",
+    "score": 8.45,
+    "scored_by": 256505,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "With the Interhigh Championship finally over, Seirin's basketball team refocuses their efforts, training harder than ever to get the chance to participate in the Winter Cup. Both Kuroko and Kagami see old friends walk back into their lives, providing a challenge both on and off the court. As new skills are developed and new alliances created, enemies from various teams\u2014giants of high school basketball such as Yousen, Shuutoku and Touou\u2014stand in the way of Seirin's steadfast attempts to get to the top. All of these schools prove to be formidable foes whose abilities progress exponentially, while Kuroko struggles to find a balance between his resolve to play as part of a team and his desire to win. With old wounds reopening, new challenges to face on the court, and a new set of foes\u2014the \"Uncrowned Kings\"\u2014vowing to defeat the new hopefuls, will Seirin ever be able to achieve their dream of beating the Generation of Miracles? [Written by MAL Rewrite]",
+    "title": "Kuroko no Basket 2nd Season",
+    "title_english": "Kuroko's Basketball 2",
+    "title_japanese": "\u9ed2\u5b50\u306e\u30d0\u30b9\u30b1",
+    "title_synonyms": [
+        "Kuroko no Basuke 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/11ROABkyews?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16894/Kuroko_no_Basket_2nd_Season"
+}

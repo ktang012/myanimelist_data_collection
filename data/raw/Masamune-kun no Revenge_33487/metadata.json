@@ -1,0 +1,175 @@
+{
+    "aired": {
+        "from": "2017-01-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 5, 2017 to Mar 23, 2017",
+        "to": "2017-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Elemental World\" by ChouCho"
+    ],
+    "episodes": 12,
+    "favorites": 1891,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/83709.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 33487,
+    "members": 358634,
+    "opening_themes": [
+        "\"Wagamama MIRROR HEART (\u30ef\u30ac\u30de\u30deMIRROR HEART)\" by Ayaka Ohashi"
+    ],
+    "popularity": 207,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1582,
+            "name": "Ichijinsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        },
+        {
+            "mal_id": 1590,
+            "name": "Furyu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1590/Furyu"
+        },
+        {
+            "mal_id": 1784,
+            "name": "Crunchyroll SC Anime Fund",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+        }
+    ],
+    "rank": 3697,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 46716,
+                "name": "Masamune-kun no Revenge",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/46716/Masamune-kun_no_Revenge"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 37377,
+                "name": "Masamune-kun no Revenge OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37377/Masamune-kun_no_Revenge_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 30385,
+    "request_cached": true,
+    "request_hash": "request:anime:3dd18e144418242ef50f3857a5c327ab12e6577d",
+    "score": 7.01,
+    "scored_by": 194789,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "When Masamune Makabe was a child, he was rejected by a rich, beautiful girl named Aki Adagaki, who gave him the nickname ''Piggy'' for being overweight. Devastated, Masamune put great effort into working out to improve his appearance. Now a handsome yet narcissistic high school student, Masamune is determined to exact revenge\u2014he will have Aki fall madly in love with him and ultimately reject her the next time they meet. To his surprise, Masamune discovers he has transferred into Aki's school. Setting his plan into motion, Masamune first begins to form a relationship with the ''Brutal Princess'' but, despite his efforts, fails miserably at his initial attempts. Shockingly, when Masamune finally progresses towards his vengeance, he receives a mysterious letter addressing him by his old nickname. Unless Masamune discovers the sender's identity, his plan is doomed before it even starts! [Written by MAL Rewrite]",
+    "title": "Masamune-kun no Revenge",
+    "title_english": "Masamune-kun's Revenge",
+    "title_japanese": "\u653f\u5b97\u304f\u3093\u306e\u30ea\u30d9\u30f3\u30b8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/XmfXcVLA1d8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge"
+}

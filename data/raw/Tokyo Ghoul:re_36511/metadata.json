@@ -1,0 +1,161 @@
+{
+    "aired": {
+        "from": "2018-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Apr 3, 2018 to Jun 19, 2018",
+        "to": "2018-06-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"HALF\" by Ziyoou-vachi"
+    ],
+    "episodes": 12,
+    "favorites": 2753,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 36511,
+    "members": 361945,
+    "opening_themes": [
+        "\"asphyxia\" by Co\u0308 shu Nie"
+    ],
+    "popularity": 202,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 1283,
+            "name": "TC Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1283/TC_Entertainment"
+        }
+    ],
+    "rank": 3117,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 81117,
+                "name": "Tokyo Ghoul:re",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/81117/Tokyo_Ghoul_re"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 27899,
+                "name": "Tokyo Ghoul \u221aA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27899/Tokyo_Ghoul_\u221aA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37799,
+                "name": "Tokyo Ghoul:re 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 26906,
+    "request_cached": true,
+    "request_hash": "request:anime:9256779622a7152b1033ac80ef1756a584b26951",
+    "score": 7.16,
+    "scored_by": 159545,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        },
+        {
+            "mal_id": 1129,
+            "name": "Pierrot Plus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+        }
+    ],
+    "synopsis": "Two years have passed since the CCG's raid on Anteiku. Although the atmosphere in Tokyo has changed drastically due to the increased influence of the CCG, ghouls continue to pose a problem as they have begun taking caution, especially the terrorist organization Aogiri Tree, who acknowledge the CCG's growing threat to their existence. The creation of a special team, known as the Quinx Squad, may provide the CCG with the push they need to exterminate Tokyo's unwanted residents. As humans who have undergone surgery in order to make use of the special abilities of ghouls, they participate in operations to eradicate the dangerous creatures. The leader of this group, Haise Sasaki, is a half-ghoul, half-human who has been trained by famed special class investigator, Kishou Arima. However, there's more to this young man than meets the eye, as unknown memories claw at his mind, slowly reminding him of the person he used to be. [Written by MAL Rewrite]",
+    "title": "Tokyo Ghoul:re",
+    "title_english": null,
+    "title_japanese": "\u6771\u4eac\u55b0\u7a2e\u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb\uff1are",
+    "title_synonyms": [
+        "Tokyo Kushu:re"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ZXfCADUAanM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36511/Tokyo_Ghoul_re"
+}

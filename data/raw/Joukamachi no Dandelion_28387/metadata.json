@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2015-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 3, 2015 to Sep 18, 2015",
+        "to": "2015-09-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Since the source material for the series was still ongoing, the Joukamachi no Dandelion anime was given an original ending.",
+    "broadcast": "Fridays at 02:16 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Honey\u2665Come!!\" by Yui Ogura"
+    ],
+    "episodes": 12,
+    "favorites": 328,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/82559.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 28387,
+    "members": 107859,
+    "opening_themes": [
+        "\"Ring Ring Rainbow!!\" by YuiKaori"
+    ],
+    "popularity": 952,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 1283,
+            "name": "TC Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1283/TC_Entertainment"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1585,
+            "name": "Nichion",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+        }
+    ],
+    "rank": 2535,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 77163,
+                "name": "Joukamachi no Dandelion",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/77163/Joukamachi_no_Dandelion"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:df5a7040af937aed9c7ee20fd68c3dc73900ecda",
+    "score": 7.29,
+    "scored_by": 42838,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1053,
+            "name": "Production IMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+        }
+    ],
+    "synopsis": "The Sakurada siblings live a normal life in a typical Japanese household. Well, that's what their father, the king, wants for them at least. As members of the royal family, each sibling possesses a unique ability, and over two thousand security cameras have been placed around town to make sure the children are safe and sound. Moreover, all nine of them have been designated as a potential successor to the throne with the decision that the next ruler will be selected through an election. However, for the timid Akane Sakurada, the third eldest daughter who wields the power to manipulate gravity, all of this attention is a complete nightmare. With all the cameras constantly monitoring the candidates and even broadcasting their actions on the Sakurada-dedicated news channel, she decides that if she becomes king, the cameras have got to go. But just how will she convince the public that she is the most suited to rule if she can't even overcome her own shyness?! Election season is in full swing as the search for the next king begins in Joukamachi no Dandelion. [Written by MAL Rewrite]",
+    "title": "Joukamachi no Dandelion",
+    "title_english": "Castle Town Dandelion",
+    "title_japanese": "\u57ce\u4e0b\u753a\u306e\u30c0\u30f3\u30c7\u30e9\u30a4\u30aa\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/tlB4ostO0jw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28387/Joukamachi_no_Dandelion"
+}

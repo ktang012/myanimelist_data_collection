@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2017-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 3, 2017 to ?",
+        "to": null
+    },
+    "airing": true,
+    "background": null,
+    "broadcast": "Tuesdays at 18:25 (JST)",
+    "duration": "23 min",
+    "ending_themes": [
+        "\"Aoi Honoo (\u84bc\u3044\u708e)\" by Itowokashi (eps 1-13)",
+        "\"Amazing Dreams\" by SWANKY DANK (eps 14-27)",
+        "\"Black to the dreamlight\" by EMPiRE (eps 28-39)",
+        "\"four\" by FAKY (eps 40-49, 51)",
+        "\"four\" by Kahono (Megumi Han) (ep 50)",
+        "\"Tenjou Tenge (\u5929\u4e0a\u5929\u4e0b)\" by Miyuna (eps 52-64)",
+        "\"My Song My Days\" by SOLIDEMO with Sakuramen (eps 65-76)",
+        "\"Hana ga Saku Michi (\u82b1\u304c\u54b2\u304f\u9053)\" by THE CHARM PARK (eps 77-)"
+    ],
+    "episodes": null,
+    "favorites": 4679,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34572,
+    "members": 354945,
+    "opening_themes": [
+        "\"Haruka Mirai (\u30cf\u30eb\u30ab\u30df\u30e9\u30a4)\" by Kankaku Piero (\u611f\u899a\u30d4\u30a8\u30ed) (eps 1-13)",
+        "\"PAiNT it BLACK\" by BiSH (eps 14-27)",
+        "\"Black Rover\" by Vickeblanka (eps 28-39)",
+        "\"Guess Who Is Back\" by Kumi Koda (\u5016\u7530\u4f86\u672a) (eps 40-51)",
+        "\"Gamushara\" by Miyuna (\u30ac\u30e0\u30b7\u30e3\u30e9) (eps 52-64)",
+        "\"Rakugaki Page\" (\u843d\u66f8\u304d\u30da\u30a4\u30b8) by Kankaku Piero (\u611f\u899a\u30d4\u30a8\u30ed) (eps 65-76)",
+        "\"JUSTadICE\" by Seiko Oomori (\u5927\u68ee\u9756\u5b50) (eps 77-)"
+    ],
+    "popularity": 213,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 3682,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 86337,
+                "name": "Black Clover",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/86337/Black_Clover"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 33950,
+                "name": "Black Clover: Jump Festa 2016 Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33950/Black_Clover__Jump_Festa_2016_Special"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 38768,
+                "name": "Black Clover: Jump Festa 2018 Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38768/Black_Clover__Jump_Festa_2018_Special"
+            }
+        ]
+    },
+    "request_cache_expiry": 38477,
+    "request_cached": true,
+    "request_hash": "request:anime:a6a66b4393a08e3cf9358819f7ee1bbe9ff2ab73",
+    "score": 7.01,
+    "scored_by": 125635,
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the \"Wizard King\"\u2014a title given to the strongest mage in the kingdom\u2014and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a \"Black Clover\" giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal\u2014to become the Wizard King! [Written by MAL Rewrite]",
+    "title": "Black Clover",
+    "title_english": "Black Clover",
+    "title_japanese": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/vUjAxk1qYzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34572/Black_Clover"
+}

@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2012-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 6, 2012 to Mar 30, 2012",
+        "to": "2012-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Synchrogazer\" by Nana Mizuki (ep 1)",
+        "\"Meteor Light\" by Ayahi Takagaki (eps 2-3, 5-12)",
+        "\"Gekisou Gungnir (\u6483\u69cd\u30fb\u30ac\u30f3\u30b0\u30cb\u30fc\u30eb)\" by Aoi Yuuki (ep 4)",
+        "\"Gyakkou no Flugel (\u9006\u5149\u306e\u30d5\u30ea\u30e5\u30fc\u30b2\u30eb)\" by Nana Mizuki and Minami Takayama (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 800,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75580.jpg",
+    "licensors": [],
+    "mal_id": 11751,
+    "members": 70365,
+    "opening_themes": [
+        "\"Synchrogazer\" by Nana Mizuki"
+    ],
+    "popularity": 1371,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+            "mal_id": 715,
+            "name": "Dwango",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/715/Dwango"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        },
+        {
+            "mal_id": 1679,
+            "name": "Kinyosha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1679/Kinyosha"
+        }
+    ],
+    "rank": 3467,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37599,
+                "name": "Senki Zesshou Symphogear",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37599/Senki_Zesshou_Symphogear"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 15793,
+                "name": "Senki Zesshou Symphogear G",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15793/Senki_Zesshou_Symphogear_G"
+            }
+        ]
+    },
+    "request_cache_expiry": 8721,
+    "request_cached": true,
+    "request_hash": "request:anime:7dbe4f3f7235941c5de6960df86f58d4e0acaf6c",
+    "score": 7.07,
+    "scored_by": 26932,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        },
+        {
+            "mal_id": 354,
+            "name": "Encourage Films",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/354/Encourage_Films"
+        }
+    ],
+    "synopsis": "Tsubasa Kazanari and Kanade Amou\u2014the idol duo known as Zwei Wing\u2014use their songs to power ancient weapons known as \"symphogears\" to combat a deadly alien race called the \"Noise.\" While the general public is aware of the Noise's existence, knowledge of the symphogears are kept a secret. When the Noise attack one of Zwei Wing's concerts, Kanade sacrifices herself to protect a young girl named Hibiki Tachibana, leaving Tsubasa devastated and a fragment of her symphogear embedded within Hibiki. Two years pass and Hibiki is once again dragged into a Noise attack. While rescuing a young girl who has been left behind during the evacuation, she awakens the power of Kanade's symphogear lying within her. Although Tsubasa still grieves over the loss of Kanade, both girls must now learn to work together using their powers to defend humanity against the Noise. [Written by MAL Rewrite]",
+    "title": "Senki Zesshou Symphogear",
+    "title_english": "Symphogear",
+    "title_japanese": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2",
+    "title_synonyms": [
+        "Senhime Zesshou Symphogear"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11751/Senki_Zesshou_Symphogear"
+}

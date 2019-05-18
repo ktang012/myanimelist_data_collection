@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2005-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Apr 4, 2005 to Mar 27, 2006",
+        "to": "2006-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 18:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kokoro no Wakusei ~Little planets~\" by Aiko Kayo (eps 1-15)",
+        "\"Earthship ~Uchuusen Chikyuugou~\" by SweetS (eps 16-32)",
+        "\"Kono machi de wa dare mo ga mina jibun igai no nani ka ni naritagaru\" by The Ivory Brothers (eps 33-42)",
+        "\"Bokutachi Ni Aru Mono\" by Romi Paku (eps 43-50)",
+        "\"True Blue\" by Hitomi Shimatani (ep 51)"
+    ],
+    "episodes": 51,
+    "favorites": 796,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/20596.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        },
+        {
+            "mal_id": 1459,
+            "name": "Geneon Entertainment USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+    ],
+    "mal_id": 479,
+    "members": 81446,
+    "opening_themes": [
+        "\"Falco\" by Hitomi Shimatani (eps 1-32)",
+        "\"No Regret\" by Kumi Kouda (eps 33-51)"
+    ],
+    "popularity": 1201,
+    "premiered": "Spring 2005",
+    "producers": [
+        {
+            "mal_id": 62,
+            "name": "Shogakukan Productions",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/62/Shogakukan_Productions"
+        },
+        {
+            "mal_id": 117,
+            "name": "Studio Izena",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/117/Studio_Izena"
+        },
+        {
+            "mal_id": 210,
+            "name": "Studio Tulip",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+        },
+        {
+            "mal_id": 717,
+            "name": "TV Tokyo Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        }
+    ],
+    "rank": 837,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 326,
+                "name": "Ueki no Housoku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/326/Ueki_no_Housoku"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:876553bc3d91e9cecc4230de8defba725347b3c1",
+    "score": 7.84,
+    "scored_by": 33679,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Kousuke Ueki, a student of the Hinokuni Junior High School, is picked by a Celestial King Candidate, Koba-sen, to participate in a competition where people battle out to become the Celestial King and only the strongest will prevail. Embodied with the ability to turn garbage into trees, Kousuke will be joining in the battle against other junior high school students in this selection. This sets the premise for the earth-friendly battle where the students will pit their powers against the rest, with a reward of the Blank Talent giving motive for students to win. (Source: ANN, edited)",
+    "title": "Ueki no Housoku",
+    "title_english": "The Law of Ueki",
+    "title_japanese": "\u3046\u3048\u304d\u306e\u6cd5\u5247",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/7dVBXGt9KDQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/479/Ueki_no_Housoku"
+}

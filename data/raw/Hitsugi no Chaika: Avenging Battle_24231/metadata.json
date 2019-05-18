@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2014-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 11,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 9, 2014 to Dec 11, 2014",
+        "to": "2014-12-11T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Hitsugi no Chaika: Avenging Battle mostly tells an anime-exclusive story that utilizes content from novels 8 to 11 of the original novel series. Episodes 4 and 5 adapt the 7th novel.",
+    "broadcast": "Thursdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Watashi wa Omae no Naka ni Iru (\u30ef\u30bf\u30b7\u30cf\u30aa\u30de\u30a8\u30ce\u30ca\u30ab\u30cb\u30a4\u30eb)\" by coffin princess (Chika Anzai, Saeko Zougou, Iori Nomizu)"
+    ],
+    "episodes": 10,
+    "favorites": 155,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/67797.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 24231,
+    "members": 137954,
+    "opening_themes": [
+        "\"Shikkoku wo Nuritsubuse (\u6f06\u9ed2\u3092\u5857\u308a\u3064\u3076\u305b)\" by Iori Nomizu"
+    ],
+    "popularity": 732,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 1664,
+            "name": "Fujimi Shobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        }
+    ],
+    "rank": 2579,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 32831,
+                "name": "Hitsugi no Chaika",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/32831/Hitsugi_no_Chaika"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 20853,
+                "name": "Hitsugi no Chaika",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20853/Hitsugi_no_Chaika"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 24261,
+                "name": "Hitsugi no Chaika OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24261/Hitsugi_no_Chaika_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:9f136ade3ba774a52872778b82bcbf81fb24948d",
+    "score": 7.28,
+    "scored_by": 76207,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "The search for the remains of Emperor Gaz continues. Chaika still in search of knowing who she really is and what her purpose is. Similarly, the Red Chaika continues the search for the rest of Emperor Gaz's remains. The Gillette corporation continues the mission to catch every last Chaika. In their adventure they give a revealing account kept secret by the Emperor, which Chaika, Fredrica, Toru, and Akari decide to uncover. (Source: ANN, edited)",
+    "title": "Hitsugi no Chaika: Avenging Battle",
+    "title_english": "Chaika -The Coffin Princess- Avenging Battle",
+    "title_japanese": "\u68fa\u59eb\u306e\u30c1\u30e3\u30a4\u30ab AVENGING BATTLE",
+    "title_synonyms": [
+        "Hitsugi no Chaika 2nd Season",
+        "Hitsugi no Chaika Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/coQHwcwW8Ao?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/24231/Hitsugi_no_Chaika__Avenging_Battle"
+}

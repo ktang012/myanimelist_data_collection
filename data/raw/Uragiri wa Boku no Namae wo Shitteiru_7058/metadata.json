@@ -1,0 +1,116 @@
+{
+    "aired": {
+        "from": "2010-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Apr 12, 2010 to Sep 20, 2010",
+        "to": "2010-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Aoi Ito (\u84bc\u3044\u7cf8)\" by Rayflower (eps 1-14)",
+        "\"Kizuna (\u7d46)\" by Rayflower (eps 15-24)"
+    ],
+    "episodes": 24,
+    "favorites": 945,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        },
+        {
+            "mal_id": 28,
+            "name": "Shounen Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/28/Shounen_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/26525.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 7058,
+    "members": 70287,
+    "opening_themes": [
+        "\"Uragiri no Nai Sekai Made (\u88cf\u5207\u308a\u306e\u306a\u3044\u4e16\u754c\u307e\u3067)\" by Rayflower (eps 1-14)",
+        "\"Inishie (\u30a4\u30cb\u30b7\u30a8)\" by Rayflower (eps 15-24)"
+    ],
+    "popularity": 1372,
+    "premiered": "Spring 2010",
+    "producers": [],
+    "rank": 2232,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1951,
+                "name": "Uragiri wa Boku no Namae wo Shitteiru",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1951/Uragiri_wa_Boku_no_Namae_wo_Shitteiru"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:417c6f5cb5742eb31e3b3fb7c4904b679bfd3229",
+    "score": 7.37,
+    "scored_by": 26657,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Growing up as an orphan, Yuki Sakurai questions his reason for living and ability to see a person's painful memory by simply touching them. After receiving anonymous notes telling him to die, Yuki is unable to shake off the nagging feeling forming inside of him. Unbeknownst to him, he is being watched, both by people who want to harm him and those who want to protect him. One foggy night, Yuki's life is saved by a beautiful man with silver eyes and jet black hair\u2014a man he has never met before yet seems familiar. With the arrival of this mysterious stranger, Yuki's forgotten past has been awakened and the purpose of his existence has appeared before him. Uragiri wa Boku no Namae wo Shitteiru tells the story of a teenage boy as he discovers who he is and where he comes from\u2014all while making friends, experiencing betrayal, and slowly piecing together the puzzle of his past. [Written by MAL Rewrite]",
+    "title": "Uragiri wa Boku no Namae wo Shitteiru",
+    "title_english": "The Betrayal Knows My Name",
+    "title_japanese": "\u88cf\u5207\u308a\u306f\u50d5\u306e\u540d\u524d\u3092\u77e5\u3063\u3066\u3044\u308b",
+    "title_synonyms": [
+        "Uraboku"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/s5-_LQ3luEU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7058/Uragiri_wa_Boku_no_Namae_wo_Shitteiru"
+}

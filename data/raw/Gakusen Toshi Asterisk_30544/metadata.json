@@ -1,0 +1,190 @@
+{
+    "aired": {
+        "from": "2015-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 3, 2015 to Dec 19, 2015",
+        "to": "2015-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The release of the Gakusen Toshi Asterisk anime series was first announced at an American anime convention called SakuraCon. It adapts the first three volumes of its light novel source material. Gakusen Toshi Asterisk was simulcast in North America by Crunchyroll and Funimation.",
+    "broadcast": "Saturdays at 20:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Brand-new World\" by Shiena Nishizawa (ep 1)",
+        "\"Waiting for the rain\" by Maaya Sakamoto (eps 2-12)"
+    ],
+    "episodes": 12,
+    "favorites": 1542,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/76034.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 30544,
+    "members": 329665,
+    "opening_themes": [
+        "\"Brand-new World\" by Shiena Nishizawa (eps 2-11)"
+    ],
+    "popularity": 245,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 140,
+            "name": "Animax",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/140/Animax"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Bandai Namco Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+        },
+        {
+            "mal_id": 1415,
+            "name": "Asahi Broadcasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+        }
+    ],
+    "rank": 3336,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 51459,
+                "name": "Gakusen Toshi Asterisk",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/51459/Gakusen_Toshi_Asterisk"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31737,
+                "name": "Gakusen Toshi Asterisk 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31737/Gakusen_Toshi_Asterisk_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:d4bdad7a5915be2f40919679ef6a061ed357247f",
+    "score": 7.1,
+    "scored_by": 179674,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Long, long ago, an epic catastrophe, known as Invertia, caused a complete change in the world's power balance. In the years following this disaster, a group known as the Integrated Enterprise Foundation rose to power. In addition to this massive change, a new breed of humans born with amazing physical skills known as Genestella also emerged and joined the ranks of humanity. Gakusen Toshi Asterisk follows the story of Ayato Amagiri, a student who has just transferred into one of the six most elite schools for Genestella students in the world\u2014Seidoukan Academy\u2014where students learn to control their powers and duel against each other in entertainment battles known as festas. Unfortunately, Ayato gets off to a rough start. When trying to return a lost handkerchief to a female classmate, he accidentally sees her changing which leads to her challenging him to a duel. What most people don't realize however, is that Ayato has no real interest in festas and instead has an alternative motive for joining this prestigious school. What is Ayato's big secret? Will he be able to keep up his act when surrounded by some of the greatest Genestella in the world?",
+    "title": "Gakusen Toshi Asterisk",
+    "title_english": "The Asterisk War",
+    "title_japanese": "\u5b66\u6226\u90fd\u5e02\u30a2\u30b9\u30bf\u30ea\u30b9\u30af",
+    "title_synonyms": [
+        "Academy Battle City Asterisk"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/qevN31yJemQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30544/Gakusen_Toshi_Asterisk"
+}

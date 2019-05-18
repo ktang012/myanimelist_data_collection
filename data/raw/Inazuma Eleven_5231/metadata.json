@@ -1,0 +1,177 @@
+{
+    "aired": {
+        "from": "2008-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 27,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Oct 5, 2008 to Apr 27, 2011",
+        "to": "2011-04-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Inazuma Eleven first started out as a sports role-playing game for the Nintendo DS. The series has had numerous sequels since then. The manga was first published in the Shogakukan CoroCoro Comic and the anime series was produced by game developer Level-5 along with TV Tokyo and OLM. The anime aired in numerous countries around Asia and Europe. Aside from the anime, manga and video games, there is also an animated film and guidebooks for the series.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Seishun oden\" by Twe'lv (eps 1-26)",
+        "\"Seishun bus guide\" by Berryz Kobo (eps 27-50)",
+        "\"Ryuusei boy\" by Berryz Kobo (eps 51-67)",
+        "\"Otakebi boy WAO!\" by Berryz Kobo (eps 68-87)",
+        "\"Maji Bomber!\" by Berryz Kobo (eps 88-101)",
+        "\"Shining Power\" by Berryz Kobo (eps 102-112)",
+        "\"Mata ne... no Kisetsu\" by Inazuma All-Stars (eps 113-127)"
+    ],
+    "episodes": 127,
+    "favorites": 1890,
+    "genres": [
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/17917.jpg",
+    "licensors": [],
+    "mal_id": 5231,
+    "members": 85344,
+    "opening_themes": [
+        "\"Tachiagariyo\" by T-Pistonz (eps 1-26)",
+        "\"Maji de kansha!\" by T-Pistonz+KMC (eps 27-54)",
+        "\"Tsunagariyo\" by T-Pistonz+KMC (eps 55-67)",
+        "\"Katte nakou ze!\" by T-Pistonz+KMC (eps 68-87)",
+        "\"GOOD Kita!\" by T-Pistonz+KMC (eps 88-107)",
+        "\"Bokura no Goal!\" by T-Pistonz+KMC (eps 108-127)"
+    ],
+    "popularity": 1137,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        }
+    ],
+    "rank": 1200,
+    "rating": "G - All Ages",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 19315,
+                "name": "Inazuma Eleven",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/19315/Inazuma_Eleven"
+            },
+            {
+                "mal_id": 65499,
+                "name": "Inazuma Eleven: Special",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/65499/Inazuma_Eleven__Special"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 33733,
+                "name": "Inazuma Eleven: Ares no Tenbin",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33733/Inazuma_Eleven__Ares_no_Tenbin"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 37814,
+                "name": "Inazuma Eleven: Reloaded - Soccer no Henkaku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37814/Inazuma_Eleven__Reloaded_-_Soccer_no_Henkaku"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 36913,
+                "name": "Inazuma Eleven x Kaitou Gru no Tsuki Dorobou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36913/Inazuma_Eleven_x_Kaitou_Gru_no_Tsuki_Dorobou"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 24347,
+                "name": "Inazuma Eleven: Chou Jigen Dream Match",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24347/Inazuma_Eleven__Chou_Jigen_Dream_Match"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10507,
+                "name": "Inazuma Eleven Go",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10507/Inazuma_Eleven_Go"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9032,
+                "name": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9032/Inazuma_Eleven__Saikyou_Gundan_Ogre_Shuurai"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:8f33c9b1aa22e92db394aacafe81297083ef3415",
+    "score": 7.67,
+    "scored_by": 48227,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 28,
+            "name": "OLM",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ],
+    "synopsis": "While other schools in Japan compete for the title of being the best soccer team in the country, Raimon Middle School's soccer club, Inazuma Eleven, struggles to rise from the verge of being disbanded. The grandson of Inazuma Eleven's first generation goalkeeper and captain of the team, Mamoru Endou, takes the challenge of kicking the long neglected club back into shape. To do this, he'll need a little help and more than a little luck. Mamoru Endou finds hope in the hands of Shuuya Gouenji, a brilliant young player who has given up on soccer. Mamoru is determined to get Shuuya and other new recruits to join his team, no matter what the cost. Is his passion and determination enough to treat the ailing club? Or is there no more hope for the team?",
+    "title": "Inazuma Eleven",
+    "title_english": null,
+    "title_japanese": "\u30a4\u30ca\u30ba\u30de\u30a4\u30ec\u30d6\u30f3",
+    "title_synonyms": [],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5231/Inazuma_Eleven"
+}

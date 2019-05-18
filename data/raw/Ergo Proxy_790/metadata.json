@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2006-02-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2006
+            },
+            "to": {
+                "day": 12,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "Feb 25, 2006 to Aug 12, 2006",
+        "to": "2006-08-12T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 19:00 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Paranoid Android\" by Radiohead"
+    ],
+    "episodes": 23,
+    "favorites": 9336,
+    "genres": [
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/6259.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1459,
+            "name": "Geneon Entertainment USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+    ],
+    "mal_id": 790,
+    "members": 380613,
+    "opening_themes": [
+        "\"Kiri\" by MONORAL (eps 3-23)"
+    ],
+    "popularity": 178,
+    "premiered": "Winter 2006",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 33,
+            "name": "WOWOW",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 601,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 10954,
+                "name": "Ergo Proxy: Centzon Hitchers and Undertaker",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10954/Ergo_Proxy__Centzon_Hitchers_and_Undertaker"
+            }
+        ]
+    },
+    "request_cache_expiry": 122,
+    "request_cached": true,
+    "request_hash": "request:anime:32fa724a089d97cfa2434a157df4943908c53421",
+    "score": 7.97,
+    "scored_by": 148848,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "Within the domed city of Romdo lies one of the last human civilizations on Earth. Thousands of years ago, a global ecological catastrophe doomed the planet; now, life outside these domes is virtually impossible. To expedite mankind's recovery, \"AutoReivs,\" humanoid-like robots, have been created to assist people in their day-to-day lives. However, AutoReivs have begun contracting an enigmatic disease called the \"Cogito Virus\" which grants them self-awareness. Re-l Mayer, granddaughter of Romdo's ruler, is assigned to investigate this phenomenon alongside her AutoReiv partner Iggy. But what begins as a routine investigation quickly spirals into a conspiracy as Re-l is confronted by humanity's darkest sins. Elsewhere in Romdo, an AutoReiv specialist by the name of Vincent Law must also face his demons when surreal events begin occurring around him. Re-l, Iggy, Vincent, and the child AutoReiv named Pino, will form an unlikely faction as they struggle to uncover Romdo's mysteries and ultimately, discover the true purpose of the mythical beings called \"Proxies.\" [Written by MAL Rewrite]",
+    "title": "Ergo Proxy",
+    "title_english": "Ergo Proxy",
+    "title_japanese": "\u30a8\u30eb\u30b4\u30d7\u30e9\u30af\u30b7\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/kL0j06Byjjs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/790/Ergo_Proxy"
+}

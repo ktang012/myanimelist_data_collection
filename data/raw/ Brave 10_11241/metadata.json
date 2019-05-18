@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2012-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 8, 2012 to Mar 25, 2012",
+        "to": "2012-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Adeosu (\u8276\u7537\u3002-adeosu-)\" by ADAPTER\u3002"
+    ],
+    "episodes": 12,
+    "favorites": 260,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 21,
+            "name": "Samurai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/34043.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 11241,
+    "members": 111041,
+    "opening_themes": [
+        "\"Seirei Hirai (\u7cbe\u970a\u98db\u6765)\" by Daisuke Ono and Tetsuya Kakihara (eps 1-2, 4-6, 8-11)",
+        "\"Tenka wo Odoru (\u5929\u4e0b\u3092\u8e8d\u308b)\" by Hiroshi Kamiya and Toshiyuki Morikawa (eps 3, 7)"
+    ],
+    "popularity": 925,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 543,
+            "name": "Studio Saki Makura",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/543/Studio_Saki_Makura"
+        }
+    ],
+    "rank": 4081,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8850,
+                "name": "Brave 10",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8850/Brave_10"
+            }
+        ]
+    },
+    "request_cache_expiry": 39992,
+    "request_cached": true,
+    "request_hash": "request:anime:bb5ed49190dbcf02ada9cff51d30c65393f1b706",
+    "score": 6.9,
+    "scored_by": 53565,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "Isanami, a young priestess of Izumo, is forced to watch as a group of evil ninja burn her temple to the ground and slaughter the people within, leaving her no choice but to flee into the forest to escape the same fate. By chance, she stumbles upon Saizou Kirigakure, a masterless ninja from the Iga school. The two travel to Ueda Castle to ask Yukimura Sanada for help. Isanami's possession of a strange and devastating power is revealed, and Sanada readily agrees to help her, gathering ten brave warriors to Isanami's side. Thus begins Brave 10, a story set in the Warring States period. It follows Saizou and Isanami's journey throughout the war-laden lands in search of brave warriors to serve under Yukimura's banner, each possessing powerful skills of their own. They'll have to travel far and wide, all while trying to fend off those who would chase after the dark power that she possesses to make it their own.",
+    "title": "Brave 10",
+    "title_english": "Brave 10",
+    "title_japanese": "\u30d6\u30ec\u30a4\u30d6\u30fb\u30c6\u30f3",
+    "title_synonyms": [
+        "Brave10",
+        "Brave Ten"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ioSn1KaDEj0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11241/Brave_10"
+}

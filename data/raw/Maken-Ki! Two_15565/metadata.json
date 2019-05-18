@@ -1,0 +1,139 @@
+{
+    "aired": {
+        "from": "2014-01-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 16, 2014 to Mar 20, 2014",
+        "to": "2014-03-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Reach for Light\" by Saeko Zougou"
+    ],
+    "episodes": 10,
+    "favorites": 88,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/58191.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 15565,
+    "members": 84225,
+    "opening_themes": [
+        "\"Cherish\" by sweet ARMS"
+    ],
+    "popularity": 1156,
+    "premiered": "Winter 2014",
+    "producers": [],
+    "rank": 6767,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7186,
+                "name": "Maken-Ki!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7186/Maken-Ki"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11209,
+                "name": "Maken-Ki! OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11209/Maken-Ki_OVA"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 23989,
+                "name": "Maken-Ki! Two Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23989/Maken-Ki_Two_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 17892,
+    "request_cached": true,
+    "request_hash": "request:anime:6225ef9446de0450e889a74965d43fec39f92773",
+    "score": 6.33,
+    "scored_by": 38773,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Takeru continues his education at Tenbi Academy as part of the newly formed Security Committee. As a team with the other members, they battle unscrupulous individuals who use their Maken for evil purposes. In the meantime, his libido and the conflicting romantic interests of the girls surrounding him complicate matters considerably. (Source: ANN)",
+    "title": "Maken-Ki! Two",
+    "title_english": "Maken-Ki! Two",
+    "title_japanese": "\u30de\u30b1\u30f3\u59eb\u3063\uff01\u901a",
+    "title_synonyms": [
+        "Maken-Ki! Dai 2-ki",
+        "Maken-Ki! 2",
+        "Maken-Ki! Second Season",
+        "Maken-Ki! 2nd Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/53Ypf_Sl6Wo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/15565/Maken-Ki_Two"
+}

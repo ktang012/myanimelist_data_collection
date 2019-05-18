@@ -1,0 +1,227 @@
+{
+    "aired": {
+        "from": "2007-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 1, 2007 to Sep 30, 2007",
+        "to": "2007-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Gurren Lagann received widespread critical acclaim since its release. The series received an Excellence Prize at the 2007 Japan Media Arts Festival. Its director Hiroyuki Imaishi received an individual award for \"Personal Best\" at the 12th Animation Kobe Festival that same year for his work on the series.\r\nIn 2008, during the 7th annual Tokyo Anime Awards held at the Tokyo International Anime Fair, Gurren Lagann won the \"Best Television Production\" award. In addition, the \"Best Character Design\" award was given to the character designer Atsushi Nishigori for his work on the anime.",
+    "broadcast": "Sundays at 08:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"UNDERGROUND\" by HIGH VOLTAGE (eps 1-15)",
+        "\"happily ever after\" by Shoko Nakagawa (ep 16)",
+        "\"Minna no Peace (\u307f\u3093\u306a\u306e\u30d4\u30fc\u30b9)\" by Afromania (eps 17-27)"
+    ],
+    "episodes": 27,
+    "favorites": 55559,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+    "licensors": [
+        {
+            "mal_id": 97,
+            "name": "ADV Films",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+            "mal_id": 233,
+            "name": "Bandai Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+        },
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 2001,
+    "members": 903164,
+    "opening_themes": [
+        "\"Sorairo Days (\u7a7a\u8272\u30c7\u30a4\u30ba)\" by Shoko Nakagawa (eps 1-14, 16-26)"
+    ],
+    "popularity": 25,
+    "premiered": "Spring 2007",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 85,
+            "name": "Konami",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/85/Konami"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+            "mal_id": 230,
+            "name": "Bandai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/230/Bandai"
+        }
+    ],
+    "rank": 43,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1648,
+                "name": "Tengen Toppa Gurren Lagann",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1648/Tengen_Toppa_Gurren_Lagann"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 4705,
+                "name": "Tengen Toppa Gurren Lagann: Parallel Works",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4705/Tengen_Toppa_Gurren_Lagann__Parallel_Works"
+            },
+            {
+                "mal_id": 8348,
+                "name": "Tengen Toppa Gurren Lagann: Parallel Works 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8348/Tengen_Toppa_Gurren_Lagann__Parallel_Works_2"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 4107,
+                "name": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4107/Tengen_Toppa_Gurren_Lagann_Movie_1__Gurren-hen"
+            },
+            {
+                "mal_id": 4565,
+                "name": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4565/Tengen_Toppa_Gurren_Lagann_Movie_2__Lagann-hen"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 6548,
+                "name": "Tengen Toppa Gurren Lagann: Kirameki\u2605Yoko Box - Pieces of Sweet Stars",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6548/Tengen_Toppa_Gurren_Lagann__Kirameki\u2605Yoko_Box_-_Pieces_of_Sweet_Stars"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 3352,
+                "name": "Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3352/Tengen_Toppa_Gurren_Lagann__Mitee_Mono_wa_Miteen_da"
+            },
+            {
+                "mal_id": 10622,
+                "name": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10622/Tengen_Toppa_Gurren_Lagann__Ore_no_Gurren_wa_Pikka-Pika"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 5947,
+                "name": "Tengen Toppa Gurren Lagann Movie: Zenyasai Special - Viral no Amai Yume",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5947/Tengen_Toppa_Gurren_Lagann_Movie__Zenyasai_Special_-_Viral_no_Amai_Yume"
+            }
+        ]
+    },
+    "request_cache_expiry": 26959,
+    "request_cached": true,
+    "request_hash": "request:anime:4759a89e1e1549ad63c86828a25db01a38bd8528",
+    "score": 8.72,
+    "scored_by": 506967,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 6,
+            "name": "Gainax",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ],
+    "synopsis": "Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited loose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations. One day while excavating the earth, Simon stumbles upon a mysterious object that turns out to be the ignition key to an ancient artifact of war, which the duo dubs Lagann. Using their new weapon, Simon and Kamina fend off a surprise attack from the surface with the help of Yoko Littner, a hot-blooded redhead wielding a massive gun who wanders the world above. In the aftermath of the battle, the sky is now in plain view, prompting Simon and Kamina to set off on a journey alongside Yoko to explore the wastelands of the surface. Soon, they join the fight against the \"Beastmen,\" humanoid creatures that terrorize the remnants of humanity in powerful robots called \"Gunmen.\" Although they face some challenges and setbacks, the trio bravely fights these new enemies alongside other survivors to reclaim the surface, while slowly unraveling a galaxy-sized mystery. [Written by MAL Rewrite]",
+    "title": "Tengen Toppa Gurren Lagann",
+    "title_english": "Gurren Lagann",
+    "title_japanese": "\u5929\u5143\u7a81\u7834\u30b0\u30ec\u30f3\u30e9\u30ac\u30f3",
+    "title_synonyms": [
+        "Tengen Toppa Gurren-Lagann",
+        "Making Break-Through Gurren Lagann",
+        "Heavenly Breakthrough Gurren Lagann",
+        "TTGL",
+        "Gurren Laggan"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/rAQylCHv8Cw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann"
+}

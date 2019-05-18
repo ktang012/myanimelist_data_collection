@@ -1,0 +1,113 @@
+{
+    "aired": {
+        "from": "2008-10-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 16, 2008 to Mar 19, 2009",
+        "to": "2009-03-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "#1 \"Best Friend\" by Karutetto (eps 1- 21)#2 \"Nada pode me parar agora\" by Aurea Martins (Gabriel Muzak as backing vocal) (ep 22)"
+    ],
+    "episodes": 22,
+    "favorites": 1566,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/59535.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 4087,
+    "members": 115274,
+    "opening_themes": [
+        "\"Paraiso\" by SOIL & \"PIMP\" SESSIONS (eps 1- 21)"
+    ],
+    "popularity": 891,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        }
+    ],
+    "rank": 754,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {},
+    "request_cache_expiry": 19541,
+    "request_cached": true,
+    "request_hash": "request:anime:d0c8dbff205a0f25cffb1acc215ffb0fdb8b1685",
+    "score": 7.88,
+    "scored_by": 37690,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "Under the unrelenting heat of the South American sun, hardened criminal Michiko Malandro breaks out of a high security prison for the fourth time in search of a man from her past. Michiko finds a clue in the form of Hana Morenos, a young girl trapped under the fists of her abusive foster family. In her powerlessness, Hana fantasizes about the day when she is finally whisked away from her captors by her very own Prince Charming. Little does she know that her fated prince would turn out to be the buxom and husky convict who charges in atop a stolen motorbike, claiming to be her mother. The unlikely duo chase down their dreams in the sun-drenched land of Diamandra, navigating through the cacophony of betrayal, poverty, and child exploitation rings hiding in plain sight. However, wind of Michiko's manhunt soon reaches the ears of criminal syndicate Monstro Preto, and a storm of gang warfare begins brewing over the horizon\u2026 Michiko to Hatchin is the story of vibrant people and their clashing agendas, and of all the unlikely human connections drawn together by one elusive man. [Written by MAL Rewrite]",
+    "title": "Michiko to Hatchin",
+    "title_english": "Michiko & Hatchin",
+    "title_japanese": "\u30df\u30c1\u30b3\u3068\u30cf\u30c3\u30c1\u30f3",
+    "title_synonyms": [
+        "Michiko e Hatchin",
+        "Michiko to Hacchin"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/RJCiRrd-lXE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4087/Michiko_to_Hatchin"
+}

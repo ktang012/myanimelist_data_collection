@@ -1,0 +1,197 @@
+{
+    "aired": {
+        "from": "2015-04-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Apr 8, 2015 to Mar 30, 2016",
+        "to": "2016-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "This is a fourth season of Gintama. In the episode continuity corresponds to episodes 266-316 of Gintama.",
+    "broadcast": "Wednesdays at 18:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"DESTINY\" by Negoto (eps 1-12)",
+        "\"Saigo made II (\u6700\u5f8c\u307e\u3067\u2161)\" by Aqua Timez (eps 13-15, 17-26)",
+        "\"Pride Kakumei (\u30d7\u30e9\u30a4\u30c9\u9769\u547d)\" by CHiCO with HoneyWorks (ep 16)",
+        "\"Glorious Days (\u30b0\u30ed\u30ea\u30a2\u30b9\u30c7\u30a4\u30ba)\" by THREE LIGHTS DOWN KINGS (eps 27-38)",
+        "\"Acchi Muite (\u3042\u3063\u3061\u3080\u3044\u3066)\" by Swimy (eps 39-50)",
+        "\"Know Know Know\" by DOES (ep 51)"
+    ],
+    "episodes": 51,
+    "favorites": 6670,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 21,
+            "name": "Samurai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/72078.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 28977,
+    "members": 247093,
+    "opening_themes": [
+        "\"DAY\u00d7DAY\" by BLUE ENCOUNT (eps 1-12)",
+        "\"Pride Kakumei (\u30d7\u30e9\u30a4\u30c9\u9769\u547d)\" by CHiCO with HoneyWorks (eps 13-15, 17-26)",
+        "\"Saigo made II (\u6700\u5f8c\u307e\u3067\u2161)\" by Aqua Timez (ep 16)",
+        "\"Beautiful Days\" by OKAMOTO'S (eps 27-38)",
+        "''Know Know Know'' by DOES (eps 39-50)",
+        "\"Acchi Muite (\u3042\u3063\u3061\u3080\u3044\u3066)\" by Swimy (ep 51)"
+    ],
+    "popularity": 361,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        }
+    ],
+    "rank": 4,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 44,
+                "name": "Gintama",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/44/Gintama"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 15335,
+                "name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15335/Gintama_Movie_2__Kanketsu-hen_-_Yorozuya_yo_Eien_Nare"
+            },
+            {
+                "mal_id": 15417,
+                "name": "Gintama': Enchousen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15417/Gintama__Enchousen"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34096,
+                "name": "Gintama.",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34096/Gintama"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32122,
+                "name": "Gintama\u00b0: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32122/Gintama\u00b0__Umai-mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue"
+            },
+            {
+                "mal_id": 32366,
+                "name": "Gintama\u00b0: Aizome Kaori-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32366/Gintama\u00b0__Aizome_Kaori-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 28133,
+    "request_cached": true,
+    "request_hash": "request:anime:5d5d7b307b2951f5792481b68813ac342511d3a3",
+    "score": 9.12,
+    "scored_by": 87147,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1258,
+            "name": "Bandai Namco Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+        }
+    ],
+    "synopsis": "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko? Meanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team. Filled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's third season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet. [Written by MAL Rewrite]",
+    "title": "Gintama\u00b0",
+    "title_english": "Gintama Season 4",
+    "title_japanese": "\u9280\u9b42\u00b0",
+    "title_synonyms": [
+        "Gintama' (2015)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/W_eWXh85VS4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28977/Gintama\u00b0"
+}

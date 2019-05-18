@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2014-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 6, 2014 to Dec 22, 2014",
+        "to": "2014-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 01:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Welcome!! DISCO Kemo Kemo Ke (Welcome!!DISCO\u3051\u3082\u3051\u3082\u3051)\" by Kokkuri-san (CV: Daisuke Ono). Narration by Inugami (CV: Takahiro Sakurai), Shigaraki (CV: Jouji Nakata) (eps 1, 12)",
+        "\"This Merry-Go-Round Song\" by Atsushi Suemitsu (eps 2-7, 9-11)",
+        "\"This Merry-Go-Round Song (Piano Version)\" by Atsushi Suemitsu (ep 8)"
+    ],
+    "episodes": 12,
+    "favorites": 843,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/65665.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 23251,
+    "members": 126390,
+    "opening_themes": [
+        "\"Welcome!! DISCO Kemo Kemo Ke (Welcome!!DISCO\u3051\u3082\u3051\u3082\u3051)\" by Kokkuri-san (CV: Daisuke Ono). Narration by Inugami (CV: Takahiro Sakurai), Shigaraki (CV: Jouji Nakata) (eps 2-11)"
+    ],
+    "popularity": 804,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        }
+    ],
+    "rank": 1249,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 28172,
+                "name": "Gugure! Kokkuri-san",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/28172/Gugure_Kokkuri-san"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 27945,
+                "name": "Gugure! Kokkuri-san Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27945/Gugure_Kokkuri-san_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 412,
+    "request_cached": true,
+    "request_hash": "request:anime:80e7b92e9bab75f425a6a5535742bbb496f98047",
+    "score": 7.65,
+    "scored_by": 55042,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ],
+    "synopsis": "Kohina Ichimatsu, the self-proclaimed doll, called out the fox ghost Kokkuri-san with a suspicious incantation! But it was a story of the past where Kokkuri-san was able to answer any question you had. Nowadays, it relies on a certain search engine, but is actually bad at anything digital. He was going to possess Kohina, but got worried about her living all alone and devotes himself to do chores as if he was her mother. On top of that, the dog ghost Inugami who is infatuated with Kohina and the old good-for-nothing supernatural raccoon dog Shigaraki decide to root themselves with her as well! (Source: Crunchyroll)",
+    "title": "Gugure! Kokkuri-san",
+    "title_english": "GUGURE! KOKKURI-SAN",
+    "title_japanese": "\u7e70\u7e70\u308c\uff01\u30b3\u30c3\u30af\u30ea\u3055\u3093",
+    "title_synonyms": [
+        "GuguKoku"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/d1_QEl12Qc8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23251/Gugure_Kokkuri-san"
+}

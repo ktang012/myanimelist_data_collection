@@ -1,0 +1,193 @@
+{
+    "aired": {
+        "from": "2016-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 2, 2016 to Sep 24, 2016",
+        "to": "2016-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kimeta yo Hand in Hand (\u6c7a\u3081\u305f\u3088Hand in Hand)\" by Chika Takami (Anju Inami), Riko Sakurauchi (Rikako Aida) & You Watanabe (Shuka Saitou) (ep 1)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Chika Takami (Anju Inami), Riko Sakurauchi (Rikako Aida) & You Watanabe (Shuka Saitou) (ep 2)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Aqours (ep 3)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Hanamaru Kunikida (Kanako Takatsuki) & Ruby Kurosawa (Ai Furihata) (ep 4)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Yoshiko Tsushima (Aika Kobayashi) (ep 5)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Kanan Matsuura (Nanaka Suwa), Dia Kurosawa (Arisa Komiya) & Mari Ohara (Aina Suzuki) (ep 6)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Yoshiko Tsushima (Aika Kobayashi), Hanamaru Kunikida (Kanako Takatsuki) & Ruby Kurosawa (Ai Furihata) (ep 7)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by 1st & 2nd Years (ep 8 )",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Chika Takami (Anju Inami) & Riko Sakurauchi (Rikako Aida) (ep 10)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by You Watanabe (Shuka Saitou) (ep 11)",
+        "\"Yume Kataru yori Yume Utaou (\u30e6\u30e1\u8a9e\u308b\u3088\u308a\u30e6\u30e1\u6b4c\u304a\u3046)\" by Aqours (ep 12)"
+    ],
+    "episodes": 13,
+    "favorites": 2152,
+    "genres": [
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/80791.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32526,
+    "members": 103265,
+    "opening_themes": [
+        "\"Aozora Jumping Heart (\u9752\u7a7aJumping Heart)\" by Aqours"
+    ],
+    "popularity": 979,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        }
+    ],
+    "rank": 1663,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 99529,
+                "name": "Love Live! Sunshine!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/99529/Love_Live_Sunshine"
+            },
+            {
+                "mal_id": 105573,
+                "name": "Love Live! Sunshine!! School Idol Diary",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/105573/Love_Live_Sunshine_School_Idol_Diary"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 15051,
+                "name": "Love Live! School Idol Project",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34973,
+                "name": "Love Live! Sunshine!! 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34973/Love_Live_Sunshine_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31780,
+                "name": "Kimi no Kokoro wa Kagayaiteru kai?",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31780/Kimi_no_Kokoro_wa_Kagayaiteru_kai"
+            },
+            {
+                "mal_id": 32953,
+                "name": "Koi ni Naritai Aquarium",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32953/Koi_ni_Naritai_Aquarium"
+            },
+            {
+                "mal_id": 35006,
+                "name": "Happy Party Train",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35006/Happy_Party_Train"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 36473,
+                "name": "Love Live! Sunshine!! Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36473/Love_Live_Sunshine_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 11630,
+    "request_cached": true,
+    "request_hash": "request:anime:ff07621054f4a9b9190cfb0e74ecbc5ba40810ca",
+    "score": 7.51,
+    "scored_by": 48566,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Chika Takami, a self-proclaimed normal girl, has never been involved in any clubs and lacked any notable talents. However, after a visit to Tokyo, she discovers a stage where even an ordinary girl like her could shine\u2014the world of school idols. Inspired by the former superstar school idol group \u03bc's, Chika is determined to start her own school idol club in her seaside hometown at Uranohoshi Girl's High School. But even before gathering any students to join the group, the aspiring school idol finds her greatest obstacle to be student council president Dia Kurosawa who stands firmly against the creation of the club. Just when it seems there is no hope, Chika meets Riko Sakurauchi, a transfer student from Otonokizaka High School, home of \u03bc's. Somewhat shy but a talented piano player, Chika believes her to be a promising recruit, though convincing her to join is easier said than done. In spite of that, Chika chooses to charge forward and overcome the obstacles keeping her from forming a school idol group that shines as bright as the nine that came before her. [Written by MAL Rewrite]",
+    "title": "Love Live! Sunshine!!",
+    "title_english": "Love Live! Sunshine!!",
+    "title_japanese": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
+    "title_synonyms": [
+        "Love Live! School Idol Project: Sunshine!!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Sbz9EeyUOIs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine"
+}

@@ -1,0 +1,193 @@
+{
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Sep 30, 2011",
+        "to": "2011-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Eureka Baby (\u30a8\u30a6\u30ec\u30ab\u30d9\u30a4\u30d3\u30fc)\" by Natsuko Asou (eps 1-6, 8-10, 12-13)",
+        "\"Baka to Koshitsu to Kodokumeshi (\u30d0\u30ab\u3068\u500b\u5ba4\u3068\u5b64\u72ec\u98ef)\" by milktub (ep 7)",
+        "\"Hi-Ho!!\" by milktub (ep 11)"
+    ],
+    "episodes": 13,
+    "favorites": 1168,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/28992.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 8516,
+    "members": 258758,
+    "opening_themes": [
+        "\"Kimi + Nazo + Watashi de JUMP!! (\u541b\uff0b\u8b0e\uff0b\u79c1\u3067JUMP!!)\" by Larval Stage Planning"
+    ],
+    "popularity": 338,
+    "premiered": "Summer 2011",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 392,
+            "name": "Enterbrain",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/392/Enterbrain"
+        },
+        {
+            "mal_id": 619,
+            "name": "Cospa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/619/Cospa"
+        },
+        {
+            "mal_id": 685,
+            "name": "Kadokawa Contents Gate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/685/Kadokawa_Contents_Gate"
+        },
+        {
+            "mal_id": 717,
+            "name": "TV Tokyo Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        },
+        {
+            "mal_id": 753,
+            "name": "PRA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/753/PRA"
+        },
+        {
+            "mal_id": 1015,
+            "name": "T.O Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1015/TO_Entertainment"
+        },
+        {
+            "mal_id": 1488,
+            "name": "Hakuhodo DY Media Partners",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+        }
+    ],
+    "rank": 739,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 12295,
+                "name": "Baka to Test to Shoukanjuu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/12295/Baka_to_Test_to_Shoukanjuu"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 9471,
+                "name": "Baka to Test to Shoukanjuu: Matsuri",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9471/Baka_to_Test_to_Shoukanjuu__Matsuri"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 10834,
+                "name": "Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10834/Baka_to_Test_to_Shoukanjuu__Spinout_Sore_ga_Bokura_no_Nichijou"
+            },
+            {
+                "mal_id": 24727,
+                "name": "Baka to Test to Shoukanjuu Ni!: Mahou Hideyoshi Hideyoshi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24727/Baka_to_Test_to_Shoukanjuu_Ni__Mahou_Hideyoshi_Hideyoshi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:d79cda74e2a5ac1c697d3b1088035d2710320ba3",
+    "score": 7.88,
+    "scored_by": 156109,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "Goofball Yoshii's still leading his crew in Avatar battles against the brainier students in school, but the girls in Class F have grown way less concerned with improving their status on campus. Instead of moving up in the world, the girls are more interested in getting closer to the guys in the gang! Of course, some of the boys are totally oblivious to the romantic intentions of their female friends. That's to be expected in a group of dim-wits and misfits. Nonetheless, the femmes of Class F aren't giving up anytime soon. Because when love is on the line, even the biggest underachievers can find motivation \u2013 even if they can't spell it! (Source: Rightstuf)",
+    "title": "Baka to Test to Shoukanjuu Ni!",
+    "title_english": "Baka & Test \u2013 Summon the Beasts 2",
+    "title_japanese": "\u30d0\u30ab\u3068\u30c6\u30b9\u30c8\u3068\u53ec\u559a\u7363 \u306b\u3063\uff01",
+    "title_synonyms": [
+        "Baka to Test to Shoukanjuu 2",
+        "The Idiot",
+        "the Tests",
+        "and the Summoned Creatures 2",
+        "Baka and Test - Summon the Beasts",
+        "Baka to Test to Shokanju 2",
+        "BakaTest 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/LcH6R5Wt8FI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8516/Baka_to_Test_to_Shoukanjuu_Ni"
+}

@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2014-10-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 12, 2014 to Dec 28, 2014",
+        "to": "2014-12-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at screenings in Tokyo and Tokushima on September 28, 2014. Regular broadcasting began on October 12, 2014.\r\nThe first episode is 48 minutes in length, which is included in the average episode duration.",
+    "broadcast": "Sundays at 00:00 (JST)",
+    "duration": "28 min per ep",
+    "ending_themes": [
+        "\"believe\" by Kalafina (eps 1-11)",
+        "\"THIS ILLUSION\" by LiSA (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 9215,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/67333.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 22297,
+    "members": 497230,
+    "opening_themes": [
+        "\"ideal white\" by Mashiro Ayano (eps 1-9, 11-12)"
+    ],
+    "popularity": 106,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 703,
+            "name": "Notes",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/703/Notes"
+        }
+    ],
+    "rank": 231,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Alternative version": [
+            {
+                "mal_id": 356,
+                "name": "Fate/stay night",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/356/Fate_stay_night"
+            },
+            {
+                "mal_id": 6922,
+                "name": "Fate/stay night Movie: Unlimited Blade Works",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6922/Fate_stay_night_Movie__Unlimited_Blade_Works"
+            },
+            {
+                "mal_id": 25537,
+                "name": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_-_I_Presage_Flower"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 10012,
+                "name": "Carnival Phantasm",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10012/Carnival_Phantasm"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 27821,
+                "name": "Fate/stay night: Unlimited Blade Works Prologue",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27821/Fate_stay_night__Unlimited_Blade_Works_Prologue"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 28701,
+                "name": "Fate/stay night: Unlimited Blade Works 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28701/Fate_stay_night__Unlimited_Blade_Works_2nd_Season"
+            }
+        ]
+    },
+    "request_cache_expiry": 35832,
+    "request_cached": true,
+    "request_hash": "request:anime:2a10bee2155008e81901c64d8e1fd0acd7d77113",
+    "score": 8.31,
+    "scored_by": 301750,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 43,
+            "name": "ufotable",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ],
+    "synopsis": "The Holy Grail War is a battle royale among seven magi who serve as Masters. Masters, through the use of the command seals they are given when they enter the war, command Heroic Spirits known as Servants to fight for them in battle. In the Fifth Holy Grail War, Rin Toosaka is among the magi entering the competition. With her Servant, Archer, she hopes to obtain the ultimate prize\u2014the Holy Grail, a magical artifact capable of granting its wielder any wish. One of Rin's classmates, Emiya Shirou, accidentally enters the competition and ends up commanding a Servant of his own known as Saber. As they find themselves facing mutual enemies, Rin and Shirou decide to form a temporary alliance as they challenge their opponents in the Holy Grail War. [Written by MAL Rewrite]",
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "title_english": "Fate/stay night [Unlimited Blade Works]",
+    "title_japanese": "Fate/stay night [Unlimited Blade Works]",
+    "title_synonyms": [
+        "Fate/stay night (2014)",
+        "Fate - Stay Night"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/61RuoLIlCUM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+}

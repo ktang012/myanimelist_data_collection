@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2013-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 5, 2013 to Sep 27, 2013",
+        "to": "2013-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in TOHO Cinema Roppongi Hills, Tokyo on June 23, 2013. Regular broadcasting began on July 5, 2013.\r\nDue to the success of the Danganronpa games, various spin-offs on a variety of media were made including the anime adaption and Danganronpa/Zero, a series of two novels written by Tsuyoshi Kodakazu and illustrated by Rui Komatsuzaki which were released on September 15, 2011 and October 13, 2011.",
+    "broadcast": "Fridays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Zetsubousei: Hero Chiryouyaku (\u7d76\u671b\u6027:\u30d2\u30fc\u30ed\u30fc\u6cbb\u7642\u85ac)\" by suzumu feat. soraru (eps 1-12)",
+        "\"Saisei -rebuild- re:build ver (\u518d\u751f-rebuild- re:build ver.)\" by Megumi Ogata (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 6290,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/51463.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 16592,
+    "members": 481377,
+    "opening_themes": [
+        "\"DANGANRONPA\" by Masafumi Takada (ep 1)",
+        "\"Never Say Never\" by TKDz2b (eps 2-3, 5-11)",
+        "\"Monokuma Ondo (\u30e2\u30ce\u30af\u30de\u304a\u3093\u3069)\" by Sachiko Kobayashi feat. Monokuma (ep 4)"
+    ],
+    "popularity": 113,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 101,
+            "name": "Studio Hibari",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 1887,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37917,
+                "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37917/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei"
+            },
+            {
+                "mal_id": 61735,
+                "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/61735/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32189,
+                "name": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32189/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Mirai-hen"
+            },
+            {
+                "mal_id": 33028,
+                "name": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33028/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Zetsubou-hen"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:c1928e7ca47ff644d41fa1fe3f814b4757424e2f",
+    "score": 7.44,
+    "scored_by": 273252,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. Of the fifteen candidates admitted to the peculiar school that year, Makoto Naegi is a completely ordinary individual who has been accepted by sheer chance, with the title of \"Super High School-Level Luck.\" Naegi and his fellow classmates are initially ecstatic to be chosen to study at this prestigious institution, but these feelings of happiness are short-lived. They are soon confronted by Monokuma, the principal and resident bear, who traps them inside the school. The pupils' hopes of escape and graduation hinge on one of them successfully murdering one of their peers without being discovered. However, if the killer is caught, he or she will be executed, and the remaining survivors will be left to continue the deathmatch until only a single victor remains. [Written by MAL Rewrite]",
+    "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "title_english": "Danganronpa: The Animation",
+    "title_japanese": "\u30c0\u30f3\u30ac\u30f3\u30ed\u30f3\u30d1 \u5e0c\u671b\u306e\u5b66\u5712\u3068\u7d76\u671b\u306e\u9ad8\u6821\u751f THE ANIMATION",
+    "title_synonyms": [
+        "Dangan Ronpa: The Animation"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/bAleu6DYwOk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation"
+}

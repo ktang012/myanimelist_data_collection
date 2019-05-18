@@ -1,0 +1,188 @@
+{
+    "aired": {
+        "from": "2005-10-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2006
+            }
+        },
+        "string": "Oct 23, 2005 to Jun 19, 2006",
+        "to": "2006-06-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Mushishi is an adaptation of Yuki Urushibara's award-winning manga of the same name. The series adapts the first 26 chapters of the manga, adapting one per episode. The anime aired these stories in a different order than that of the manga.\r\nThe series won the Tokyo Anime Award in the Television category in 2006. The series premiered on October 23, 2005, but went on hiatus on March 12, 2006 after having aired 20 episodes. Broadcast resumed on May 15, and aired the remaining 6 episodes, concluding on June 19, 2006.",
+    "broadcast": "Sundays at 03:40 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Midori no Za\" (\u7dd1\u306e\u5ea7) by Masuda Toshio (ep 1)",
+        "\"Mabuta no Hikari\" (\u77bc\u306e\u5149) by Masuda Toshio (ep 2)",
+        "\"Yawarakai Kaku\" (\u67d4\u3089\u304b\u3044\u89d2) by Masuda Toshio (ep 3)",
+        "\"Makura Kouji\" (\u6795\u5c0f\u8def ) by Masuda Toshio (ep 4)",
+        "\"Tabi wo Suru Numa\" (\u65c5\u3092\u3059\u308b\u6cbc) by Masuda Toshio (ep 5)",
+        "\"Tsuyu wo Suu Mure\" (\u9732\u3092\u5438\u3046\u7fa4\u308c) by Masuda Toshio (ep 6)",
+        "\"Ame ga Kuru Niji ga Tatsu\" (\u96e8\u304c\u304f\u308b\u8679\u304c\u305f\u3064) by Masuda Toshio (ep 7)",
+        "\"Unasaka Yori\" (\u6d77\u5883\u3088\u308a)  by Masuda Toshio (ep 8)",
+        "\"Omoi Mi\" (\u91cd\u3044\u5b9f) by Masuda Toshio (ep 9)",
+        "\"Suzuri ni Sumu Shiro\" (\u786f\u306b\u68f2\u3080\u767d) by Masuda Toshio (ep 10)",
+        "\"Yama Nemuru\" (\u3084\u307e\u306d\u3080\u308b) by Masuda Toshio (ep 11)",
+        "\"Sugame no Sakana\" (\u7707\u306e\u9b5a) by Masuda Toshio (ep 12)",
+        "\"Hitoyobashi\" (\u4e00\u591c\u6a4b) by Masuda Toshio (ep 13)",
+        "\"Kago no Naka\" (\u7c60\u306e\u306a\u304b) by Masuda Toshio (ep 14)",
+        "\"Haru to Usobuko\" (\u6625\u3068\u562f\u304f) by Masuda Toshio (ep 15)",
+        "\"Akatsuki no Hebi\" (\u6681\u306e\u86c7) by Masuda Toshio (ep 16)",
+        "\"Uromayutori\" (\u865a\u7e6d\u53d6\u308a) by Masuda Toshio (ep 17)",
+        "\"Yama Daku Koromo\" (\u5c71\u62b1\u304f\u8863) by Masuda Toshio (ep 18)",
+        "\"Tenpen no Ito\" (\u5929\u8fba\u306e\u7cf8) by Masuda Toshio (ep 19)",
+        "\"Fude no Umi\" (\u7b46\u306e\u6d77) by Masuda Toshio (ep 20)",
+        "\"Wataboshi\" (\u7dbf\u80de\u5b50) by Masuda Toshio (ep 21)",
+        "\"Okitsu Miya\" (\u6c96\u3064\u5bae) by Masuda Toshio (ep 22)",
+        "\"Sabi no Naku Koe\" (\u9306\u306e\u9cf4\u304f\u8072) by Masuda Toshio (ep 23)",
+        "\"Kagarinokou\" (\u7bdd\u91ce\u884c) by Masuda Toshio (ep 24)",
+        "\"Ganpuku Ganka\" (\u773c\u798f\u773c\u798d) by Masuda Toshio (ep 25)",
+        "\"Kusa wo Fumu Oto\" (\u8349\u3092\u8e0f\u3080\u97f3) by Masuda Toshio (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 19559,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 457,
+    "members": 464341,
+    "opening_themes": [
+        "\"The Sore Feet Song\" by Ally Kerr"
+    ],
+    "popularity": 127,
+    "premiered": "Fall 2005",
+    "producers": [
+        {
+            "mal_id": 52,
+            "name": "Avex Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+        },
+        {
+            "mal_id": 82,
+            "name": "Marvelous",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous"
+        },
+        {
+            "mal_id": 147,
+            "name": "SKY Perfect Well Think",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/147/SKY_Perfect_Well_Think"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        }
+    ],
+    "rank": 40,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 418,
+                "name": "Mushishi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/418/Mushishi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 21329,
+                "name": "Mushishi Special: Hihamukage",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21329/Mushishi_Special__Hihamukage"
+            },
+            {
+                "mal_id": 21939,
+                "name": "Mushishi Zoku Shou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou"
+            }
+        ]
+    },
+    "request_cache_expiry": 36619,
+    "request_cached": true,
+    "request_hash": "request:anime:047ce4420fa843606934309866d292274c149a83",
+    "score": 8.73,
+    "scored_by": 162556,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 8,
+            "name": "Artland",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        }
+    ],
+    "synopsis": "\"Mushi\": the most basic forms of life in the world. They exist without any goals or purposes aside from simply \"being.\" They are beyond the shackles of the words \"good\" and \"evil.\" Mushi can exist in countless forms and are capable of mimicking things from the natural world such as plants, diseases, and even phenomena like rainbows. This is, however, just a vague definition of these entities that inhabit the vibrant world of Mushishi, as to even call them a form of life would be an oversimplification. Detailed information on Mushi is scarce because the majority of humans are unaware of their existence. So what are Mushi and why do they exist? This is the question that a \"Mushishi,\" Ginko, ponders constantly. Mushishi are those who research Mushi in hopes of understanding their place in the world's hierarchy of life. Ginko chases rumors of occurrences that could be tied to Mushi, all for the sake of finding an answer. It could, after all, lead to the meaning of life itself. [Written by MAL Rewrite]",
+    "title": "Mushishi",
+    "title_english": "Mushi-Shi",
+    "title_japanese": "\u87f2\u5e2b",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/h371H0KIuPo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/457/Mushishi"
+}

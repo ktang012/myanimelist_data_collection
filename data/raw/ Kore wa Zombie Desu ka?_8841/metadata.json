@@ -1,0 +1,161 @@
+{
+    "aired": {
+        "from": "2011-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2011
+            }
+        },
+        "string": "Jan 11, 2011 to Mar 30, 2011",
+        "to": "2011-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "After the conclusion of the anime, a drama CD was released which featured seven cast members reprising their roles.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kizuite Zombie-sama, Watashi wa Classmate desu (\u6c17\u3065\u3044\u3066\u30be\u30f3\u30d3\u3055\u307e\u3001\u79c1\u306f\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u3067\u3059)\" by Rie Yamaguchi with manzo"
+    ],
+    "episodes": 12,
+    "favorites": 3048,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75521.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 8841,
+    "members": 429137,
+    "opening_themes": [
+        "\"Ma\u30fbKa\u30fbSe\u30fbTe Tonight (\u9b54\u30fb\u30ab\u30fb\u30bb\u30fb\u30c6 Tonight)\" by Iori Nomizu"
+    ],
+    "popularity": 145,
+    "premiered": "Winter 2011",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 1534,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23067,
+                "name": "Kore wa Zombie desu ka?",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23067/Kore_wa_Zombie_desu_ka"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10209,
+                "name": "Kore wa Zombie Desu ka? OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10209/Kore_wa_Zombie_Desu_ka_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 10747,
+    "request_cached": true,
+    "request_hash": "request:anime:5f93ff593c7dc1b63561d0a56e5d0adadb562bc5",
+    "score": 7.55,
+    "scored_by": 238368,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Not every zombie is the monstrous, brain-eating type. One night while walking home from the convenience store, regular high school boy Ayumu Aikawa is killed by a serial killer, and is just as suddenly brought back to life by a necromancer named Eucliwood Hellscythe. One small caveat: he's now a zombie. Things get even weirder for him when he accidentally steals a magical girl's uniform, and thus her powers! Haruna, the ex-magical girl, orders him to fight evil creatures known as Megalo in her place until they can figure out a way to get her powers back to her. It seems that life is just going to get stranger and stranger for poor Ayumu from here on out in Kore wa Zombie desu ka?.",
+    "title": "Kore wa Zombie Desu ka?",
+    "title_english": "Is This a Zombie?",
+    "title_japanese": "\u3053\u308c\u306f\u30be\u30f3\u30d3\u3067\u3059\u304b?",
+    "title_synonyms": [
+        "Koreha Zombie Desuka?",
+        "Kore ha Zombie Desu ka?",
+        "Kore wa Zombie Desuka?"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8841/Kore_wa_Zombie_Desu_ka"
+}

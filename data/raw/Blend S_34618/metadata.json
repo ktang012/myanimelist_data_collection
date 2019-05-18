@@ -1,0 +1,138 @@
+{
+    "aired": {
+        "from": "2017-10-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 8, 2017 to Dec 24, 2017",
+        "to": "2017-12-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Detarame na Minus to Plus ni Okeru Blend Ko (\u30c7\u30bf\u30e9\u30e1\u306a\u30de\u30a4\u30ca\u30b9\u3068\u30d7\u30e9\u30b9\u306b\u304a\u3051\u308b\u30d6\u30ec\u30f3\u30c9\u8003)\" by BLEND-A (Azumi Waki, Akari Kito, Anzu Haruno) (eps 1-11)",
+        "\"Bon App\u00e9tit\u2661S (\u307c\u306a\u307a\u3066\u3043\u30fc\u3068\u2661S)\" All staff version by Maika Sakuranomiya (Azumi Waki), Kaho Hinata (Akari Kito), Mafuyu Hoshikawa (Anzu Haruno), Hideri Kanzaki (Sora Tokui), Miu Amano (Atsumi Tanezaki), Dino (Tomoaki Maeno), Kouyou Akizu"
+    ],
+    "episodes": 12,
+    "favorites": 1682,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/88286.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 34618,
+    "members": 255081,
+    "opening_themes": [
+        "\"Bon App\u00e9tit\u2661S (\u307c\u306a\u307a\u3066\u3043\u30fc\u3068\u2661S)\" by Blend A (Azumi Waki, Akari Kito, Anzu Haruno)"
+    ],
+    "popularity": 345,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 1412,
+            "name": "Kansai Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1412/Kansai_Telecasting"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        },
+        {
+            "mal_id": 1554,
+            "name": "Contents Seed",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1554/Contents_Seed"
+        },
+        {
+            "mal_id": 1653,
+            "name": "Kinoshita Group Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1653/Kinoshita_Group_Holdings"
+        },
+        {
+            "mal_id": 1799,
+            "name": "Drecom",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1799/Drecom"
+        }
+    ],
+    "rank": 1556,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 86330,
+                "name": "Blend S",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/86330/Blend_S"
+            }
+        ]
+    },
+    "request_cache_expiry": 19961,
+    "request_cached": true,
+    "request_hash": "request:anime:8f52d896a1c78dd95aeecb11b18d37486b169291",
+    "score": 7.54,
+    "scored_by": 132092,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "High school girl Maika Sakuranomiya has trouble finding a part-time job because of how scary she looks when smiling. However, she is scouted one day by an Italian man who is also the manager of Stile, a caf\u00e9 where its waitresses are given unique traits such as tsundere and younger sister. Maika is given a sadist trait because of her looks and has to adopt a dominant and cruel persona when servicing customers, particularly masochist ones. (Source: Wikipedia)",
+    "title": "Blend S",
+    "title_english": "BLEND-S",
+    "title_japanese": "\u30d6\u30ec\u30f3\u30c9\u30fbS",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/GwD3Ihd4j9w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34618/Blend_S"
+}

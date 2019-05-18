@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2012-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 2, 2012 to Sep 17, 2012",
+        "to": "2012-09-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Jinrui wa Suitai Shimashita adapts content from the first 6 novels of Romeo Tanaka's light novel series of the same title. The anime's order of the story is altered from that of the light novels.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Yume no Naka no Watashi no Yume (\u30e6\u30e1\u306e\u306a\u304b\u30ce\u308f\u305f\u3057\u306e\u30e6\u30e1)\" by Masumi Ito"
+    ],
+    "episodes": 12,
+    "favorites": 1730,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/45704.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10357,
+    "members": 131831,
+    "opening_themes": [
+        "\"Real World (\u30ea\u30a2\u30eb\u30ef\u30fc\u30eb\u30c9)\" by nano.RIPE (eps 1-11)"
+    ],
+    "popularity": 767,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 751,
+            "name": "Marvelous AQL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/751/Marvelous_AQL"
+        }
+    ],
+    "rank": 810,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 24562,
+                "name": "Jinrui wa Suitai Shimashita",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/24562/Jinrui_wa_Suitai_Shimashita"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 15617,
+                "name": "Jinrui wa Suitai Shimashita Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15617/Jinrui_wa_Suitai_Shimashita_Specials"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 16101,
+                "name": "Jinrui wa Suitai Shimashita: Ningen-san no, Yousei-san Memo",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16101/Jinrui_wa_Suitai_Shimashita__Ningen-san_no_Yousei-san_Memo"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:716343dd7c3935079dbe41037150b387cfa74e48",
+    "score": 7.85,
+    "scored_by": 44116,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 88,
+            "name": "AIC A.S.T.A.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+        }
+    ],
+    "synopsis": "Because of the constantly declining birth rates over many decades, human civilization is all but extinct. With only a few humans remaining, they survive in this post-apocalyptic world with what was left behind by the previous generations. Earth is now dominated by fairies, tiny creatures with extremely advanced technology, an obsession with candy, and a complete disregard for human safety. A young girl who has just finished her studies returns to her hometown and is designated as an official United Nations arbitrator. Her duty is to serve as a link between mankind and fairies, reassuring each side that both races can live together peacefully. She imagines this task will be easy enough, but controlling the disasters created by the oblivious fairies in their pursuit of candy will require a lot more effort than she initially believes. [Written by MAL Rewrite]",
+    "title": "Jinrui wa Suitai Shimashita",
+    "title_english": "Humanity Has Declined",
+    "title_japanese": "\u4eba\u985e\u306f\u8870\u9000\u3057\u307e\u3057\u305f",
+    "title_synonyms": [
+        "Jintai"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/bRoSSIcCdWs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10357/Jinrui_wa_Suitai_Shimashita"
+}

@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2007-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Jul 6, 2007 to Dec 18, 2007",
+        "to": "2007-12-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Taishou.a (\u5bfe\u8c61.a)\" by anNina"
+    ],
+    "episodes": 24,
+    "favorites": 5532,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/14114.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 1889,
+    "members": 298022,
+    "opening_themes": [
+        "\"Naraku no Hana (\u5948\u843d\u306e\u82b1)\" by Eiko Shimamiya"
+    ],
+    "popularity": 289,
+    "premiered": "Summer 2007",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 227,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 9548,
+                "name": "Higurashi no Naku Koro ni Kai: Minagoroshi-hen",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/9548/Higurashi_no_Naku_Koro_ni_Kai__Minagoroshi-hen"
+            },
+            {
+                "mal_id": 9738,
+                "name": "Higurashi no Naku Koro ni Kai: Matsuribayashi-hen",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/9738/Higurashi_no_Naku_Koro_ni_Kai__Matsuribayashi-hen"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 934,
+                "name": "Higurashi no Naku Koro ni",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 3652,
+                "name": "Higurashi no Naku Koro ni Rei",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3652/Higurashi_no_Naku_Koro_ni_Rei"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 6064,
+                "name": "Higurashi no Naku Koro ni Kai Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6064/Higurashi_no_Naku_Koro_ni_Kai_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:32d4953ac66f2276033df7a0c8e14dcd44601981",
+    "score": 8.32,
+    "scored_by": 158999,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "In the small village of Hinamizawa, Rika Furude and her friends live together in relative harmony. Beneath this mask of peace, however, lies a hidden darkness, one that Rika understands all too well. In this eternal summer, she has been witness to unspeakable horrors. Every time the clock resets, Rika must try to find the villain behind these senseless deaths before tragedy strikes again. However, trying to decipher a mystery when only half the clues are present proves time and again to be disastrous, and each time she believes that things will change, she inevitably fails. As the annual festival approaches, Rika begins her descent from hope to despair in her struggle to break the chains of fate entangling them all. [Written by MAL Rewrite]",
+    "title": "Higurashi no Naku Koro ni Kai",
+    "title_english": "When They Cry: Kai",
+    "title_japanese": "\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b\u89e3",
+    "title_synonyms": [
+        "Higurashi no Naku Koro ni 2",
+        "Higurashi no Naku Koro ni 2nd Series",
+        "Higurashi no Nakukoro ni 2nd Season",
+        "The Moment the Cicadas Cry 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ZyE7CjLgNSk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai"
+}

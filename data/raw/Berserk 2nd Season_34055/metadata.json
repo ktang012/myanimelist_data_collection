@@ -1,0 +1,225 @@
+{
+    "aired": {
+        "from": "2017-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 7, 2017 to Jun 23, 2017",
+        "to": "2017-06-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Issai wa Monogatari (\u4e00\u5207\u306f\u7269\u8a9e)\" by Yoshino Nanjo feat. Nagi Yanagi"
+    ],
+    "episodes": 12,
+    "favorites": 315,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/85296.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 34055,
+    "members": 87293,
+    "opening_themes": [
+        "\"Sacrifice (\u30b5\u30af\u30ea\u30d5\u30a1\u30a4\u30b9)\" by 9mm Parabellum Bullet"
+    ],
+    "popularity": 1117,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 33,
+            "name": "WOWOW",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1123,
+            "name": "Lucent Pictures Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1123/Lucent_Pictures_Entertainment"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1498,
+            "name": "Koei Tecmo Games",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1498/Koei_Tecmo_Games"
+        }
+    ],
+    "rank": 3680,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 2,
+                "name": "Berserk",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/2/Berserk"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 32379,
+                "name": "Berserk",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32379/Berserk"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35676,
+                "name": "Berserk: Majo no Tsuisou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35676/Berserk__Majo_no_Tsuisou"
+            }
+        ]
+    },
+    "request_cache_expiry": 6235,
+    "request_cached": true,
+    "request_hash": "request:anime:362c545cc49a1cddaf942a4b3d60c37024392e99",
+    "score": 7.01,
+    "scored_by": 43954,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1237,
+            "name": "Millepensee",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1237/Millepensee"
+        },
+        {
+            "mal_id": 1381,
+            "name": "GEMBA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1381/GEMBA"
+        }
+    ],
+    "synopsis": "Demons have now become commonplace around the kingdom of Midland, which has fallen into chaos. The swordsman Guts still cannot stay in one place for long due to his demonic brand. He could always manage to protect himself when he was alone, but now he has the added challenge of protecting former Commander Casca, a shell of her former self who neither remembers nor trusts him. They never have a moment's rest with the constant threat of demons, and they need a place where Casca will be safe till they find a way to heal her. Their elf ally, Puck, tells of the mystical land of Elfhelm, which is supposed to be a safe haven from the demons that ravage the lands. Tired and with only a vague hope, they struggle on to find a place to live\u2014and they still need to find those responsible for the madness they are forced to endure. [Written by MAL Rewrite]",
+    "title": "Berserk 2nd Season",
+    "title_english": "Berserk",
+    "title_japanese": "\u30d9\u30eb\u30bb\u30eb\u30af",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/tbx0PAsWiKw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34055/Berserk_2nd_Season"
+}

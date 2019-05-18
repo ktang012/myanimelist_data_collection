@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2012-07-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 1, 2012 to Sep 16, 2012",
+        "to": "2012-09-16T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first episode received an early preview screening as part of an event limited to 150 attendees at Cinemart Roppongi theatre on June 29, 2012. Regular TV broadcast started on July 1, 2012.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Pieces of Treasure\" by Liberta & Nova (CV.Jun Fukuyama & Tsubasa Yonaga)"
+    ],
+    "episodes": 12,
+    "favorites": 297,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/39495.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 12967,
+    "members": 144159,
+    "opening_themes": [
+        "\"Magenta Another Sky\" by Hitomi Harada"
+    ],
+    "popularity": 700,
+    "premiered": "Summer 2012",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 6461,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35507,
+                "name": "Arcana Famiglia: Amore Mangiare Cantare!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35507/Arcana_Famiglia__Amore_Mangiare_Cantare"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 15411,
+                "name": "Arcana Famiglia: Capriccio - stile Arcana Famiglia",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15411/Arcana_Famiglia__Capriccio_-_stile_Arcana_Famiglia"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:174516cd67b65ef00f8ab5d908c3f5216fa392dd",
+    "score": 6.39,
+    "scored_by": 67899,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "\u200bOn the island of Regalo, a group of supernaturally powered mafia-like protectors called the Arcana Famiglia safeguard the people from any who would harm them. The members of their organization, having made contracts with tarot cards, each possess different abilities, such as overwhelming strength, invisibility, or the power to see into someone's heart. Mondo, their leader and the \"Papa\" of their family, announces at his birthday party that he will be retiring soon. He plans to hold the Arcana Duello, a competition that, if won, will grant the winner the title of Papa and any wish they desire. But there is more at stake than just a title: Mondo also decides that the winner will marry his daughter, Felicit\u00e0. Enraged by this, the strong-willed Felicit\u00e0 decides to enter the competition herself, in order to make her own way in the world. As Felicit\u00e0 battles for her freedom, her competitors battle for her heart. [Written by MAL Rewrite]",
+    "title": "Arcana Famiglia",
+    "title_english": "La storia della Arcana Famiglia",
+    "title_japanese": "\u30a2\u30eb\u30ab\u30ca\u30fb\u30d5\u30a1\u30df\u30ea\u30a2 \uff0dLa storia della Arcana Famiglia\uff0d",
+    "title_synonyms": [
+        "Arcana Famiglia: La Storia Della Arcana Famiglia"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/apjYHRa1mdM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12967/Arcana_Famiglia"
+}

@@ -1,0 +1,171 @@
+{
+    "aired": {
+        "from": "2012-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 7,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Apr 5, 2012 to Jun 7, 2012",
+        "to": "2012-06-07T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first 2 episodes received an early screening at a special event held at Kadokawa Cinema Shinjuku on January 13, 2012. The regular broadcast started on April 5, 2012.",
+    "broadcast": "Thursdays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Koi no Beginner Nan Desu (T_T) (\u604b\u306e\u30d3\u30ae\u30ca\u30fc\u306a\u3093\u3067\u3059\uff08T_T\uff09)\" by Rie Yamaguchi"
+    ],
+    "episodes": 10,
+    "favorites": 706,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/37451.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 10790,
+    "members": 263088,
+    "opening_themes": [
+        "\"*** Passionate (***\u30d1\u30b7\u30e7\u30ca\u30fc\u30c8)\" by Iori Nomizu"
+    ],
+    "popularity": 331,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        }
+    ],
+    "rank": 1174,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23067,
+                "name": "Kore wa Zombie desu ka?",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23067/Kore_wa_Zombie_desu_ka"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 10209,
+                "name": "Kore wa Zombie Desu ka? OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10209/Kore_wa_Zombie_Desu_ka_OVA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 15437,
+                "name": "Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15437/Kore_wa_Zombie_Desu_ka_of_the_Dead__Hai_Minotake_ni_Attemasu"
+            }
+        ]
+    },
+    "request_cache_expiry": 10143,
+    "request_cached": true,
+    "request_hash": "request:anime:3fdd1f55ca9dc9ac80e00edcece40d6ed05e4014",
+    "score": 7.68,
+    "scored_by": 153343,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Aikawa Ayumu was revived as a zombie by the cute necromancer Eucliwood Hellscythe. After the zany, madcap adventures in the first season of Is This a Zombie? ended, Ayumu thought his life might finally get back to normal, or as normal as it can be for a zombie. However, destiny has other plans for him. Some guys just can't catch a break. (Source: FUNimation)",
+    "title": "Kore wa Zombie Desu ka? of the Dead",
+    "title_english": "Is this A Zombie? of the Dead",
+    "title_japanese": "\u3053\u308c\u306f\u30be\u30f3\u30d3\u3067\u3059\u304b? OF THE DEAD",
+    "title_synonyms": [
+        "Kore wa Zombie Desu ka? 2",
+        "Koreha Zombie Desu ka? Jigokuhen",
+        "Kore ha Zombie Desu ka? Jigokuhen",
+        "Kore wa Zombie Desu ka? Jigokuhen",
+        "Kore wa Zombie Desuka? of the Dead"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/n0fxucDfq6Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10790/Kore_wa_Zombie_Desu_ka_of_the_Dead"
+}

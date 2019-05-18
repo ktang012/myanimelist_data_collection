@@ -1,0 +1,158 @@
+{
+    "aired": {
+        "from": "2017-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 11, 2017 to Sep 26, 2017",
+        "to": "2017-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 21:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"JUMPin' JUMP UP!!!!\" by fourfolium [Aoba Suzukaze (Yuuki Takada), Hifumi Takimoto (Megumi Yamaguchi), Hajime Shinoda (Megumi Toda), Yun Iijima (Ayumi Takeo)] (eps 1-6)",
+        "\"Yumeiro Compass\" by fourfolium [Aoba Suzukaze (Yuuki Takada), Hifumi Takimoto (Megumi Yamaguchi), Hajime Shinoda (Megumi Toda), Yun Iijima (Ayumi Takeo)] (eps 7-12)"
+    ],
+    "episodes": 12,
+    "favorites": 625,
+    "genres": [
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/86790.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34914,
+    "members": 140603,
+    "opening_themes": [
+        "\"STEP by STEP UP\u2191\u2191\u2191\u2191\" by fourfolium [Aoba Suzukaze (Yuuki Takada), Hifumi Takimoto (Megumi Yamaguchi), Hajime Shinoda (Megumi Toda), Yun Iijima (Ayumi Takeo)]"
+    ],
+    "popularity": 716,
+    "premiered": "Summer 2017",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        }
+    ],
+    "rank": 756,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 62509,
+                "name": "New Game!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/62509/New_Game"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 34277,
+                "name": "New Game!: Watashi, Shain Ryokou tte Hajimete nano de...",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34277/New_Game__Watashi_Shain_Ryokou_tte_Hajimete_nano_de"
+            }
+        ]
+    },
+    "request_cache_expiry": 2237,
+    "request_cached": true,
+    "request_hash": "request:anime:701ebf112cc672aa803a20782c981ac63a80dae1",
+    "score": 7.88,
+    "scored_by": 66777,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "\u200bIt has been a year since Aoba Suzukaze started working at the Eagle Jump game company. In that time, she and her eccentric coworkers in the character design department have worked hard to release the company's newest game: Fairies Story 3. With their latest title now complete, a new project must begin\u2014starting with a contest to decide the character designs for the upcoming game. Through hard work, dedication, and some guidance from the previous character designer, Kou Yagami, Aoba wins the contest and begins her new role as lead character designer. However, her new job is not an easy one. In addition to having extra work and longer hours, Aoba questions whether she is the right fit for the job. New Game!! continues as Aoba overcomes her inexperience with the help of her friends and coworkers, willing to face any challenge to make Eagle Jump's newest creation, a cutesy game called Peco. [Written by MAL Rewrite]",
+    "title": "New Game!!",
+    "title_english": "New Game!!",
+    "title_japanese": "NEW GAME!!",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Jl4nGITlXyw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34914/New_Game"
+}

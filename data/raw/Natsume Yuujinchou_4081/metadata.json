@@ -1,0 +1,148 @@
+{
+    "aired": {
+        "from": "2008-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Jul 8, 2008 to Sep 30, 2008",
+        "to": "2008-09-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Natsume Yuujinchou was licensed for an English release as Natsume's Book of Friends by NIS America, Inc. It was released October 9, 2012 as a Season 1 and 2 DVD Premium Edition followed by a DVD Standard Edition release February 4, 2014. It is currently streaming on Crunchyroll and Hulu.",
+    "broadcast": "Tuesdays at 01:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Natsu Yuuzora (\u590f\u5915\u7a7a; Summer Evening Sky)\" by Kousuke Atari"
+    ],
+    "episodes": 13,
+    "favorites": 11243,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/28859.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 4081,
+    "members": 320675,
+    "opening_themes": [
+        "\"Issei no Sei (\u4e00\u6589\u306e\u58f0; Simultaneous Voice)\" by Shuhei Kita"
+    ],
+    "popularity": 260,
+    "premiered": "Summer 2008",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 717,
+            "name": "TV Tokyo Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        }
+    ],
+    "rank": 183,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1859,
+                "name": "Natsume Yuujinchou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1859/Natsume_Yuujinchou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 5300,
+                "name": "Zoku Natsume Yuujinchou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:1c016324747ad2516bc8ebf1e95cf8bc69d3c1ca",
+    "score": 8.38,
+    "scored_by": 118354,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "While most fifteen-year-old boys, in one way or another, harbor secrets that are related to girls, Takashi Natsume has a peculiar and terrifying secret involving youkai: for as long as he can remember, he has been constantly chased by these spirits. Natsume soon discovers that his deceased grandmother Reiko had passed on to him the Yuujinchou, or \"Book of Friends,\" which contains the names of the spirits whom she brought under her control. Now in Natsume's possession, the book gives Reiko's grandson this power as well, which is why these enraged beings now haunt him in hopes of somehow attaining their freedom. Without parents and a loving home, and constantly being hunted by hostile, merciless youkai, Natsume is looking for solace\u2014a place where he belongs. However, his only companion is a self-proclaimed bodyguard named Madara. Fondly referred to as Nyanko-sensei, Madara is a mysterious, pint-sized feline spirit who has his own reasons for sticking with the boy. Based on the critically acclaimed manga by Yuki Midorikawa, Natsume Yuujinchou is an unconventional and supernatural slice-of-life series that follows Natsume as he, with his infamous protector Madara, endeavors to free the spirits bound by his grandmother's contract. [Written by MAL Rewrite]",
+    "title": "Natsume Yuujinchou",
+    "title_english": "Natsume's Book of Friends",
+    "title_japanese": "\u590f\u76ee\u53cb\u4eba\u5e33",
+    "title_synonyms": [
+        "Natsume Yujincho",
+        "Natsume Yujin-cho"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/mea4xITAo_4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou"
+}

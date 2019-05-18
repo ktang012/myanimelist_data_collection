@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2014-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 4, 2014 to Sep 19, 2014",
+        "to": "2014-09-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"unravel\" by TK from Ling Tosite Sigure (eps 1, 12)",
+        "\"Seijatachi (\u8056\u8005\u305f\u3061)\" by People In The Box (eps 2-11)"
+    ],
+    "episodes": 12,
+    "favorites": 33306,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 22319,
+    "members": 1204189,
+    "opening_themes": [
+        "\"unravel\" by TK from Ling Tosite Sigure (eps 2-11)"
+    ],
+    "popularity": 6,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 751,
+            "name": "Marvelous AQL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/751/Marvelous_AQL"
+        },
+        {
+            "mal_id": 1283,
+            "name": "TC Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1283/TC_Entertainment"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 609,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 33327,
+                "name": "Tokyo Ghoul",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 27899,
+                "name": "Tokyo Ghoul \u221aA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27899/Tokyo_Ghoul_\u221aA"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 30458,
+                "name": "Tokyo Ghoul: \"Jack\"",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30458/Tokyo_Ghoul__Jack"
+            },
+            {
+                "mal_id": 31297,
+                "name": "Tokyo Ghoul: \"Pinto\"",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31297/Tokyo_Ghoul__Pinto"
+            }
+        ]
+    },
+    "request_cache_expiry": 25397,
+    "request_cached": true,
+    "request_hash": "request:anime:297fdd81aaabd39140a63054824c8ca1deaf9829",
+    "score": 7.97,
+    "scored_by": 777698,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ],
+    "synopsis": "Tokyo has become a cruel and merciless city\u2014a place where vicious creatures called \u201cghouls\u201d exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite]",
+    "title": "Tokyo Ghoul",
+    "title_english": "Tokyo Ghoul",
+    "title_japanese": "\u6771\u4eac\u55b0\u7a2e-\u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb-",
+    "title_synonyms": [
+        "Tokyo Kushu",
+        "Toukyou Kushu",
+        "Toukyou Ghoul"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/vGuQeQsoRgU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
+}

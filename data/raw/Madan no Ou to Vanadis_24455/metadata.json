@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2014-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Oct 4, 2014 to Dec 27, 2014",
+        "to": "2014-12-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Madan no Ou to Vanadis adapts the first 5 novels of Tsukasa Kawaguchi's light novel series of the same title.",
+    "broadcast": "Saturdays at 20:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Schwarzer Bogen\" by Hitomi Harada (eps 1-9, 11-13)",
+        "\"Ryuusei Chinkonka (\u7adc\u661f\u93ae\u9b42\u6b4c)\" by Konomi Suzuki (ep 10)"
+    ],
+    "episodes": 13,
+    "favorites": 740,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/64911.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 24455,
+    "members": 200394,
+    "opening_themes": [
+        "\"Ginsen no Kaze (\u9280\u9583\u306e\u98a8)\" by Konomi Suzuki"
+    ],
+    "popularity": 479,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 2542,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 43393,
+                "name": "Madan no Ou to Vanadis",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/43393/Madan_no_Ou_to_Vanadis"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 27857,
+                "name": "Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27857/Madan_no_Ou_to_Vanadis__Tigre-kun_to_Vanadi-chu"
+            },
+            {
+                "mal_id": 39011,
+                "name": "Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu Episode 0",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39011/Madan_no_Ou_to_Vanadis__Tigre-kun_to_Vanadi-chu_Episode_0"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2d012ef188a0377e219e297b4de0588abd8e52a5",
+    "score": 7.29,
+    "scored_by": 102563,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ],
+    "synopsis": "In a fantasy version of Europe, a war between enemy countries is brewing. One of these countries, Zhcted, has its seven regions ruled by War Maidens, known as Vanadis. Equipped with powerful dragon-carved weapons, Eleonora \"Elen\" Viltaria, one of the Vanadis, launches an invasion against their neighboring rival country of Brune. Eventually, Tigrevurmud \"Tigre\" Vorn, a young archer and an earl for Brune's region of Alsace, has his entire army decimated at Elen's hands. In a strange twist of events, Elen spares Tigre, and gives him the order, \"Become mine!\" What could be the meaning behind this new alliance? Adapted from the light novel written by Tsukasa Kawaguchi, Madan no Ou to Vanadis is an epic adventure filled with complex war tactics and beautiful women. Trapped in a multinational conflict, Tigre and Elen are swept up in a war filled with dark secrets, conspiracies, and corruption. [Written by MAL Rewrite]",
+    "title": "Madan no Ou to Vanadis",
+    "title_english": "Lord Marksman and Vanadis",
+    "title_japanese": "\u9b54\u5f3e\u306e\u738b\u3068\u6226\u59eb (\u30f4\u30a1\u30ca\u30c7\u30a3\u30fc\u30b9)",
+    "title_synonyms": [
+        "Madan no Ou to Senki",
+        "The King of the Magic Bullet and Vanadis"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/TWhNpVbkdo0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/24455/Madan_no_Ou_to_Vanadis"
+}

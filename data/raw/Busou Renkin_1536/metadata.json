@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2006-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 5, 2006 to Mar 29, 2007",
+        "to": "2007-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hoshi Akari\" by Jyukai (eps 1-14, 26)",
+        "\"Itoshiki Sekai\" by Aya Kagami (eps 15-25)"
+    ],
+    "episodes": 26,
+    "favorites": 835,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/75566.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 1536,
+    "members": 134623,
+    "opening_themes": [
+        "\"Makka na Chikai\" by Fukuyama Yoshiki (eps 2-26)"
+    ],
+    "popularity": 745,
+    "premiered": "Fall 2006",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 1926,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 41,
+                "name": "Busou Renkin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/41/Busou_Renkin"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 39316,
+                "name": "Busou Renkin: Mahiro no Busou Renkin Kouza",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39316/Busou_Renkin__Mahiro_no_Busou_Renkin_Kouza"
+            }
+        ]
+    },
+    "request_cache_expiry": 17150,
+    "request_cached": true,
+    "request_hash": "request:anime:7cc970a01c557920f241a75ef50b5381a4279b83",
+    "score": 7.43,
+    "scored_by": 62074,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "The story begins when high school student Kazuki Muto is killed one night saving a mysterious girl from a monster, only to wake up in his school dorm, believing it to have been a dream; however, he soon finds out that dream wasn't a dream at all when a giant serpentine monster attacks him and his sister. Tokiko Tsumura, the girl he saved, explains that the monster is a homunculus. Kazuki had been attacked and killed by it when he was rescuing her; however, she, feeling responsible for him, revived him by placing a Kakugane medallion in his chest, serving as a replacement heart. The Kakugane, as Tokiko explains, is an alchemical device that, when activated, takes a certain form based on the Kakugane's user, forming a unique Buso Renkin. The Buso Renkin is the only thing that can destroy a homunculus monster. Using this, Kazuki creates his own Buso Renkin (the \"Sunlight Heart,\" a huge lance). Along with Tokiko and her own Buso Renkin (the \"Valkyrie Skirt,\" an execution scythe), Kazuki joins the fight against the homunculi and their master.",
+    "title": "Busou Renkin",
+    "title_english": "Buso Renkin",
+    "title_japanese": "\u6b66\u88c5\u932c\u91d1",
+    "title_synonyms": [
+        "BoRe",
+        "BuRe",
+        "Arms Alchemy"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/1536/Busou_Renkin"
+}

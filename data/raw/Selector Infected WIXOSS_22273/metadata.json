@@ -1,0 +1,138 @@
+{
+    "aired": {
+        "from": "2014-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 4, 2014 to Jun 20, 2014",
+        "to": "2014-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"realize -Yume no Matsu Basho- (realize -\u5922\u306e\u5f85\u3064\u5834\u6240-)\" by Cyua (eps 1-10)",
+        "\"realize -Yume no Matsu Basho- ~White Hope mix~  (realize -\u5922\u306e\u5f85\u3064\u5834\u6240- ~White Hope mix~)\" by Cyua (ep 11)"
+    ],
+    "episodes": 12,
+    "favorites": 537,
+    "genres": [
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/70147.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 22273,
+    "members": 110843,
+    "opening_themes": [
+        "\"killy killy JOKER\" by Kanon Wakeshima"
+    ],
+    "popularity": 927,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2351,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Alternative setting": [
+            {
+                "mal_id": 33197,
+                "name": "Lostorage Incited WIXOSS",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33197/Lostorage_Incited_WIXOSS"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24037,
+                "name": "Selector Spread WIXOSS",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24037/Selector_Spread_WIXOSS"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 27613,
+                "name": "Selector Infected WIXOSS: Midoriko-san to Piruruku-tan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27613/Selector_Infected_WIXOSS__Midoriko-san_to_Piruruku-tan"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 31280,
+                "name": "Selector Destructed WIXOSS Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31280/Selector_Destructed_WIXOSS_Movie"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5fda3ca389c17416ab2508a4736fc56ac8e8218c",
+    "score": 7.34,
+    "scored_by": 47587,
+    "source": "Card game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Things are not always what they seem. This is especially true for Ruuko Kominato, when she receives a deck of cards for the popular card game WIXOSS, only to find a girl trapped inside her LRIG, or avatar card. Upon meeting others in the same situation, Ruuko discovers that she has now become a \"Selector,\" a player in a special version of WIXOSS where girls can battle each other for a chance to have their deepest desires come true. However, there is a catch. In contrast to the glory that awaits them after their victories, there is a cruel fate: if they lose three times, their lives will be destroyed. In an ominous game filled with lies and deceit, Ruuko and her newfound friends must uncover the secrets behind WIXOSS and realize what is truly most important to them before it is too late. [Written by MAL Rewrite]",
+    "title": "Selector Infected WIXOSS",
+    "title_english": "selector infected WIXOSS",
+    "title_japanese": "selector infected WIXOSS",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/79wyK0ztwc0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22273/Selector_Infected_WIXOSS"
+}

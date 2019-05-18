@@ -1,0 +1,166 @@
+{
+    "aired": {
+        "from": "2017-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 9, 2017 to Sep 24, 2017",
+        "to": "2017-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 23:00 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"A Page of My Story\" by Ange (Ayaka Imamura), Princess (Akira Sekine), Dorothy (You Taichi), Beatrice (Akari Kageyama), Chise (Nozomi Furuki) (eps 1-11)",
+        "\"The Other Side of the Wall\" by Void_Chords feat.MARU (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 917,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/86768.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 35240,
+    "members": 115456,
+    "opening_themes": [
+        "\"The Other Side of the Wall\" by Void_Chords feat.MARU"
+    ],
+    "popularity": 889,
+    "premiered": "Summer 2017",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1287,
+            "name": "Q-Tec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        }
+    ],
+    "rank": 1135,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Sequel": [
+            {
+                "mal_id": 37807,
+                "name": "Princess Principal 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37807/Princess_Principal_2"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 36485,
+                "name": "Princess Principal Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36485/Princess_Principal_Picture_Drama"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 36424,
+                "name": "Princess Principal: Ange Report",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36424/Princess_Principal__Ange_Report"
+            }
+        ]
+    },
+    "request_cache_expiry": 7451,
+    "request_cached": true,
+    "request_hash": "request:anime:85dbb5a07136f757e25c14114cfc159a944bc5cd",
+    "score": 7.7,
+    "scored_by": 42835,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 60,
+            "name": "Actas",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/60/Actas"
+        },
+        {
+            "mal_id": 1127,
+            "name": "Studio 3Hz",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+        }
+    ],
+    "synopsis": "In the early 20th century, the discovery of the substance Cavorite allowed the production of advanced military technology and steered the country toward conflict. London is now divided by a wall, and the Kingdom and the Commonwealth of Albion battle a silent war where espionage is the only weapon that can destabilize the enemy. A group of girls from the prestigious Queen's Mayfaire school work as undercover spies for the Commonwealth. Led by Dorothy, an experienced driver with a striking personality, their group includes the talents of Ange le Carr\u00e9, a cold-blooded liar and expert sharpshooter; Chise, a proficient samurai; and Beatrice, a voice-mimicking specialist. They use their unique individual skills for the Commonwealth to survive in a dark world filled with conspiracy, mystery, and infiltration. In the shadow of the war, they have only one goal in mind: completing their mission. [Written by MAL Rewrite]",
+    "title": "Princess Principal",
+    "title_english": "Princess Principal",
+    "title_japanese": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30d7\u30ea\u30f3\u30b7\u30d1\u30eb",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/pp70baXff_Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35240/Princess_Principal"
+}

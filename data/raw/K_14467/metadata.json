@@ -1,0 +1,188 @@
+{
+    "aired": {
+        "from": "2012-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 5, 2012 to Dec 28, 2012",
+        "to": "2012-12-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tsumetai Heya, Hitori (\u51b7\u305f\u3044\u90e8\u5c4b\u3001\u4e00\u4eba)\" by Neko (Mikako Komatsu) (eps 2-5, 7-12)",
+        "\"Circle of Friends\" by Tatara Totsuka (Yuki Kaji) (ep 6)",
+        "\"To be with U!\" by angela (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 5673,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/47607.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 14467,
+    "members": 450586,
+    "opening_themes": [
+        "\"KINGS\" by angela"
+    ],
+    "popularity": 133,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        }
+    ],
+    "rank": 1255,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 41435,
+                "name": "K: Memory of Red",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/41435/K__Memory_of_Red"
+            },
+            {
+                "mal_id": 45451,
+                "name": "K: Stray Dog Story",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/45451/K__Stray_Dog_Story"
+            },
+            {
+                "mal_id": 47028,
+                "name": "K Side:Blue",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/47028/K_Side_Blue"
+            },
+            {
+                "mal_id": 47030,
+                "name": "K Side:Red",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/47030/K_Side_Red"
+            },
+            {
+                "mal_id": 51769,
+                "name": "K Side:Black & White",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/51769/K_Side_Black___White"
+            },
+            {
+                "mal_id": 59675,
+                "name": "K: Days of Blue",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/59675/K__Days_of_Blue"
+            },
+            {
+                "mal_id": 61999,
+                "name": "K: The First",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/61999/K__The_First"
+            },
+            {
+                "mal_id": 62001,
+                "name": "Gakuen K",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/62001/Gakuen_K"
+            },
+            {
+                "mal_id": 69399,
+                "name": "K: Lost Small World",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/69399/K__Lost_Small_World"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 33248,
+                "name": "K: Seven Stories Movie 1 - R:B - Blaze",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33248/K__Seven_Stories_Movie_1_-_R_B_-_Blaze"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16904,
+                "name": "K: Missing Kings",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16904/K__Missing_Kings"
+            }
+        ]
+    },
+    "request_cache_expiry": 28707,
+    "request_cached": true,
+    "request_hash": "request:anime:7ff17090c3bf0b987dba163f1183f676232e0446",
+    "score": 7.65,
+    "scored_by": 229160,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 309,
+            "name": "GoHands",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+    ],
+    "synopsis": "\"Kings\" are individuals who have been bestowed with incredible supernatural powers and granted the ability to recruit others into their clans. Protecting the lives and honor of their clansmen is an integral part of the Kings' duties. After a video depicting the heinous murder of a Red Clansman spreads virally, the unassuming student Yashiro Isana is accused of homicide. Now, a manhunt is underway for his head, bringing him into contact with the infamous \"Black Dog\" Kurou Yatogami\u2014a skilled swordsman and martial artist determined to follow the wishes of his late master, the Seventh King. Meanwhile, the current Red King, Mikoto Suou, faces his own imminent demise as the search for Yashiro narrows. But during Yashiro's struggle to prove his innocence, a greater conspiracy is unraveling behind the scenes; clouds begin to appear in his memory, and close friends start to question his very existence. What began as a simple murder is now leading towards a full blown war between Kings with the very fate of the world at stake. [Written by MAL Rewrite]",
+    "title": "K",
+    "title_english": "K",
+    "title_japanese": "K",
+    "title_synonyms": [
+        "K-Project",
+        "K -eine weitere Geschichte-"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/M8PR0FuTJBI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14467/K"
+}

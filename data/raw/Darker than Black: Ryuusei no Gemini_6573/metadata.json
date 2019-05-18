@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2009-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 9, 2009 to Dec 25, 2009",
+        "to": "2009-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"From Dusk Till Dawn\" by abingdon boys school"
+    ],
+    "episodes": 12,
+    "favorites": 1483,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/50373.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 6573,
+    "members": 296927,
+    "opening_themes": [
+        "\"Tsukiakari no Michishirube\" by STEREOPONY"
+    ],
+    "popularity": 291,
+    "premiered": "Fall 2009",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 1528,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Prequel": [
+            {
+                "mal_id": 7338,
+                "name": "Darker than Black: Kuro no Keiyakusha Gaiden",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7338/Darker_than_Black__Kuro_no_Keiyakusha_Gaiden"
+            }
+        ]
+    },
+    "request_cache_expiry": 11599,
+    "request_cached": true,
+    "request_hash": "request:anime:50129e06746e37c36c76c3e6643b4af4d1e7dada",
+    "score": 7.55,
+    "scored_by": 174365,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "One night, as meteors streak across the star-studded sky, Shion Pavlichenko becomes a Contractor. Despite her brother's transformation, Shion's twin sister Suou continues to live a fairly ordinary life, attending middle school with her friends and getting caught up in the awkwardness of growing up. However, everything changes when her home is invaded by a masked man cloaked in black, destroying any sense of normality she once had. Revealed to possess latent Contractor abilities of her own, Suou is caught between family, friends, and her own sense of purpose as she ventures into the ruthless world of cutthroats and espionage that Contractors call home. Meanwhile in Tokyo, investigation surrounding Hell's Gate's sudden collapse is underway, and prophetic signs of doom point in the direction of a silver-haired doll. [Written by MAL Rewrite]",
+    "title": "Darker than Black: Ryuusei no Gemini",
+    "title_english": "Darker than Black: Gemini of the Meteor",
+    "title_japanese": "DARKER THAN BLACK \u6d41\u661f\u306e\u53cc\u5b50",
+    "title_synonyms": [
+        "Darker than BLACK 2nd Season",
+        "Darker than BLACK Second Season",
+        "DTB2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3GpMgeiMAkY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6573/Darker_than_Black__Ryuusei_no_Gemini"
+}

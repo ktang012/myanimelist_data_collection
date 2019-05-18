@@ -1,0 +1,127 @@
+{
+    "aired": {
+        "from": "2014-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 11, 2014 to Mar 29, 2014",
+        "to": "2014-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Himitsu no Door kara Ai ni Kite (\u79d8\u5bc6\u306e\u6249\u304b\u3089\u4f1a\u3044\u306b\u304d\u3066)\" by Yukari Tamura (eps 1, 12)",
+        "\"Mogitate \u2665 Fruit Girls (\u3082\u30fb\u304e\u30fb\u305f\u30fb\u3066\u2665\u30d5\u30eb\u30fc\u30c4\u30ac\u30fc\u30eb\u30ba)\" by Ringo Kinoshita (Yukari Tamura) and Minori Nakazawa (Kana Hanazawa) (eps 2, 4-7, 9)",
+        "\"Minori no Zokkon Mirai Yohou (\u307f\u306e\u308a\u306e\u305e\u3063\u3053\u3093\u672a\u6765\u4e88\u5831\u2665)\" by Minori Nakazawa (CV: Kana Hanazawa) (ep 3)",
+        "\"Ponytail no Shijuu (\u30dd\u30cb\u30fc\u30c6\u30fc\u30eb\u306e\u56db\u5341)\". by Bekki Natsumi (CV: Chiwa Saito) (ep 8)",
+        "\"Kimi to New Day (\u541b\u3068\uff0a\u306b\u3085\u3046\uff0aDAY\u2661)\" by Kochou Yoshida (CV: Marina Inoue) (ep 10)",
+        "\"Cordless\u2606Dere\u2606PHONE (\u30b3\u30fc\u30c9\u30ec\u30b9\u2606\u7167\u308c\u2606PHONE)\" by Ringo Kinoshita (CV: Yukari Tamura) (ep 11)"
+    ],
+    "episodes": 12,
+    "favorites": 179,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/57563.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 18095,
+    "members": 115208,
+    "opening_themes": [
+        "\"Cordless\u2606Dere\u2606PHONE (\u30b3\u30fc\u30c9\u30ec\u30b9\u2606\u7167\u308c\u2606PHONE)\" by Yuka Kusakabe (Yukari Tamura) (ep 1)",
+        "\"Himitsu no Door kara Ai ni Kite (\u79d8\u5bc6\u306e\u6249\u304b\u3089\u4f1a\u3044\u306b\u304d\u3066)\" by Yukari Tamura (eps 2-11)"
+    ],
+    "popularity": 894,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        }
+    ],
+    "rank": 4071,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 48721,
+                "name": "Nourin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/48721/Nourin"
+            }
+        ]
+    },
+    "request_cache_expiry": 37647,
+    "request_cached": true,
+    "request_hash": "request:anime:e0a303572f5558aef1ad3a38eb575545a309a4b6",
+    "score": 6.91,
+    "scored_by": 49481,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "Idol-obsessed Kousaku Hata is left devastated when his favorite, Yuka Kusakabe, unexpectedly announces her retirement at the peak of an illustrious career. As Yuka\u2019s biggest fan, this news proves to be more difficult than he can bear. Shaken to his very core, he sinks into depression and places himself in self-imposed isolation. However, on the day his friends managed to convince him to attend school again, he gets a pleasant surprise. It turns out that his beloved idol, under the guise of Ringo Kinoshita, has transferred into his class. This miraculous development fills Kousaku with newfound resolve, as he dedicates himself to take advantage of the once-in-a-lifetime opportunity. With the support of his teacher and friends, Kousaku works toward getting close to the girl of his dreams and uncovering the reason for her retirement from the entertainment industry. [Written by MAL Rewrite]",
+    "title": "Nourin",
+    "title_english": "No-Rin",
+    "title_japanese": "\u306e\u3046\u308a\u3093",
+    "title_synonyms": [
+        "Agriculture and Forestry"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/1Dhxhd8JWJY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18095/Nourin"
+}

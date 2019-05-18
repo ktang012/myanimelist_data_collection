@@ -1,0 +1,174 @@
+{
+    "aired": {
+        "from": "2010-01-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Jan 5, 2010 to Mar 23, 2010",
+        "to": "2010-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 22:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"my starry boy\" by Nakahara Mai"
+    ],
+    "episodes": 12,
+    "favorites": 210,
+    "genres": [
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75252.jpg",
+    "licensors": [
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        }
+    ],
+    "mal_id": 7148,
+    "members": 137383,
+    "opening_themes": [
+        "\"LOVE x HEAVEN\" by Ayako Kawasumi, Mai Nakahara, Rie Kugimiya and Ami Koshimizu"
+    ],
+    "popularity": 735,
+    "premiered": "Winter 2010",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 789,
+            "name": "BIGLOBE",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/789/BIGLOBE"
+        }
+    ],
+    "rank": 4636,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 15937,
+                "name": "Ladies versus Butlers!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/15937/Ladies_versus_Butlers"
+            },
+            {
+                "mal_id": 17417,
+                "name": "Ladies versus Butlers!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17417/Ladies_versus_Butlers"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 8619,
+                "name": "Ladies versus Butlers! Tokuten Disc Music Clip",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8619/Ladies_versus_Butlers_Tokuten_Disc_Music_Clip"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 8302,
+                "name": "Ladies versus Butlers! Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8302/Ladies_versus_Butlers_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 25426,
+    "request_cached": true,
+    "request_hash": "request:anime:4e86003292b3f00f4dd7fcb38d2569118c7a71de",
+    "score": 6.78,
+    "scored_by": 70562,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Hino Akiharu lost his parents when he was small and was adopted into his uncle's family. He didn't want to be a burden on his uncle's family and decides to enter a free boarding school as a butler, Hakureiryou high school. However, his delinquent boy-like appearance frightens the girls, who make up the majority of the students. Unable to get along with the classmates, Akiharu meets his childhood crush Saikyou Tomomi.",
+    "title": "Ladies versus Butlers!",
+    "title_english": "Ladies versus Butlers!",
+    "title_japanese": "\u308c\u3067\u3043\u00d7\u3070\u3068!",
+    "title_synonyms": [
+        "Ladies vs. Butlers!",
+        "Redei x Bato"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/7148/Ladies_versus_Butlers"
+}

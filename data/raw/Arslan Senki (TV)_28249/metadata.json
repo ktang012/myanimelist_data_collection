@@ -1,0 +1,216 @@
+{
+    "aired": {
+        "from": "2015-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Apr 5, 2015 to Sep 27, 2015",
+        "to": "2015-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Lapis Lazuli (\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea)\" by Eir Aoi (eps 1-13)",
+        "\"One Light\" by Kalafina (eps 14-24)",
+        "\"Uzu to Uzu\" (\u6e26\u3068\u6e26) by NICO Touches the Walls (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 1306,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/73588.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 28249,
+    "members": 240714,
+    "opening_themes": [
+        "\"Boku no Kotoba de wa Nai, Kore wa Bokutachi no Kotoba\" (\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449) by UVERworld (eps 1-13)",
+        "\"Uzu to Uzu\" (\u6e26\u3068\u6e26) by NICO Touches the Walls (eps 14-24)"
+    ],
+    "popularity": 371,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 894,
+            "name": "Graphinica",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        }
+    ],
+    "rank": 915,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 51233,
+                "name": "Arslan Senki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/51233/Arslan_Senki"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 1762,
+                "name": "Arslan Senki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1762/Arslan_Senki"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 32412,
+                "name": "Kigyou Senshi Arslan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32412/Kigyou_Senshi_Arslan"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31821,
+                "name": "Arslan Senki (TV): Fuujin Ranbu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31821/Arslan_Senki_TV__Fuujin_Ranbu"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 30953,
+                "name": "Arslan Senki (TV): 4-koma Gekijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30953/Arslan_Senki_TV__4-koma_Gekijou"
+            },
+            {
+                "mal_id": 33254,
+                "name": "Arslan Senki (TV) OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33254/Arslan_Senki_TV_OVA"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 31128,
+                "name": "Arslan Senki (TV): Tsuioku no Shou - Dakkan no Yaiba",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31128/Arslan_Senki_TV__Tsuioku_no_Shou_-_Dakkan_no_Yaiba"
+            }
+        ]
+    },
+    "request_cache_expiry": 25765,
+    "request_cached": true,
+    "request_hash": "request:anime:a1e79b551e8f92a88b26d7bea914a48346cfb686",
+    "score": 7.79,
+    "scored_by": 105117,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 537,
+            "name": "SANZIGEN",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        },
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "The year is 320. Under the rule of the belligerent King Andragoras III, the Kingdom of Pars is at war with the neighboring empire, Lusitania. Though different from his father in many aspects, Arslan, the young prince, sets out to prove his valor on the battlefield for the very first time. However, when the king is betrayed by one of his most trusted officials, the Parsian army is decimated and the capital city of Ecbatana is sieged. With the army in shambles and the Lusitanians out for his head, Arslan is forced to go on the run. With a respected general by his side, Daryun, Arslan soon sets off on a journey in search of allies that will help him take back his home. However, the enemies that the prince faces are far from limited to just those occupying his kingdom. Armies of other kingdoms stand ready to conquer Ecbatana. Moreover, the mastermind behind Lusitania's victory, an enigmatic man hiding behind a silver mask, poses a dangerous threat to Arslan and his company as he possesses a secret that could jeopardize Arslan's right to succession. With the odds stacked against him, Arslan must find the strength and courage to overcome these obstacles, and allies who will help him fight in the journey that will help prepare him for the day he becomes king. [Written by MAL Rewrite]",
+    "title": "Arslan Senki (TV)",
+    "title_english": "The Heroic Legend of Arslan",
+    "title_japanese": "\u30a2\u30eb\u30b9\u30e9\u30fc\u30f3\u6226\u8a18",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/CWL5pcfEyKk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28249/Arslan_Senki_TV"
+}

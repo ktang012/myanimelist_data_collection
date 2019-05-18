@@ -1,0 +1,122 @@
+{
+    "aired": {
+        "from": "2018-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 8, 2018 to Mar 26, 2018",
+        "to": "2018-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Asayake to Nettaigyo (\u671d\u713c\u3051\u3068\u71b1\u5e2f\u9b5a)\" by Boku no Lyric no Bouyomi (\u307c\u304f\u306e\u308a\u308a\u3063\u304f\u306e\u307c\u3046\u3088\u307f)"
+    ],
+    "episodes": 12,
+    "favorites": 198,
+    "genres": [
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/89987.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 36548,
+    "members": 109077,
+    "opening_themes": [
+        "\"Flashback\" by MIYAVI vs. KenKen"
+    ],
+    "popularity": 945,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 1747,
+            "name": "Twin Engine",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+        }
+    ],
+    "rank": 3135,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 94345,
+                "name": "Kokkoku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/94345/Kokkoku"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2fffb45f710e7cc009512a9f6f228fbc16b31c75",
+    "score": 7.15,
+    "scored_by": 40058,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1393,
+            "name": "Geno Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1393/Geno_Studio"
+        }
+    ],
+    "synopsis": "Having failed 19 job interviews in one day, Juri Yukawa's dreams of moving out of her parents' home are utterly dashed. Stuck living with her working mother Nobuko, NEET brother Tsubasa, laid-off father Takafumi, and single-parent sister Sanae, the only hope for this family to raise a decent adult is her little nephew Makoto. However, this struggling family's life takes a turn for the worse when Makoto and Tsubasa are violently kidnapped by a mysterious organization and held for ransom. With only 30 minutes to deliver five million yen to the criminals, Juri's grandfather reveals a dangerously powerful secret to her and Takafumi. By offering blood to her grandfather's mystical stone, the three enter the world of \"Stasis,\" a version of their world where time stops for everyone but the users. Having arrived at their destination, their rescue efforts go awry when they are assailed by a surprising group of people who are somehow able to move around within Stasis. While all hope seems lost, a monstrous giant known only as the Herald appears amidst the chaos, its intent and motivations as cryptic as the very nature of this timeless world. [Written by MAL Rewrite]",
+    "title": "Kokkoku",
+    "title_english": "Kokkoku",
+    "title_japanese": "\u523b\u523b",
+    "title_synonyms": [
+        "Kokukoku",
+        "Moment by Moment"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/nsv2ymwJlvE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36548/Kokkoku"
+}

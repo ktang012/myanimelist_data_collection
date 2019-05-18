@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2013-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 7, 2013 to Dec 23, 2013",
+        "to": "2013-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Machine-Doll wa Kizutsukanai adapts the first three volumes of Reiji Kaitou's light novel series of the same title.",
+    "broadcast": "Mondays at 20:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Anicca\" by Hitomi Harada (eps 1, 7)",
+        "\"Maware! Setsugetsuka (\u56de\u30ec\uff01\u96ea\u6708\u82b1)\" by Hitomi Harada, Ai Kayano, and Yui Ogura (eps 2-6, 8-12)"
+    ],
+    "episodes": 12,
+    "favorites": 611,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/56141.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 17247,
+    "members": 211121,
+    "opening_themes": [
+        "\"Anicca\" by Hitomi Harada"
+    ],
+    "popularity": 439,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2541,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 25952,
+                "name": "Machine-Doll wa Kizutsukanai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/25952/Machine-Doll_wa_Kizutsukanai"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 21415,
+                "name": "Machine-Doll wa Kizutsukanai Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21415/Machine-Doll_wa_Kizutsukanai_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 30664,
+    "request_cached": true,
+    "request_hash": "request:anime:135dc19c76548585d87f74ab3dce8ecb0f01ceb1",
+    "score": 7.29,
+    "scored_by": 104042,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "The Walpurgis Royal Academy of Machinart was founded alongside the development of \"Machinart,\" machine magic capable of giving life and intelligence to mechanical dolls subsequently called as \"automaton.\" Its aim: train skilled puppeteers to control the automatons, as militaries across the globe have begun incorporating Machinart into their armies. After miserably failing the academy's entrance exams, Raishin Akabane and his humanoid automaton Yaya must defeat one of the top one hundred students to earn the right to take part in the Evening Party, a fight for supremacy between puppeteers using their automatons. The last one standing is bestowed the title of \"Wiseman\" and granted access to the powerful forbidden arts. Thus, Raishin challenges Charlotte Belew and her automaton Sigmund to a duel, but before they even begin, Sigmund is attacked by other students. After saving his opponents from their assaulters, Raishin cancels the duel but is forced to search for a new way to gain access to the Party. Driven by the tragedies of his past, Raishin fights alongside Yaya to rise to the top and claim the title of Wiseman. [Written by MAL Rewrite]",
+    "title": "Machine-Doll wa Kizutsukanai",
+    "title_english": "Unbreakable Machine-Doll",
+    "title_japanese": "\u6a5f\u5de7\u5c11\u5973\u3008\u30de\u30b7\u30f3\u30c9\u30fc\u30eb\u3009\u306f\u50b7\u3064\u304b\u306a\u3044",
+    "title_synonyms": [
+        "Machine Girl wa Kizutsukanai",
+        "Kikou Shoujo wa Kizutsukanai"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/uKWMYSi4h8I?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/17247/Machine-Doll_wa_Kizutsukanai"
+}

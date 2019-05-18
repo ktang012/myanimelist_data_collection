@@ -1,0 +1,188 @@
+{
+    "aired": {
+        "from": "2013-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 12, 2013 to Sep 27, 2013",
+        "to": "2013-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Choujigen Game Neptune The Animation heavily alters and compresses the events of the video games that serve as the basis of the franchise to create an original story.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Neptune\u2606Sagashite (\u30cd\u30d7\u30c6\u30e5\u30fc\u30cc\u2606\u30b5\u30ac\u3057\u3066)\" by Afilia Saga (eps 1-2, 5-9, 11-12)",
+        "\"Go\u2192Love & Peace\" by Ayane (eps 3-4)",
+        "\"Ito (\u7cf8)\" by Afilia Saga (ep 10)"
+    ],
+    "episodes": 12,
+    "favorites": 1213,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/52141.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 16157,
+    "members": 111790,
+    "opening_themes": [
+        "\"Dimension tripper!!!!\" by nao"
+    ],
+    "popularity": 918,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 193,
+            "name": "Idea Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/193/Idea_Factory"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        }
+    ],
+    "rank": 3282,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23207,
+                "name": "Choujigen Game Neptune: Megami Tsuushin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23207/Choujigen_Game_Neptune__Megami_Tsuushin"
+            },
+            {
+                "mal_id": 42749,
+                "name": "Choujigen Game Neptune: High School",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/42749/Choujigen_Game_Neptune__High_School"
+            },
+            {
+                "mal_id": 50937,
+                "name": "Choujigen Game Neptune: The Animation",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/50937/Choujigen_Game_Neptune__The_Animation"
+            },
+            {
+                "mal_id": 52007,
+                "name": "Choujigen Game Neptune: The Animation - Hello New World",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/52007/Choujigen_Game_Neptune__The_Animation_-_Hello_New_World"
+            },
+            {
+                "mal_id": 64261,
+                "name": "Choujigen Game Neptune",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/64261/Choujigen_Game_Neptune"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 39638,
+                "name": "Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39638/Choujigen_Game_Neptune_The_Animation__Nep_no_Natsuyasumi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 20479,
+                "name": "Choujigen Game Neptune The Animation: Yakusoku no Eien - True End",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20479/Choujigen_Game_Neptune_The_Animation__Yakusoku_no_Eien_-_True_End"
+            }
+        ]
+    },
+    "request_cache_expiry": 18680,
+    "request_cached": true,
+    "request_hash": "request:anime:4000810bcba5567cd1acdfde2150e3e798c39b51",
+    "score": 7.11,
+    "scored_by": 42101,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 287,
+            "name": "David Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ],
+    "synopsis": "After years of fruitless war between the four realms of Gamindustri (Planeptune, Lastation, Lowee and Leanbox) over Share energy, the source of their strength based on how much their people have faith in their goddesses, the four CPUs that rule over them have finally signed a friendship treaty. The treaty bans any attempt at claiming Share energy through military force, in hopes of bringing peace and prosperity to their worlds. Yet, a month after the treaty, Neptune, the CPU Goddess of Planeptune, spends her time goofing off and playing games rather than doing her job, leaving her land's Shares plummeting. Choujigen Game Neptune The Animation follows Neptune and her friends' attempts at raising Shares, while dealing with an external threat that could spell the end of both the Goddesses and Gamindustri itself...",
+    "title": "Choujigen Game Neptune The Animation",
+    "title_english": "Hyperdimension Neptunia",
+    "title_japanese": "\u8d85\u6b21\u5143\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc THE ANIMATION",
+    "title_synonyms": [
+        "Kami Jigen Game Neptune V",
+        "Hyperdimension Neptunia Victory"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/QUBDyCqOFso?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation"
+}

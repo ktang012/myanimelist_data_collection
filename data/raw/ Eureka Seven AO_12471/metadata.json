@@ -1,0 +1,204 @@
+{
+    "aired": {
+        "from": "2012-04-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 20,
+                "month": 11,
+                "year": 2012
+            }
+        },
+        "string": "Apr 13, 2012 to Nov 20, 2012",
+        "to": "2012-11-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Eureka Seven AO premiered with the launch of the new digital over-the-air television system NOTTV on April 1. It finished airing in its time slot with episode 22 on September 28, 2012. Episodes 23 and 24 were aired together on November 20, 2012.",
+    "broadcast": "Fridays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"stand by me\" by STEREOPONY (eps 1, 3-12)",
+        "\"Iolite (\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8)\" by joy (eps 14-21, 23-24)",
+        "\"Parallel Sign\" by LAMA (ep 22)"
+    ],
+    "episodes": 24,
+    "favorites": 187,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/36313.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 12471,
+    "members": 72239,
+    "opening_themes": [
+        "\"Escape\" by Hemenway (eps 2-13)",
+        "\"BRAVEBLUE (\u30d6\u30ec\u30a4\u30d6\u30eb\u30fc)\" by FLOW (eps 14-23)"
+    ],
+    "popularity": 1338,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 230,
+            "name": "Bandai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/230/Bandai"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 1097,
+            "name": "Bandai Namco Games",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+        },
+        {
+            "mal_id": 1345,
+            "name": "Sammy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+            "mal_id": 1488,
+            "name": "Hakuhodo DY Media Partners",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+        },
+        {
+            "mal_id": 1588,
+            "name": "Bandai Channel",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1588/Bandai_Channel"
+        }
+    ],
+    "rank": 4585,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 33125,
+                "name": "Eureka Seven AO",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/33125/Eureka_Seven_AO"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 15979,
+                "name": "Eureka Seven AO: Aratanari Fukaki Ao",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15979/Eureka_Seven_AO__Aratanari_Fukaki_Ao"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 237,
+                "name": "Koukyoushihen Eureka Seven",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34776,
+                "name": "Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34776/Eureka_Seven_AO_Final_Episode__One_More_Time_-_Lord_Dont_Slow_Me_Down"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 14875,
+                "name": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14875/Eureka_Seven_AO__Jungfrau_no_Hanabana-tachi"
+            }
+        ]
+    },
+    "request_cache_expiry": 20255,
+    "request_cached": true,
+    "request_hash": "request:anime:a0792b573498b2503772c2dd295f44d1a3539b10",
+    "score": 6.79,
+    "scored_by": 30799,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "The story is set on Okinawa's isolated island of Iwado, which has seen a growing movement advocating a return to an autonomous government. Ao Fukai, a 12-year-old boy with a missing father, lives on the island with an old doctor named Toshio and is about to enter middle school. Ao's mother was taken away a decade ago by unknown individuals. Naru Arata, Ao's 12-year-old childhood friend and the story's heroine, lives with her father, older sister, and grandmother. She has a \"Yuta\" power awakened within her due to an incident when she was young. A mysterious entity called \"Secret\" suddenly appears and launches an attack on the Scub Coral lifeform on the island. Ao launches a certain military FP called \"Nirvash\" aboard a Japanese military transport in his fervent desire to protect the island. (Source: FUNimation)",
+    "title": "Eureka Seven AO",
+    "title_english": null,
+    "title_japanese": "\u30a8\u30a6\u30ec\u30ab\u30bb\u30d6\u30f3AO",
+    "title_synonyms": [
+        "Eureka Seven Astral Ocean"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/eGbbR3TnVPU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12471/Eureka_Seven_AO"
+}

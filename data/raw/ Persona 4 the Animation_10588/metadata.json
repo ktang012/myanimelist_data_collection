@@ -1,0 +1,212 @@
+{
+    "aired": {
+        "from": "2011-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Oct 7, 2011 to Mar 30, 2012",
+        "to": "2012-03-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Persona 4 the Animation, based on the popular 2008 PlayStation 2 game, was directed by Seiji Kishi, well-known from other game adaptations.",
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"sky's the limit\" by Shihoko Hirata (ep 1)",
+        "\"Beauty of Destiny\" by Shihoko Hirata feat. Lotus Juice (eps 2-12)",
+        "\"Koisuru Meitantei (\u604b\u3059\u308b\u540d\u63a2\u5075)\" by Loveline (Yui Horie) (ep 13)",
+        "\"The way of Memories -Kizuna no Chikara- (The way of Memories - \u30ad\u30ba\u30ca\u30ce\u30c1\u30ab\u30e9-)\" by Shihoko Hirata (eps 14-17, 19-24)",
+        "\"Honto no Kimochi (\u307b\u3093\u3068\u306e\u304d\u3082\u3061)\" by Shihoko Hirata (ep 18)",
+        "\"Never More\" by Shihoko Hirata (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 1814,
+    "genres": [
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/29107.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 10588,
+    "members": 182139,
+    "opening_themes": [
+        "\"Pursuing My True Self\" by Shihoko Hirata (ep 1)",
+        "\"sky's the limit\" by Shihoko Hirata (eps 2-8, 10-12)",
+        "\"True Story\" by Rise Kujikawa (Rie Kugimiya) (ep 9)",
+        "\"key plus words\" by Shihoko Hirata feat. Yumi Kawamura (eps 13, 14, 16-23)",
+        "\"Burn My Dread\" by Yumi Kawamura (ep 15)"
+    ],
+    "popularity": 534,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 870,
+            "name": "Index",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/870/Index"
+        }
+    ],
+    "rank": 1396,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 10580,
+                "name": "Persona 4",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10580/Persona_4"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 3366,
+                "name": "Persona: Trinity Soul",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3366/Persona__Trinity_Soul"
+            },
+            {
+                "mal_id": 14407,
+                "name": "Persona 3 the Movie 1: Spring of Birth",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14407/Persona_3_the_Movie_1__Spring_of_Birth"
+            },
+            {
+                "mal_id": 36023,
+                "name": "Persona 5 the Animation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36023/Persona_5_the_Animation"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 24075,
+                "name": "Persona 4 the Golden Animation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24075/Persona_4_the_Golden_Animation"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 25257,
+                "name": "Persona 4 the Animation: Mr. Experiment Shorts",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25257/Persona_4_the_Animation__Mr_Experiment_Shorts"
+            },
+            {
+                "mal_id": 25259,
+                "name": "Persona 4 the Animation: A Brief Lesson on Izanagi & Izanami",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25259/Persona_4_the_Animation__A_Brief_Lesson_on_Izanagi___Izanami"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 13587,
+                "name": "Persona 4 the Animation: No One is Alone",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13587/Persona_4_the_Animation__No_One_is_Alone"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 14267,
+                "name": "Persona 4 the Animation: The Factor of Hope",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/14267/Persona_4_the_Animation__The_Factor_of_Hope"
+            }
+        ]
+    },
+    "request_cache_expiry": 30150,
+    "request_cached": true,
+    "request_hash": "request:anime:2950d4d0089a48a85d5fd8c943c44ad8e17d4257",
+    "score": 7.6,
+    "scored_by": 82526,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 88,
+            "name": "AIC A.S.T.A.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+        }
+    ],
+    "synopsis": "Yuu Narukami moves to Inaba, a seemingly quiet and ordinary town, where he quickly befriends the clumsy transfer student Yousuke Hanamura, the energetic Chie Satonaka, and the beautiful heiress Yukiko Amagi. Shortly after Yuu's arrival, a chain of mysterious killings begin to occur on foggy days. At the same time, rumors about a strange television channel\u2014dubbed the \"Midnight Channel\"\u2014spread like wildfire; when staring into their TV screen at midnight, a person may see their soul mate. After witnessing the most recent murder victim on the Midnight Channel, Yuu attempts to watch it again, only to realize that he can traverse into the TV and reach another world overrun with \"Shadows,\" evil creatures of the dark. Realizing the link behind the hidden dimension and the murders, Yuu and his friends attempt to crack the cases by exploring the diabolical world of the Midnight Channel using their \"Personas,\" awakened manifestations of their \"true selves.\" [Written by MAL Rewrite]",
+    "title": "Persona 4 the Animation",
+    "title_english": "Persona 4 the Animation",
+    "title_japanese": "\u30da\u30eb\u30bd\u30ca4\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
+    "title_synonyms": [
+        "P4A"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/wCJr63UUMf0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10588/Persona_4_the_Animation"
+}

@@ -1,0 +1,169 @@
+{
+    "aired": {
+        "from": "2005-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 7,
+                "year": 2005
+            },
+            "to": {
+                "day": 20,
+                "month": 10,
+                "year": 2005
+            }
+        },
+        "string": "Jul 14, 2005 to Oct 20, 2005",
+        "to": "2005-10-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first 4 episodes of Full Metal Panic! The Second Raid are anime original. The remaining episodes adapt novels 4 and 5 of Shoji Gatoh's light novel series Full Metal Panic!",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Mouichido Kimi ni Aitai\" by Mikuni Shimokawa"
+    ],
+    "episodes": 13,
+    "favorites": 1309,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75261.jpg",
+    "licensors": [
+        {
+            "mal_id": 97,
+            "name": "ADV Films",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 262,
+            "name": "Kadokawa Pictures USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/262/Kadokawa_Pictures_USA"
+        }
+    ],
+    "mal_id": 73,
+    "members": 199869,
+    "opening_themes": [
+        "\"Minami Kaze\" by Mikuni Shimokawa"
+    ],
+    "popularity": 482,
+    "premiered": "Summer 2005",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 787,
+            "name": "Happinet Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        }
+    ],
+    "rank": 546,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 895,
+                "name": "Full Metal Panic! Sigma",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+            },
+            {
+                "mal_id": 10892,
+                "name": "Full Metal Panic!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10892/Full_Metal_Panic"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 71,
+                "name": "Full Metal Panic!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/71/Full_Metal_Panic"
+            },
+            {
+                "mal_id": 6291,
+                "name": "Full Metal Panic! The Second Raid Episode 000",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6291/Full_Metal_Panic_The_Second_Raid_Episode_000"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31931,
+                "name": "Full Metal Panic! Invisible Victory",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 72,
+                "name": "Full Metal Panic? Fumoffu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu"
+            },
+            {
+                "mal_id": 1015,
+                "name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi"
+            }
+        ]
+    },
+    "request_cache_expiry": 166,
+    "request_cached": true,
+    "request_hash": "request:anime:4fd4a0c28fed00302779c1aba665ee6f79969c24",
+    "score": 8.02,
+    "scored_by": 117254,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "This series is set about two months after the events ocurred in the Tuatha de Danaan at the end of the original series. Mithril becomes aware of a secret organization that has technology able to counter the ECS (Electronic Cloaking System) mode. This organization, known as Amalgam, also has \"Black Technology,\" obtained from \"Whispered\" like Kaname Chidori, and like the other intelligence agencies, they intend to obtain more; however, when Sousuke's mission to protect Chidori is terminated by Mithril, all seems to be in place for Amalgam's plans... (Source: ANN)",
+    "title": "Full Metal Panic! The Second Raid",
+    "title_english": "Full Metal Panic! The Second Raid",
+    "title_japanese": "\u30d5\u30eb\u30e1\u30bf\u30eb \u30d1\u30cb\u30c3\u30af\uff01The Second Raid",
+    "title_synonyms": [
+        "Full Metal Panic! TSR"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/AaDjVWWBkmg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid"
+}

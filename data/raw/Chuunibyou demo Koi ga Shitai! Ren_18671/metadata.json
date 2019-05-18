@@ -1,0 +1,164 @@
+{
+    "aired": {
+        "from": "2014-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 9, 2014 to Mar 27, 2014",
+        "to": "2014-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Van!shment Th!s World\" by Black Raison d'\u00eatre (Maaya Uchida, Chinatsu Akasaki, Azumi Asakura, Sumire Uesaka)"
+    ],
+    "episodes": 12,
+    "favorites": 1488,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/56643.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 18671,
+    "members": 351533,
+    "opening_themes": [
+        "\"VOICE\" by ZAQ"
+    ],
+    "popularity": 215,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        }
+    ],
+    "rank": 1378,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 40099,
+                "name": "Chuunibyou demo Koi ga Shitai!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/40099/Chuunibyou_demo_Koi_ga_Shitai"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 16934,
+                "name": "Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16934/Chuunibyou_demo_Koi_ga_Shitai__Kirameki_no_Slapstick_Noel"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 27601,
+                "name": "Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27601/Chuunibyou_demo_Koi_ga_Shitai_Ren__The_Rikka_Wars"
+            },
+            {
+                "mal_id": 35608,
+                "name": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 21797,
+                "name": "Chuunibyou demo Koi ga Shitai! Ren Lite",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21797/Chuunibyou_demo_Koi_ga_Shitai_Ren_Lite"
+            },
+            {
+                "mal_id": 23237,
+                "name": "Chuunibyou demo Koi ga Shitai! Ren Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23237/Chuunibyou_demo_Koi_ga_Shitai_Ren_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 6782,
+    "request_cached": true,
+    "request_hash": "request:anime:a7f63e1b0377e09432d9d32c8d3e23d05a18b296",
+    "score": 7.6,
+    "scored_by": 205323,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Due to various events, Yuuta and Rikka are living together. This secret co-habitation is so exciting for the two lovebirds! Or so it should be... Is having a chuuni girlfriend too high of a hurdle for Yuuta, who never even went out with a normal girl?! Yuuta worries about how to advance his relationship with Rikka. And then everyone else, Nibutani, Kumin, and Dekomori, have powered up by advancing a grade. Furthermore, the cause of his chuunibyou outburst in middle school, the girl who calls herself Sophia Ring Saturn the 7th, Satone Shichimiya appears... This is the long-awaited second season of the adolescent romantic comedy revolving around chuunibyou that makes you laugh and cry. (Source: Animax)",
+    "title": "Chuunibyou demo Koi ga Shitai! Ren",
+    "title_english": "Love, Chunibyo & Other Delusions!: Heart Throb",
+    "title_japanese": "\u4e2d\u4e8c\u75c5\u3067\u3082\u604b\u304c\u3057\u305f\u3044\uff01\u6200",
+    "title_synonyms": [
+        "Chuunibyou demo Koi ga Shitai! 2",
+        "Chu-2 Byo demo Koi ga Shitai! Ren"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3ZZgn8xNdJs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18671/Chuunibyou_demo_Koi_ga_Shitai_Ren"
+}

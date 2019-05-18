@@ -1,0 +1,195 @@
+{
+    "aired": {
+        "from": "2011-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 3, 2011 to Sep 18, 2011",
+        "to": "2011-09-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hoshi no Sumika (\u661f\u306e\u3059\u307f\u304b)\" by Aobozu (eps 1-13)",
+        "\"Mind Game (\u30de\u30a4\u30f3\u30c9\u30b2\u30fc\u30e0)\" by Tamaki (eps 14-24)",
+        "\"Orion wo nazoru (\u30aa\u30ea\u30aa\u30f3\u3092\u306a\u305e\u308b)\" by UNISON SQUARE GARDEN (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 2604,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 9941,
+    "members": 153788,
+    "opening_themes": [
+        "\"Orion wo nazoru (\u30aa\u30ea\u30aa\u30f3\u3092\u306a\u305e\u308b)\" by UNISON SQUARE GARDEN (eps 1-13)",
+        "\"Missing Link (\u30df\u30c3\u30b7\u30f3\u30b0\u30ea\u30f3\u30af)\" by NOVELS (eps 14-25)"
+    ],
+    "popularity": 645,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 577,
+            "name": "Tohokushinsha Film Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        }
+    ],
+    "rank": 541,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 27203,
+                "name": "Tiger & Bunny",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/27203/Tiger___Bunny"
+            },
+            {
+                "mal_id": 29553,
+                "name": "Tiger & Bunny",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/29553/Tiger___Bunny"
+            },
+            {
+                "mal_id": 32297,
+                "name": "Tiger & Bunny The Comic",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/32297/Tiger___Bunny_The_Comic"
+            },
+            {
+                "mal_id": 63731,
+                "name": "Tiger & Bunny Koushiki Anthology",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/63731/Tiger___Bunny_Koushiki_Anthology"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 30537,
+                "name": "Tiger & Bunny: Too Many Cooks Spoil the Broth.",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30537/Tiger___Bunny__Too_Many_Cooks_Spoil_the_Broth"
+            },
+            {
+                "mal_id": 37496,
+                "name": "Double Decker! Doug & Kirill",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37496/Double_Decker_Doug___Kirill"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11099,
+                "name": "Tiger & Bunny Pilot",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11099/Tiger___Bunny_Pilot"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 12017,
+                "name": "Tiger & Bunny Movie 2: The Rising",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 12015,
+                "name": "Tiger & Bunny Movie 1: The Beginning",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 30178,
+                "name": "Tiger & Bunny Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30178/Tiger___Bunny_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:ef7ba5142e96e544ffee0bdd5ef72349b4c51d95",
+    "score": 8.03,
+    "scored_by": 59924,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "In Stern Bild City, those with special abilities are called \"NEXT,\" and can use their powers for good or bad. A unique organized group of NEXT appear regularly on Hero TV, where they chase down evildoers to bring limelight to their sponsors and earn Hero Points in the hopes of becoming the next \"King of Heroes.\" Kotetsu T. Kaburagi, known as \"Wild Tiger,\" is a veteran hero whose performance has been dwindling as of late, partially due to his inability to cooperate with other heroes. After a disappointing season in which most of the other heroes far outperformed Tiger, he is paired up with a brand new hero who identifies himself by his real name\u2014Barnaby Brooks Jr. Barnaby, nicknamed \"Bunny\" by his frivolous new partner, quickly makes it clear that the two could not be more different. Though they mix as well as oil and water, Tiger and Bunny must learn to work together, both for the sake of their careers and to face the looming threats within Stern Bild. [Written by MAL Rewrite]",
+    "title": "Tiger & Bunny",
+    "title_english": "Tiger & Bunny",
+    "title_japanese": "TIGER & BUNNY \uff08\u30bf\u30a4\u30ac\u30fc\u30fb\u30a2\u30f3\u30c9\u30fb\u30d0\u30cb\u30fc\uff09",
+    "title_synonyms": [
+        "Tiger and Bunny",
+        "Taibani"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/KaHXlxD5BMQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9941/Tiger___Bunny"
+}

@@ -1,0 +1,143 @@
+{
+    "aired": {
+        "from": "2018-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Jul 14, 2018 to Sep 29, 2018",
+        "to": "2018-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Happen ~Kogarashi ni Fukarete~ (Happen?\u6728\u67af\u3089\u3057\u306b\u5439\u304b\u308c\u3066?)\" by Yuuna Yunohana (Miyuri Shimabukuro), Chisaki Miyazaki (Eri Suzuki), and Sagiri Ameno (Rie Takahashi)",
+        "\"Momoiro Typhoon (\u6843\u8272\u30bf\u30a4\u30d5\u30fc\u30f3)\" by Luna Haruna (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 368,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1483/93141.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 36726,
+    "members": 100493,
+    "opening_themes": [
+        "\"Momoiro Typhoon (\u6843\u8272\u30bf\u30a4\u30d5\u30fc\u30f3)\" by Luna Haruna (eps 1-11)"
+    ],
+    "popularity": 1003,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 2805,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 96582,
+                "name": "Yuragi-sou no Yuuna-san",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/96582/Yuragi-sou_no_Yuuna-san"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 36950,
+                "name": "Yuragi-sou no Yuuna-san OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36950/Yuragi-sou_no_Yuuna-san_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 12195,
+    "request_cached": true,
+    "request_hash": "request:anime:6ef6a87e9d7f6cfdc49d152646243a15af4380e8",
+    "score": 7.23,
+    "scored_by": 33152,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "Once a hot springs inn, now a boarding house with extraordinarily cheap rent, Yuragi-sou is virtually uninhabited save for a few peculiar residents. As rumor has it, it is haunted by a vile ghost which scares away all potential tenants. Therefore, it is the perfect refuge for Fuyuzora Kogarashi\u2014a broke, homeless psychic seeking an affordable roof to stay under and ghosts to exorcise. Kogarashi prepares for a face-off against the ghost, only to find out it is not as malicious as the rumors made it out to be. Instead, it is the ghost of a beautiful, silver-haired girl whose only recollection of her life before death is her name: Yuuna. Even more baffling is that the other tenants of Yuragi-sou not only are able to see Yuuna as well, but each has their own supernatural ability. Amidst the chaos caused by his quirky fellow residents, Kogarashi attempts to uncover the regret that keeps Yuuna anchored to the world of the living, lest she become an evil spirit sentenced to spend her afterlife in hell. [Written by MAL Rewrite]",
+    "title": "Yuragi-sou no Yuuna-san",
+    "title_english": null,
+    "title_japanese": "\u3086\u3089\u304e\u8358\u306e\u5e7d\u5948\u3055\u3093",
+    "title_synonyms": [
+        "Yuuna of Yuragi Manor",
+        "Yuuna and the Haunted Hot Springs"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/OfzdwmG3Vks?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36726/Yuragi-sou_no_Yuuna-san"
+}

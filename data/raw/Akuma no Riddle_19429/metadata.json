@@ -1,0 +1,140 @@
+{
+    "aired": {
+        "from": "2014-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 4, 2014 to Jun 20, 2014",
+        "to": "2014-06-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Akuma no Riddle is based on Yun Kouga and Sunao Minakata's manga series of the same title. Despite premiering while the manga was in the middle of publication, the anime adapts the full story of the manga, with a few additions and alterations.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Paradox (\u30d1\u30e9\u30c9\u30af\u30b9)\" by Ayaka Suwa as Tokaku Azuma (ep 1)",
+        "\"Kinou, Kyou, Ashita (\u6628\u65e5\u3001\u4eca\u65e5\u3001\u660e\u65e5)\" by Hisako Kanemoto as Haru Ichinose (ep 2)",
+        "\"Concentration\" by Manami Numakura as Otoya Takechi (ep 3)",
+        "\"Across The Fate\" by Haruka Yoshimura as Kouko Kaminaga (ep 4)",
+        "\"Doutte koto nai Sympathy (\u3069\u3046\u3063\u3066\u3053\u3068\u306a\u3044sympathy)\" by Fumiko Uchimura as Haruki Sagae (ep 5)",
+        "\"Poison Me\" by Sachika Misawa as Chitaru Namatame & Mami Uchida as Hitsugi Kirigaya (ep 6)",
+        "\"Suzukaze (\u3059\u305a\u304b\u305c)\" by Chika Anzai as Suzu Shutou (ep 7)",
+        "\"Mayonaka no Toubou (\u771f\u591c\u4e2d\u306e\u9003\u4ea1)\" by Ootsuba Yuka as Banba Mahiru (ep 8)",
+        "\"Tenshi No Smile\u2665 (\u5929\u4f7f\u306e\u30b9\u30de\u30a4\u30eb\u2665)\" by Azumi Asakura as Isuke Inukai (ep 9)",
+        "\"Inochi no Karakuri (\u30a4\u30ce\u30c1\u30ce\u30ab\u30e9\u30af\u30ea)\" by Miho Arakawa as Sumireko Hanabusa (ep 10)",
+        "\"Survival\" by Yoshino Nanjou as Nio Hashiri (ep 11)",
+        "\"QUEEN\" by 10 Nen Kuro Gumi (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 907,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/60479.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 19429,
+    "members": 184856,
+    "opening_themes": [
+        "\"Soushou Innocence (\u5275\u50b7\u30a4\u30ce\u30bb\u30f3\u30b9)\" by Maaya Uchida"
+    ],
+    "popularity": 526,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        }
+    ],
+    "rank": 4754,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 52267,
+                "name": "Akuma no Riddle",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/52267/Akuma_no_Riddle"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24751,
+                "name": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24751/Akuma_no_Riddle__Shousha_wa_Dare_Nukiuchi_Test"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:e906f5196ef46f9870c278fd074123c8dc454fec",
+    "score": 6.75,
+    "scored_by": 88138,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "Tokaku Azuma has just transferred to the elite Myoujou Academy, a private girls' boarding school. But there's a catch: she, along with 11 of her fellow students in Class Black, is an assassin taking part in the challenge to kill their sweet-natured classmate, Haru Ichinose. Whoever succeeds will be granted their deepest desire, no matter the difficulty or cost. However, each assassin only gets one chance; if they fail to kill her, they will be expelled. Despite the extraordinary reward, Tokaku decides to take a different course of action. Though Haru is her target, the young assassin soon finds herself drawn to the very girl she is supposed to kill. With the entire class out for Haru, Tokaku refuses to let her friend die, vowing to protect her from a growing bloodlust. [Written by MAL Rewrite]",
+    "title": "Akuma no Riddle",
+    "title_english": "Riddle Story of Devil",
+    "title_japanese": "\u60aa\u9b54\u306e\u30ea\u30c9\u30eb",
+    "title_synonyms": [
+        "Akuma no Riddle"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/14lyeyoNuLo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19429/Akuma_no_Riddle"
+}

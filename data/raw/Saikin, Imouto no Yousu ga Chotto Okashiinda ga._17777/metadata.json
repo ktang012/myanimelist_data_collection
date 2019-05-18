@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2014-01-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 4, 2014 to Mar 23, 2014",
+        "to": "2014-03-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The anime was streamed by Crunchyroll during its airing. The source material has also spawned a live-action film and a light novel series.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Charming Do!\" by Yui Ogura"
+    ],
+    "episodes": 12,
+    "favorites": 133,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/56589.jpg",
+    "licensors": [
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 17777,
+    "members": 111487,
+    "opening_themes": [
+        "\"BINKAN Attention (BINKAN \u3042\u3066\u3093\u3057\u3087\u3093)\" by Mitsuki Kanzaki, Hiyori Kotobuki, and Yukina Kiritani (Chinami Hashimoto, Yui Ogura, and Hisako Kanemoto)"
+    ],
+    "popularity": 921,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        }
+    ],
+    "rank": 6493,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23602,
+                "name": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23602/Saikin_Imouto_no_Yousu_ga_Chotto_Okashiinda_ga"
+            },
+            {
+                "mal_id": 66753,
+                "name": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66753/Saikin_Imouto_no_Yousu_ga_Chotto_Okashiinda_ga"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 21679,
+                "name": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21679/Saikin_Imouto_no_Yousu_ga_Chotto_Okashiinda_ga_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2666ca8608a6e10e84034b9d727ac1d9ded6c12a",
+    "score": 6.39,
+    "scored_by": 51330,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 439,
+            "name": "Project No.9",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+    ],
+    "synopsis": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga. follows a family just starting to rebuild. When they marry, Mr. and Mrs. Kanzaki bring a teenage son and daughter along for the ride. But high school freshman Mitsuki Kanzaki is less than thrilled. Stinging from a history of absent and abusive father figures, she is slow to accept her stepfather and stepbrother. But after an accident lands Mitsuki in the hospital, she finds herself possessed by the ghost of Hiyori Kotobuki, a girl her age who was deeply in love with Mitsuki's stepbrother Yuuya. Hiyori cannot pass on to her final reward because of her unrequited love for Yuuya, meaning she's got to consummate it... in Mitsuki's body?! Now, Mitsuki's life depends on getting Hiyori to Heaven. But will she get used to sharing herself with a pushy, amorous ghost? Can she overcome her distrust of her new family? Can she bring herself to fulfill Hiyori's feelings for Yuuya? And might she be hiding some feelings of her own?",
+    "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+    "title_english": "Recently, my sister is unusual.",
+    "title_japanese": "\u6700\u8fd1\u3001\u59b9\u306e\u3088\u3046\u3059\u304c\u3061\u3087\u3063\u3068\u304a\u304b\u3057\u3044\u3093\u3060\u304c\u3002",
+    "title_synonyms": [
+        "Recently",
+        "My Little Sister is Unusual",
+        "ImoCho",
+        "ImoCyo"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/FTqWcmzKrQE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/17777/Saikin_Imouto_no_Yousu_ga_Chotto_Okashiinda_ga"
+}

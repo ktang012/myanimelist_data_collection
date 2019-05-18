@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2016-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 7, 2016 to Mar 31, 2016",
+        "to": "2016-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a Christmas Eve event at Marunouchi Piccadilly 3 on December 24, 2015. Regular broadcasting began on January 7, 2016.",
+    "broadcast": "Thursdays at 00:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Junshin Always (\u7d14\u771fAlways)\" by Azusa Tadokoro"
+    ],
+    "episodes": 13,
+    "favorites": 951,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/78339.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 31442,
+    "members": 292387,
+    "opening_themes": [
+        "\"Naked Dive\" by SCREEN mode"
+    ],
+    "popularity": 295,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 1415,
+            "name": "Asahi Broadcasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+        }
+    ],
+    "rank": 3776,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 64225,
+                "name": "Musaigen no Phantom World",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/64225/Musaigen_no_Phantom_World"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33075,
+                "name": "Musaigen no Phantom World: Mizutama no Kiseki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33075/Musaigen_no_Phantom_World__Mizutama_no_Kiseki"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 33164,
+                "name": "Musaigen no Phantom World: Limitless Phantom World",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33164/Musaigen_no_Phantom_World__Limitless_Phantom_World"
+            }
+        ]
+    },
+    "request_cache_expiry": 2395,
+    "request_cached": true,
+    "request_hash": "request:anime:d0dde1ea635aaa22dabddb6d707ebd5f0f87b2a9",
+    "score": 6.99,
+    "scored_by": 131561,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 2,
+            "name": "Kyoto Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ],
+    "synopsis": "Phantoms: supernatural entities such as ghosts or youkai that, until recently, were thought to be superstition. However, when a virus that infects the brain spreads throughout society, people's perception of the world changes as the mythical beings are revealed to have been living alongside humanity the entire time. This virus has also affected those of the next generation significantly, allowing them to develop special abilities that they can use to fight against dangerous phantoms. Haruhiko Ichijou and Mai Kawakami are two of those that were granted such power as Haruhiko wields the ability to summon and seal phantoms through drawings while Mai imbues the power of the elements into martial arts. Together, along with the friendly phantom Ruru, they form Team E of Hosea Academy which is dedicated to dealing with these often mischievous beings. In a world where the real and surreal intertwine, Musaigen no Phantom World follows the adventures of a group of friends as they handle the everyday troubles caused by phantoms. [Written by MAL Rewrite]",
+    "title": "Musaigen no Phantom World",
+    "title_english": "Myriad Colors Phantom World",
+    "title_japanese": "\u7121\u5f69\u9650\u306e\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30ef\u30fc\u30eb\u30c9",
+    "title_synonyms": [
+        "Musaigen no Phantom World"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Kw3bfJk8e-0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31442/Musaigen_no_Phantom_World"
+}

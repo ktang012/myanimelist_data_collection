@@ -1,0 +1,146 @@
+{
+    "aired": {
+        "from": "2011-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 2,
+                "month": 7,
+                "year": 2011
+            }
+        },
+        "string": "Jan 8, 2011 to Jul 2, 2011",
+        "to": "2011-07-02T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The 11th episode of Gosick was originally scheduled for broadcast on March 19, but had to be postponed to April 2 due to emergency broadcast related to the devastating March 11 earthquake and tsunami. The anime again met some trouble when Bandai Entertainment stopped releasing new DVDs, cancelling the series\u2019 scheduled US DVD/Blu-ray release.",
+    "broadcast": "Saturdays at 01:23 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Resuscitated Hope\" by Lisa Komine (eps 1-12)",
+        "\"unity\" by Lisa Komine (eps 13-24)"
+    ],
+    "episodes": 24,
+    "favorites": 6649,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 8425,
+    "members": 343881,
+    "opening_themes": [
+        "\"Destin Histoire\" by yoshiki*lisa (\u5409\u6728\u308a\u3055)"
+    ],
+    "popularity": 222,
+    "premiered": "Winter 2011",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+            "mal_id": 689,
+            "name": "NTT Docomo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+        }
+    ],
+    "rank": 364,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1313,
+                "name": "Gosick",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1313/Gosick"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 10504,
+                "name": "Gosick Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10504/Gosick_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 35644,
+    "request_cached": true,
+    "request_hash": "request:anime:e4d3fab92e6a77ea9ea574c42a42a1bbbe7796fe",
+    "score": 8.17,
+    "scored_by": 147998,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Kazuya Kujou is a foreign student at Saint Marguerite Academy, a luxurious boarding school in the Southern European country of Sauville. Originally from Japan, his jet-black hair and dark brown eyes cause his peers to shun him and give him the nickname \"Black Reaper,\" based on a popular urban legend about the traveler who brings death in the spring. On a day like any other, Kujou visits the school's extravagant library in search of ghost stories. However, his focus soon changes as he becomes curious about a golden strand of hair on the stairs. The steps lead him to a large garden and a beautiful doll-like girl known as Victorique de Blois, whose complex and imaginative foresight allows her to predict their futures, now intertwined. With more mysteries quickly developing\u2014including the appearance of a ghost ship and an alchemist with the power of transmutation\u2014Victorique and Kujou, bound by fate and their unique skills, have no choice but to rely on each other. [Written by MAL Rewrite]",
+    "title": "Gosick",
+    "title_english": null,
+    "title_japanese": "GOSICK -\u30b4\u30b7\u30c3\u30af-",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/QMFLC-SKtFs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8425/Gosick"
+}

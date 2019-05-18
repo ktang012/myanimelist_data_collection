@@ -1,0 +1,139 @@
+{
+    "aired": {
+        "from": "2005-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 29,
+                "month": 12,
+                "year": 2005
+            }
+        },
+        "string": "Oct 6, 2005 to Dec 29, 2005",
+        "to": "2005-12-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Rainbow\" by ROUND TABLE feat. Nino"
+    ],
+    "episodes": 13,
+    "favorites": 1655,
+    "genres": [
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/77620.jpg",
+    "licensors": [
+        {
+            "mal_id": 217,
+            "name": "Nozomi Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+        }
+    ],
+    "mal_id": 477,
+    "members": 105560,
+    "opening_themes": [
+        "\"Undine (\u30a6\u30f3\u30c7\u30a3\u30fc\u30cd)\" by Yui Makino"
+    ],
+    "popularity": 962,
+    "premiered": "Fall 2005",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 109,
+            "name": "Shochiku",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+            "mal_id": 1452,
+            "name": "Mag Garden",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1452/Mag_Garden"
+        }
+    ],
+    "rank": 1017,
+    "rating": "G - All Ages",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 81,
+                "name": "Aria",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/81/Aria"
+            },
+            {
+                "mal_id": 124,
+                "name": "Aqua",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/124/Aqua"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 962,
+                "name": "Aria The Natural",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/962/Aria_The_Natural"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:fd4593312c2dcf67ddb2d67d78716e2da8a99504",
+    "score": 7.74,
+    "scored_by": 33048,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 34,
+            "name": "Hal Film Maker",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ],
+    "synopsis": "Drift peacefully into Neo Venezia, a city on the planet Aqua (formerly known as Mars). By the 24th century, humans have found a way to colonize the previously uninhabitable planet. As futuristic as that sounds, Neo Venezia is still teeming with rustic beauty; gondolas on wide canals and waterways are the main mode of transportation. The city itself is a faithful replication of Manhome's (the planet formerly known as Earth) Venice. To make sure that residents and tourists alike get the most from Neo Venezia's many wonders, companies offering guided tours via gondola were formed, one of which is named Aria Company. This is the workplace of Akari Mizunashi, a free spirited teenager from Manhome who is now a novice Undine (the title given to tour guides). Join Akari as she becomes intimately acquainted with other Undine, tourists, Neo Venezia's residents, and even the city itself, learning many valuable life lessons along the way, such as the wonderful truth that there are such things as manmade miracles. [Written by MAL Rewrite]",
+    "title": "Aria The Animation",
+    "title_english": "Aria The Animation",
+    "title_japanese": "ARIA The ANIMATION",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/NraaWUZxWZw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/477/Aria_The_Animation"
+}

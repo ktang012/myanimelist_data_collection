@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2017-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 2, 2017 to Jun 25, 2017",
+        "to": "2017-06-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Chant (kotringo edition)\" by toi toy toi"
+    ],
+    "episodes": 12,
+    "favorites": 172,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/84598.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 34350,
+    "members": 82115,
+    "opening_themes": [
+        "\"Wonder Drive (\u30ef\u30f3\u30c0\u30fc\u30c9\u30e9\u30a4\u30d6)\" by ORESAMA"
+    ],
+    "popularity": 1188,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 382,
+            "name": "Tokuma Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1516,
+            "name": "Sony PCL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+        }
+    ],
+    "rank": 2935,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 84911,
+                "name": "Alice to Zouroku",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/84911/Alice_to_Zouroku"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4ceaefc017bfa991143bb8d0af62374b03f86d8f",
+    "score": 7.19,
+    "scored_by": 31348,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Sana is not an ordinary little girl; she possesses a special ability known as \"Alice's Dream.\" Due to her power, which allows her to create anything from her imagination, all that she knows is the laboratory where she is a test subject. Wishing to experience the outside world, she escapes and meets a stubborn old florist named Zouroku Kashimura in a convenience store. All too soon, her pursuers catch up and Zouroku is roped into Sana's troubles. However, far from trying to distance himself, Zouroku extends a hand to help Sana. Following his values and sense of justice, he even gives the pursuers a piece of his mind! Zouroku then offers Sana a place to stay, beginning the daily life and struggles of the unlikely duo. [Written by MAL Rewrite]",
+    "title": "Alice to Zouroku",
+    "title_english": "Alice & Zoroku",
+    "title_japanese": "\u30a2\u30ea\u30b9\u3068\u8535\u516d",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/LZC_AtsF2Y4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34350/Alice_to_Zouroku"
+}

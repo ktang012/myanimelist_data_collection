@@ -1,0 +1,154 @@
+{
+    "aired": {
+        "from": "2008-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 6, 2008 to Dec 22, 2008",
+        "to": "2008-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Ga-Rei: Zero is a prequel to the Ga-Rei manga series.",
+    "broadcast": "Mondays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Yume no Ashioto ga Kikoeru (\u5922\u306e\u8db3\u97f3\u304c\u805e\u3053\u3048\u308b)\" by Kaoru Mizuhara (eps 2, 4-11)",
+        "\"Paradise Lost\" by Minori Chihara (eps 3, 12)"
+    ],
+    "episodes": 12,
+    "favorites": 2014,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/11355.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 4725,
+    "members": 182868,
+    "opening_themes": [
+        "\"Paradise Lost\" by Minori Chihara (eps 4-11)"
+    ],
+    "popularity": 532,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        }
+    ],
+    "rank": 1147,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1102,
+                "name": "Ga-Rei",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1102/Ga-Rei"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 21353,
+                "name": "Tokyo ESP",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21353/Tokyo_ESP"
+            }
+        ]
+    },
+    "request_cache_expiry": 42988,
+    "request_cached": true,
+    "request_hash": "request:anime:8860eac98c9bf9605a1db9dc741df94ebba4a8ee",
+    "score": 7.69,
+    "scored_by": 77493,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 83,
+            "name": "AIC Spirits",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/83/AIC_Spirits"
+        },
+        {
+            "mal_id": 163,
+            "name": "Asread",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/163/Asread"
+        }
+    ],
+    "synopsis": "In Japan, there exists a government agency known as the Supernatural Disaster Countermeasures Division (SDCD), whose duty is to protect the citizens from creatures unseen. They are able to dispatch these monsters swiftly and without alerting the general public. But currently, they face a different challenge: the betrayal of one of their own. After the death of her mother several years ago, Kagura Tsuchimiya has been fostered by the Isayama family and forms a close sister-like bond with their daughter Yomi. The two become inseparable, and together they work for the SDCD as highly skilled exorcists. However, as the stress and consequences of their sacred duty weigh on them both, and family politics come into play, Kagura and Yomi begin to slowly drift apart. One of them grows earnestly into her role as an exorcist, and the other heads down a dark path from which there may be no redemption... [Written by MAL Rewrite]",
+    "title": "Ga-Rei: Zero",
+    "title_english": "Ga-Rei-Zero",
+    "title_japanese": "\u55b0\u970a\u2013\u96f6\u2013",
+    "title_synonyms": [
+        "Garei: Zero"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/50sj0Gxqrlk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4725/Ga-Rei__Zero"
+}

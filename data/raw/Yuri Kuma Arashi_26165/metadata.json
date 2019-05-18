@@ -1,0 +1,158 @@
+{
+    "aired": {
+        "from": "2015-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 6, 2015 to Mar 31, 2015",
+        "to": "2015-03-31T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Yuri Kuma Arashi was known by several different working names, such as Penguinbear Project and Yuri\u2605Asobi.",
+    "broadcast": "Tuesdays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"TERRITORY\" by Ginko Yurishiro (Miho Arakawa), Lulu Yurigasaki (Yoshiko Ikuta), Kureha Tsubaki (Nozomi Yamane)"
+    ],
+    "episodes": 12,
+    "favorites": 607,
+    "genres": [
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 26,
+            "name": "Shoujo Ai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/26/Shoujo_Ai"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/69203.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 26165,
+    "members": 70752,
+    "opening_themes": [
+        "\"Ano Mori de Matteru (\u3042\u306e\u68ee\u3067\u5f85\u3063\u3066\u308b)\" by Bonjour Suzuki (\u30dc\u30f3\u30b8\u30e5\u30fc\u30eb\u9234\u6728)"
+    ],
+    "popularity": 1363,
+    "premiered": "Winter 2015",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 282,
+            "name": "Gentosha Comics",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/282/Gentosha_Comics"
+        }
+    ],
+    "rank": 3234,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 66879,
+                "name": "Yuri Kuma Arashi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/66879/Yuri_Kuma_Arashi"
+            },
+            {
+                "mal_id": 86367,
+                "name": "Yuri Kuma Arashi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/86367/Yuri_Kuma_Arashi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:935b1280529bcd02fb63ef85052d9bf46439210a",
+    "score": 7.13,
+    "scored_by": 23037,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "In the past, humanoid bears coexisted with humans. However, a meteor shower that fell onto Earth had a strange effect on bears throughout the world: they suddenly became violent and hungry for human flesh, spurring an endless cycle of bloodshed in which bear ate man and man shot bear, forgetting the lively relationship they once had. The \"Wall of Severance\" was thus built, separating the two civilizations and keeping peace. Kureha Tsubaki and Sumika Izumino are two lovers attending Arashigaoka Academy, who, upon the arrival of two bears that have sneaked through the Wall of Severance and infiltrated the academy, find their relationship under a grave threat. The hungering yet affectionate bears, Ginko Yurishiro and Lulu Yurigasaki, seem to see the bear-hating Kureha as more than just another meal, and in getting closer to her, trigger an unraveling of secrets that Kureha may not be able to bear. When their relationships provoke the Invisible Storm, a group that keeps order within the ideological school, the girls must stand on trial with their love, embarking on a journey of self-discovery en route to attaining true love's \"promised kiss.\" [Written by MAL Rewrite]",
+    "title": "Yuri Kuma Arashi",
+    "title_english": "Yurikuma Arashi",
+    "title_japanese": "\u30e6\u30ea\u718a\u5d50",
+    "title_synonyms": [
+        "Yuri Bear Storm",
+        "Love Bullet: Yurikuma Arashi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/fs9NVXjiHiQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/26165/Yuri_Kuma_Arashi"
+}

@@ -1,0 +1,151 @@
+{
+    "aired": {
+        "from": "2005-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Apr 15, 2005 to Sep 27, 2005",
+        "to": "2005-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Hachimitsu to Clover was the first anime to air on Fuji Television's noitaminA block.",
+    "broadcast": "Fridays at 00:35 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Waltz\" by Suneohair (eps 1-12, 24)",
+        "\"Mistake\" by THE BAND HAS NO NAME (eps 13-23)"
+    ],
+    "episodes": 24,
+    "favorites": 3791,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/73923.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 16,
+    "members": 177007,
+    "opening_themes": [
+        "\"Dramatic\" by Yuki"
+    ],
+    "popularity": 550,
+    "premiered": "Spring 2005",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 423,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1009,
+                "name": "Hachimitsu to Clover",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1009/Hachimitsu_to_Clover"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 1142,
+                "name": "Hachimitsu to Clover II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1142/Hachimitsu_to_Clover_II"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 644,
+                "name": "Hachimitsu to Clover Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/644/Hachimitsu_to_Clover_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 18093,
+    "request_cached": true,
+    "request_hash": "request:anime:218f223e293d8182e547847a5a90c30a58830b30",
+    "score": 8.12,
+    "scored_by": 58112,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Yuuta, Takumi, and Shinobu share a six-tatami room apartment with no bath. The rent is low and it's perfect for poor college students such as themselves. Shinobu is a mysterious, quirky person, who does things on a whim. Takumi is passionate both in work and love, and Yuuta is a simple person with simple dreams and desires. That is, until he meets Hagumi, a petite girl with enormous amount of talent. Hagumi is fondly called Hagu by Shuuji, who serves as Hagu's guardian. Hagu meets Ayumi, nicknamed Ayu, and they become close friends almost instantly. Meanwhile, Ayu falls for one of the boys... The joys of falling in love, the pain of letting go, discovering one's self, and finding the courage to move on\u2014these are some of the things that the characters in Hachimitsu to Clover experience as they take part in the play staged by fate.",
+    "title": "Hachimitsu to Clover",
+    "title_english": "Honey and Clover",
+    "title_japanese": "\u30cf\u30c1\u30df\u30c4\u3068\u30af\u30ed\u30fc\u30d0\u30fc",
+    "title_synonyms": [
+        "HachiKuro",
+        "Honey & Clover"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover"
+}

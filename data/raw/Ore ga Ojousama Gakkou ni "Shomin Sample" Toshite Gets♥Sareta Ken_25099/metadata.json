@@ -1,0 +1,178 @@
+{
+    "aired": {
+        "from": "2015-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 7, 2015 to Dec 23, 2015",
+        "to": "2015-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 23:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Twilight ni Kienaide (\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u306b\u6d88\u3048\u306a\u3044\u3067)\" by Yumi Hara"
+    ],
+    "episodes": 12,
+    "favorites": 302,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76542.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 25099,
+    "members": 146200,
+    "opening_themes": [
+        "\"Ichizu Recipe (\u30a4\u30c1\u30ba\u30ec\u30b7\u30d4)\" by Idol College"
+    ],
+    "popularity": 691,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 787,
+            "name": "Happinet Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        },
+        {
+            "mal_id": 843,
+            "name": "BS Fuji",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1554,
+            "name": "Contents Seed",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1554/Contents_Seed"
+        },
+        {
+            "mal_id": 1582,
+            "name": "Ichijinsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        }
+    ],
+    "rank": 3742,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 51815,
+                "name": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Rachirareta Ken",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/51815/Ore_ga_Ojousama_Gakkou_ni_Shomin_Sample_Toshite_Rachirareta_Ken"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 31797,
+                "name": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets\u2665Sareta Ken Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31797/Ore_ga_Ojousama_Gakkou_ni_Shomin_Sample_Toshite_Gets\u2665Sareta_Ken_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 39260,
+    "request_cached": true,
+    "request_hash": "request:anime:8b5dbd082e5d2034394dc6a8e746d03b85a1011c",
+    "score": 7,
+    "scored_by": 69405,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "Kimito Kagurazaka is a commoner with a fetish for men's muscles\u2014or at least that's the lie he must keep telling if he wants to keep himself out of trouble at the elite all-girls school, Seikain Academy. Kidnapped by the school under the assumption that he prefers men, Kimito is made to be their \"commoner sample,\" exposing the girls to both commoner and man so that the transition to the world after school is not jarring. Threatened with castration should his sexual preferences not match the school's assumptions, Kimito keeps up the facade to protect his manhood. But there are eccentric individuals around every corner who begin to make Kimito's life even more difficult. Among them are Aika Tenkuubashi, a social outcast who blurts out whatever comes to mind; Hakua Shiodome, a young genius; Karen Jinryou, the daughter of samurai who is obsessed with defeating Kimito; and Reiko Arisugawa, the perfect student who has delusions of marrying Kimito. Along with the commoner himself, these four girls make up the Commoner Club, which attempts to teach the girls more about life outside the school, while Kimito gradually learns about the odd girls surrounding him. [Written by MAL Rewrite]",
+    "title": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets\u2665Sareta Ken",
+    "title_english": "Shomin Sample",
+    "title_japanese": "\u4ffa\u304c\u304a\u5b22\u69d8\u5b66\u6821\u306b\u300e\u5eb6\u6c11\u30b5\u30f3\u30d7\u30eb\u300f\u3068\u3057\u3066\u30b2\u30c3\u30c4\u3055\u308c\u305f\u4ef6",
+    "title_synonyms": [
+        "Story in Which I Was Kidnapped by a Young Lady's School to be a \"Sample of the Common People\"",
+        "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Rachirareta Ken"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/5cVaIS82_og?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/25099/Ore_ga_Ojousama_Gakkou_ni_Shomin_Sample_Toshite_Gets\u2665Sareta_Ken"
+}

@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2005-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 5,
+                "month": 4,
+                "year": 2006
+            }
+        },
+        "string": "Oct 5, 2005 to Apr 5, 2006",
+        "to": "2006-04-05T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Karinui (\u304b\u308a\u306c\u3044)\" by Mamiko Noto"
+    ],
+    "episodes": 26,
+    "favorites": 2993,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/228.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 228,
+    "members": 238540,
+    "opening_themes": [
+        "\"Sakasama no Chou (\u9006\u3055\u307e\u306e\u8776)\" by SNoW"
+    ],
+    "popularity": 376,
+    "premiered": "Fall 2005",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 147,
+            "name": "SKY Perfect Well Think",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/147/SKY_Perfect_Well_Think"
+        }
+    ],
+    "rank": 1059,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3243,
+                "name": "Jigoku Shoujo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3243/Jigoku_Shoujo"
+            },
+            {
+                "mal_id": 17987,
+                "name": "Shin Jigoku Shoujo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17987/Shin_Jigoku_Shoujo"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 1594,
+                "name": "Jigoku Shoujo Futakomori",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori"
+            }
+        ]
+    },
+    "request_cache_expiry": 12576,
+    "request_cached": true,
+    "request_hash": "request:anime:3fc2a5b34ce5d6328c9acbdb6093dbbfec3ffa2d",
+    "score": 7.73,
+    "scored_by": 90143,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Have you heard of Hell Correspondence? Those with a powerful grudge may only access this mysterious website at midnight, allowing them to enter anyone's name and have that person be ferried straight to hell. Ai Enma, the Hell Girl, will not judge whether or not the chosen target deserves punishment; she will merely exact revenge on them for you. Not much is known about this young girl other than that she swiftly carries out her tasks with the help of three straw dolls. There is just one catch, however\u2014as payment for carrying out such a request, the user must condemn themselves to an afterlife in hell. [Written by MAL Rewrite]",
+    "title": "Jigoku Shoujo",
+    "title_english": "Hell Girl",
+    "title_japanese": "\u5730\u7344\u5c11\u5973",
+    "title_synonyms": [
+        "Jigoku Shojo"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ofIl6PWLY8g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/228/Jigoku_Shoujo"
+}

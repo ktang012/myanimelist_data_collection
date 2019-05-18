@@ -1,0 +1,186 @@
+{
+    "aired": {
+        "from": "2016-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            }
+        },
+        "string": "Jan 8, 2016 to Jul 1, 2016",
+        "to": "2016-07-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:25 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kaketa Tsuki (\u6b20\u3051\u305f\u6708)\" by Shion Miyawaki (eps 1-14)",
+        "\"Mata Kimi ni Aeru Hi (\u307e\u305f\u541b\u306b\u4f1a\u3048\u308b\u65e5)\" by Shion Miyawaki (eps 15-25)"
+    ],
+    "episodes": 25,
+    "favorites": 8737,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/77966.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 30654,
+    "members": 492907,
+    "opening_themes": [
+        "\"QUESTION\" by 3-nen E-gumi Utatan (3\u5e74E\u7d44\u3046\u305f\u62c5) [Mai Fuchigami, Aya Suzaki, Nobuhiko Okamoto, Ryota Osaka, Shintaro Asanuma] (eps 1-14)",
+        "\"Bye Bye Yesterday (\u30d0\u30a4\u30d0\u30a4 YESTERDAY)\" by 3-nen E-gumi Utatan (3\u5e74E\u7d44\u3046\u305f\u62c5) [Mai Fuchigami, Aya Suzaki, Nobuhiko Okamoto, Ryota Osaka, Shintaro Asanuma] (eps 15, 17-23, 25)"
+    ],
+    "popularity": 109,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 101,
+            "name": "Studio Hibari",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1412,
+            "name": "Kansai Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1412/Kansai_Telecasting"
+        }
+    ],
+    "rank": 67,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 39883,
+                "name": "Ansatsu Kyoushitsu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/39883/Ansatsu_Kyoushitsu"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 33511,
+                "name": "Koro-sensei Q!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33511/Koro-sensei_Q"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 24833,
+                "name": "Ansatsu Kyoushitsu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32863,
+                "name": "Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32863/Ansatsu_Kyoushitsu_2nd_Season__Kagaijugyou-hen"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 33513,
+                "name": "Ansatsu Kyoushitsu: 365-nichi no Jikan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33513/Ansatsu_Kyoushitsu__365-nichi_no_Jikan"
+            }
+        ]
+    },
+    "request_cache_expiry": 24193,
+    "request_cached": true,
+    "request_hash": "request:anime:e829d02c0b7e7ff866f40376216d9e5333c2f76a",
+    "score": 8.63,
+    "scored_by": 278730,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "The students return as school is back in session for the second semester. Following their exploits on the island during summer vacation, Class 3-E continues to sharpen their blades with their sights set on their teacher, the slippery Koro-sensei. They have more to worry about than just their teacher, however, as enemy assassins, both old and new, are out for the increased bounty on the octopus' head. Moreover, their rivals in Class A, as well as Kunugigaoka Junior High's fearsome principal, stand to block Class E from achieving academic excellence. With all of these obstacles opposing them, the group must continue to work together in order to overcome their foes and accomplish their goal of successfully assassinating their teacher. [Written by MAL Rewrite]",
+    "title": "Ansatsu Kyoushitsu 2nd Season",
+    "title_english": "Assassination Classroom Second Season",
+    "title_japanese": "\u6697\u6bba\u6559\u5ba4\u3000\u7b2c\uff12\u671f",
+    "title_synonyms": [
+        "Ansatsu Kyoushitsu Season 2",
+        "Ansatsu Kyoushitsu Final Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/tZiHgr0kd7E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season"
+}

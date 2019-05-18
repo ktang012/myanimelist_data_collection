@@ -1,0 +1,154 @@
+{
+    "aired": {
+        "from": "2010-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jul 5, 2010 to Sep 20, 2010",
+        "to": "2010-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Preview showing on June 27th while the regular TV airing started on July 5th.",
+    "broadcast": "Mondays at 11:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Kimi to Taiyou ga Shinda hi\" by Maon Kurosaki (ep 1)",
+        "\"Color Me Dark\" by Maon Kurosaki (ep 2)",
+        "\"Return to Destiny\" by Maon Kurosaki (ep 3)",
+        "\"Cold Bullet Blues\" by Maon Kurosaki (ep 4)",
+        "\"Memories of Days Gone By\" by Maon Kurosaki (ep 5)",
+        "\"Under The Honey Shine\" by Maon Kurosaki (ep 6)",
+        "\"fuss fuzz\" by Maon Kurosaki (ep 7)",
+        "\"The place of hope\" by Maon Kurosaki (ep 8)",
+        "\"Houseki no Spy\" by Maon Kurosaki (ep 9)",
+        "\"THE last pain\" by Maon Kurosaki (ep 10)",
+        "\"Hollow Men\" by Maon Kurosaki (ep 11)",
+        "\"The Eternal Song\" by Maon Kurosaki (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 8346,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/78311.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 8074,
+    "members": 833824,
+    "opening_themes": [
+        "\"HIGHSCHOOL OF THE DEAD\" by Kishida Kyoudan & The Akeboshi Rockets"
+    ],
+    "popularity": 39,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2414,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 669,
+                "name": "Highschool of the Dead",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/669/Highschool_of_the_Dead"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9515,
+                "name": "Highschool of the Dead: Drifters of the Dead",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9515/Highschool_of_the_Dead__Drifters_of_the_Dead"
+            }
+        ]
+    },
+    "request_cache_expiry": 5106,
+    "request_cached": true,
+    "request_hash": "request:anime:0667cbacc25b53a8c15470ba9ae65339dc846ad4",
+    "score": 7.32,
+    "scored_by": 533062,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "It happened suddenly: The dead began to rise and Japan was thrown into total chaos. As these monsters begin terrorizing a high school, Takashi Kimuro is forced to kill his best friend when he gets bitten and joins the ranks of the walking dead. Vowing to protect Rei Miyamoto, the girlfriend of the man he just executed, they narrowly escape their death trap of a school, only to be greeted with a society that has already fallen. Soon, Takashi and Rei band together with other students on a journey to find their family members and uncover what caused this overwhelming pandemic. Joining them is Saeko Busujima, the beautiful president of the Kendo Club; Kouta Hirano, an otaku with a fetish for firearms; Saya Takagi, the daughter of an influential politician; and Shizuka Marikawa, their hot school nurse. But will the combined strength of these individuals be enough to conquer this undead apocalypse? [Written by MAL Rewrite]",
+    "title": "Highschool of the Dead",
+    "title_english": "High School of the Dead",
+    "title_japanese": "\u5b66\u5712\u9ed9\u793a\u9332 HIGHSCHOOL OF THE DEAD",
+    "title_synonyms": [
+        "Gakuen Mokushiroku: Highschool of the Dead",
+        "HOTD",
+        "HSOTD"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Kl6cNSBg3Wg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/8074/Highschool_of_the_Dead"
+}

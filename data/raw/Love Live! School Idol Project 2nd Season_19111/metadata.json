@@ -1,0 +1,162 @@
+{
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 6, 2014 to Jun 29, 2014",
+        "to": "2014-06-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The series also has released a mobile rhythm game titled Love Live! School Idol Festival for iOS and Android, released in 2013 for Japan and in 2014 for English users.",
+    "broadcast": "Sundays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Sore wa Bokutachi no Kiseki (\u305d\u308c\u306f\u50d5\u305f\u3061\u306e\u5947\u8de1)\" by \u03bc's (eps 1)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by Eri Ayase, Nozomi Toujou, Niko Yazawa (Yoshino Nanjou, Aina Kusuda, Sora Tokui) (ep 2)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by \u03bc's (eps 3, 11)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by Niko Yazawa (Sora Tokui) (ep 4)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by Rin Hoshizora (Riho Iida) (ep 5)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by Rin Hoshizora, Maki Nishikino, Hanayo Koizumi (Riho Iida, Pile, Yurika Kubo) (ep 6)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by Honoka Kousaka, Kotori Minami, Umi Sonoda (Emi Nitta, Aya Uchida, Suzuko Mimori) (ep 7)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by Eri Ayase, Maki Nikishino, Nozomi Toujou (Yoshino Nanjou, Pile, Aina Kusuda) (ep 8)",
+        "\"Snow halation\" by \u03bc's (ep 9)",
+        "\"Donna Toki mo Zutto (\u3069\u3093\u306a\u3068\u304d\u3082\u305a\u3063\u3068)\" by Honoka Kousaka (Emi Nitta) (ep 10)",
+        "\"Bokura wa Ima no Naka de (\u50d5\u3089\u306f\u4eca\u306e\u306a\u304b\u3067)\" by \u03bc's (ep 12)",
+        "\"Happy maker!\" by \u03bc's (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 2608,
+    "genres": [
+        {
+            "mal_id": 19,
+            "name": "Music",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/19/Music"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/59101.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 19111,
+    "members": 158708,
+    "opening_themes": [
+        "\"Sore wa Bokutachi no Kiseki (\u305d\u308c\u306f\u50d5\u305f\u3061\u306e\u5947\u8de1)\" by \u03bc's (eps 2-12)"
+    ],
+    "popularity": 619,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        }
+    ],
+    "rank": 636,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Other": [
+            {
+                "mal_id": 25897,
+                "name": "Love Live! School Idol Project: \u03bc's \u2192NEXT LoveLive! 2014 - Endless Parade Makuai Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25897/Love_Live_School_Idol_Project__\u03bcs_\u2192NEXT_LoveLive_2014_-_Endless_Parade_Makuai_Drama"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 15051,
+                "name": "Love Live! School Idol Project",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24997,
+                "name": "Love Live! The School Idol Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24997/Love_Live_The_School_Idol_Movie"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33106,
+                "name": "Love Live! \u03bc's Final Love Live! Opening Animation",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33106/Love_Live_\u03bcs_Final_Love_Live_Opening_Animation"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 30829,
+                "name": "Love Live! School Idol Project 2nd Season Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30829/Love_Live_School_Idol_Project_2nd_Season_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:616ca1d7863f7589d8efd634be66c3b9752a1ef1",
+    "score": 7.95,
+    "scored_by": 91016,
+    "source": "Other",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Otonokizaka High School has been saved! Despite having to withdraw from the Love Live!, the efforts of \u03bc's were able to garner enough interest in their school to prevent it from being shut down. What more, following the conclusion of the first, a second Love Live! is announced, this time on an even larger stage than before. Given a chance for redemption, the nine girls come together once more to sing their hearts out and claim victory. However, with the end of the school year approaching, the graduation of the third years draws near. As they attempt to reach the top of the Love Live!, they must also consider their future and choose what path the group will take. Though the question of whether to continue without the third years or disband weighs heavily on the minds of its members, \u03bc's must quickly come to an answer with graduation right around the corner. Love Live! School Idol Project 2nd Season continues the story of the girls as they laugh, cry, sing, and dance in their journey to determine the future of their group and conquer the Love Live! in their last chance to win with all nine girls together. [Written by MAL Rewrite]",
+    "title": "Love Live! School Idol Project 2nd Season",
+    "title_english": "Love Live! School Idol Project 2",
+    "title_japanese": "\u30e9\u30d6\u30e9\u30a4\u30d6! School idol project 2\u671f",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/0iV7LV8HCh4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19111/Love_Live_School_Idol_Project_2nd_Season"
+}

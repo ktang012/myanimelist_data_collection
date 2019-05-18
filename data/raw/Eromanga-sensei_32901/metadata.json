@@ -1,0 +1,147 @@
+{
+    "aired": {
+        "from": "2017-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 9, 2017 to Jun 25, 2017",
+        "to": "2017-06-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Hitorigoto (\u30d2\u30c8\u30ea\u30b4\u30c8)\" by ClariS (ep 1)",
+        "\"adrenaline!!!\" by TrySail (eps 2-7, 9-12)",
+        "\"Natsu-iro Koi Hanabi (\u590f\u8272\u604b\u82b1\u706b)\" by Fujita Akane (ep 8)"
+    ],
+    "episodes": 12,
+    "favorites": 1938,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/86468.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 32901,
+    "members": 324476,
+    "opening_themes": [
+        "\"Hitorigoto (\u30d2\u30c8\u30ea\u30b4\u30c8)\" by ClariS"
+    ],
+    "popularity": 252,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 681,
+            "name": "ASCII Media Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1653,
+            "name": "Kinoshita Group Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1653/Kinoshita_Group_Holdings"
+        }
+    ],
+    "rank": 4468,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 63271,
+                "name": "Eromanga-sensei",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/63271/Eromanga-sensei"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 36792,
+                "name": "Eromanga-sensei OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36792/Eromanga-sensei_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 33341,
+    "request_cached": true,
+    "request_hash": "request:anime:6bf813bf9f554244749b7e73d7456051de806d2d",
+    "score": 6.81,
+    "scored_by": 176939,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "One year ago, Sagiri Izumi became step-siblings with Masamune Izumi. But the sudden death of their parents tears their new family apart, resulting in Sagiri becoming a shut-in which cut her off from her brother and society. While caring for what's left of his family, Masamune earns a living as a published light novel author with one small problem: he's never actually met his acclaimed illustrator, Eromanga-sensei, infamous for drawing the most lewd erotica. Through an embarrassing chain of events, he learns that his very own little sister was his partner the whole time! As new characters and challenges appear, Masamune and Sagiri must now face the light novel industry together. Eromanga-Sensei follows the development of their relationship and their struggle to become successful; and as Sagiri slowly grows out of her shell, just how long will she be able to hide her true persona from the rest of the world? [Written by MAL Rewrite]",
+    "title": "Eromanga-sensei",
+    "title_english": "Eromanga Sensei",
+    "title_japanese": "\u30a8\u30ed\u30de\u30f3\u30ac\u5148\u751f",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/TzBk9alIqPI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32901/Eromanga-sensei"
+}

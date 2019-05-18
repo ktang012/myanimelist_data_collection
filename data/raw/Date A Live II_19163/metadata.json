@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2014-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 14,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 12, 2014 to Jun 14, 2014",
+        "to": "2014-06-14T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Date A Live II adapts novels 5-7 of Koushi Tachibana's light novel series of the same name. Like with the first season, the Japanese home video releases have a Director's Cut with many new scenes. However, the English dub by FUNimation Entertainment does not feature these new scenes as they didn't have them in their home video releases.",
+    "broadcast": "Saturdays at 01:35 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Day to Story\" by Kaori Sadohara"
+    ],
+    "episodes": 10,
+    "favorites": 1818,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/76003.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 19163,
+    "members": 319951,
+    "opening_themes": [
+        "\"Trust in you\" by sweet ARMS"
+    ],
+    "popularity": 261,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        }
+    ],
+    "rank": 1976,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37523,
+                "name": "Date A Live",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37523/Date_A_Live"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 17641,
+                "name": "Date A Live: Date to Date",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17641/Date_A_Live__Date_to_Date"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24655,
+                "name": "Date A Live Movie: Mayuri Judgment",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24655/Date_A_Live_Movie__Mayuri_Judgment"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 22961,
+                "name": "Date A Live II: Kurumi Star Festival",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22961/Date_A_Live_II__Kurumi_Star_Festival"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:491549517425b0e87feaf826dcadca4db3fc2c3f",
+    "score": 7.42,
+    "scored_by": 189485,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1053,
+            "name": "Production IMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+        }
+    ],
+    "synopsis": "Shido Itsuka, who used to be a normal high school student at Raizen High, meets the first Spirit, Tohka, and awakens his power to \"seal the Spirit's power\". Though they may be feared and hated beings due to their immense power, Spirits were always alone and knew only combat and death. Shido, the only one in the world with the power to seal the Spirits' might, hurls himself into life-threatening dates with the beautiful Spirits in order to save them. (Source: ANN)",
+    "title": "Date A Live II",
+    "title_english": "Date A Live II",
+    "title_japanese": "\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6\u2161",
+    "title_synonyms": [
+        "Date A Live 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/wKUwDWFX4WA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19163/Date_A_Live_II"
+}

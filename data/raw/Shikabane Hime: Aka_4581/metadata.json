@@ -1,0 +1,131 @@
+{
+    "aired": {
+        "from": "2008-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 2, 2008 to Dec 25, 2008",
+        "to": "2008-12-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"My story\" by angela (eps 1-3, 5-12)",
+        "\"The Pale Sands of the Sleeping Star (\u7720\u308c\u308b\u661f\u306e\u84bc\u3044\u7802)\" by Mayumi Iizuka (ep 4)",
+        "\"Beginning\" by angela (ep 13)"
+    ],
+    "episodes": 13,
+    "favorites": 219,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 14,
+            "name": "Horror",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/14/Horror"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/20544.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 4581,
+    "members": 91386,
+    "opening_themes": [
+        "\"Beautiful fighter\" by angela"
+    ],
+    "popularity": 1086,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        }
+    ],
+    "rank": 2471,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 6228,
+                "name": "Shikabane Hime",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/6228/Shikabane_Hime"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 5034,
+                "name": "Shikabane Hime: Kuro",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/5034/Shikabane_Hime__Kuro"
+            }
+        ]
+    },
+    "request_cache_expiry": 21676,
+    "request_cached": true,
+    "request_hash": "request:anime:2ed30a7f27ca9aa7567a13f35260620e7120184b",
+    "score": 7.31,
+    "scored_by": 35120,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 6,
+            "name": "Gainax",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 91,
+            "name": "feel.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ],
+    "synopsis": "After being brutally murdered along with her family, Makina Hoshimura turns into a Shikabane Hime, a living corpse contracted to the Kougon Cult, in order to exert revenge on the mysterious undead organization responsible for her death. She is assisted in this task by Keisei Tagami, her contracted priest and former friend. This series follows the story of Keisei's younger brother Ouri, a boy with an unusual attraction to death, who slowly discovers his brother's secret and gets dragged into the world of the Shikabanes. (Source: Wikipedia, edited)",
+    "title": "Shikabane Hime: Aka",
+    "title_english": "Corpse Princess: Aka",
+    "title_japanese": "\u5c4d\u59eb \u8d6b",
+    "title_synonyms": [
+        "Shikabane Hime Aka"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Xvr1z07uIYA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4581/Shikabane_Hime__Aka"
+}

@@ -1,0 +1,167 @@
+{
+    "aired": {
+        "from": "2015-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Oct 4, 2015 to Mar 27, 2016",
+        "to": "2016-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Haikyuu!! Second Season is the sequel to the first anime adaptation of the ongoing manga of the same name, Haikyuu!!, which was ranked in 4th place in Honya Club's prestigious 'Zenkoku Shotenin ga Eranda Osusume Comic' ranking in 2013. Sentai Filmworks has announced their exclusive licensing rights for digital and home release in North America.",
+    "broadcast": "Sundays at 02:58 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Climber (\u30af\u30e9\u30a4\u30de\u30fc)\" by Galileo Galilei (eps 1-13)",
+        "\"Hatsunetsu (\u767a\u71b1)\" by tacica  (eps 14-25)"
+    ],
+    "episodes": 25,
+    "favorites": 7828,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76662.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 28891,
+    "members": 416634,
+    "opening_themes": [
+        "\"I'm A Believer (\u30a2\u30a4\u30e0\u30fb\u30a2\u30fb\u30d3\u30ea\u30fc\u30d0\u30fc)\" by SPYAIR (eps 1-13)",
+        "\"FLY HIGH!!\" by BURNOUT SYNDROMES (eps 14-25)"
+    ],
+    "popularity": 157,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 22,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35243,
+                "name": "Haikyuu!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35243/Haikyuu"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 20583,
+                "name": "Haikyuu!!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20583/Haikyuu"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32935,
+                "name": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32935/Haikyuu__Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 35806,
+                "name": "Haikyuu!!: vs. \"Akaten\"",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35806/Haikyuu__vs_Akaten"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 35110,
+                "name": "Haikyuu!! Movie 3: Sainou to Sense",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35110/Haikyuu_Movie_3__Sainou_to_Sense"
+            },
+            {
+                "mal_id": 35321,
+                "name": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35321/Haikyuu__Tokushuu_Haru-kou_Volley_ni_Kaketa_Seishun"
+            }
+        ]
+    },
+    "request_cache_expiry": 11730,
+    "request_cached": true,
+    "request_hash": "request:anime:94d685ee715171410c16913c8063c05f6ec9f156",
+    "score": 8.86,
+    "scored_by": 255554,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead. When they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing with some of the toughest teams in Japan, they hope not only to sharpen their skills, but also come up with new attacks that would strengthen them. Moreover, Hinata and Kageyama attempt to devise a more powerful weapon, one that could possibly break the sturdiest of blocks. Facing what may be their last chance at victory before the senior players graduate, the members of Karasuno's volleyball team must learn to settle their differences and train harder than ever if they hope to overcome formidable opponents old and new\u2014including their archrival Aoba Jousai and its world-class setter Tooru Oikawa. [Written by MAL Rewrite]",
+    "title": "Haikyuu!! Second Season",
+    "title_english": "Haikyu!! 2nd Season",
+    "title_japanese": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3",
+    "title_synonyms": [
+        "Haikyuu!! Second Season"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Z9qXOEwiTGQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season"
+}

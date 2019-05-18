@@ -1,0 +1,137 @@
+{
+    "aired": {
+        "from": "2018-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Jul 14, 2018 to Sep 29, 2018",
+        "to": "2018-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 02:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Konpeki no Alfine ~Nikenme ni Karaoke ni Haitta Oretachi no Tension Super MAX ver.~ (\u7d3a\u78a7\u306e\u30a2\u30eb\u30fb\u30d5\u30a3\u30fc\u30cd \uff5e\u4e8c\u8ed2\u76ee\u306b\u30ab\u30e9\u30aa\u30b1\u306b\u5165\u3063\u305f\u4ffa\u305f\u3061\u306e\u30c6\u30f3\u30b7\u30e7\u30f3\u30b9\u30fc\u30d1\u30fcMAXver.\uff5e)\" by Izu no Kaze (\u4f0a\u8c46\u4e43\u98a8)",
+        "\"Konpeki no Alpine ~Kaya Mizuki ver.~\" by Kaya Mizuki (ep 11)[Iori Kitahara (Yuuma Uchida), Kouhei Imamura (Ryouhei Kimura), Shinji Tokita (Hiroki Yasumoto), Ryuujirou Kotobuki (Kazuyuki Konishi)] (eps 1-10)"
+    ],
+    "episodes": 12,
+    "favorites": 3154,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+    "licensors": [],
+    "mal_id": 37105,
+    "members": 180421,
+    "opening_themes": [
+        "\"Grand Blue\" by Shounan no Kaze (eps 1-11)"
+    ],
+    "popularity": 541,
+    "premiered": "Summer 2018",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1287,
+            "name": "Q-Tec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+        },
+        {
+            "mal_id": 1501,
+            "name": "East Japan Marketing & Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1501/East_Japan_Marketing___Communications"
+        },
+        {
+            "mal_id": 1602,
+            "name": "GYAO!",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+        }
+    ],
+    "rank": 153,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 70345,
+                "name": "Grand Blue",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/70345/Grand_Blue"
+            }
+        ]
+    },
+    "request_cache_expiry": 33333,
+    "request_cached": true,
+    "request_hash": "request:anime:76978097daf39226746fc7346a3cd00205cdfe30",
+    "score": 8.42,
+    "scored_by": 84264,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1379,
+            "name": "Zero-G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+        }
+    ],
+    "synopsis": "Among the seaside town of Izu's ocean waves and rays of shining sun, Iori Kitahara is just beginning his freshman year at Izu University. As he moves into his uncle's scuba diving shop, Grand Blue, he eagerly anticipates his dream college life, filled with beautiful girls and good friends. But things don't exactly go according to plan. Upon entering the shop, he encounters a group of rowdy, naked upperclassmen, who immediately coerce him into participating in their alcoholic activities. Though unwilling at first, Iori quickly gives in and becomes the heart and soul of the party. Unfortunately, this earns him the scorn of his cousin, Chisa Kotegawa, who walks in at precisely the wrong time. Undeterred, Iori still vows to realize his ideal college life, but will things go according to plan this time, or will his situation take yet another dive? [Written by MAL Rewrite]",
+    "title": "Grand Blue",
+    "title_english": null,
+    "title_japanese": "\u3050\u3089\u3093\u3076\u308b",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/m-nN3SlHwZk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37105/Grand_Blue"
+}

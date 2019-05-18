@@ -1,0 +1,208 @@
+{
+    "aired": {
+        "from": "2011-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 15,
+                "month": 4,
+                "year": 2012
+            }
+        },
+        "string": "Oct 9, 2011 to Apr 15, 2012",
+        "to": "2012-04-15T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Mirai Nikki also spawned a live-action television show with a different plot from the manga and anime, as well as a visual novel.",
+    "broadcast": "Sundays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Blood Teller\" by Faylan (eps 1-14)",
+        "\"filament\" by Yousei Teikoku (eps 15-26)#B: \"Happy End\" By Faylan (Blu-ray and DVD)"
+    ],
+    "episodes": 26,
+    "favorites": 25533,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 10620,
+    "members": 1105637,
+    "opening_themes": [
+        "\"Kuusou Mesorogiwi (\u7a7a\u60f3\u30e1\u30bd\u30ed\u30ae\u30f0)\" by Yousei Teikoku (eps 2-14)",
+        "\"Dead END\" by Faylan (eps 15-26)#B: \"Kyouki Chinden (\u72c2\u6c17\u6c88\u6bbf)\" by Yousei Teikoku (Blu-ray and DVD)"
+    ],
+    "popularity": 12,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 211,
+            "name": "Rakuonsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 665,
+            "name": "chara-ani.com",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/665/chara-anicom"
+        },
+        {
+            "mal_id": 713,
+            "name": "12 Diary Holders",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/713/12_Diary_Holders"
+        },
+        {
+            "mal_id": 715,
+            "name": "Dwango",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/715/Dwango"
+        },
+        {
+            "mal_id": 765,
+            "name": "Sakura Create",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+        }
+    ],
+    "rank": 874,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 584,
+                "name": "Mirai Nikki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/584/Mirai_Nikki"
+            },
+            {
+                "mal_id": 91154,
+                "name": "Mirai Nikki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91154/Mirai_Nikki"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 8460,
+                "name": "Mirai Nikki OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8460/Mirai_Nikki_OVA"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16762,
+                "name": "Mirai Nikki: Redial",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16762/Mirai_Nikki__Redial"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 12503,
+                "name": "Mirai Nikki (TV): Ura Mirai Nikki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12503/Mirai_Nikki_TV__Ura_Mirai_Nikki"
+            }
+        ]
+    },
+    "request_cache_expiry": 38373,
+    "request_cached": true,
+    "request_hash": "request:anime:fca9c9b75d2291d87f384545d37d0232c62dff9f",
+    "score": 7.82,
+    "scored_by": 670520,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 163,
+            "name": "Asread",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/163/Asread"
+        }
+    ],
+    "synopsis": "Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone, while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god's servant. Revealing himself to be an actual entity, Deus grants Yukiteru a \"Random Diary,\" which shows highly descriptive entries based on the future and forces him into a bloody battle royale with 11 other holders of similarly powerful future diaries. With the last person standing designated as the new god of time and space, Yukiteru must find and kill the other 11 in order to survive. He reluctantly teams up with his obsessive stalker Yuno Gasai (who also possesses such a diary), and she takes it upon herself to ensure his safety. But there's more to the girl than meets the eye, as she might have other plans for her unrequited love... [Written by MAL Rewrite]",
+    "title": "Mirai Nikki",
+    "title_english": "The Future Diary",
+    "title_japanese": "\u672a\u6765\u65e5\u8a18",
+    "title_synonyms": [
+        "Mirai Nikki",
+        "Mirai Nikki (2011)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/cOmW9c43QkA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10620/Mirai_Nikki"
+}

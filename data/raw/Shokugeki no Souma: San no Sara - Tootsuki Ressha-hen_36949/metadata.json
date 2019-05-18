@@ -1,0 +1,112 @@
+{
+    "aired": {
+        "from": "2018-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Apr 9, 2018 to Jun 25, 2018",
+        "to": "2018-06-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 00:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Atria (\u30a2\u30c8\u30ea\u30a2)\" by Fo'xTails"
+    ],
+    "episodes": 12,
+    "favorites": 1085,
+    "genres": [
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1604/93531.jpg",
+    "licensors": [],
+    "mal_id": 36949,
+    "members": 247012,
+    "opening_themes": [
+        "\"Symbol (\u30b7\u30f3\u30dc\u30eb)\" by Luck Life"
+    ],
+    "popularity": 362,
+    "premiered": "Spring 2018",
+    "producers": [
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 202,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 45757,
+                "name": "Shokugeki no Souma",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/45757/Shokugeki_no_Souma"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 35788,
+                "name": "Shokugeki no Souma: San no Sara",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35788/Shokugeki_no_Souma__San_no_Sara"
+            }
+        ]
+    },
+    "request_cache_expiry": 34138,
+    "request_cached": true,
+    "request_hash": "request:anime:d815ccc93b72def21f7d41034e1216d43283335b",
+    "score": 8.36,
+    "scored_by": 121758,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "The second cour of Shokugeki no Souma season 3.",
+    "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+    "title_english": "Food Wars! The Third Plate: Totsuki Train Arc",
+    "title_japanese": "\u98df\u621f\u306e\u30bd\u30fc\u30de \u9910\u30ce\u76bf \u9060\u6708\u5217\u8eca\u7bc7",
+    "title_synonyms": [
+        "Shokugeki no Soma 4th Season",
+        "Food Wars! The Third Plate 2nd cour",
+        "Shokugeki no Souma: San no Sara (2018)"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/8uEl3f8On1U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36949/Shokugeki_no_Souma__San_no_Sara_-_Tootsuki_Ressha-hen"
+}

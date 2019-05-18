@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2013-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 6, 2013 to Sep 21, 2013",
+        "to": "2013-09-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Characters and songs from this series also appear in the rhythm game Miracle Girls Festival, which was released on the PlayStation Vita in December 2015.\r\nThe conversation school Coco Juku directed the series' English segments.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Your Voice\" by Rhodanthe*"
+    ],
+    "episodes": 12,
+    "favorites": 739,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/51379.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 16732,
+    "members": 124385,
+    "opening_themes": [
+        "\"Jumping!!\" by Rhodanthe*"
+    ],
+    "popularity": 821,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        }
+    ],
+    "rank": 2341,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26036,
+                "name": "Kiniro Mosaic",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26036/Kiniro_Mosaic"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23269,
+                "name": "Hello!! Kiniro Mosaic",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23269/Hello_Kiniro_Mosaic"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f5286a21577fc5bf14c47ab8632820ff081a3d2a",
+    "score": 7.34,
+    "scored_by": 45839,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 418,
+            "name": "Studio Gokumi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+        }
+    ],
+    "synopsis": "Shinobu Oomiya once left Japan to participate in a homestay in England. During her time there, she became close friends with Alice Cartelet, the daughter of the family she was living with. However, when it was time for Shinobu to return to Japan, the two were able to express their sorrow despite the language barrier between them. Five years later, now a first year student in high school, Shinobu receives a letter by air mail in a language she does not understand. This letter is penned by none other than Alice, detailing her own homestay in Japan. In fact, Alice will be attending Shinobu's high school and living with her! Alongside their friends Youko Inokuma, Aya Komichi, and Karen Kujou, the five girls attend school together and learn about what their different cultures have to offer, day after day. [Written by MAL Rewrite]",
+    "title": "Kiniro Mosaic",
+    "title_english": "KINMOZA!",
+    "title_japanese": "\u304d\u3093\u3044\u308d\u30e2\u30b6\u30a4\u30af",
+    "title_synonyms": [
+        "Kinmosa",
+        "Golden Mosaic"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/qGf5rZ9iyfg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16732/Kiniro_Mosaic"
+}

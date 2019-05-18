@@ -1,0 +1,138 @@
+{
+    "aired": {
+        "from": "2009-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2009
+            }
+        },
+        "string": "Jan 7, 2009 to Jul 1, 2009",
+        "to": "2009-07-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 01:29 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"8 AM\" by coldrain"
+    ],
+    "episodes": 26,
+    "favorites": 1227,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/56617.jpg",
+    "licensors": [],
+    "mal_id": 5258,
+    "members": 147121,
+    "opening_themes": [
+        "\"Hekireki\" by Last Alliance"
+    ],
+    "popularity": 684,
+    "premiered": "Winter 2009",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 41,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 7,
+                "name": "Hajime no Ippo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/7/Hajime_no_Ippo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 265,
+                "name": "Hajime no Ippo: Mashiba vs. Kimura",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/265/Hajime_no_Ippo__Mashiba_vs_Kimura"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 19647,
+                "name": "Hajime no Ippo: Rising",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19647/Hajime_no_Ippo__Rising"
+            }
+        ]
+    },
+    "request_cache_expiry": 39119,
+    "request_cached": true,
+    "request_hash": "request:anime:f9795fa6ba4bb6ded6db186010acbeb2c7f4d55c",
+    "score": 8.72,
+    "scored_by": 88593,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Japanese Featherweight Champion Ippo Makunouchi has successfully defended and retained his title. Meanwhile, his rival, Ichirou Miyata, has resurfaced in Japan, aiming for his own Featherweight belt in the Oriental Pacific Boxing Federation. When the rest of the world comes knocking, however, will Japan's best fighters rise to the challenge and achieve glory at the top? Or will the small island nation be crushed under the weight of greater entities? This time, champions will become challengers issuing a call to the rest of the world and ready to show off their fighting spirit! [Written by MAL Rewrite]",
+    "title": "Hajime no Ippo: New Challenger",
+    "title_english": "Fighting Spirit: New Challenger",
+    "title_japanese": "\u306f\u3058\u3081\u306e\u4e00\u6b69 \u65b0\u30b7\u30ea\u30fc\u30ba",
+    "title_synonyms": [
+        "Hajime no Ippo New Series",
+        "Hajime no Ippo Season II",
+        "Hajime no Ippo 2"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger"
+}

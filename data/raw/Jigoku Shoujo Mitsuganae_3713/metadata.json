@@ -1,0 +1,132 @@
+{
+    "aired": {
+        "from": "2008-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 4,
+                "month": 4,
+                "year": 2009
+            }
+        },
+        "string": "Oct 4, 2008 to Apr 4, 2009",
+        "to": "2009-04-04T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Ichi Nuke\" by Noto Mamiko"
+    ],
+    "episodes": 26,
+    "favorites": 293,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/86976.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 3713,
+    "members": 77724,
+    "opening_themes": [
+        "\"Tsukihana -tsukihana-\" by  Nana Kitade"
+    ],
+    "popularity": 1257,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        }
+    ],
+    "rank": 1060,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3243,
+                "name": "Jigoku Shoujo",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3243/Jigoku_Shoujo"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 1594,
+                "name": "Jigoku Shoujo Futakomori",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34966,
+                "name": "Jigoku Shoujo: Yoi no Togi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34966/Jigoku_Shoujo__Yoi_no_Togi"
+            }
+        ]
+    },
+    "request_cache_expiry": 2428,
+    "request_cached": true,
+    "request_hash": "request:anime:763b6b7af13418f4d4d595820df6184d2d688625",
+    "score": 7.73,
+    "scored_by": 30939,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 37,
+            "name": "Studio Deen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ],
+    "synopsis": "Following the events of Jigoku Shoujo Futakomori, Ai Enma, the Hell Girl, has disappeared. Her former companions decide to lead normal lives, until their absent mistress returns to them with a new companion, and in a way that none of them anticipated. Yuzuki Mikage is a normal schoolgirl who soon comes to understand the Hell Girl on an intimate level. During a dream-like trance in the bathtub, Ai kisses Yuzuki and possesses her. So when Yuzuki's friend decides to type in the name of their teacher in the Hell Correspondence website, Ai makes use of Yuzuki's body to accomplish her own task of ferrying the teacher's soul to hell. Yuzuki is disturbed by her new circumstances and wonders why she was chosen to continue Ai's work. Unfortunately for her, the Hell Girl and her assistants resume operation of Hell Correspondence, and she is dragged along for the ride towards hell itself. [Written by MAL Rewrite]",
+    "title": "Jigoku Shoujo Mitsuganae",
+    "title_english": "Hell Girl: Three Vessels",
+    "title_japanese": "\u5730\u7344\u5c11\u5973 \u4e09\u9f0e",
+    "title_synonyms": [
+        "Hell Girl 3",
+        "Jigoku Shoujo 3"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/NxkGuptgb0E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3713/Jigoku_Shoujo_Mitsuganae"
+}

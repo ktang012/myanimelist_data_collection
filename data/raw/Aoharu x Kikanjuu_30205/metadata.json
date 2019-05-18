@@ -1,0 +1,154 @@
+{
+    "aired": {
+        "from": "2015-07-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 18,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Jul 3, 2015 to Sep 18, 2015",
+        "to": "2015-09-18T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 01:46 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Gunjou Survival (\u7fa4\u9752\u30b5\u30d0\u30a4\u30d0\u30eb)\" by Mikako Komatsu (eps 1-7, 9-12)",
+        "\"Tic Tac (\u30c1\u30af\u30bf\u30af)\" by Mikako Komatsu (ep 8)"
+    ],
+    "episodes": 12,
+    "favorites": 1119,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/76271.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 30205,
+    "members": 149871,
+    "opening_themes": [
+        "\"The Bravest Destiny\" by Toy\u2606GunGun (\u30c8\u30a4\u2606\u30ac\u30f3\u30ac\u30f3) (Tomoaki Maeno, Yoshitsugu Matsuoka, Mikako Komatsu)"
+    ],
+    "popularity": 663,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 665,
+            "name": "chara-ani.com",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/665/chara-anicom"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1344,
+            "name": "King Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        },
+        {
+            "mal_id": 1589,
+            "name": "NichiNare",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+        }
+    ],
+    "rank": 2601,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 59961,
+                "name": "Aoharu x Kikanjuu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/59961/Aoharu_x_Kikanjuu"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31754,
+                "name": "Aoharu x Kikanjuu: Kemono-tachi no Senjou da na!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31754/Aoharu_x_Kikanjuu__Kemono-tachi_no_Senjou_da_na"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:415e724e4d357717a99678c129ab21783e7eb33c",
+    "score": 7.27,
+    "scored_by": 69474,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "Hotaru Tachibana has a strong sense of justice and just cannot help confronting those who choose to perform malicious acts. Furthermore, Hotaru is actually a girl who likes to disguise herself as a boy. After hearing rumors that her best friend was tricked by the popular host of a local club, Hotaru seeks to punish the evildoer. Upon arriving at the club, however, she is challenged to a so-called \"survival game\" by the host Masamune Matsuoka, where the first person hit by the bullet of a toy gun will lose. After a destructive fight which results in Hotaru's loss, Masamune forces the young \"boy\" to join his survival game team named Toy Gun Gun, in order to repay the cost of the damages that \"he\" has caused inside the club. Although she is initially unhappy with this turn of events, Hotaru quickly begins to enjoy what survival games have to offer and is determined to pay off her debt, much to the dismay of Tooru Yukimura, the other member of Toy Gun Gun. As time goes on, Hotaru begins to develop a close friendship with the rest of the team and hopes to take part in realizing their dream of winning the Top Combat Game (TCG), a tournament to decide the best survival game team in Japan. Although Hotaru tries her best, there are just two little problems: she is absolutely terrible at the game, and Toy Gun Gun doesn't allow female members on their team! [Written by MAL Rewrite]",
+    "title": "Aoharu x Kikanjuu",
+    "title_english": "Aoharu x Machinegun",
+    "title_japanese": "\u9752\u6625\u00d7\u6a5f\u95a2\u9283",
+    "title_synonyms": [
+        "Aoharu x Machine Gun"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/3-xcAfq7JFY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30205/Aoharu_x_Kikanjuu"
+}

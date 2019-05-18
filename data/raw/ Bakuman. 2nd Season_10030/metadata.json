@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2011-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Oct 1, 2011 to Mar 24, 2012",
+        "to": "2012-03-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 17:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"monochrome rainbow\" by Tommy heavenly6 (eps 1-16)",
+        "\"Parallel= (\u30d1\u30e9\u30ec\u30eb\uff1d)\" by Fumiya Sashida (\u6307\u7530\u90c1\u4e5f) (eps 17-24)",
+        "\"Dream of Life\" by Shohei Itou (\u4f0a\u85e4\u7965\u5e73) (ep 25)"
+    ],
+    "episodes": 25,
+    "favorites": 1180,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/34923.jpg",
+    "licensors": [
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        }
+    ],
+    "mal_id": 10030,
+    "members": 227168,
+    "opening_themes": [
+        "\"Dream of Life\" by Shohei Itou (\u4f0a\u85e4\u7965\u5e73)"
+    ],
+    "popularity": 399,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 119,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 9711,
+                "name": "Bakuman.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/9711/Bakuman"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 23369,
+                "name": "Bakuman. 2nd Season Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23369/Bakuman_2nd_Season_Special"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 7674,
+                "name": "Bakuman.",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7674/Bakuman"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 12365,
+                "name": "Bakuman. 3rd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12365/Bakuman_3rd_Season"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 15711,
+                "name": "Bakuman.: Deraman.",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15711/Bakuman__Deraman"
+            }
+        ]
+    },
+    "request_cache_expiry": 13292,
+    "request_cached": true,
+    "request_hash": "request:anime:1cf34fce1375ae1c417594c8ad0060fb785a4a10",
+    "score": 8.47,
+    "scored_by": 136209,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "With the serialization of their new manga, \"Detective Trap,\" the writer-artist team, Akito Takagi and Moritaka Mashiro, better known by their pseudonym Ashirogi Muto, are one step closer to becoming world-renowned mangaka. For Mashiro, however, serialization is just the first step. Having promised to marry his childhood sweetheart and aspiring voice actress, Azuki Miho, once his manga gets an anime adaptation, Mashiro must continue his to popularize Ashirogi's work. A tremendously competitive cast of ambitious mangaka\u2014including the wild genius, Eiji Niizuma; the elegant student, Yuriko Aoki, and her older admirer and partner, Takurou Nakai; the lazy prodigy, Kazuya Hiramaru; and the abrasive artist, Shinta Fukuda\u2014both support and compete against Ashirogi Muto in creating the next big hit. As they adjust to their young and seemingly untested new editor, the dynamic duo struggle to maintain their current serialization, secure the top stop in Shounen Jack, and ultimately, achieve an anime adaptation of their manga. With new rivals and friends, Bakuman. 2nd Season continues Takagi and Mashiro's inspiring story of hard work and young love. [Written by MAL Rewrite]",
+    "title": "Bakuman. 2nd Season",
+    "title_english": "Bakuman.",
+    "title_japanese": "\u30d0\u30af\u30de\u30f3\u30022nd\u30b7\u30fc\u30ba\u30f3",
+    "title_synonyms": [
+        "Bakuman Season 2"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10030/Bakuman_2nd_Season"
+}

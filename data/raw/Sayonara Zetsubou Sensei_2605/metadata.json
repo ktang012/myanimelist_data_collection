@@ -1,0 +1,148 @@
+{
+    "aired": {
+        "from": "2007-07-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Jul 8, 2007 to Sep 23, 2007",
+        "to": "2007-09-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Media Blasters initially held the license to Sayonara Zetsubou Sensei, but dropped it in 2010 without any DVD/Blu-ray release. It has been unlicensed ever since.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Zessei Bijin (\u7d76\u4e16\u7f8e\u4eba)\" by Ai Nonaka, Marina Inoue, Yu Kobayashi & Ryoko Shintani"
+    ],
+    "episodes": 12,
+    "favorites": 4116,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/6559.jpg",
+    "licensors": [
+        {
+            "mal_id": 250,
+            "name": "Media Blasters",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+        }
+    ],
+    "mal_id": 2605,
+    "members": 234030,
+    "opening_themes": [
+        "\"Hito toshite Jiku ga Bureteiru (\u4eba\u3068\u3057\u3066\u8ef8\u304c\u3076\u308c\u3066\u3044\u308b)\" by Kenji Ohtsuki feat. Ai Nonaka, Marina Inoue, Yu Kobayashi, Miyuki Sawashiro & Ryoko Shintani (eps 1-9, 12)",
+        "\"Gouin ni Mai Yeah~\" by Ai Nonaka, Marina Inoue, Yu Kobayashi, Miyuki Sawashiro & Ryoko Shintani (eps 10-11)"
+    ],
+    "popularity": 383,
+    "premiered": "Summer 2007",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 313,
+            "name": "Omnibus Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/313/Omnibus_Japan"
+        }
+    ],
+    "rank": 626,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 661,
+                "name": "Sayonara Zetsubou Sensei",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/661/Sayonara_Zetsubou_Sensei"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 3228,
+                "name": "Zoku Sayonara Zetsubou Sensei",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 10469,
+                "name": "Sayonara Zetsubou Sensei Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10469/Sayonara_Zetsubou_Sensei_Special"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 3674,
+                "name": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3674/Sayonara_Zetsubou_Sensei_Jo__Zetsubou_Shoujo_Senshuu"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:a3f68cd1dc46814673aa0580b8b14b03027ce9d7",
+    "score": 7.96,
+    "scored_by": 93182,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 44,
+            "name": "Shaft",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/44/Shaft"
+        }
+    ],
+    "synopsis": "Nozomu Itoshiki is a high school teacher so pessimistic that even the smallest of misfortunes can send him into a pit of raging despair; some of these \"catastrophes\" even lead to suicide attempts. Sayonara Zetsubou Sensei is a satirical slice-of-life comedy set in the modern day, covering various aspects of Japanese life and culture through Nozomu and his interactions with his students: Kiri Komori, a recluse who refuses to leave the school; Abiru Kobushi, an enigma who frequently arrives to class with severe and mysterious injuries; the hyper-optimistic Kafuuka Fuura, Nozomu's polar opposite; and several other unusual girls, all of whom are just as eccentric as their teacher. [Written by MAL Rewrite]",
+    "title": "Sayonara Zetsubou Sensei",
+    "title_english": "Sayonara, Zetsubou-Sensei",
+    "title_japanese": "\u3055\u3088\u306a\u3089\u7d76\u671b\u5148\u751f",
+    "title_synonyms": [
+        "Sayonara Zetsubo Sensei",
+        "Goodbye Teacher Despair",
+        "SZS"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/2605/Sayonara_Zetsubou_Sensei"
+}

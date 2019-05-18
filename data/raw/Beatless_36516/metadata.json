@@ -1,0 +1,148 @@
+{
+    "aired": {
+        "from": "2018-01-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Jan 13, 2018 to Jun 30, 2018",
+        "to": "2018-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:55 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"PRIMALove\" by ClariS (eps 1-13)",
+        "\"Shapeless\" by Tokyo Performance Doll (eps 14-20)"
+    ],
+    "episodes": 20,
+    "favorites": 341,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1986/90184.jpg",
+    "licensors": [],
+    "mal_id": 36516,
+    "members": 105101,
+    "opening_themes": [
+        "\"Error\" by GARNiDELiA (eps 2-13)",
+        "\"Truth.\" by TrySail (eps 14-20)"
+    ],
+    "popularity": 964,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1449,
+            "name": "Animatic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+        }
+    ],
+    "rank": 7102,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 63717,
+                "name": "Beatless",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/63717/Beatless"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38020,
+                "name": "Beatless Final Stage",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38020/Beatless_Final_Stage"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 37277,
+                "name": "Beatless Intermission",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37277/Beatless_Intermission"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:17fc11b9e061793245cb38b0f294bd9d0dd8bf38",
+    "score": 6.25,
+    "scored_by": 22159,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 51,
+            "name": "Diomedea",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/51/Diomedea"
+        }
+    ],
+    "synopsis": "With great advancements in technology, mankind has created hIEs, human-like robots that act as public and personal servants for society. Unlike many others, the kind-hearted high school student Arato Endou treats hIEs as equals, but his financial situation keeps him from ever owning one. However, his normal life is shattered when an ordinary run to the local grocery store goes horribly awry. Viciously assaulted by a hacked hIE, Arato is on the verge of death; but luckily, he is saved by an abnormal hIE carrying a weaponized coffin. Her name is Lacia, one of five highly advanced hIEs that recently escaped the clutches of the mysterious MemeFrame Corporation. Faced with a hacked car threatening to run them over, Lacia offers Arato a deal: in exchange for saving his life, he must register as her new owner, thus taking full responsibility for her actions. With little choice, he decides to trust this artificial girl and allows her to live in his home. Though Lacia begins to adapt to her new, peaceful lifestyle, she warns the entranced Arato of one thing\u2014she does not have a soul. [Written by MAL Rewrite]",
+    "title": "Beatless",
+    "title_english": "Beatless",
+    "title_japanese": "BEATLESS",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/ZKVpM8esO6Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/36516/Beatless"
+}

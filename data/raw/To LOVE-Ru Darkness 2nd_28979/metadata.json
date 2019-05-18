@@ -1,0 +1,187 @@
+{
+    "aired": {
+        "from": "2015-07-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 10,
+                "year": 2015
+            }
+        },
+        "string": "Jul 7, 2015 to Oct 29, 2015",
+        "to": "2015-10-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening at TOHO Cinemas Shinjuku on June 21, 2015. Regular broadcasting began on July 7, 2015.\r\nThe franchise has been adapted into five video games.",
+    "broadcast": "Tuesdays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Gardens\" by Mami Kawada"
+    ],
+    "episodes": 12,
+    "favorites": 751,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/69847.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 28979,
+    "members": 139592,
+    "opening_themes": [
+        "\"secret arms\" by Ray"
+    ],
+    "popularity": 722,
+    "premiered": "Summer 2015",
+    "producers": [
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 1113,
+            "name": "NBCUniversal Entertainment Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 1237,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 22519,
+                "name": "To LOVE-Ru Darkness",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/22519/To_LOVE-Ru_Darkness"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 13663,
+                "name": "To LOVE-Ru Darkness",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13663/To_LOVE-Ru_Darkness"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 31711,
+                "name": "To LOVE-Ru Darkness 2nd Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31711/To_LOVE-Ru_Darkness_2nd_Specials"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 13851,
+                "name": "To LOVE-Ru Darkness OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13851/To_LOVE-Ru_Darkness_OVA"
+            },
+            {
+                "mal_id": 31380,
+                "name": "To LOVE-Ru Darkness 2nd OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31380/To_LOVE-Ru_Darkness_2nd_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 19926,
+    "request_cached": true,
+    "request_hash": "request:anime:79ad18eb9dc6da1895caeae62111d2231f88629c",
+    "score": 7.66,
+    "scored_by": 68570,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "The dispassionate, transforming assassin Golden Darkness returns to peer deeper into the mysteries surrounding her new life, while a sinister Nemesis manipulates her younger sister Mea from the shadows. Along with their newly discovered mother, Tearju, this previously estranged family quickly becomes the center of everyone's attention. On the other hand, Princess Momo's Harem Plan stands on shaky ground amidst Rito's inability to confess to his longtime crush Haruna, who has grown feelings of her own. But things aren't as peaceful as they seem; an evil force looms amidst the innocuous commotion, threatening to eclipse the love, happiness, and friendship of Rito and his harem. Only the light of love can hope to banish the shadow. [Written by MAL Rewrite]",
+    "title": "To LOVE-Ru Darkness 2nd",
+    "title_english": "To LOVE Ru Darkness 2",
+    "title_japanese": "To LOVE\u308b -\u3068\u3089\u3076\u308b- \u30c0\u30fc\u30af\u30cd\u30b92nd",
+    "title_synonyms": [
+        "To LOVE-Ru Trouble Darkness 2nd"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28979/To_LOVE-Ru_Darkness_2nd"
+}

@@ -1,0 +1,152 @@
+{
+    "aired": {
+        "from": "2011-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 4, 2011 to Dec 27, 2011",
+        "to": "2011-12-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Nakimushi. (\u306a\u304d\u3080\u3057\u3002)\" by Miku Sawai (\u6ca2\u4e95\u7f8e\u7a7a)"
+    ],
+    "episodes": 13,
+    "favorites": 1181,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/34949.jpg",
+    "licensors": [],
+    "mal_id": 10460,
+    "members": 119471,
+    "opening_themes": [
+        "\"Bye Bye (\u30d0\u30a4\u30d0\u30a4)\" by 7!!"
+    ],
+    "popularity": 854,
+    "premiered": "Fall 2011",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 139,
+            "name": "Nihon Ad Systems",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        }
+    ],
+    "rank": 944,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8557,
+                "name": "Kimi to Boku.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8557/Kimi_to_Boku"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 11739,
+                "name": "Kimi to Boku. 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11739/Kimi_to_Boku_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 16246,
+    "request_cached": true,
+    "request_hash": "request:anime:b959799ae34fa49de925e26352a7e13ba518abd1",
+    "score": 7.78,
+    "scored_by": 42467,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "The high school students in Kimi to Boku. consider their school life to be anything but exciting. A repetitive journey through classes, arguments, and orientations for future careers that seem way too distant. But with the right group of friends, time can be made to move a little faster. Four high school boys, who have known each other since childhood, hang out together in school every day. There's the handsome twins Yuuki and Yuuta Asaba, the gentle Shun Matsuoka, and the calm class head Kaname Tsukahara. Although they have become used to a lack of excitement in their lives, the addition of a new transfer student, Chizuru Tachibana, who is half German and half Japanese, may add a little more adventure to their routine. With his energetic personality and stories from a distant country, Chizuru may be able to light up the dull atmosphere of the group.",
+    "title": "Kimi to Boku.",
+    "title_english": "You and Me.",
+    "title_japanese": "\u541b\u3068\u50d5\u3002",
+    "title_synonyms": [
+        "Kimi to Boku."
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ajDCvoOAXSU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/10460/Kimi_to_Boku"
+}

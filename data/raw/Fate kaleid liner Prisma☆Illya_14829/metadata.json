@@ -1,0 +1,212 @@
+{
+    "aired": {
+        "from": "2013-07-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 14,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 13, 2013 to Sep 14, 2013",
+        "to": "2013-09-14T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 01:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Prism Sympathy\" by StylipS (eps 1-8)",
+        "\"Tsunagu Kizuna Tsutsumu Kodoku (\u30c4\u30ca\u30b0\u30ad\u30ba\u30ca\u30fb\u30c4\u30c4\u30e0\u30b3\u30c9\u30af)\" by StylipS (ep 9)"
+    ],
+    "episodes": 10,
+    "favorites": 802,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/52603.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 14829,
+    "members": 165880,
+    "opening_themes": [
+        "\"starlog\" by ChouCho"
+    ],
+    "popularity": 587,
+    "premiered": "Summer 2013",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 703,
+            "name": "Notes",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/703/Notes"
+        },
+        {
+            "mal_id": 715,
+            "name": "Dwango",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/715/Dwango"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        }
+    ],
+    "rank": 2821,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3526,
+                "name": "Fate/kaleid liner Prisma\u2606Illya",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3526/Fate_kaleid_liner_Prisma\u2606Illya"
+            },
+            {
+                "mal_id": 91809,
+                "name": "Fate/kaleid liner Prisma\u2606Illya",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/91809/Fate_kaleid_liner_Prisma\u2606Illya"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 356,
+                "name": "Fate/stay night",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/356/Fate_stay_night"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 34100,
+                "name": "Fate/kaleid liner Prisma\u2606Illya Movie: Sekka no Chikai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34100/Fate_kaleid_liner_Prisma\u2606Illya_Movie__Sekka_no_Chikai"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 20509,
+                "name": "Fate/kaleid liner Prisma\u2606Illya 2wei!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20509/Fate_kaleid_liner_Prisma\u2606Illya_2wei"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 18851,
+                "name": "Fate/kaleid liner Prisma\u2606Illya: Undoukai de Dance!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18851/Fate_kaleid_liner_Prisma\u2606Illya__Undoukai_de_Dance"
+            },
+            {
+                "mal_id": 19109,
+                "name": "Fate/kaleid liner Prisma\u2606Illya Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19109/Fate_kaleid_liner_Prisma\u2606Illya_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 9044,
+    "request_cached": true,
+    "request_hash": "request:anime:366c55cd6425ead70665f063041bb5dfba2daf4a",
+    "score": 7.22,
+    "scored_by": 72331,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "Illyasviel von Einzbern is an ordinary elementary school student who becomes a magical girl when the magical Kaleidostick Ruby deems her a more suitable master than the sorceress, Rin Tohsaka. Rin, who had been tasked by the wizard Zelretch to collect the seven Class Cards containing the spirits of Heroic Spirits from legend, finds that she is unable to change Ruby's mind and must supervise Illya in completing the task of collecting the Class Cards. During Illya's adventures, she receives a friend and rival in a girl named Miyu, the contracted master of the Kaleidostick Sapphire, which similarly abandoned its original master and Rin's rival, Luvia Edelfelt. (Source: Wikipedia)",
+    "title": "Fate/kaleid liner Prisma\u2606Illya",
+    "title_english": "Fate/Kaleid Liner Prisma Illya",
+    "title_japanese": "Fate/kaleid liner \u30d7\u30ea\u30ba\u30de\u2606\u30a4\u30ea\u30e4",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/LRXcx5IaQcg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14829/Fate_kaleid_liner_Prisma\u2606Illya"
+}

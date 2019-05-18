@@ -1,0 +1,130 @@
+{
+    "aired": {
+        "from": "2014-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 5,
+                "year": 2014
+            }
+        },
+        "string": "Jan 6, 2014 to May 26, 2014",
+        "to": "2014-05-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The first 13 episodes of Tonari no Seki-kun aired on TV (TV Tokyo), but the final 7 episodes were streamed online on  on April 7. Starting May 2 and over the course of 7 weeks, the same 7 episodes aired on TV (AT-X).\r\nThe series adapts content from the first 3 volumes of Takuma Morishige's manga series of the same title.",
+    "broadcast": "Unknown",
+    "duration": "7 min per ep",
+    "ending_themes": [
+        "\"Set Them Free\" by Akira Jimbo (\u795e\u4fdd \u5f70) (eps 1-9, 11-21)",
+        "\"Set Them Free \u301cAnother Version\u301c\" by Akira Jimbo (\u795e\u4fdd \u5f70) (ep 10)"
+    ],
+    "episodes": 21,
+    "favorites": 491,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/55489.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 18139,
+    "members": 140088,
+    "opening_themes": [
+        "\"Meiwaku Spectacle (\u8ff7\u60d1\u30b9\u30da\u30af\u30bf\u30af\u30eb)\" by Kana Hanazawa"
+    ],
+    "popularity": 720,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        }
+    ],
+    "rank": 1238,
+    "rating": "G - All Ages",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 28091,
+                "name": "Tonari no Seki-kun",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/28091/Tonari_no_Seki-kun"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 20977,
+                "name": "Tonari no Seki-kun OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20977/Tonari_no_Seki-kun_OVA"
+            },
+            {
+                "mal_id": 24365,
+                "name": "Tonari no Seki-kun Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24365/Tonari_no_Seki-kun_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 31879,
+    "request_cached": true,
+    "request_hash": "request:anime:c794c5798c391e4a949e078426bd2d07399c9a62",
+    "score": 7.66,
+    "scored_by": 65587,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 247,
+            "name": "Shin-Ei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ],
+    "synopsis": "The original manga revolves around a girl named Yokoi who sits next to a boy only known as Seki-kun. During class, Seki-kun continues to not pay attention and instead creates amazing little distractions, such as a detailed golf course with the course's hole being a dent in his desk, or an entire dramatic war being played out by paper shogi pieces. Yokoi often finds herself getting reluctantly interested in his games, even though they always seem to end up getting HER in trouble with the teacher! (Source: ANN)",
+    "title": "Tonari no Seki-kun",
+    "title_english": "Tonari no Seki-kun: The Master of Killing Time",
+    "title_japanese": "\u3068\u306a\u308a\u306e\u95a2\u304f\u3093",
+    "title_synonyms": [
+        "My Neighbor Seki"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/7ufd8z0F0Uk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun"
+}

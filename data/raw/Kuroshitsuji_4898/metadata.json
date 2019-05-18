@@ -1,0 +1,209 @@
+{
+    "aired": {
+        "from": "2008-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 3, 2008 to Mar 27, 2009",
+        "to": "2009-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Three musicals based on Kuroshitsuji entitled That Butler, Friendship, Musical Black Butler: The Most Beautiful Death in The World \u2013 A Thousand Souls and The Fallen Grim Reaper, and Lycoris that Blazes the Earth were performed in Japan. \r\nA Nintendo DS game called Kuroshitsuji Phantom & Ghost was developed in 2009 and released by Square Enix.\r\nStarring Ayame Goriki as Genpou Shiori (a descendant of Ciel Phantomhive) and Hiro Mizushima as Sebastian Michaelis, a live action film of Kuroshitsuji was released in January of 2014.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"I'm ALIVE!\" by BECCA (eps 1-13)",
+        "\"Lacrimosa\" by Kalafina (eps 14-24)"
+    ],
+    "episodes": 24,
+    "favorites": 20617,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/27013.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 4898,
+    "members": 631165,
+    "opening_themes": [
+        "\"Monochrome no Kiss (\u30e2\u30ce\u30af\u30ed\u306e\u30ad\u30b9)\" by SID"
+    ],
+    "popularity": 69,
+    "premiered": "Fall 2008",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 643,
+            "name": "Trinity Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+        }
+    ],
+    "rank": 635,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3866,
+                "name": "Kuroshitsuji",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3866/Kuroshitsuji"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 8068,
+                "name": "Kuroshitsuji Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8068/Kuroshitsuji_Picture_Drama"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6707,
+                "name": "Kuroshitsuji II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6707/Kuroshitsuji_II"
+            },
+            {
+                "mal_id": 22145,
+                "name": "Kuroshitsuji: Book of Circus",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 6793,
+                "name": "Kuroshitsuji: Sono Shitsuji, Kougyou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6793/Kuroshitsuji__Sono_Shitsuji_Kougyou"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 6163,
+                "name": "Kuroshitsuji Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6163/Kuroshitsuji_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 5643,
+    "request_cached": true,
+    "request_hash": "request:anime:f4318bf1833a522a602d51b6eec0c5515b6defcd",
+    "score": 7.95,
+    "scored_by": 326556,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Young Ciel Phantomhive is known as \"the Queen's Guard Dog,\" taking care of the many unsettling events that occur in Victorian England for Her Majesty. Aided by Sebastian Michaelis, his loyal butler with seemingly inhuman abilities, Ciel uses whatever means necessary to get the job done. But is there more to this black-clad butler than meets the eye? In Ciel's past lies a secret tragedy that enveloped him in perennial darkness\u2014during one of his bleakest moments, he formed a contract with Sebastian, a demon, bargaining his soul in exchange for vengeance upon those who wronged him. Today, not only is Sebastian one hell of a butler, but he is also the perfect servant to carry out his master's orders\u2014all the while anticipating the delicious meal he will eventually make of Ciel's soul. As the two work to unravel the mystery behind Ciel's chain of misfortunes, a bond forms between them that neither heaven nor hell can tear apart. [Written by MAL Rewrite]",
+    "title": "Kuroshitsuji",
+    "title_english": "Black Butler",
+    "title_japanese": "\u9ed2\u57f7\u4e8b",
+    "title_synonyms": [
+        "Kuro Shitsuji",
+        "Kuroshitsuzi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/S8j5iEklHyI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/4898/Kuroshitsuji"
+}

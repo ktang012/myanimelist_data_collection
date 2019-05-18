@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2014-07-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 6, 2014 to Sep 28, 2014",
+        "to": "2014-09-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 02:20 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Innocence\" by NoisyCell"
+    ],
+    "episodes": 12,
+    "favorites": 8499,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/65427.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 22789,
+    "members": 379679,
+    "opening_themes": [
+        "\"Rashisa (\u3089\u3057\u3055)\" by SUPER BEAVER (eps 1-10, 12)"
+    ],
+    "popularity": 180,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 128,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17051,
+                "name": "Barakamon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17051/Barakamon"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 25045,
+                "name": "Barakamon: Mijikamon",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25045/Barakamon__Mijikamon"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 32648,
+                "name": "Handa-kun",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32648/Handa-kun"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:bb54d2d63eca5df57c0fbfced05f3aebdd9c31cd",
+    "score": 8.46,
+    "scored_by": 201213,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 290,
+            "name": "Kinema Citrus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+    ],
+    "synopsis": "Seishuu Handa is an up-and-coming calligrapher: young, handsome, talented, and unfortunately, a narcissist to boot. When a veteran labels his award-winning piece as \"unoriginal,\" Seishuu quickly loses his cool with severe repercussions. As punishment, and also in order to aid him in self-reflection, Seishuu's father exiles him to the Goto Islands, far from the comfortable Tokyo lifestyle the temperamental artist is used to. Now thrown into a rural setting, Seishuu must attempt to find new inspiration and develop his own unique art style\u2014that is, if boisterous children (headed by the frisky Naru Kotoishi), fujoshi middle schoolers, and energetic old men stop barging into his house! The newest addition to the intimate and quirky Goto community only wants to get some work done, but the islands are far from the peaceful countryside he signed up for. Thanks to his wacky neighbors who are entirely incapable of minding their own business, the arrogant calligrapher learns so much more than he ever hoped to. [Written by MAL Rewrite]",
+    "title": "Barakamon",
+    "title_english": "Barakamon",
+    "title_japanese": "\u3070\u3089\u304b\u3082\u3093",
+    "title_synonyms": [
+        "Barakamon"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/u1pCw1Cr3_U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22789/Barakamon"
+}

@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2018-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Oct 7, 2018 to Dec 30, 2018",
+        "to": "2018-12-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Based on the light novel series written by Kumo Kagyu, published by SoftBank Creative since February 15, 2016. The series has been adapted to a manga written by Kosuke Kurose, published by Square Enix since May 25, 2016. Both the light novels and manga have been published in English by Yen Press.",
+    "broadcast": "Sundays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Gin no Kisei (\u9280\u306e\u7948\u8a93)\" by Soraru"
+    ],
+    "episodes": 12,
+    "favorites": 2889,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1949/93415.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 37349,
+    "members": 356864,
+    "opening_themes": [
+        "\"Rightfully\" by Mili (eps 2-12)"
+    ],
+    "popularity": 211,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 15,
+            "name": "Sony Pictures Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 621,
+            "name": "SoftBank Creative",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/621/SoftBank_Creative"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1899,
+            "name": "Good Smile Film",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+        },
+        {
+            "mal_id": 1900,
+            "name": "Artist Management Office",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1900/Artist_Management_Office"
+        }
+    ],
+    "rank": 1148,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 95311,
+                "name": "Goblin Slayer",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/95311/Goblin_Slayer"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 39576,
+                "name": "Goblin Slayer: Goblin's Crown",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 38807,
+                "name": "Goblin Slayer: Bouken Kiroku Youshi - Adventure Sheet",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38807/Goblin_Slayer__Bouken_Kiroku_Youshi_-_Adventure_Sheet"
+            }
+        ]
+    },
+    "request_cache_expiry": 9687,
+    "request_cached": true,
+    "request_hash": "request:anime:ae4dbbd48c6dbfa016e6b5916f9f1c051327b953",
+    "score": 7.69,
+    "scored_by": 178138,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "Goblins are known for their ferocity, cunning, and rapid reproduction, but their reputation as the lowliest of monsters causes their threat to be overlooked. Raiding rural civilizations to kidnap females of other species for breeding, these vile creatures are free to continue their onslaught as adventurers turn a blind eye in favor of more rewarding assignments with larger bounties. To commemorate her first day as a Porcelain-ranked adventurer, the 15-year-old Priestess joins a band of young, enthusiastic rookies to investigate a tribe of goblins responsible for the disappearance of several village women. Unprepared and inexperienced, the group soon faces its inevitable demise from an ambush while exploring a cave. With no one else left standing, the terrified Priestess accepts her fate\u2014until the Goblin Slayer unexpectedly appears to not only rescue her with little effort, but destroy the entire goblin nest. As a holder of the prestigious Silver rank, the Goblin Slayer allows her to accompany him as he assists the Adventurer's Guild in all goblin-related matters. Together with the Priestess, High Elf, Dwarf, and Lizard-man, the armored warrior will not rest until every single goblin in the frontier lands has been eradicated for good. [Written by MAL Rewrite]",
+    "title": "Goblin Slayer",
+    "title_english": "Goblin Slayer",
+    "title_japanese": "\u30b4\u30d6\u30ea\u30f3\u30b9\u30ec\u30a4\u30e4\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/6sdxN30qNrw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37349/Goblin_Slayer"
+}

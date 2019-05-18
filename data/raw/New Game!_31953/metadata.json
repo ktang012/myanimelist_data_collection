@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2016-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 4, 2016 to Sep 19, 2016",
+        "to": "2016-09-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Now Loading!!!!\" by fourfolium [Aoba Suzukaze (Yuuki Takada), Hifumi Takimoto (Megumi Yamaguchi), Hajime Shinoda (Megumi Toda), Yun Iijima (Ayumi Takeo)]"
+    ],
+    "episodes": 12,
+    "favorites": 2024,
+    "genres": [
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/80417.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31953,
+    "members": 241716,
+    "opening_themes": [
+        "\"SAKURA Skip (SAKURA\u30b9\u30ad\u30c3\u30d7)\" by fourfolium [Aoba Suzukaze (Yuuki Takada), Hifumi Takimoto (Megumi Yamaguchi), Hajime Shinoda (Megumi Toda), Yun Iijima (Ayumi Takeo)]"
+    ],
+    "popularity": 369,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 711,
+            "name": "Delfi Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 797,
+            "name": "Houbunsha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1496,
+            "name": "Lawson",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+        }
+    ],
+    "rank": 1092,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 62509,
+                "name": "New Game!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/62509/New_Game"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 34277,
+                "name": "New Game!: Watashi, Shain Ryokou tte Hajimete nano de...",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34277/New_Game__Watashi_Shain_Ryokou_tte_Hajimete_nano_de"
+            }
+        ]
+    },
+    "request_cache_expiry": 5284,
+    "request_cached": true,
+    "request_hash": "request:anime:d4fe95386db81f4dc11131da0e10721b722811dd",
+    "score": 7.72,
+    "scored_by": 114527,
+    "source": "4-koma manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "Since childhood, Aoba Suzukaze has loved the Fairies Story game series, particularly the character designs. So when she graduates from high school, it is no surprise that she applies to work at Eagle Jump, the company responsible for making her favorite video game. On her first day, she is excited to learn that she will be working on a new installment to the series: Fairies Story 3\u2014and even more so under Kou Yagami, the lead character designer. In their department are people who share the same passion for games. There is Yun Iijima, whose specialty is designing monsters; the shy Hifumi Takimoto, who prefers to communicate through instant messaging; Hajime Shinoda, an animation team member with an impressive figurine collection; Rin Tooyama, the orderly art director; Shizuku Hazuki, the game director who brings her cat to work; and Umiko Ahagon, the short-tempered head programmer. New Game! follows Aoba and the others on their adventure through the ups and downs of game making, from making the perfect character design to fixing all the errors that will inevitably accumulate in the process. [Written by MAL Rewrite]",
+    "title": "New Game!",
+    "title_english": "New Game!",
+    "title_japanese": "NEW GAME!",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/E8JGXixftYQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31953/New_Game"
+}

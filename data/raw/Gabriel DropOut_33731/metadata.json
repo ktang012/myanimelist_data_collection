@@ -1,0 +1,146 @@
+{
+    "aired": {
+        "from": "2017-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 9, 2017 to Mar 27, 2017",
+        "to": "2017-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Gabriel Drop Kick (\u30ac\u30f4\u30ea\u30fc\u30eb\u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af)\" by Gabriel Tenma White (Miyu Tomita), Vignette Tsukinose April (Saori Oonishi), Satanichia Kurumizawa McDowell (Naomi Oozora), Raphiel Shiraha Ainsworth (Kana Hanazawa) (ep 1)",
+        "\"Hallelujah\u2606Essaim (\u30cf\u30ec\u30eb\u30e4\u2606\u30a8\u30c3\u30b5\u30a4\u30e0)\" by Gabriel Tenma White (Miyu Tomita), Vignette Tsukinose April (Saori Oonishi), Satanichia Kurumizawa McDowell (Naomi Oozora), Raphiel Shiraha Ainsworth (Kana Hanazawa) (eps 2-6, 8-12)",
+        "\"Gabriel no kazoeuta (\u30ac\u30f4\u30ea\u30fc\u30eb\u306e\u6570\u3048\u6b4c)\" by Vignette Tsukinose April (Saori Oonishi) (ep 7)"
+    ],
+    "episodes": 12,
+    "favorites": 1932,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/82590.jpg",
+    "licensors": [],
+    "mal_id": 33731,
+    "members": 226881,
+    "opening_themes": [
+        "\"Gabriel Drop Kick (\u30ac\u30f4\u30ea\u30fc\u30eb\u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af)\" by Gabriel Tenma White (Miyu Tomita), Vignette Tsukinose April (Saori Oonishi), Satanichia Kurumizawa McDowell (Naomi Oozora), Raphiel Shiraha Ainsworth (Kana Hanazawa)"
+    ],
+    "popularity": 400,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+            "mal_id": 1614,
+            "name": "NTT Plala",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1614/NTT_Plala"
+        }
+    ],
+    "rank": 1450,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 96526,
+                "name": "Gabriel DropOut",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/96526/Gabriel_DropOut"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34855,
+                "name": "Gabriel DropOut Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34855/Gabriel_DropOut_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 21864,
+    "request_cached": true,
+    "request_hash": "request:anime:6d2b5e3383243e12483364290a458383f5a4ccea",
+    "score": 7.58,
+    "scored_by": 113622,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 95,
+            "name": "Doga Kobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ],
+    "synopsis": "For centuries, Heaven has required its young angels to live and study among humans in order to become full-fledged angels. This is no different for top-of-her-class Gabriel White Tenma, who believes it is her mission to be a great angel who will bring happiness to mankind. However, Gabriel grows addicted to video games on Earth and eventually becomes a hikikomori. Proclaiming herself a \"Faillen Angel,\" she is apathetic to everything else\u2014much to the annoyance of Vignette April Tsukinose, a demon whom Gabriel befriended in her angelic early days on Earth. Vignette's attempts to revert Gabriel back to her previous self are in vain, as Gabriel shoots down any attempt to change her precious lifestyle. As they spend their time on Earth, they meet two eccentric personalities: the angel Raphiel Ainsworth Shiraha, Gabriel's classmate with a penchant for sadism, and the demon Satanichia McDowell Kurumizawa, a clumsy self-proclaimed future ruler of the Underworld. Gabriel DropOut follows these four friends' comedic lives as they utterly fail to understand what it truly means to be a demon or an angel. [Written by MAL Rewrite]",
+    "title": "Gabriel DropOut",
+    "title_english": "Gabriel DropOut",
+    "title_japanese": "\u30ac\u30f4\u30ea\u30fc\u30eb\u30c9\u30ed\u30c3\u30d7\u30a2\u30a6\u30c8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/4eADGP3b9j0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/33731/Gabriel_DropOut"
+}

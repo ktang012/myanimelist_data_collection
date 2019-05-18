@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2017-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 11, 2017 to Mar 29, 2017",
+        "to": "2017-03-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Yume Miru Ame (\u30e6\u30e1\u30df\u30eb\u96e8)\" by Akino Arai"
+    ],
+    "episodes": 12,
+    "favorites": 191,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/83395.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 32981,
+    "members": 72521,
+    "opening_themes": [
+        "\"One Hand Message\" by OxT (Masayoshi Oishi x Tom-H@ck)"
+    ],
+    "popularity": 1334,
+    "premiered": "Winter 2017",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1337,
+            "name": "Medicos Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        }
+    ],
+    "rank": 9041,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 103404,
+                "name": "Hand Shakers",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/103404/Hand_Shakers"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 35202,
+                "name": "Hand Shakers: Go ago Go",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/35202/Hand_Shakers__Go_ago_Go"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37509,
+                "name": "W'z",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37509/Wz"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:b2c6f894019455471e581c48f52d9aeb0e0b03ed",
+    "score": 5.64,
+    "scored_by": 20348,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 309,
+            "name": "GoHands",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+    ],
+    "synopsis": "The anime takes place in Osaka in \"AD20XX,\" and revolves around the Hand Shakers\u2014partners who can summon \"Nimrodes,\" weapons born from their deep psyche by joining hands. In order to grant the pair's wish, the Hand Shakers compete with and fight other Hand Shaker pairs. The top pair will then meet and challenge \"God.\" \"They, the receivers of the Revelation of Babel. They, the challengers to God. They, who inevitably throw themselves into battle with their partners. What does God want from them? And did they want powers exceeding that of Gods? The chosen ones, their souls linked, join hand and hand for the Ziggurat where the fighting shall ensue.\" (Source: ANN)",
+    "title": "Hand Shakers",
+    "title_english": "Hand Shakers",
+    "title_japanese": "\u30cf\u30f3\u30c9\u30b7\u30a7\u30a4\u30ab\u30fc",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/2X0wYEA5amI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/32981/Hand_Shakers"
+}

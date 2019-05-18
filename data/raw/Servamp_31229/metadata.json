@@ -1,0 +1,199 @@
+{
+    "aired": {
+        "from": "2016-07-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 5, 2016 to Sep 20, 2016",
+        "to": "2016-09-20T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"sunlight avenue\" by Takuma Terashima"
+    ],
+    "episodes": 12,
+    "favorites": 958,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 43,
+            "name": "Josei",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/43/Josei"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/80953.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31229,
+    "members": 140851,
+    "opening_themes": [
+        "\"Deal with\" by OLDCODEX"
+    ],
+    "popularity": 713,
+    "premiered": "Summer 2016",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1492,
+            "name": "Yomiuri TV Enterprise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+        },
+        {
+            "mal_id": 1502,
+            "name": "Adores",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1502/Adores"
+        },
+        {
+            "mal_id": 1503,
+            "name": "Heroz",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1503/Heroz"
+        }
+    ],
+    "rank": 3400,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 29887,
+                "name": "Servamp",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/29887/Servamp"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 33994,
+                "name": "Servamp Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33994/Servamp_Specials"
+            },
+            {
+                "mal_id": 0,
+                "name": "",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime//"
+            },
+            {
+                "mal_id": 36803,
+                "name": "Servamp Movie: Alice in the Garden",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36803/Servamp_Movie__Alice_in_the_Garden"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4467e22546371a8b0d63fd2e15dcbff051a9c5cc",
+    "score": 7.09,
+    "scored_by": 53157,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        },
+        {
+            "mal_id": 1471,
+            "name": "Platinum Vision",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1471/Platinum_Vision"
+        }
+    ],
+    "synopsis": "Mahiru Shirota firmly believes that simple is best and troublesome things should be avoided at all costs. It is troublesome to do nothing and regret it later\u2014and this ideology has led the 15-year-old to pick up a stray cat on his way home from school. As he affectionately names the feline Kuro, little does he know that this chance meeting will spark an extraordinary change in his everyday life. One day, Mahiru returns home to find something quite strange: a mysterious young man he has never seen before. His subsequent panic results in the uninvited guest being exposed to sunlight and\u2014much to Mahiru's shock\u2014transforming into Kuro! Upon revealing himself as a mere lazy shut-in vampire, Kuro promises to leave once night falls. However, one disaster after another leads to Mahiru accidentally forming a contract with his new freeloader, dragging him into a life-threatening battle of supernatural servants and bloodthirsty beings that is anything but simple. [Written by MAL Rewrite]",
+    "title": "Servamp",
+    "title_english": "SERVAMP",
+    "title_japanese": "SERVAMP\uff08\u30b5\u30fc\u30f4\u30a1\u30f3\u30d7\uff09",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/R_zJEoQBi_8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31229/Servamp"
+}

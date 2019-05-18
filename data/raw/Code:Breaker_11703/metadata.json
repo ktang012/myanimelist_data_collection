@@ -1,0 +1,159 @@
+{
+    "aired": {
+        "from": "2012-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 7, 2012 to Dec 23, 2012",
+        "to": "2012-12-23T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Shiroi Karasu (\u30b7\u30ed\u30a4\u30ab\u30e9\u30b9)\" by Kenichi Suzumura"
+    ],
+    "episodes": 13,
+    "favorites": 542,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/57251.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 11703,
+    "members": 201852,
+    "opening_themes": [
+        "\"DARK SHAME\" by GRANRODEO"
+    ],
+    "popularity": 475,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 647,
+            "name": "Memory-Tech",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        }
+    ],
+    "rank": 3941,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 8341,
+                "name": "Code:Breaker",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/8341/Code_Breaker"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 15633,
+                "name": "Code:Breaker OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15633/Code_Breaker_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 2041,
+    "request_cached": true,
+    "request_hash": "request:anime:5f74990eb0a124205b748249befec27dace6583e",
+    "score": 6.94,
+    "scored_by": 100093,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 290,
+            "name": "Kinema Citrus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+    ],
+    "synopsis": "Riding the bus one day, Sakurakouji Sakura looks out the window to see people being burned alive with a blue fire and a boy her age who's unharmed and standing over the people. She comes back to the site the next day and there are no corpses or evidence of any kind of murder, just a small fire. She then goes to class to find there's a new transfer student, Oogami Rei, who looks exactly like the boy she saw before and wears a black glove only on his left hand. Oogami is a Code Breaker, one who \"does not exist\". He is a seemingly cold-blooded killer who follows the principle of \"an eye for an eye\", to \"use evil against evil\". Convinced that killing is not right, Sakurakouji sets out to stop him and penetrate his icy heart.",
+    "title": "Code:Breaker",
+    "title_english": "Code:Breaker",
+    "title_japanese": "C\u00d8DE:BREAKER",
+    "title_synonyms": [
+        "Code Breaker"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/lh1tS2UhikU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11703/Code_Breaker"
+}

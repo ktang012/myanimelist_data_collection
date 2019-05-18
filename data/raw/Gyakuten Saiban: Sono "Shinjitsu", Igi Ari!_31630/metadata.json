@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2016-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Apr 2, 2016 to Sep 24, 2016",
+        "to": "2016-09-24T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 17:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Message\" by Rei Yasuda (eps 1-13)",
+        "\"Junai Chaos (\u7d14\u611b\u30ab\u30aa\u30b9)\" by Tokyo Performance Doll (eps 14-25)"
+    ],
+    "episodes": 24,
+    "favorites": 310,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 39,
+            "name": "Police",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/39/Police"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/79448.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 31630,
+    "members": 86361,
+    "opening_themes": [
+        "\"Gyakuten Winner (\u9006\u8ee2Winner)\" by Johnny's West (eps 1-13)",
+        "\"Jinsei wa Subarashii (\u4eba\u751f\u306f\u7d20\u6674\u3089\u3057\u3044)\" by Johnny's West (eps 14-25)"
+    ],
+    "popularity": 1127,
+    "premiered": "Spring 2016",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 240,
+            "name": "Capcom",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/240/Capcom"
+        },
+        {
+            "mal_id": 643,
+            "name": "Trinity Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+        }
+    ],
+    "rank": 6144,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 99915,
+                "name": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/99915/Gyakuten_Saiban__Sono_Shinjitsu_Igi_Ari"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 32946,
+                "name": "Gyakuten Saiban 6 Prologue",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32946/Gyakuten_Saiban_6_Prologue"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37490,
+                "name": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37490/Gyakuten_Saiban__Sono_Shinjitsu_Igi_Ari_Season_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:58e4fe490939a031674758b552cf41dead4fd19c",
+    "score": 6.46,
+    "scored_by": 27342,
+    "source": "Game",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Since he was a child, Ryuuichi Naruhodou's dream was to become a defense attorney, protecting the innocent when no one else would. However, when the rookie lawyer finally takes on his first case under the guidance of his mentor Chihiro Ayasato, he realizes that the courtroom is a battlefield. In these fast paced trials, Ryuuichi is forced to think outside the box to uncover the truth of the crimes that have taken place in order to prove the innocence of his clients. Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! follows Ryuuichi as he tackles cases to absolve the falsely accused of the charges they face. It will not be easy\u2014standing in his path is the ruthless Reiji Mitsurugi, a prosecutor who will stop at nothing to hand out guilty verdicts. With his back against the wall, the defense attorney must carefully examine both evidence and witness testimony, sifting through lies to solve the mystery behind each case. With a shout of \"objection!,\" the battle in the courtroom begins! [Written by MAL Rewrite]",
+    "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+    "title_english": "Ace Attorney",
+    "title_japanese": "\u9006\u8ee2\u88c1\u5224 \uff5e\u305d\u306e\u300c\u771f\u5b9f\u300d\u3001\u7570\u8b70\u3042\u308a\uff01\uff5e",
+    "title_synonyms": [
+        "Phoenix Wright: Ace Attorney"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/O-tfGuZShKQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31630/Gyakuten_Saiban__Sono_Shinjitsu_Igi_Ari"
+}

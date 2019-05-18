@@ -1,0 +1,154 @@
+{
+    "aired": {
+        "from": "2018-01-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 2, 2018 to Mar 27, 2018",
+        "to": "2018-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 20:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Koko kara, Koko kara (\u3053\u3053\u304b\u3089\u3001\u3053\u3053\u304b\u3089)\" by Mari Tamaki (Inori Minase), Shirase Kobuchizawa (Kana Hanazawa), Hinata Miyake (Yuka Iguchi), Yuzuki Shiraishi (Saori Hayami)"
+    ],
+    "episodes": 13,
+    "favorites": 5802,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/89879.jpg",
+    "licensors": [],
+    "mal_id": 35839,
+    "members": 198041,
+    "opening_themes": [
+        "\"The Girls Are Alright!\" by saya"
+    ],
+    "popularity": 487,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 1334,
+            "name": "Docomo Anime Store",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+            "mal_id": 1779,
+            "name": "NewGin",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1779/NewGin"
+        },
+        {
+            "mal_id": 1784,
+            "name": "Crunchyroll SC Anime Fund",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+        }
+    ],
+    "rank": 65,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 111262,
+                "name": "Sora yori mo Tooi Basho",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/111262/Sora_yori_mo_Tooi_Basho"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 37123,
+                "name": "Sora yori mo Tooi Basho: Yokoku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37123/Sora_yori_mo_Tooi_Basho__Yokoku"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:8b3405669f5b5c0cfb4c178feb121770a3abfedd",
+    "score": 8.64,
+    "scored_by": 81039,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 11,
+            "name": "Madhouse",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ],
+    "synopsis": "Filled with an overwhelming sense of wonder for the world around her, Mari Tamaki has always dreamt of what lies beyond the reaches of the universe. However, despite harboring such large aspirations on the inside, her fear of the unknown and anxiety over her own possible limitations have always held her back from chasing them. But now, in her second year of high school, Mari is more determined than ever to not let any more of her youth go to waste. Still, her fear continues to prevent her from taking that ambitious step forward\u2014that is, until she has a chance encounter with a girl who has grand dreams of her own. Spurred by her mother's disappearance, Shirase Kobuchizawa has been working hard to fund her trip to Antarctica. Despite facing doubt and ridicule from virtually everyone, Shirase is determined to embark on this expedition to search for her mother in a place further than the universe itself. Inspired by Shirase's resolve, Mari jumps at the chance to join her. Soon, their efforts attract the attention of the bubbly Hinata Miyake, who is eager to stand out, and Yuzuki Shiraishi, a polite girl from a high class background. Together, they set sail toward the frozen south. Sora yori mo Tooi Basho follows the captivating journey of four spirited girls, all in search of something great. [Written by MAL Rewrite]",
+    "title": "Sora yori mo Tooi Basho",
+    "title_english": "A Place Further Than The Universe",
+    "title_japanese": "\u5b87\u5b99\u3088\u308a\u3082\u9060\u3044\u5834\u6240",
+    "title_synonyms": [
+        "Uchuu yori mo Tooi Basho",
+        "A Story That Leads to the Antarctica",
+        "Yorimoi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/jFgvK5BzGck?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho"
+}

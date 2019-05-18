@@ -1,0 +1,163 @@
+{
+    "aired": {
+        "from": "2005-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 15,
+                "month": 10,
+                "year": 2005
+            }
+        },
+        "string": "Apr 9, 2005 to Oct 15, 2005",
+        "to": "2005-10-15T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Saturdays at 18:30 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Loop\" by Sakamoto Maaya"
+    ],
+    "episodes": 26,
+    "favorites": 2173,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/6555.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 177,
+    "members": 170521,
+    "opening_themes": [
+        "\"BLAZE\" by KINYA"
+    ],
+    "popularity": 573,
+    "premiered": "Spring 2005",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        }
+    ],
+    "rank": 1346,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 9,
+                "name": "Tsubasa: RESERVoir CHRoNiCLE",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/9/Tsubasa__RESERVoir_CHRoNiCLE"
+            }
+        ],
+        "Character": [
+            {
+                "mal_id": 861,
+                "name": "xxxHOLiC",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/861/xxxHOLiC"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 969,
+                "name": "Tsubasa Chronicle 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 807,
+                "name": "Tsubasa Chronicle: Tori Kago no Kuni no Himegimi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/807/Tsubasa_Chronicle__Tori_Kago_no_Kuni_no_Himegimi"
+            }
+        ]
+    },
+    "request_cache_expiry": 480,
+    "request_cached": true,
+    "request_hash": "request:anime:23ef3d571172c0048d0176e41e855f7be5f8bb31",
+    "score": 7.62,
+    "scored_by": 73335,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 5,
+            "name": "Bee Train",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+        }
+    ],
+    "synopsis": "During an excavation at the mysterious ruins in Clow Country, Syaoran discovers his childhood friend Princess Sakura appear on the site with wings that disperse into many feathers. As the feather's disappear to different dimensions, so does Sakura's memory. In attempts to save Sakura's life and restore her memory, Syaoran travels through to another world to find a solution. There's only one thing left he can do. Travel through to different dimensions to collect Sakura's feathers. Helping out with the quest is Kurogane, an exiled ninja from Japan Country who wishes to return to his world, the runaway magician, Fay, who desires to jump between each world never to return to his own and the white meat-bun shaped creature, Mokona.",
+    "title": "Tsubasa Chronicle",
+    "title_english": "Tsubasa RESERVoir CHRoNiCLE",
+    "title_japanese": "\u30c4\u30d0\u30b5\u30fb\u30af\u30ed\u30cb\u30af\u30eb",
+    "title_synonyms": [
+        "Tsubasa: RESERVoir CHRoNiCLE"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/MZEV9QQdWO4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/177/Tsubasa_Chronicle"
+}

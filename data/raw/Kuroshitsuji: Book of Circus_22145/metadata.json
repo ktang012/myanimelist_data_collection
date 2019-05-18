@@ -1,0 +1,170 @@
+{
+    "aired": {
+        "from": "2014-07-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 12,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 11, 2014 to Sep 12, 2014",
+        "to": "2014-09-12T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 02:19 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Aoki Tsuki Michite (\u84bc\u304d\u6708\u6e80\u3061\u3066)\" by AKIRA (eps 2-9)"
+    ],
+    "episodes": 10,
+    "favorites": 2795,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/64811.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 22145,
+    "members": 204813,
+    "opening_themes": [
+        "\"ENAMEL\" by SID"
+    ],
+    "popularity": 462,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 1576,
+            "name": "DeNA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1576/DeNA"
+        }
+    ],
+    "rank": 248,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3866,
+                "name": "Kuroshitsuji",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3866/Kuroshitsuji"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 4898,
+                "name": "Kuroshitsuji",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4898/Kuroshitsuji"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23317,
+                "name": "Kuroshitsuji: Book of Murder",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23317/Kuroshitsuji__Book_of_Murder"
+            }
+        ]
+    },
+    "request_cache_expiry": 18641,
+    "request_cached": true,
+    "request_hash": "request:anime:f89fa9244a278a354dd720ef79c8e6e4affd87ae",
+    "score": 8.3,
+    "scored_by": 106022,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "Full of wonder and excitement, the Noah's Arc Circus troupe has captured audiences with their dazzling performances. Yet these fantastic acts don't come without a price. Children have mysteriously gone missing around London, correlating to that of the groups' movements. Unsettled by these kidnappings, Queen Victoria sends in her notorious guard dog, Ciel Phantomhive, and his ever-faithful demon butler, Sebastian Michaelis, on an undercover mission to find these missing children. Trying to balance their new circus acts with their covert investigation under the big top, however, proves to be quite a challenge. With the other performers growing suspicious and the threat of the circus' mysterious benefactor looming overhead, what the two discover will shake Ciel to his very core. [Written by MAL Rewrite]",
+    "title": "Kuroshitsuji: Book of Circus",
+    "title_english": "Black Butler: Book of Circus",
+    "title_japanese": "\u9ed2\u57f7\u4e8b Book of Circus",
+    "title_synonyms": [
+        "Kuroshitsuji Circus Hen",
+        "Kuroshitsuji Shin Series",
+        "Black Butler 3",
+        "Kuroshitsuji III"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/AZTuRJUpmE4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus"
+}

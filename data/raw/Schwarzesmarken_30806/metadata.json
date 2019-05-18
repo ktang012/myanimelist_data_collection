@@ -1,0 +1,150 @@
+{
+    "aired": {
+        "from": "2016-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 11, 2016 to Mar 28, 2016",
+        "to": "2016-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Schwarzesmarken takes place in an alternate universe of the Muv-Luv franchise, following the storyline of the light novels. A visual novel was released on November 27, 2015, and a second was announced for 2016.",
+    "broadcast": "Mondays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kanashimi ga Jidai wo Kakeru (\u54c0\u3057\u307f\u304c\u6642\u4ee3\u3092\u99c6\u3051\u308b)\" by Zahre [Katia Waldheim (Minami Tanaka), Irisdina Bernhard (Nozomi Yamamoto)]"
+    ],
+    "episodes": 12,
+    "favorites": 263,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 38,
+            "name": "Military",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/77386.jpg",
+    "licensors": [],
+    "mal_id": 30806,
+    "members": 78575,
+    "opening_themes": [
+        "\"white forces\" by fripSide"
+    ],
+    "popularity": 1244,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 539,
+            "name": "Ultra Super Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        }
+    ],
+    "rank": 4106,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 37335,
+                "name": "Schwarzesmarken",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/37335/Schwarzesmarken"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 11021,
+                "name": "Muv-Luv Alternative: Total Eclipse",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11021/Muv-Luv_Alternative__Total_Eclipse"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:78fbcb068009516e98d425a535c9ec63e180f3d9",
+    "score": 6.9,
+    "scored_by": 29271,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 601,
+            "name": "ixtl",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/601/ixtl"
+        },
+        {
+            "mal_id": 839,
+            "name": "LIDENFILMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ],
+    "synopsis": "The year is 1983. The Cold War is in full effect, and humanity is under attack. Strange aliens, given the name \"BETA,\" have descended to Earth with the goal of destroying all life. Soldiers have been tasked with piloting large combat suits called Tactical Surface Fighters (TSF) to repel the alien invaders, but the front line is slowly being pushed back towards the surviving cities. Schwarzesmarken follows the story of Second Lieutenant Theodor Eberbach and the other members of the 666th TSF squadron, a ruthless unit that values a mission's completion over human life. Stationed in East Germany and led by war hero Captain Irisdina Bernhard, the unit specializes in counterassault attacks on laser-class BETA. But the 666th squadron finds itself with more enemies than just the alien forces when optimistic rookie Katia Waldheim joins the squadron, drawing the attention of East Germany's secret police, the Stasi. [Written by MAL Rewrite]",
+    "title": "Schwarzesmarken",
+    "title_english": "Schwarzes Marken",
+    "title_japanese": "\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30a7\u30b9\u30de\u30fc\u30b1\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/IauR3QlFsz4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30806/Schwarzesmarken"
+}

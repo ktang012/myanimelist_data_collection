@@ -1,0 +1,194 @@
+{
+    "aired": {
+        "from": "2015-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 4, 2015 to Jun 27, 2015",
+        "to": "2015-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "The series adapts the first 5 novels of Fujino Omori's light novel series of the same title.",
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hey World\" by Yuka Iguchi (ep 1)",
+        "\"RIGHT LIGHT RISE\" by Kanon Wakeshima (eps 2-5, 7-13)",
+        "\"REALIZE ~Hajimari no Toki~ (REALIZE \uff5e\u59cb\u307e\u308a\u306e\u3068\u304d\uff5e)\" by Liliruca Arde (Maaya Uchida) (ep 6)"
+    ],
+    "episodes": 13,
+    "favorites": 7555,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/70187.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 28121,
+    "members": 679992,
+    "opening_themes": [
+        "\"Hey World\" by Yuka Iguchi (eps 2-13)"
+    ],
+    "popularity": 61,
+    "premiered": "Spring 2015",
+    "producers": [
+        {
+            "mal_id": 79,
+            "name": "Genco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+            "mal_id": 621,
+            "name": "SoftBank Creative",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/621/SoftBank_Creative"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 963,
+            "name": "MAGES.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        },
+        {
+            "mal_id": 1590,
+            "name": "Furyu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1590/Furyu"
+        }
+    ],
+    "rank": 884,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 56743,
+                "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/56743/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37347,
+                "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37347/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_II"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32801,
+                "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32801/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_OVA"
+            },
+            {
+                "mal_id": 32887,
+                "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32887/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_Gaiden__Sword_Oratoria"
+            },
+            {
+                "mal_id": 37348,
+                "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37348/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_Movie__Orion_no_Ya"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:4e838a1adb2595f479800dd4d4525ed704117774",
+    "score": 7.81,
+    "scored_by": 410858,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Life in the bustling city of Orario is never dull, especially for Bell Cranel, a na\u00efve young man who hopes to become the greatest adventurer in the land. After a chance encounter with the lonely goddess, Hestia, his dreams become a little closer to reality. With her support, Bell embarks on a fantastic quest as he ventures deep within the city's monster-filled catacombs, known only as the \"Dungeon.\" Death lurks around every corner in the cavernous depths of this terrifying labyrinth, and a mysterious power moves amidst the shadows. Even on the surface, survival is a hard-earned privilege. Indeed, nothing is ever certain in a world where gods and humans live and work together, especially when they often struggle to get along. One thing is for sure, though: a myriad of blunders, triumphs and friendships awaits the dauntlessly optimistic protagonist of this herculean tale. [Written by MAL Rewrite]",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "title_japanese": "\u30c0\u30f3\u30b8\u30e7\u30f3\u306b\u51fa\u4f1a\u3044\u3092\u6c42\u3081\u308b\u306e\u306f\u9593\u9055\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u304b",
+    "title_synonyms": [
+        "DanMachi",
+        "Is It Wrong That I Want to Meet You in a Dungeon"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/sbcwRt0y4kY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka"
+}

@@ -1,0 +1,124 @@
+{
+    "aired": {
+        "from": "2017-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 4, 2017 to Dec 27, 2017",
+        "to": "2017-12-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 01:00 (JST)",
+    "duration": "3 min per ep",
+    "ending_themes": [
+        "\"Don't Let Me Down\" by Cellchrome"
+    ],
+    "episodes": 13,
+    "favorites": 129,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/88433.jpg",
+    "licensors": [],
+    "mal_id": 35484,
+    "members": 83567,
+    "opening_themes": [],
+    "popularity": 1168,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 127,
+            "name": "Yomiko Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1602,
+            "name": "GYAO!",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+        }
+    ],
+    "rank": 3820,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 106759,
+                "name": "Osake wa Fuufu ni Natte kara",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/106759/Osake_wa_Fuufu_ni_Natte_kara"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 37826,
+                "name": "Osake wa Fuufu ni Natte kara: Yuzu Atsukan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37826/Osake_wa_Fuufu_ni_Natte_kara__Yuzu_Atsukan"
+            }
+        ]
+    },
+    "request_cache_expiry": 31299,
+    "request_cached": true,
+    "request_hash": "request:anime:9b48ed297f253a43d371e54fda3158aadb47fc9a",
+    "score": 6.98,
+    "scored_by": 36775,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1195,
+            "name": "Creators in Pack",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1195/Creators_in_Pack"
+        }
+    ],
+    "synopsis": "Chisato Mizusawa is a calm and collected assistant office manager who apparently dislikes drinking alcohol. But she actually likes it and has a secret side to her that emerges only when drunk: her cute persona, which she only reveals to her husband, the bartender Sora. Each day when Chisato comes home, Sora takes care of his beloved wife, providing her with a good meal and a fresh drink. These drinks include Plum Splet, Irish Coffee, Orange Breeze, and many more tasty concoctions that she eagerly gulps down. But as much as she likes alcohol, she loves her kindhearted husband more. Together, they share a life that is filled with happiness\u2014and the more-than-occasional cocktail. [Written by MAL Rewrite]",
+    "title": "Osake wa Fuufu ni Natte kara",
+    "title_english": "Love is Like a Cocktail",
+    "title_japanese": "\u304a\u9152\u306f\u592b\u5a66\u306b\u306a\u3063\u3066\u304b\u3089",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/iJV0dZ56uLs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35484/Osake_wa_Fuufu_ni_Natte_kara"
+}

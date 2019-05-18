@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2010-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jul 2, 2010 to Sep 17, 2010",
+        "to": "2010-09-17T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Kuroshitsuji II is the sequel to Kuroshitsuji. The second season features two new main characters: Earl Alois Trancy and his butler Claude Faustus. Many characters from the previous season return as well, including Ciel Phantomhive and Sebastian Michaelis.\r\nThe second season is formatted similar to its predecessor, airing on ten different stations. The second season had an official magazine, Black Tabloid, released before its on-air date on July 1, 2010. It was been compiled onto a total of nine DVD releases. All 12 episodes share the theme song SHIVER for the opening, but two different animation sequences accompany it; the first ran from episodes 25-32, while the second ran from episodes 33-36.\r\n(Source: Kuroshitsuji Wiki)",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Bird\" by Matsushita Yuuya (eps 1-7, 9-11)",
+        "\"Kagayaku Sora no Shijima ni wa (\u8f1d\u304f\u7a7a\u306e\u9759\u5bc2\u306b\u306f)\" by Kalafina (eps 8, 12)"
+    ],
+    "episodes": 12,
+    "favorites": 3715,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/50499.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 6707,
+    "members": 330540,
+    "opening_themes": [
+        "\"SHIVER\" by the GazettE (eps 1-12)"
+    ],
+    "popularity": 243,
+    "premiered": "Summer 2010",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        }
+    ],
+    "rank": 1901,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Prequel": [
+            {
+                "mal_id": 4898,
+                "name": "Kuroshitsuji",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4898/Kuroshitsuji"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 9136,
+                "name": "Kuroshitsuji II Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9136/Kuroshitsuji_II_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 5558,
+    "request_cached": true,
+    "request_hash": "request:anime:f6946edfbfbf9a1970da7213d3b8dac48848b773",
+    "score": 7.44,
+    "scored_by": 188559,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "The stage of Kuroshitsuji II opens on the life of Alois Trancy, the young heir to the Trancy earldom. Though he is privileged now, such was not always the case for the hot-tempered boy. Kidnapped and forced into slavery at a young age, he was eventually rescued and returned home, only to have his beloved father pass away soon after. However, there are certain individuals who doubt Alois' story and legitimacy. And rightfully so, because things in the Trancy household are not as they appear, starting with Alois' black-clad butler with supernatural abilities, Claude Faustus. Who exactly is the mysterious Claude, and what connection does he have with Alois? Amid the web of lies and deceit running rampant in the mansion, the bond between Alois and Claude will be tested as hell itself arrives at their doorstep. [Written by MAL Rewrite]",
+    "title": "Kuroshitsuji II",
+    "title_english": "Black Butler II",
+    "title_japanese": "\u9ed2\u57f7\u4e8bII",
+    "title_synonyms": [
+        "Kuroshitsuji 2",
+        "Black Butler 2"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/7q1SAxzSS2g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6707/Kuroshitsuji_II"
+}

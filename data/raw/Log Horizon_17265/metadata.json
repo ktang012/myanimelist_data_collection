@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2013-10-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 5, 2013 to Mar 22, 2014",
+        "to": "2014-03-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Log Horizon adapts the first five volumes of Mamare Touno's novel series of the same title.",
+    "broadcast": "Saturdays at 17:30 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Your song*\" by Yun*chi"
+    ],
+    "episodes": 25,
+    "favorites": 8361,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/84004.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 17265,
+    "members": 639443,
+    "opening_themes": [
+        "\"database feat. TAKUMA (10 Feet)\" by MAN WITH A MISSION"
+    ],
+    "popularity": 68,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 111,
+            "name": "NHK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+    ],
+    "rank": 486,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 46024,
+                "name": "Log Horizon",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/46024/Log_Horizon"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 23321,
+                "name": "Log Horizon 2nd Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 21235,
+                "name": "Log Horizon Recap",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21235/Log_Horizon_Recap"
+            }
+        ]
+    },
+    "request_cache_expiry": 16911,
+    "request_cached": true,
+    "request_hash": "request:anime:d1bce5a7be7dbb34c81038ab96c9d880859d3b8c",
+    "score": 8.07,
+    "scored_by": 332526,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 41,
+            "name": "Satelight",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ],
+    "synopsis": "In the blink of an eye, thirty thousand bewildered Japanese gamers are whisked from their everyday lives into the world of the popular MMORPG, Elder Tale, after the game's latest update\u2014unable to log out. Among them is the socially awkward college student Shiroe, whose confusion and shock lasts only a moment as, a veteran of the game, he immediately sets out to explore the limits of his new reality. Shiroe must learn to live in this new world, leading others and negotiating with the NPC \"natives\" in order to bring stability to the virtual city of Akihabara. He is joined by his unfortunate friend Naotsugu, having logged in for the first time in years only to find himself trapped, and Akatsuki, a petite but fierce assassin who labels Shiroe as her master. A tale of fantasy, adventure, and politics, Log Horizon explores the elements of gaming through the eyes of a master strategist who attempts to make the best of a puzzling situation. [Written by MAL Rewrite]",
+    "title": "Log Horizon",
+    "title_english": "Log Horizon",
+    "title_japanese": "\u30ed\u30b0\u30fb\u30db\u30e9\u30a4\u30ba\u30f3",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/IG1VhJ75r8k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/17265/Log_Horizon"
+}

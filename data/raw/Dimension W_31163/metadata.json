@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2016-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 10, 2016 to Mar 27, 2016",
+        "to": "2016-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Dimension W was first announced to be in production at Anime Expo 2015 in Los Angeles. Studio 3Hz is responsible for animation production, while the studio Orange is responsible for CG production. North American distributor FUNimation Entertainment is also a member of the production committee.",
+    "broadcast": "Sundays at 22:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "#1 \"Contrast\" by Fo'xTails (eps 1-11)#2 \"Genesis\" by STEREO DIVE FOUNDATION (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 685,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/86304.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 31163,
+    "members": 203893,
+    "opening_themes": [
+        "\"Genesis\" by STEREO DIVE FOUNDATION (eps 1-11)"
+    ],
+    "popularity": 465,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 23,
+            "name": "Bandai Visual",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1261,
+            "name": "Good Smile Company",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+            "mal_id": 1287,
+            "name": "Q-Tec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+        },
+        {
+            "mal_id": 1605,
+            "name": "I Will",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1605/I_Will"
+        }
+    ],
+    "rank": 2524,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 42279,
+                "name": "Dimension W",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/42279/Dimension_W"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 33069,
+                "name": "Dimension W Special",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33069/Dimension_W_Special"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32410,
+                "name": "Dimension W: W no Tobira Online",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32410/Dimension_W__W_no_Tobira_Online"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5dccc653be34887d283b82a6316ab2e6bf78222c",
+    "score": 7.29,
+    "scored_by": 96361,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1109,
+            "name": "Orange",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1109/Orange"
+        },
+        {
+            "mal_id": 1127,
+            "name": "Studio 3Hz",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+        }
+    ],
+    "synopsis": "In the near future, humans have discovered a fourth dimension, Dimension W, and a supposedly infinite source of energy within. In order to harness this profound new energy, mankind develops advanced \"coils,\" devices that link to and use the power of Dimension W. However, by year 2071, the New Tesla Energy corporation has monopolized the energy industry with coils, soon leading to the illegal distribution of unofficial coils that begin flooding the markets. Kyouma Mabuchi is an ex-soldier who is wary of all coil-based technology to the extent that he still drives a gas-powered car. Kyouma is a \"Collector,\" individuals with the sole duty of hunting down illegal coils in exchange for money. What started out as just any other mission is turned on its head when he bumps in Mira Yurizaki, an android with a connection to the \"father\" of coils. When a series of strange events begin to take place, these two unlikely allies band together to uncover the mysteries of Dimension W. [Written by MAL Rewrite]",
+    "title": "Dimension W",
+    "title_english": "Dimension W",
+    "title_japanese": "Dimension W",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/Mgq7hcFxkXM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/31163/Dimension_W"
+}

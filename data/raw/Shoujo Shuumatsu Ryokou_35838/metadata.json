@@ -1,0 +1,141 @@
+{
+    "aired": {
+        "from": "2017-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 6, 2017 to Dec 22, 2017",
+        "to": "2017-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 21:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"More One Night\" by Chito (Inori Minase) & Yuuri (Yurika Kubo) (eps 2-4, 6-7, 10-11)"
+    ],
+    "episodes": 12,
+    "favorites": 2349,
+    "genres": [
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/88321.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 35838,
+    "members": 147809,
+    "opening_themes": [
+        "\"Ugoku, Ugoku (\u52d5\u304f\u3001\u52d5\u304f)\" by Chito (Inori Minase) & Yuuri (Yurika Kubo)"
+    ],
+    "popularity": 678,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 1550,
+            "name": "Shinchosha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1550/Shinchosha"
+        },
+        {
+            "mal_id": 1551,
+            "name": "Kadokawa Media House",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+            "mal_id": 1696,
+            "name": "Kadokawa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+    ],
+    "rank": 346,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 72467,
+                "name": "Shoujo Shuumatsu Ryokou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/72467/Shoujo_Shuumatsu_Ryokou"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 36468,
+                "name": "Shoujo Shuumatsu Jugyou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36468/Shoujo_Shuumatsu_Jugyou"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:a96ac25effb1e7c992ea28a6240aaf2c904932b5",
+    "score": 8.19,
+    "scored_by": 52815,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "Amid the desolate remains of a once-thriving city, only the rumbling of a motorbike breaks the cold winter silence. Its riders, Chito and Yuuri, are the last survivors in the war-torn city. Scavenging old military sites for food and parts, the two girls explore the wastelands and speculate about the old world to pass the time. Chito and Yuuri each occasionally struggle with the looming solitude, but when they have each other, sharing the weight of being two of the last humans becomes a bit more bearable. Between Yuuri's clumsy excitement and Chito's calm composure, their dark days get a little brighter with shooting practice, new books, and snowball fights on the frozen battlefield. Among a scenery of barren landscapes and deserted buildings, Shoujo Shuumatsu Ryokou tells the uplifting tale of two girls and their quest to find hope in a bleak and dying world. [Written by MAL Rewrite]",
+    "title": "Shoujo Shuumatsu Ryokou",
+    "title_english": "Girls' Last Tour",
+    "title_japanese": "\u5c11\u5973\u7d42\u672b\u65c5\u884c",
+    "title_synonyms": [
+        "The End Girl Trip"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/Zb_AKZfO7BE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou"
+}

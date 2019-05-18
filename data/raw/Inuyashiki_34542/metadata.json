@@ -1,0 +1,136 @@
+{
+    "aired": {
+        "from": "2017-10-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 13, 2017 to Dec 22, 2017",
+        "to": "2017-12-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:55 (JST)",
+    "duration": "22 min per ep",
+    "ending_themes": [
+        "\"Ai wo Oshiete Kureta Kimi e (\u611b\u3092\u6559\u3048\u3066\u304f\u308c\u305f\u541b\u3078)\" by Qaijff (\u30af\u30a2\u30a4\u30d5)"
+    ],
+    "episodes": 11,
+    "favorites": 1560,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 40,
+            "name": "Psychological",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
+    "licensors": [],
+    "mal_id": 34542,
+    "members": 258228,
+    "opening_themes": [
+        "\"My Hero\" by MAN WITH A MISSION"
+    ],
+    "popularity": 340,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1671,
+            "name": "DMM pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+        }
+    ],
+    "rank": 851,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 64465,
+                "name": "Inuyashiki",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/64465/Inuyashiki"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6c2de1a88aeaa22f960395faa8591b4423f18e6e",
+    "score": 7.83,
+    "scored_by": 121089,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 569,
+            "name": "MAPPA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ],
+    "synopsis": "Ichirou Inuyashiki is a 58-year-old family man who is going through a difficult time in his life. Though his frequent back problems are painful, nothing hurts quite as much as the indifference and distaste that his wife and children have for him. Despite this, Ichirou still manages to find solace in Hanako, an abandoned Shiba Inu that he adopts into his home. However, his life takes a turn for the worse when a follow-up physical examination reveals that Ichirou has stomach cancer and only three months to live; though he tries to be strong, his family's disinterest causes an emotional breakdown. Running off into a nearby field, Ichirou embraces his dog and weeps\u2014until he notices a strange figure standing before him. Suddenly, a bright light appears and Ichirou is enveloped by smoke and dust. When he comes to, he discovers something is amiss\u2014he has been reborn as a mechanized weapon wearing the skin of his former self. Though initially shocked, the compassionate Ichirou immediately uses his newfound powers to save a life, an act of kindness that fills him with happiness and newfound hope. However, the origins of these strange powers remain unclear. Who was the mysterious figure at the site of the explosion, and are they as kind as Ichirou when it comes to using this dangerous gift? [Written by MAL Rewrite]",
+    "title": "Inuyashiki",
+    "title_english": "Inuyashiki: Last Hero",
+    "title_japanese": "\u3044\u306c\u3084\u3057\u304d",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/BEQe5xvsv8w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34542/Inuyashiki"
+}

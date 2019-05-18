@@ -1,0 +1,136 @@
+{
+    "aired": {
+        "from": "2012-01-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 10, 2012 to Mar 27, 2012",
+        "to": "2012-03-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "This entry also includes the eight pre-airings of about 5 minutes length which were distributed through Nico Nico Douga. These pre-airings were all eventually shown during the TV series' run and are considered trailers by MAL.",
+    "broadcast": "Tuesdays at 02:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Bungaku Shoujo (\u6587\u5b66\u5c11\u5973)\" by ENA (ep 1)",
+        "\"Ohisama (\u304a\u3072\u3055\u307e)\" by Amesaki Annainin (\u96e8\u5148\u6848\u5185\u4eba) (eps 2-11)",
+        "\"Shiny tale\" by Mix Speaker's,Inc. (ep 12)"
+    ],
+    "episodes": 12,
+    "favorites": 9163,
+    "genres": [
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/33257.jpg",
+    "licensors": [
+        {
+            "mal_id": 372,
+            "name": "NIS America, Inc.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/372/NIS_America_Inc"
+        }
+    ],
+    "mal_id": 11843,
+    "members": 432530,
+    "opening_themes": [
+        "\"Shiny tale\" by Mix Speaker's,Inc. (eps 1 - 11)",
+        "\"Ohisama (\u304a\u3072\u3055\u307e)\" by Amesaki Annainin (\u96e8\u5148\u6848\u5185\u4eba) (ep 12)"
+    ],
+    "popularity": 143,
+    "premiered": "Winter 2012",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 643,
+            "name": "Trinity Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+        },
+        {
+            "mal_id": 787,
+            "name": "Happinet Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        }
+    ],
+    "rank": 217,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 26144,
+                "name": "Danshi Koukousei no Nichijou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/26144/Danshi_Koukousei_no_Nichijou"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 12893,
+                "name": "Danshi Koukousei no Nichijou Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/12893/Danshi_Koukousei_no_Nichijou_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:2ace6f18b2890cf5a24fec7f9f2e2f6db959cb60",
+    "score": 8.33,
+    "scored_by": 218405,
+    "source": "Web manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "Roaming the halls of the all-boys Sanada North High School are three close comrades: the eccentric ringleader with a hyperactive imagination Hidenori, the passionate Yoshitake, and the rational and prudent Tadakuni. Their lives are filled with giant robots, true love, and intense drama... in their colorful imaginations, at least. In reality, they are just an everyday trio of ordinary guys trying to pass the time, but who said everyday life couldn't be interesting? Whether it's an intricate RPG reenactment or an unexpected romantic encounter on the riverbank at sunset, Danshi Koukousei no Nichijou is rife with bizarre yet hilariously relatable situations that are anything but mundane. [Written by MAL Rewrite]",
+    "title": "Danshi Koukousei no Nichijou",
+    "title_english": "Daily Lives of High School Boys",
+    "title_japanese": "\u7537\u5b50\u9ad8\u6821\u751f\u306e\u65e5\u5e38",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/BsQj0RYzW98?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou"
+}

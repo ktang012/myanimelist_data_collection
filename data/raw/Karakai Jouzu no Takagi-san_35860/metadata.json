@@ -1,0 +1,173 @@
+{
+    "aired": {
+        "from": "2018-01-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 8, 2018 to Mar 26, 2018",
+        "to": "2018-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 23:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kimagure Romantic (\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af)\" by Takagi-san (Rie Takahashi) (eps 1-2)",
+        "\"AM11:00\" by Takagi-san (Rie Takahashi) (eps 3-4)",
+        "\"Jitensha (\u81ea\u8ee2\u8eca)\" by Takagi-san (Rie Takahashi) (eps 5-6)",
+        "\"Kaze Fukeba Koi (\u98a8\u5439\u3051\u3070\u604b)\" by Takagi-san (Rie Takahashi) (eps 7-8)",
+        "\"Chiisana Koi no Uta (\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f)\" by Takagi-san (Rie Takahashi) (eps 9-10)",
+        "\"Ai Uta (\u611b\u5504)\" by Takagi-san (Rie Takahashi) (ep 11)",
+        "\"Deatta Koro no You ni (\u51fa\u9022\u3063\u305f\u9803\u306e\u3088\u3046\u306b)\" by Takagi-san (Rie Takahashi) (eps 12)"
+    ],
+    "episodes": 12,
+    "favorites": 1784,
+    "genres": [
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35860,
+    "members": 187943,
+    "opening_themes": [
+        "\"Iwanai kedo ne. (\u8a00\u308f\u306a\u3044\u3051\u3069\u306d.)\" by Yuiko Oohara"
+    ],
+    "popularity": 516,
+    "premiered": "Winter 2018",
+    "producers": [
+        {
+            "mal_id": 73,
+            "name": "TMS Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        },
+        {
+            "mal_id": 142,
+            "name": "Asatsu DK",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1501,
+            "name": "East Japan Marketing & Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1501/East_Japan_Marketing___Communications"
+        }
+    ],
+    "rank": 708,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 78537,
+                "name": "Karakai Jouzu no Takagi-san",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/78537/Karakai_Jouzu_no_Takagi-san"
+            },
+            {
+                "mal_id": 97699,
+                "name": "Ashita wa Doyoubi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/97699/Ashita_wa_Doyoubi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 38993,
+                "name": "Karakai Jouzu no Takagi-san 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 37621,
+                "name": "Karakai Jouzu no Takagi-san OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37621/Karakai_Jouzu_no_Takagi-san_OVA"
+            }
+        ]
+    },
+    "request_cache_expiry": 22970,
+    "request_cached": true,
+    "request_hash": "request:anime:013ac73416cbeb571009a05a4f534dafc68b78d7",
+    "score": 7.9,
+    "scored_by": 81077,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 247,
+            "name": "Shin-Ei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ],
+    "synopsis": "Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true. His classmate Takagi loves to tease him on a daily basis, and she uses her extensive knowledge of his behavior to predict exactly how he will react to her teasing, making it nearly impossible for Nishikata to ever make a successful comeback. Despite this, Nishikata vows to someday give Takagi a taste of her own medicine by making her blush out of embarrassment from his teasing. [Written by MAL Rewrite]",
+    "title": "Karakai Jouzu no Takagi-san",
+    "title_english": "Teasing Master Takagi-san",
+    "title_japanese": "\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u3093",
+    "title_synonyms": [
+        "Skilled Teaser Takagi-san"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/g4VJra3sLMg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san"
+}

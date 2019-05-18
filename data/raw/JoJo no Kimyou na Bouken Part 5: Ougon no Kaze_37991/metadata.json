@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2018-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 6, 2018 to ?",
+        "to": null
+    },
+    "airing": true,
+    "background": "JoJo no Kimyou na Bouken: Ougon no Kaze is a full adaptation of the fifth part of the JoJo no Kimyou na Bouken manga series.",
+    "broadcast": "Saturdays at 01:05 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Freek'n You\" by Jodeci (eps 2-4, 6-8, 10-19)",
+        "\"Modern Crusaders\" by Enigma (eps 22-)"
+    ],
+    "episodes": 39,
+    "favorites": 3824,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1572/95010.jpg",
+    "licensors": [
+        {
+            "mal_id": 119,
+            "name": "Viz Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/119/Viz_Media"
+        }
+    ],
+    "mal_id": 37991,
+    "members": 153112,
+    "opening_themes": [
+        "\"Fighting Gold\" by Coda (eps 2-21)",
+        "\"Uragirimono no Requiem (\u88cf\u5207\u308a\u8005\u306e\u30ec\u30af\u30a4\u30a8\u30e0)\" by Daisuke Hasegawa (eps 22-)"
+    ],
+    "popularity": 647,
+    "premiered": "Fall 2018",
+    "producers": [
+        {
+            "mal_id": 415,
+            "name": "Warner Bros. Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 30,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 3008,
+                "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/3008/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 31933,
+                "name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 38972,
+                "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/38972/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 37425,
+    "request_cached": true,
+    "request_hash": "request:anime:74277043722b91e9c6f58ff775dc596b8c71b6f5",
+    "score": 8.8,
+    "scored_by": 45769,
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        {
+            "mal_id": 287,
+            "name": "David Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ],
+    "synopsis": "Naples, 2001. Giorno Giovanna is a small-time crook with one big dream\u2014to become a \"Gang-Star.\" No ordinary thief, Giorno has a connection to the remarkable Joestar bloodline, and possesses a Stand named Gold Experience. His dream starts to become reality when he meets Bruno Buccellati, a mobster from the gang Passione and a fellow Stand user himself. Realizing that they share similar ideals, and both disagree with the gang's harmful affairs, Giorno reveals his goal to Bruno: with Bruno's help, he will reform Passione by overthrowing the boss. As Giorno becomes a member of Passione, and is inducted into Bruno's squad, he discovers that it is no simple gang; its numbers are teeming with Stand users. Now confronted by other squads of differing loyalties and unpredictable caliber, their goal to change the gang from the inside out will be a tough one. Taking on these adversaries, Giorno attempts to rise through the ranks and inch closer to the boss, a man who is shrouded in mystery. [Written by MAL Rewrite]",
+    "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    "title_english": "JoJo`s Bizarre Adventure: Golden Wind",
+    "title_japanese": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u9ec4\u91d1\u306e\u98a8",
+    "title_synonyms": [
+        "JoJo's Bizarre Adventure Part 5: Golden Wind",
+        "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+        "Le Bizzarre Avventure Di GioGio Parte 5: Vento Aureo"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/R92KmKcg07Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze"
+}

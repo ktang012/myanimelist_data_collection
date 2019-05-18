@@ -1,0 +1,149 @@
+{
+    "aired": {
+        "from": "2013-10-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 11, 2013 to Mar 28, 2014",
+        "to": "2014-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Samurai Flamenco first aired on the noitaminA programming block which was then simulcast by Crunchyroll.\r\nA mobile phone game adaptation is also available for both iPhone and Android.",
+    "broadcast": "Fridays at 01:20 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Date TIME (\u30c7\u30fc\u30c8TIME)\" by Mineral Miracle Muse (\u30df\u30cd\u30e9\u30eb\u2605\u30df\u30e9\u30af\u30eb\u2605\u30df\u30e5\u30fc\u30ba) (eps 1-9, 11)",
+        "\"Namida Hoshi (\u6d99\u661f)\" by Haruka Tomatsu (ep 10)",
+        "\"Flight 23-ji (\u30d5\u30e9\u30a4\u30c823\u6642)\" by Mineral Miracle Muse (\u30df\u30cd\u30e9\u30eb\u2605\u30df\u30e9\u30af\u30eb\u2605\u30df\u30e5\u30fc\u30ba) (eps 12-21)",
+        "\"Macaron DAYS (\u30de\u30ab\u30ed\u30f3DAYS)\" by Mineral Miracle Muse (\u30df\u30cd\u30e9\u30eb\u2605\u30df\u30e9\u30af\u30eb\u2605\u30df\u30e5\u30fc\u30ba) (ep 22)"
+    ],
+    "episodes": 22,
+    "favorites": 775,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/54319.jpg",
+    "licensors": [
+        {
+            "mal_id": 493,
+            "name": "Aniplex of America",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+    ],
+    "mal_id": 19365,
+    "members": 101002,
+    "opening_themes": [
+        "\"JUST ONE LIFE\" by SPYAIR (eps 1-11)",
+        "\"Ai Ai Ai ni Utarete Bye Bye Bye (\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4)\" by FLOW (eps 12-22)"
+    ],
+    "popularity": 1000,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 1411,
+            "name": "Kyoraku Industrial Holdings",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+        },
+        {
+            "mal_id": 1576,
+            "name": "DeNA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1576/DeNA"
+        }
+    ],
+    "rank": 3922,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 59303,
+                "name": "Samurai Flamenco: Another Days",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/59303/Samurai_Flamenco__Another_Days"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:090e6a47cb3b4bb004fff6955a107838558f6047",
+    "score": 6.95,
+    "scored_by": 36005,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 32,
+            "name": "Manglobe",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ],
+    "synopsis": "\"A hero will never give up, never hide, never be defeated and never accept evil!\" Firmly believing these words, Masayoshi Hazama has been obsessed with superhero shows since childhood. By day, he earns his living as a famous model, and by night, he becomes the gallant hero Samurai Flamenco. Armed with only his superhero costume, he seeks to bring justice to the city and faces anybody who tries to break the law\u2014even rebellious juveniles and people who litter on the street. Masayoshi's heroic antics later catch the attention of the public, leading to the fateful discovery of his identity by policeman Hidenori Gotou. Although initially telling Masayoshi to leave the crime-busting activities to the police, Gotou ends up joining him in his antics. However, things soon escalate from preventing littering and petty thefts to bizarre adventures that involve even the fate of the world. Together with their newfound comrades, Masayoshi and Gotou embark on a battle with the world and themselves in order to find the true meaning of being a hero\u2014with or without superpowers. [Written by MAL Rewrite]",
+    "title": "Samurai Flamenco",
+    "title_english": "Samurai Flamenco",
+    "title_japanese": "\u30b5\u30e0\u30e9\u30a4\u30d5\u30e9\u30e1\u30f3\u30b3",
+    "title_synonyms": [
+        "Samumenco"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/uRLVNBsgPok?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19365/Samurai_Flamenco"
+}

@@ -1,0 +1,175 @@
+{
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Apr 6, 2014 to Sep 21, 2014",
+        "to": "2014-09-21T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Haikyuu!! adapts the first 8 volumes of Haruichi Furudate's manga of the same name.",
+    "broadcast": "Sundays at 17:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Tenchi Gaeshi (\u5929\u5730\u30ac\u30a8\u30b7)\" by NICO Touches the Walls (eps 1-13)",
+        "\"Ah Yeah!!\" by Sukima Switch (ep 14)",
+        "\"LEO\" by tacica (eps 15-25)"
+    ],
+    "episodes": 25,
+    "favorites": 28539,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 30,
+            "name": "Sports",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 20583,
+    "members": 588823,
+    "opening_themes": [
+        "\"Imagination (\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3)\" by SPYAIR (eps 1-13)",
+        "\"Ah Yeah!!\" by Sukima Switch (eps 15-25)"
+    ],
+    "popularity": 83,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 1143,
+            "name": "TOHO animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 59,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 35243,
+                "name": "Haikyuu!!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/35243/Haikyuu"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 31675,
+                "name": "Haikyuu!! Quest Picture Drama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/31675/Haikyuu_Quest_Picture_Drama"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 28891,
+                "name": "Haikyuu!! Second Season",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 25303,
+                "name": "Haikyuu!!: Lev Genzan!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25303/Haikyuu__Lev_Genzan"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 29755,
+                "name": "Haikyuu!! Movie 1: Owari to Hajimari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29755/Haikyuu_Movie_1__Owari_to_Hajimari"
+            },
+            {
+                "mal_id": 30364,
+                "name": "Haikyuu!! Movie 2: Shousha to Haisha",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30364/Haikyuu_Movie_2__Shousha_to_Haisha"
+            }
+        ]
+    },
+    "request_cache_expiry": 27019,
+    "request_cached": true,
+    "request_hash": "request:anime:352a1fca48bf745927c00fe7a22c990676522fa4",
+    "score": 8.64,
+    "scored_by": 335868,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team\u2014only to find that his sworn rival, Kageyama, is now his teammate. Thanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan. [Written by MAL Rewrite]",
+    "title": "Haikyuu!!",
+    "title_english": "Haikyu!!",
+    "title_japanese": "\u30cf\u30a4\u30ad\u30e5\u30fc!!",
+    "title_synonyms": [
+        "High Kyuu!!",
+        "HQ!!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/JOGp2c7-cKc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20583/Haikyuu"
+}

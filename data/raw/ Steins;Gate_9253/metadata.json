@@ -1,0 +1,184 @@
+{
+    "aired": {
+        "from": "2011-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 14,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 6, 2011 to Sep 14, 2011",
+        "to": "2011-09-14T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Steins;Gate is based on 5pb. and Nitroplus' .",
+    "broadcast": "Wednesdays at 02:05 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Toki Tsukasadoru Juuni no Meiyaku (\u523b\u53f8\u30eb\u5341\u4e8c\u30ce\u76df\u7d04)\" by Yui Sakakibara (eps 1-21)",
+        "\"Fake Verthandi\" by Takeshi Abo (ep 22)",
+        "\"Sky Clad no Kansokusha (\u30b9\u30ab\u30a4\u30af\u30e9\u30c3\u30c9\u306e\u89b3\u6e2c\u8005)\" by Kanako Itou (ep 23)",
+        "\"Another Heaven\" by Kanako Itou (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 108339,
+    "genres": [
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 9253,
+    "members": 1194084,
+    "opening_themes": [
+        "\"Hacking to the Gate\" by Kanako Itou"
+    ],
+    "popularity": 7,
+    "premiered": "Spring 2011",
+    "producers": [
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 352,
+            "name": "Kadokawa Pictures Japan",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+            "mal_id": 459,
+            "name": "Nitroplus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+        }
+    ],
+    "rank": 3,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 17517,
+                "name": "Steins;Gate",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 4975,
+                "name": "Ch\u00e4oS;HEAd",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4975/Ch\u00e4oS_HEAd"
+            },
+            {
+                "mal_id": 13599,
+                "name": "Robotics;Notes",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13599/Robotics_Notes"
+            },
+            {
+                "mal_id": 30485,
+                "name": "Ch\u00e4oS;Child",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30485/Ch\u00e4oS_Child"
+            },
+            {
+                "mal_id": 32962,
+                "name": "Occultic;Nine",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32962/Occultic_Nine"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 32188,
+                "name": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 27957,
+                "name": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/27957/Steins_Gate__Soumei_Eichi_no_Cognitive_Computing"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 10863,
+                "name": "Steins;Gate: Oukoubakko no Poriomania",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania"
+            }
+        ]
+    },
+    "request_cache_expiry": 40201,
+    "request_cached": true,
+    "request_hash": "request:anime:0bbd7177b3209910d7cd2da3493a8f832fa6a8ae",
+    "score": 9.13,
+    "scored_by": 660250,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "The self-proclaimed mad scientist Rintarou Okabe rents out a room in a rickety old building in Akihabara, where he indulges himself in his hobby of inventing prospective \"future gadgets\" with fellow lab members: Mayuri Shiina, his air-headed childhood friend, and Hashida Itaru, a perverted hacker nicknamed \"Daru.\" The three pass the time by tinkering with their most promising contraption yet, a machine dubbed the \"Phone Microwave,\" which performs the strange function of morphing bananas into piles of green gel. Though miraculous in itself, the phenomenon doesn't provide anything concrete in Okabe's search for a scientific breakthrough; that is, until the lab members are spurred into action by a string of mysterious happenings before stumbling upon an unexpected success\u2014the Phone Microwave can send emails to the past, altering the flow of history. Adapted from the critically acclaimed visual novel by 5pb. and Nitroplus, Steins;Gate takes Okabe through the depths of scientific theory and practicality. Forced across the diverging threads of past and present, Okabe must shoulder the burdens that come with holding the key to the realm of time. [Written by MAL Rewrite]",
+    "title": "Steins;Gate",
+    "title_english": "Steins;Gate",
+    "title_japanese": "STEINS;GATE",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/27OZc-ku6is?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9253/Steins_Gate"
+}

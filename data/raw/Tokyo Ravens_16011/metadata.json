@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2013-10-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 9, 2013 to Mar 26, 2014",
+        "to": "2014-03-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Tokyo Ravens adapts volumes 1 through 9 of the original light novel series.",
+    "broadcast": "Wednesdays at 00:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kimi ga Emu Yuugure (\u541b\u304c\u7b11\u3080\u5915\u66ae\u308c)\" by Yoshino Nanjo (eps 1-2, 4-13, 24)",
+        "\"Break a spell\" by Mami Kawada (eps 15, 17-19, 21-23)"
+    ],
+    "episodes": 24,
+    "favorites": 1723,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75094.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 16011,
+    "members": 282390,
+    "opening_themes": [
+        "\"X-encounter\" by Maon Kurosaki (eps 1-13)",
+        "\"~Outgrow~\" by Gero (eps 15-19, 21-23)"
+    ],
+    "popularity": 305,
+    "premiered": "Fall 2013",
+    "producers": [
+        {
+            "mal_id": 31,
+            "name": "Geneon Universal Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+        },
+        {
+            "mal_id": 166,
+            "name": "Movic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+            "mal_id": 775,
+            "name": "Bushiroad",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1331,
+            "name": "i0+",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1331/i0_"
+        },
+        {
+            "mal_id": 1664,
+            "name": "Fujimi Shobo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+        }
+    ],
+    "rank": 1162,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 23898,
+                "name": "Tokyo Ravens",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/23898/Tokyo_Ravens"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 23405,
+                "name": "Tokyo Ravens: Kon ga Oshiete Moshi Agemasu! Maru Wakari Tokyo Ravens",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23405/Tokyo_Ravens__Kon_ga_Oshiete_Moshi_Agemasu_Maru_Wakari_Tokyo_Ravens"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:6fba1231b529459e99cc983881b4e86c6094858b",
+    "score": 7.69,
+    "scored_by": 127823,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 441,
+            "name": "8bit",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ],
+    "synopsis": "Onmyoudou magic was once a powerful technique used by the Japanese during the second World War in order for them to gain the upper hand and establish their nation as a formidable force. But Japan was quickly defeated after the revered onmyouji Yakou Tsuchimikado caused the \"Great Spiritual Disaster,\" an event which plagues Tokyo to this very day. As a result of this mishap, the Onmyou Agency was established in order to exorcise further spiritual disasters and combat the demons that would make their way into the world. Now, Onmyoudou has become far more modern, simplified, and refined for use in a wide variety of applications such as medicine and technology. However, not everyone is able to utilize the magic, as is the case with Harutora, a member of the Tsuchimikado's branch family. Despite an old promise to protect Natsume, the heir of the Tsuchimikado's main family and Yakou's supposed reincarnation, as her familiar, Harutora has no talent and chooses to live a normal life instead. But when a prominent member of the Onmyou Agency attempts to recreate the same experiment which led to Japan's downfall, he decides to make good on his word and fight by Natsume's side. [Written by MAL Rewrite]",
+    "title": "Tokyo Ravens",
+    "title_english": "Tokyo Ravens",
+    "title_japanese": "\u6771\u4eac\u30ec\u30a4\u30f4\u30f3\u30ba",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/7MuxbeVaoDM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/16011/Tokyo_Ravens"
+}

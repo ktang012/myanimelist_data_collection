@@ -1,0 +1,175 @@
+{
+    "aired": {
+        "from": "2012-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Apr 1, 2012 to Mar 22, 2014",
+        "to": "2014-03-22T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 07:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Subarashiki Sekai (\u7d20\u6674\u3089\u3057\u304d\u4e16\u754c)\" by Rake (eps 1-13)",
+        "\"Kokuhaku (\u544a\u767d)\" by Angela Aki (eps 14-26)",
+        "\"Tete (\u30c6\u30c6)\" by Akihisa Kondou (eps 27-38)",
+        "\"Goodbye Isaac (\u30b0\u30c3\u30d0\u30a4\u30fb\u30a2\u30a4\u30b6\u30c3\u30af)\" by Motohiro Hata (eps 39-51)",
+        "\"BEYOND\" by Miho Fukaraha (eps 52-64)",
+        "\"Yozora no Taiyou (\u591c\u7a7a\u306e\u592a\u967d)\" by Flower Companyz (eps 65-75)",
+        "\"New World\" by Kasarinchu (ep 76-87)",
+        "\"Anata a Ireba OK!\" by Serena (88-99)"
+    ],
+    "episodes": 99,
+    "favorites": 2772,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 36,
+            "name": "Slice of Life",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/37573.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 12431,
+    "members": 112912,
+    "opening_themes": [
+        "\"Feel So Moon\" by Unicorn (eps 1-13)",
+        "\"Eureka (\u30e6\u30ea\u30fc\u30ab)\" by Sukima Switch (eps 14-26)",
+        "\"Yume Miru Sekai (\u5922\u898b\u308b\u4e16\u754c)\" by DOES (eps 27-38)",
+        "\"Small World\" by Fujifabric (eps 39-51)",
+        "\"Kienai E (\u6d88\u3048\u306a\u3044\u7d75)\" by Magokoro Brothers (eps 52-64)",
+        "\"Crater (\u30af\u30ec\u30fc\u30bf\u30fc)\" by Merengue (eps 65-75)",
+        "\"HALO\" by tacica (eps 76-87)",
+        "\"B.B\" by THE Yatou (eps 88-99)"
+    ],
+    "popularity": 909,
+    "premiered": "Spring 2012",
+    "producers": [
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 236,
+            "name": "YTV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/236/YTV"
+        },
+        {
+            "mal_id": 643,
+            "name": "Trinity Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+        }
+    ],
+    "rank": 92,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14483,
+                "name": "Uchuu Kyoudai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14483/Uchuu_Kyoudai"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 22583,
+                "name": "Uchuu Kyoudai: Number Zero",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/22583/Uchuu_Kyoudai__Number_Zero"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 13479,
+                "name": "Uchuu Kyoudai: Apo's Dream",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/13479/Uchuu_Kyoudai__Apos_Dream"
+            },
+            {
+                "mal_id": 17573,
+                "name": "Uchuu Kyoudai: Itten no Hikari",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17573/Uchuu_Kyoudai__Itten_no_Hikari"
+            }
+        ]
+    },
+    "request_cache_expiry": 19020,
+    "request_cached": true,
+    "request_hash": "request:anime:56395149cb0163019574f731f4bf683c95033132",
+    "score": 8.54,
+    "scored_by": 29761,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 56,
+            "name": "A-1 Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ],
+    "synopsis": "On a fateful summer night in 2006, Mutta Nanba and his younger brother Hibito witness what they believe to be a UFO flying toward the Moon. This impressing and unusual phenomenon leads both siblings vowing to become astronauts, with Hibito aiming for the Moon and Mutta, convinced that the eldest brother has to be one step ahead, for Mars. Now an adult, life hasn't turned out how Mutta had pictured it: he is diligently working in an automotive company, whereas Hibito is on his way to be the very first Japanese man to step on the Moon. However, after losing his job, Mutta is presented with an unexpected opportunity to catch up to his younger brother when the Japanese Aerospace Exploration Agency, commonly known as JAXA, accepts his application to participate in the next astronaut selection. Despite self-doubts about his prospects, Mutta is unwilling to waste this chance of a lifetime, and thus embarks on an ambitious journey to fulfill the promise made 19 years ago. [Written by MAL Rewrite]",
+    "title": "Uchuu Kyoudai",
+    "title_english": "Space Brothers",
+    "title_japanese": "\u5b87\u5b99\u5144\u5f1f",
+    "title_synonyms": [
+        "Uchuu Kyodai"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/ciS3fDqT1Vw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/12431/Uchuu_Kyoudai"
+}

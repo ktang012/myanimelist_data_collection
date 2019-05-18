@@ -1,0 +1,160 @@
+{
+    "aired": {
+        "from": "2014-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 7, 2014 to Mar 25, 2014",
+        "to": "2014-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "D-Frag! adapts content from the first 5 volumes of Tomoya Haruno's manga of the same name.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Stalemate! (\u3059\u3066\u3044\u308b\u3081\u3044\u3068!)\" by IOSYS jk Girls (ep 1)",
+        "\"Minna no Namae wo Irete Kudasai (\u30df\u30f3\u30ca\u30ce\u30ca\u30de\u30a8\u30f2\u30a4\u30ec\u30c6\u30af\u30c0\u30b5\u30a4)\" by Roka Shibasaki (CV: Kana Hanazawa), Takao (CV: Shizuka Itou) & Funabori (CV: Aki Toyosaki) (eps 2-12)"
+    ],
+    "episodes": 12,
+    "favorites": 1923,
+    "genres": [
+        {
+            "mal_id": 11,
+            "name": "Game",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/11/Game"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/53407.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 20031,
+    "members": 249070,
+    "opening_themes": [
+        "\"Stalemate! (\u3059\u3066\u3044\u308b\u3081\u3044\u3068!)\" by IOSYS jk Girls (eps 2-12)"
+    ],
+    "popularity": 356,
+    "premiered": "Winter 2014",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 315,
+            "name": "DAX Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+            "mal_id": 737,
+            "name": "Sony Music Communications",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+        },
+        {
+            "mal_id": 882,
+            "name": "Toranoana",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/882/Toranoana"
+        }
+    ],
+    "rank": 1167,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 14721,
+                "name": "D-Frag!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/14721/D-Frag"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 23383,
+                "name": "D-Frag!*",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/23383/D-Frag"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:307325ed95e7511811afbdc86e8932490678b9f5",
+    "score": 7.68,
+    "scored_by": 128935,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 112,
+            "name": "Brain's Base",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ],
+    "synopsis": "The Kazama Family\u2014a gang of three wannabe delinquents and close friends, spearheaded by Kenji Kazama, is trying to make a name for themselves at Fujou Academy. On the first day of the term, the gang finds themselves putting out a fire in the Game Development Club. Instead of thanking them, the eccentric club members attack and knock out Kenji's two friends, forcing Kenji to fight for his life. Failing to escape, the gang leader is coerced into joining the Game Development Club. As he settles in, Kenji gets to know the four girls responsible for his provisional membership\u2014student council president and general tyrant Chitose Karasuyama, spirited tomboy Sakura Mizukami, negligent club advisor Minami Oosawa, and the school's infamous shadow leader Roka Shibasaki. Throughout the Game Development Club's constant shenanigans and his desperate attempts to leave the club, Kenji begins to realize that he may be actually enjoying himself. [Written by MAL Rewrite]",
+    "title": "D-Frag!",
+    "title_english": "D-Frag!",
+    "title_japanese": "\u30c7\u30a3\u30fc\u3075\u3089\u3050\uff01",
+    "title_synonyms": [
+        "D-Frag!"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/iaVVbM84uRY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/20031/D-Frag"
+}

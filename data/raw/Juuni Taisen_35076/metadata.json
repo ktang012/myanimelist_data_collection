@@ -1,0 +1,152 @@
+{
+    "aired": {
+        "from": "2017-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 3, 2017 to Dec 19, 2017",
+        "to": "2017-12-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Tuesdays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Keshin no Kemono (\u5316\u8eab\u306e\u7363)\" by Do As Infinity"
+    ],
+    "episodes": 12,
+    "favorites": 355,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/87684.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 35076,
+    "members": 171036,
+    "opening_themes": [
+        "\"Rapture (\u30e9\u30d7\u30c1\u30e3\u30fc)\" by Panorama Panama Town (\u30d1\u30ce\u30e9\u30de\u30d1\u30ca\u30de\u30bf\u30a6\u30f3)"
+    ],
+    "popularity": 570,
+    "premiered": "Fall 2017",
+    "producers": [
+        {
+            "mal_id": 64,
+            "name": "Sotsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 238,
+            "name": "AT-X",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+            "mal_id": 719,
+            "name": "Studio Mausu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+            "mal_id": 1211,
+            "name": "Tokyo MX",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Avex Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1602,
+            "name": "GYAO!",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+        },
+        {
+            "mal_id": 1635,
+            "name": "A-Sketch",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1635/A-Sketch"
+        }
+    ],
+    "rank": 5268,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 108873,
+                "name": "Juuni Taisen",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/108873/Juuni_Taisen"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:5b14206eb91475bf78da74256bc4368fcefa71f3",
+    "score": 6.65,
+    "scored_by": 80313,
+    "source": "Novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 894,
+            "name": "Graphinica",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+        }
+    ],
+    "synopsis": "Every 12 years, mercenaries who possess the highest caliber of brute strength, cunning wit, and deadly precision gather to participate in the Zodiac Tournament. Each warrior bears the name and attributes of one of the 12 animals of the Chinese zodiac. With their pride and lives on the line, they engage in vicious combat until only the victor remains. The 12th Zodiac Tournament begins in a desolate city, devoid of any evidence of the half million people who recently lived there. To raise the stakes, each warrior ingests a poisonous gem, thus setting a time limit on the tournament\u2014and on their life. With one wish for the victor up for grabs, the Zodiac Warriors start their cutthroat battle for survival. [Written by MAL Rewrite]",
+    "title": "Juuni Taisen",
+    "title_english": "Juni Taisen: Zodiac War",
+    "title_japanese": "\u5341\u4e8c\u5927\u6226",
+    "title_synonyms": [
+        "12 Taisen",
+        "12 Wars"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/gsOes0IA4EE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/35076/Juuni_Taisen"
+}

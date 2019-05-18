@@ -1,0 +1,168 @@
+{
+    "aired": {
+        "from": "2011-01-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 9, 2011 to Mar 25, 2012",
+        "to": "2012-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Answer\" by NO3B (eps 1-10)",
+        "\"Tsuyogari\" by Shoko Nakagawa (eps 11-23)",
+        "\"Nanairo Namida\" by Tomato n' Pine (eps 24-35)",
+        "\"Papepipu\u266a Papipepu\u266a Papepipupo\u266a\" by Sasaki Nozomi (eps 36-48)",
+        "\"Shojo Traveler\" by 9nine (eps 49-59)",
+        "\"Dadada\" by GROUP Tamashii (ep 60)"
+    ],
+    "episodes": 60,
+    "favorites": 4213,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+    "licensors": [
+        {
+            "mal_id": 467,
+            "name": "Discotek Media",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        }
+    ],
+    "mal_id": 9513,
+    "members": 345991,
+    "opening_themes": [
+        "\"Dadada\" by GROUP Tamashii (eps 1-10)",
+        "\"Hajimaru no wa, Sayonara\" by ON/OFF (eps 11-23)",
+        "\"Hey!!!\" by FLOW (eps 24-35)",
+        "\"Baby U!\" by MBLAQ (eps 36-48)",
+        "\"Only you- Kimi tono Kizuna -\" by Lc5 (eps 49-60)"
+    ],
+    "popularity": 221,
+    "premiered": "Winter 2011",
+    "producers": [
+        {
+            "mal_id": 1,
+            "name": "Studio Pierrot",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 76,
+            "name": "Yomiuri Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 557,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 10010,
+                "name": "Beelzebub",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/10010/Beelzebub"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 9120,
+                "name": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9120/Beelzebub__Hirotta_Akachan_wa_Daimaou"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 10479,
+                "name": "Beelzebub Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10479/Beelzebub_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 16459,
+    "request_cached": true,
+    "request_hash": "request:anime:4a1b32edb3bc594020314e63b0aabbeb111901b1",
+    "score": 8.01,
+    "scored_by": 153357,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1129,
+            "name": "Pierrot Plus",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+        }
+    ],
+    "synopsis": "Ishiyama High is a school populated entirely by delinquents, where nonstop violence and lawlessness are the norm. However, there is one universally acknowledged rule\u2014don't cross first year student Tatsumi Oga, Ishiyama's most vicious fighter. One day, Oga is by a riverbed when he encounters a man floating down the river. After being retrieved by Oga, the man splits down the middle to reveal a baby, which crawls onto Oga's back and immediately forms an attachment to him. Though he doesn't know it yet, this baby is named Kaiser de Emperana Beelzebub IV, or \"Baby Beel\" for short\u2014the son of the Demon Lord! As if finding the future Lord of the Underworld isn't enough, Oga is also confronted by Hildegard, Beel's demon maid. Together they attempt to raise Baby Beel\u2014although surrounded by juvenile delinquents and demonic powers, the two of them may be in for more of a challenge than they can imagine. [Written by MAL Rewrite]",
+    "title": "Beelzebub",
+    "title_english": "Beelzebub",
+    "title_japanese": "\u3079\u308b\u305c\u30d0\u30d6",
+    "title_synonyms": [],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/9513/Beelzebub"
+}

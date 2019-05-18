@@ -1,0 +1,121 @@
+{
+    "aired": {
+        "from": "2017-04-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 10, 2017 to Jun 26, 2017",
+        "to": "2017-06-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Mondays at 23:30 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Hajimari no Shirushi (\u306f\u3058\u307e\u308a\u306e\u3057\u308b\u3057)\" by Chima"
+    ],
+    "episodes": 12,
+    "favorites": 489,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/85224.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 34176,
+    "members": 156138,
+    "opening_themes": [
+        "\"Hakkensha wa Watashi (\u767a\u898b\u8005\u306f\u30ef\u30bf\u30b7)\" by Tapimiru (\u305f\u3074\u307f\u308b)"
+    ],
+    "popularity": 629,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+            "mal_id": 787,
+            "name": "Happinet Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+        },
+        {
+            "mal_id": 1386,
+            "name": "Infinite",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+        }
+    ],
+    "rank": 2932,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 67523,
+                "name": "Zero kara Hajimeru Mahou no Sho",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/67523/Zero_kara_Hajimeru_Mahou_no_Sho"
+            }
+        ]
+    },
+    "request_cache_expiry": 39150,
+    "request_cached": true,
+    "request_hash": "request:anime:1749ac81eee3f23079ec9a15d44d12b690de750b",
+    "score": 7.2,
+    "scored_by": 70298,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 314,
+            "name": "White Fox",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ],
+    "synopsis": "In a world of constant war between humans and witches, there exist the \"beastfallen\"\u2014cursed humans born with the appearance and strength of an animal. Their physical prowess and bestial nature cause them to be feared and shunned by both humans and witches. As a result, many beastfallen become sellswords, making their living through hunting witches. Despite the enmity between the races, a lighthearted witch named Zero enlists a beastfallen whom she refers to as \"Mercenary\" to act as her protector. He travels with Zero and Albus, a young magician, on their search for the Grimoire of Zero: a powerful spell book that could be extremely dangerous in the wrong hands. During their journey, his inner kindness is revealed as he starts to show compassion and sympathy towards humans and witches alike, and the unlikely companions grow together. [Written by MAL Rewrite]",
+    "title": "Zero kara Hajimeru Mahou no Sho",
+    "title_english": null,
+    "title_japanese": "\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u9b54\u6cd5\u306e\u66f8",
+    "title_synonyms": [
+        "Grimoire of Zero"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-6QDVRnxf9g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34176/Zero_kara_Hajimeru_Mahou_no_Sho"
+}

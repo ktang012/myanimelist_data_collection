@@ -1,0 +1,273 @@
+{
+    "aired": {
+        "from": "2006-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Apr 4, 2006 to Mar 25, 2010",
+        "to": "2010-03-25T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Several games based on Gintama have been released on a variety of platforms such as the Sony PlayStation 2, PlayStation Portable and Nintendo DS. Characters from the series have also appeared in Weekly Shounen Jump's crossover titles such as Jump Super Stars and Jump Ultimate Stars.\r\nThe series received high-definition reruns of older episodes by TV Tokyo from April 5, 2010 till March 28, 2011 under the name Yorinuki Gintama-san which included 51 selected episodes as well as 4 new Openings and Endings. \r\nSentai Filmworks licensed and released only the first 49 episodes of Gintama, along with the first movie; in 2016, Crunchyroll gained the license and plans to release the entire series dubbed/subtitled at some point in the future.",
+    "broadcast": "Thursdays at 18:00 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Fuusen Gum\" by Captain Straydum (eps 1-13)",
+        "\"MR.RAINDROP\" by amplified (eps 14-24)",
+        "\"Yuki no Tsubasa\" by redballoon (eps 25-37)",
+        "\"Candy Line\" by Hitomi Takahashi (eps 38-49)",
+        "\"Shura\" by DOES (eps 50-62)",
+        "\"Kiseki\" by Snowkel (eps 63-75)",
+        "\"SIGNAL\" by KELUN (eps 76-87)",
+        "\"Speed of Flow\" by The Rodeo Carburettor (eps 88-99)",
+        "\"Sanagi\" by POSSIBILITY (eps 100-112)",
+        "\"This World is yours\" by plingmin (eps 113-125)",
+        "\"Ai, Ai, Ai\" by GHOSTNOTE (eps 126-138)",
+        "\"Kagayaita\" by SHIGI (eps 139-150)",
+        "\"Asa Answer\" by PENGIN (eps 151-163)",
+        "\"Wo Ai Ni\" by Hitomi Takahashi feat. Beat Crusaders (eps 164-176)",
+        "\"Wonderful Days\" by ONE\u2606DRAFT (eps 177-189)",
+        "\"SAYONARA no Sora\" by Qwai (eps 190-201)#R1: \"Bokutachi no Kisetsu\" by DOES (Yorinuki Gintama-san eps 1-9)#R2: \"Wave\" by Vijandeux (Yorinuki Gintama-san eps 10-26)#R3: \"In My Life\" by AZU (Yorinuki Gintama-san eps 27-39)#R4: \"Sakurane\" by Piko (Yorinuki Gintama-san eps 40-51)"
+    ],
+    "episodes": 201,
+    "favorites": 37309,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 13,
+            "name": "Historical",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+            "mal_id": 20,
+            "name": "Parody",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+            "mal_id": 21,
+            "name": "Samurai",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 918,
+    "members": 527933,
+    "opening_themes": [
+        "\"Pray\" by Tommy heavenly6 (eps 1-24)",
+        "\"Tooi Nioi (\u9060\u3044\u5302\u3044)\" by YO-KING (eps 25-49)",
+        "\"Giniro no Sora (\u9280\u8272\u306e\u7a7a)\" by redballoon (eps 50-75)",
+        "\"Kasanaru Kage (\u304b\u3055\u306a\u308b\u5f71)\" by Hearts Grow (eps 76-99)",
+        "\"DONTEN (\u66c7\u5929)\" by DOES (eps 100-125)",
+        "\"Anata MAGIC (\u30a2\u30ca\u30bfMAGIC)\" by monobright (eps 126-150)",
+        "\"Stairway Generation\" by Base Ball Bear (eps 151-176)",
+        "\"Light Infection\" by Prague (eps 177-201)#R1: \"Bakuchi Dancer (\u30d0\u30af\u30c1\u30fb\u30c0\u30f3\u30b5\u30fc)\" by DOES (Yorinuki Gintama-san eps 1-9)#R2: \"Kaze no Gotoku (\u98a8\u306e\u3054\u3068\u304f)\" by Inoue Joe (Yorinuki Gintama-san eps 10-26)#R3: \"Kanousei Girl (\u53ef\u80fd\u6027\u30ac\u30fc\u30eb)\" by Chiaki Kuriyama (Yorinuki Gintama-san eps 27-39)#R4: \"Katoniago (\u30ab\u30fc\u30c8\u30cb\u30a2\u30b4 )\" by FLiP (Yorinuki Gintama-san eps 40-51)"
+    ],
+    "popularity": 95,
+    "premiered": "Spring 2006",
+    "producers": [
+        {
+            "mal_id": 16,
+            "name": "TV Tokyo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+            "mal_id": 17,
+            "name": "Aniplex",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+            "mal_id": 53,
+            "name": "Dentsu",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+            "mal_id": 643,
+            "name": "Trinity Sound",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+        },
+        {
+            "mal_id": 645,
+            "name": "Audio Highs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/645/Audio_Highs"
+        },
+        {
+            "mal_id": 763,
+            "name": "Miracle Robo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/763/Miracle_Robo"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Shueisha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+    ],
+    "rank": 15,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 44,
+                "name": "Gintama",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/44/Gintama"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 7472,
+                "name": "Gintama Movie 1: Shinyaku Benizakura-hen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7472/Gintama_Movie_1__Shinyaku_Benizakura-hen"
+            },
+            {
+                "mal_id": 21899,
+                "name": "Gintama: Yorinuki Gintama-san on Theater 2D",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/21899/Gintama__Yorinuki_Gintama-san_on_Theater_2D"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 15335,
+                "name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/15335/Gintama_Movie_2__Kanketsu-hen_-_Yorozuya_yo_Eien_Nare"
+            },
+            {
+                "mal_id": 19261,
+                "name": "Gintama x Mameshiba",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/19261/Gintama_x_Mameshiba"
+            },
+            {
+                "mal_id": 37864,
+                "name": "China KFC x Gintama",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/37864/China_KFC_x_Gintama"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 9969,
+                "name": "Gintama'",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9969/Gintama"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 2951,
+                "name": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/2951/Gintama__Nanigoto_mo_Saiyo_ga_Kanjin_nano_de_Tasho_Senobisuru_Kurai_ga_Choudoyoi"
+            },
+            {
+                "mal_id": 6945,
+                "name": "Gintama: Shiroyasha Koutan",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6945/Gintama__Shiroyasha_Koutan"
+            },
+            {
+                "mal_id": 10643,
+                "name": "Gintama: Dai Hanseikai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/10643/Gintama__Dai_Hanseikai"
+            },
+            {
+                "mal_id": 25313,
+                "name": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/25313/Gintama__Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru"
+            },
+            {
+                "mal_id": 32122,
+                "name": "Gintama\u00b0: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32122/Gintama\u00b0__Umai-mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:83a35007bc8c9901b5d55ae2aabc0f0ad9ac4a9b",
+    "score": 8.99,
+    "scored_by": 160827,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 14,
+            "name": "Sunrise",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ],
+    "synopsis": "The Amanto, aliens from outer space, have invaded Earth and taken over feudal Japan. As a result, a prohibition on swords has been established, and the samurai of Japan are treated with disregard as a consequence. However one man, Gintoki Sakata, still possesses the heart of the samurai, although from his love of sweets and work as a yorozuya, one might not expect it. Accompanying him in his jack-of-all-trades line of work are Shinpachi Shimura, a boy with glasses and a strong heart, Kagura with her umbrella and seemingly bottomless stomach, as well as Sadaharu, their oversized pet dog. Of course, these odd jobs are not always simple, as they frequently have run-ins with the police, ragtag rebels, and assassins, oftentimes leading to humorous but unfortunate consequences. Who said life as an errand boy was easy? [Written by MAL Rewrite]",
+    "title": "Gintama",
+    "title_english": "Gintama",
+    "title_japanese": "\u9280\u9b42",
+    "title_synonyms": [
+        "Gin Tama",
+        "Silver Soul",
+        "Yorinuki Gintama-san"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/918/Gintama"
+}

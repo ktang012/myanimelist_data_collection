@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2005-11-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 11,
+                "year": 2005
+            },
+            "to": {
+                "day": 11,
+                "month": 5,
+                "year": 2006
+            }
+        },
+        "string": "Nov 3, 2005 to May 11, 2006",
+        "to": "2006-05-11T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Fridays at 00:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Mou hitotsu no Birthday\" by Fm.\u03b8"
+    ],
+    "episodes": 24,
+    "favorites": 810,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 32,
+            "name": "Vampire",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/32/Vampire"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/46833.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1459,
+            "name": "Geneon Entertainment USA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+        }
+    ],
+    "mal_id": 469,
+    "members": 133537,
+    "opening_themes": [
+        "\"Scarlet\" by BRACE;d"
+    ],
+    "popularity": 755,
+    "premiered": "Fall 2005",
+    "producers": [
+        {
+            "mal_id": 33,
+            "name": "WOWOW",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+            "mal_id": 61,
+            "name": "Frontier Works",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        }
+    ],
+    "rank": 2653,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 387,
+                "name": "Karin",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/387/Karin"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f028b5e1bc0b2e27a7bac71ec1467f45c200c2db",
+    "score": 7.26,
+    "scored_by": 69624,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Vampires\u2014supernatural beings that feed on the life essence of the unsuspecting at night\u2014have been around for centuries. However, high schooler Karin Maaka is unusual, even among her own kind. Unlike her vampire family, ever since she was a child, Karin has suffered from polycythemia: a rare disorder which causes her to periodically produce excessive amounts of blood. And the more blood she produces, the more anemic and lightheaded she gets, ultimately leading to frequent nosebleeds. Her only solution? Force her excess blood onto random strangers, which surprisingly causes these \"victims\" to become livelier and happier than before. With her siblings\u2014Anju, her reserved yet affectionate younger sister, and Ren, her womanizing elder brother\u2014helping her abilities remain a secret by altering the affected humans' memories, no one is the wiser. That is, until Karin's newly transferred classmate, Kenta Usui, finds her behavior suspicious. And to make matters even more complicated, Karin feels her blood reacting unusually to Kenta's presence. [Written by MAL Rewrite]",
+    "title": "Karin",
+    "title_english": "Karin",
+    "title_japanese": "\u304b\u308a\u3093",
+    "title_synonyms": [
+        "Chibi Vampire Karin"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/469/Karin"
+}

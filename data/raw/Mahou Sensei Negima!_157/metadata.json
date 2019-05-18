@@ -1,0 +1,204 @@
+{
+    "aired": {
+        "from": "2005-01-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2005
+            }
+        },
+        "string": "Jan 6, 2005 to Jun 30, 2005",
+        "to": "2005-06-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 01:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Kagayaku Kimi e\" by Akemi Kanda, Ai Nonaka, Mamiko Noto, and Yu Kobayashi (eps 1-13)",
+        "\"Oshiete hoshii zoo, Shishou\" by Ayana Sasagawa, Natsuko Kuwatani, Akeno Watanabe, Hazuki Tanaka, and Yuki Matsuoka (eps 14-22, 24-25)",
+        "\"Happy Material - Acoustic ver.\" by [Instrumental] (ep 23)",
+        "\"Kagayaku Kimi e ~ Peace\" by The Class of 2-A (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 579,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/89535.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 157,
+    "members": 104087,
+    "opening_themes": [
+        "\"Happy Material\" by Yuri Shiratori, Madoka Kimura, Ayana Sasagawa, Natsuko Kuwatani, Kotomi Yamakawa, Azumi Yamamoto (eps 1-4)",
+        "\"Happy Material\" by Shizuka Itou, Akemi Kanda, Ai Bandou, Akeno Watanabe, and Mami Deguchi (eps 5-8)",
+        "\"Happy Material\" by Hazuki Tanaka, Ai Nonaka, Sawa Ishige, Yu Kobayashi, and Yui Horie (eps 9-13)",
+        "\"Happy Material\" by Akane Omae, Miho Sakuma, Chiaki Osawa, Ryoko Shiraishi, and Misa Kobayashi (eps 14-17)",
+        "\"Happy Material\" by Kimiko Koyama, Mari Kanou, Mai Kadowaki, Yumi Shimura, and Yuki Matsuoka (eps 18-21)",
+        "\"Happy Material\" by Mamiko Noto, Mai Aizawa, Junko Minagawa, Naomi Inoue, and Yuka Inokuchi (eps 22-23,25)",
+        "\"Happy Material\" by The Class of 2-A (ep 26)"
+    ],
+    "popularity": 974,
+    "premiered": "Winter 2005",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        }
+    ],
+    "rank": 3498,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 15,
+                "name": "Mahou Sensei Negima!",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/15/Mahou_Sensei_Negima"
+            }
+        ],
+        "Alternative setting": [
+            {
+                "mal_id": 3948,
+                "name": "Mahou Sensei Negima!: Introduction Film",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3948/Mahou_Sensei_Negima__Introduction_Film"
+            },
+            {
+                "mal_id": 4188,
+                "name": "Mahou Sensei Negima!: Shiroki Tsubasa Ala Alba",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4188/Mahou_Sensei_Negima__Shiroki_Tsubasa_Ala_Alba"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 1546,
+                "name": "Negima!?",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1546/Negima"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34450,
+                "name": "Mahou Sensei Negima! Tokubetsu Eizou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34450/Mahou_Sensei_Negima_Tokubetsu_Eizou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 33478,
+                "name": "UQ Holder!: Mahou Sensei Negima! 2",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/33478/UQ_Holder__Mahou_Sensei_Negima_2"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:894d14fa0f0b58ac0f8eefb863cca0311bda7ef1",
+    "score": 7.06,
+    "scored_by": 48102,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 27,
+            "name": "Xebec",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ],
+    "synopsis": "10-year-old Negi Springfield is a wizard-in-training, and needs only to pass one more test in order to become a Master Wizard. Unfortunately, his final task is a bizarre one\u2014to become a English teacher at an all-females boarding school. As soon as he arrives, he completely embarrasses one of his students, Asuna Kagurazaka, and replaces the teacher she loves, which garners her hatred. To make matters worse, Asuna learns that Negi is a wizard, and promises to tell unless he helps her out. But unfortunately, circumstances force them to work together to do many things, from fighting evil wizards to helping the class pass their final exam, with a lot of humor, magic, and romances thrown in. (Source: ANN, edited)",
+    "title": "Mahou Sensei Negima!",
+    "title_english": "Negima!",
+    "title_japanese": "\u9b54\u6cd5\u5148\u751f \u30cd\u30ae\u307e\uff01",
+    "title_synonyms": [
+        "Magister Negi Magi"
+    ],
+    "trailer_url": null,
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/157/Mahou_Sensei_Negima"
+}

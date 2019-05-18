@@ -1,0 +1,172 @@
+{
+    "aired": {
+        "from": "2006-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Apr 4, 2006 to Sep 26, 2006",
+        "to": "2006-09-26T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Both Rikiya Koyama (voice of Hakuoro) and Miyuki Sawashiro (voice of Aruruu) of were nominated as Best Leading Actor and Best Supporting Actress in the first ever Seiyu Awards for their roles in Utawarerumono.",
+    "broadcast": "Tuesdays at 02:40 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Madoromi no Rinne (\u307e\u3069\u308d\u307f\u306e\u8f2a\u5efb)\" by Eri Kawai (eps 1-25)",
+        "\"Kimi ga Tame (\u30ad\u30df\u30ac\u30bf\u30e1)\" by Suara (ep 26)"
+    ],
+    "episodes": 26,
+    "favorites": 1058,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/24605.jpg",
+    "licensors": [
+        {
+            "mal_id": 97,
+            "name": "ADV Films",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+        },
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 856,
+    "members": 121347,
+    "opening_themes": [
+        "\"Musouka (\u5922\u60f3\u6b4c)\" by Suara"
+    ],
+    "popularity": 838,
+    "premiered": "Spring 2006",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 213,
+            "name": "Half H.P Studio",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+        },
+        {
+            "mal_id": 1329,
+            "name": "AQUAPLUS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1329/AQUAPLUS"
+        }
+    ],
+    "rank": 1072,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1160,
+                "name": "Utawarerumono",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1160/Utawarerumono"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 36777,
+                "name": "Utawarerumono: Tusukuru-koujo no Karei Naru Hibi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36777/Utawarerumono__Tusukuru-koujo_no_Karei_Naru_Hibi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30901,
+                "name": "Utawarerumono: Itsuwari no Kamen",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30901/Utawarerumono__Itsuwari_no_Kamen"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 1830,
+                "name": "Utawarerumono Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/1830/Utawarerumono_Specials"
+            },
+            {
+                "mal_id": 3593,
+                "name": "Utawarerumono OVA",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/3593/Utawarerumono_OVA"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 6226,
+                "name": "Utawarerumono Recaps",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6226/Utawarerumono_Recaps"
+            }
+        ]
+    },
+    "request_cache_expiry": 5009,
+    "request_cached": true,
+    "request_hash": "request:anime:c33268036e0797a69165537bfda4c59d314e3e30",
+    "score": 7.73,
+    "scored_by": 49019,
+    "source": "Visual novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 28,
+            "name": "OLM",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ],
+    "synopsis": "An injured man is found in the woods by a girl named Eruruu, and everything about him is mysterious. Without knowledge of his past nor even his own name, he is welcomed to Eruruu's home and is given the name Hakuoro by her grandmother, and younger sister, Aruruu. While the inhabitants of the village have large ears and tails, Hakuoro's defining physical trait is quite different as he has neither ears nor tail, but only a mask that he cannot remove. Soon after he becomes a part of the villagers' lives, a revolution against the tyrannical emperor of the land begins, and the conflict finds its way to his new home. Hakuoro must do whatever he can to save the people and the village that he has come to love, all while uncovering the mysteries that shroud his past. [Written by MAL Rewrite]",
+    "title": "Utawarerumono",
+    "title_english": "Utawarerumono",
+    "title_japanese": "\u3046\u305f\u308f\u308c\u308b\u3082\u306e",
+    "title_synonyms": [
+        "The One Being Sung"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/VLJbQuoO-zU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/856/Utawarerumono"
+}

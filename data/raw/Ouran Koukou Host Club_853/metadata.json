@@ -1,0 +1,136 @@
+{
+    "aired": {
+        "from": "2006-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Apr 5, 2006 to Sep 27, 2006",
+        "to": "2006-09-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Wednesdays at 00:50 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Shissou\" by Last Alliance"
+    ],
+    "episodes": 26,
+    "favorites": 25434,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/71992.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 853,
+    "members": 596023,
+    "opening_themes": [
+        "\"Sakura Kiss\" by Chieko Kawabe"
+    ],
+    "popularity": 79,
+    "premiered": "Spring 2006",
+    "producers": [
+        {
+            "mal_id": 29,
+            "name": "VAP",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+            "mal_id": 148,
+            "name": "Hakusensha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Nippon Television Network",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        }
+    ],
+    "rank": 237,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 30,
+                "name": "Ouran Koukou Host Club",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/30/Ouran_Koukou_Host_Club"
+            }
+        ]
+    },
+    "request_cache_expiry": 39914,
+    "request_cached": true,
+    "request_hash": "request:anime:40048dba79a5d8162baffa4f7598718e45711324",
+    "score": 8.31,
+    "scored_by": 363488,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 4,
+            "name": "Bones",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ],
+    "synopsis": "Haruhi Fujioka is a bright scholarship candidate with no rank or title to speak of\u2014a rare species at Ouran High School, an elite academy for students of high pedigree. When she opens the door to Music Room #3 hoping to find a quiet place to study, Haruhi unexpectedly stumbles upon the Host Club. Led by the princely Tamaki, the club\u2014whose other members include the \"Shadow King\" Kyouya, the mischievous Hitachiin twins, and the childlike Haninozuka \"Honey\" and his strong protector Mori\u2014is where handsome boys with too much time on their hands entertain the girls in the academy. In a frantic attempt to remove herself from the hosts, Haruhi ends up breaking a vase worth eight million yen and is forced into becoming the eccentric group's general errand boy to repay her enormous debt. However, thanks to her convincingly masculine appearance, her naturally genial disposition toward girls, and fascinating commoner status, she is soon promoted to full-time male host and plunged headlong into a glitzy whirlwind of elaborate cosplays, rich food, and exciting shenanigans that only the immensely wealthy Ouran Host Club can pull off. [Written by MAL Rewrite]",
+    "title": "Ouran Koukou Host Club",
+    "title_english": "Ouran High School Host Club",
+    "title_japanese": "\u685c\u862d\u9ad8\u6821\u30db\u30b9\u30c8\u90e8",
+    "title_synonyms": [
+        "Ohran Koko Host Club",
+        "Ouran Koukou Hosutobu",
+        "Ouran Koukou Host Bu",
+        "OHSHC"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/NcC5VCE2Its?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club"
+}

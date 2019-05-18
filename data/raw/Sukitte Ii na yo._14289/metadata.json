@@ -1,0 +1,157 @@
+{
+    "aired": {
+        "from": "2012-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 7, 2012 to Dec 30, 2012",
+        "to": "2012-12-30T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Sukitte Ii na yo. is licensed by Sentai Filmworks for release in North America. The anime adaptation was followed by a live action film adaptation that premiered in 2014 and earned over \u00a51 billion (around 10 million USD) at the Japanese box office.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"slow dance\" by Suneohair (eps 1-11, 13)",
+        "\"Sarari (\u3055\u3089\u308a)\" by Suneohair (ep 12)"
+    ],
+    "episodes": 13,
+    "favorites": 3767,
+    "genres": [
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 25,
+            "name": "Shoujo",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/39777.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 14289,
+    "members": 352885,
+    "opening_themes": [
+        "\"Friendship ~ for Sukitte Ii na yo. (Friendship\uff5efor \u597d\u304d\u3063\u3066\u3044\u3044\u306a\u3088\u3002)\" by Ritsuko Okazaki"
+    ],
+    "popularity": 214,
+    "premiered": "Fall 2012",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 306,
+            "name": "Magic Capsule",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+            "mal_id": 675,
+            "name": "Yomiuri Advertising",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/675/Yomiuri_Advertising"
+        },
+        {
+            "mal_id": 721,
+            "name": "GANSIS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+        }
+    ],
+    "rank": 1265,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 11767,
+                "name": "Suki tte Ii na yo.",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/11767/Suki_tte_Ii_na_yo"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 16868,
+                "name": "Sukitte Ii na yo.: Dareka ga",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/16868/Sukitte_Ii_na_yo__Dareka_ga"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 17409,
+                "name": "Sukitte Ii na yo.: Mei and Marshmallow",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/17409/Sukitte_Ii_na_yo__Mei_and_Marshmallow"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:905bc3bf87040888d205648b62c5376d3936ee2d",
+    "score": 7.65,
+    "scored_by": 198333,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 218,
+            "name": "Zexcs",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ],
+    "synopsis": "Friends will only let you down\u2014that is the sad truth Mei Tachibana lives with, ever since she was wrongfully blamed for the death of a class pet by her so-called friends in grade school. Since then, she stays away from people in order to avoid ever being hurt again. However, Mei's life begins to change drastically when a misunderstanding in high school causes her to encounter popular student Yamato Kurosawa. Yamato finds her intriguing and insists on being her friend, even though Mei wants nothing to do with him. But when a dangerous situation ends with Yamato kissing Mei to save her from the unwanted attention of a stalker, Mei begins to develop feelings for him. On the heels of her discovery that their feelings are mutual, they start dating and she gains not only a boyfriend, but friends as well. Mei, however, finds it very hard to adapt to this new lifestyle, especially in expressing her true feelings towards Yamato. Throughout misunderstandings of their new relationship, each other, and the attentions of other girls, Mei and Yamato slowly grow closer and learn the true meaning of those three little words: \"I love you.\" [Written by MAL Rewrite]",
+    "title": "Sukitte Ii na yo.",
+    "title_english": "Say \"I Love You\".",
+    "title_japanese": "\u597d\u304d\u3063\u3066\u3044\u3044\u306a\u3088\u3002",
+    "title_synonyms": [
+        "Suki-tte Ii na yo.",
+        "Sukinayo"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/-RoSoU_h5SY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/14289/Sukitte_Ii_na_yo"
+}

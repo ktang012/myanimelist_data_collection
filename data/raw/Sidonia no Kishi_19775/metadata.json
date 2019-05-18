@@ -1,0 +1,155 @@
+{
+    "aired": {
+        "from": "2014-04-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 11, 2014 to Jun 27, 2014",
+        "to": "2014-06-27T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Sidonia no Kishi was nominated for the Animation of the Year Award in the Television category at the 2015 Tokyo Anime Award Festival.  The anime's opening song, \"Sidonia\" by Angela, won the 19th Animation Kobe Theme Song Award in 2014.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"show (\u638c -show-)\" by Eri Kitamura"
+    ],
+    "episodes": 12,
+    "favorites": 1327,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 42,
+            "name": "Seinen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+            "mal_id": 29,
+            "name": "Space",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/29/Space"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/53257.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 19775,
+    "members": 168646,
+    "opening_themes": [
+        "\"Sidonia (\u30b7\u30c9\u30cb\u30a2)\" by angela"
+    ],
+    "popularity": 581,
+    "premiered": "Spring 2014",
+    "producers": [
+        {
+            "mal_id": 92,
+            "name": "Starchild Records",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+        },
+        {
+            "mal_id": 143,
+            "name": "Mainichi Broadcasting System",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+            "mal_id": 159,
+            "name": "Kodansha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+            "mal_id": 460,
+            "name": "KlockWorx",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        }
+    ],
+    "rank": 975,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 13723,
+                "name": "Sidonia no Kishi",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/13723/Sidonia_no_Kishi"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 24893,
+                "name": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/24893/Sidonia_no_Kishi__Daikyuu_Wakusei_Seneki"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 28495,
+                "name": "Sidonia no Kishi Movie",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28495/Sidonia_no_Kishi_Movie"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:dff840fcd9ff99e0338c2e957db9481301e9550c",
+    "score": 7.77,
+    "scored_by": 82433,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1023,
+            "name": "Polygon Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ],
+    "synopsis": "After destroying Earth many years ago, the alien race Gauna has been pursuing the remnants of humanity\u2014which, having narrowly escaped, fled across the galaxy in a number of giant seed ships. In the year 3394, Nagate Tanikaze surfaces from his lifelong seclusion deep beneath the seed ship Sidonia in search of food on the upper levels, only to find himself dragged into events unfolding without his knowledge. When the Gauna begin their assault on Sidonia, it's up to Tanikaze\u2014with the help of his fellow soldiers and friends Shizuka Hoshijiro, Izana Shinatose, and Yuhata Midorikawa\u2014to defend humanity's last hope for survival, and defeat their alien foes. Sidonia no Kishi follows Tanikaze as he discovers the world that has been above him his entire life, and becomes the hero Sidonia needs. [Written by MAL Rewrite]",
+    "title": "Sidonia no Kishi",
+    "title_english": "Knights of Sidonia",
+    "title_japanese": "\u30b7\u30c9\u30cb\u30a2\u306e\u9a0e\u58eb",
+    "title_synonyms": [
+        "Sidonia no Kishi"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/jhshVVHxgIA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/19775/Sidonia_no_Kishi"
+}

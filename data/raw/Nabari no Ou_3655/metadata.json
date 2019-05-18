@@ -1,0 +1,135 @@
+{
+    "aired": {
+        "from": "2008-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Apr 7, 2008 to Sep 29, 2008",
+        "to": "2008-09-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"HIKARI\" by ELISA (eps 1-15)",
+        "\"Aru ga Mama\" \u300c\u3042\u308b\u304c\u307e\u307e\u300d\" by Anamu & Maki (eps 16-23)"
+    ],
+    "episodes": 26,
+    "favorites": 1355,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 3655,
+    "members": 131513,
+    "opening_themes": [
+        "\"Crawl\" by VELTPUNCH (eps 1-25)"
+    ],
+    "popularity": 771,
+    "premiered": "Spring 2008",
+    "producers": [
+        {
+            "mal_id": 58,
+            "name": "Square Enix",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+            "mal_id": 1679,
+            "name": "Kinyosha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1679/Kinyosha"
+        }
+    ],
+    "rank": 2170,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 1721,
+                "name": "Nabari no Ou",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/1721/Nabari_no_Ou"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:334db9ff0a0d0e0c6b9f7b44f8d82b2948c65979",
+    "score": 7.38,
+    "scored_by": 52236,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 7,
+            "name": "J.C.Staff",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ],
+    "synopsis": "Silent, apathetic, yet mischievous, 14-year-old Rokujou Miharu is the bearer of the hijutsu, \"Shinrabanshou,\" a powerful technique many ninja clans desire to possess to become the ruler of Nabari. Fellow classmate Kouichi and his English teacher Kumohira are both secretly Banten clan ninjas, pledging themselves to protect Miharu from his many attackers. Keeping apathetic, Miharu attempts to reject their invitation to join their ninja \"club.\" However, after numerous attacks, he finds no choice but to join their group as a means for his survival. Slowly, Miharu takes a step closer to becoming the ruler of Nabari. [Written by MAL Rewrite]",
+    "title": "Nabari no Ou",
+    "title_english": "Nabari no Ou",
+    "title_japanese": "\u96a0\u306e\u738b",
+    "title_synonyms": [
+        "Nabari no Oh",
+        "King of Nabari"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/QjbpevxJdM8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/3655/Nabari_no_Ou"
+}

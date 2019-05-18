@@ -1,0 +1,146 @@
+{
+    "aired": {
+        "from": "2013-10-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 29,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 6, 2013 to Dec 29, 2013",
+        "to": "2013-12-29T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Episode 1 was previewed at a screening in Tokyo on September 28, 2013. Regular broadcasting began on October 6, 2013.",
+    "broadcast": "Unknown",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Tsukiyomi (\u30c4\u30ad\u30e8\u30df)\" by phatmans after school"
+    ],
+    "episodes": 13,
+    "favorites": 375,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/52563.jpg",
+    "licensors": [],
+    "mal_id": 18497,
+    "members": 88788,
+    "opening_themes": [
+        "\"Sakura no Ato (all quartets lead to the ?) (\u685c\u306e\u3042\u3068\uff08all quartets lead to the?\uff09)\" by UNISON SQUARE GARDEN (eps 1-8, 10-13)",
+        "\"Kid, I like Quartet\" by UNISON SQUARE GARDEN (ep 9)"
+    ],
+    "popularity": 1107,
+    "premiered": "Fall 2013",
+    "producers": [],
+    "rank": 1522,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 2060,
+                "name": "Yozakura Quartet",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/2060/Yozakura_Quartet"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 4548,
+                "name": "Yozakura Quartet",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/4548/Yozakura_Quartet"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 20987,
+                "name": "Yozakura Quartet: Yoza-Quar!",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/20987/Yozakura_Quartet__Yoza-Quar"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 18499,
+                "name": "Yozakura Quartet: Tsuki ni Naku",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/18499/Yozakura_Quartet__Tsuki_ni_Naku"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 8457,
+                "name": "Yozakura Quartet: Hoshi no Umi",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/8457/Yozakura_Quartet__Hoshi_no_Umi"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:f505149edc7e2a41597c0faf3b143e893dfec929",
+    "score": 7.56,
+    "scored_by": 27885,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 103,
+            "name": "Tatsunoko Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ],
+    "synopsis": "In a town where humans and demons co-exist, it takes more than a normal police force to maintain the peace. Enter the Hiizumi Life Counseling Office, a fantastic foursome of unique teenagers, each gifted with an amazing super power!",
+    "title": "Yozakura Quartet: Hana no Uta",
+    "title_english": null,
+    "title_japanese": "\u591c\u685c\u56db\u91cd\u594f ~\u30cf\u30ca\u30ce\u30a6\u30bf~",
+    "title_synonyms": [
+        "Yozakura Quartet: Hana no Uta"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/me1ya1EFzsc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/18497/Yozakura_Quartet__Hana_no_Uta"
+}

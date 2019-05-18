@@ -1,0 +1,125 @@
+{
+    "aired": {
+        "from": "2014-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 4, 2014 to Sep 19, 2014",
+        "to": "2014-09-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "From June 6, 2014 to July 6, 2014, the first episodes of Rail Wars! were streamed on Niconico. The regular TV broadcast began July 4, 2014 (July 3rd, 25:46) on TBS.",
+    "broadcast": "Unknown",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"OVERDRIVER\" by ZAQ"
+    ],
+    "episodes": 12,
+    "favorites": 196,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 39,
+            "name": "Police",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/39/Police"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/65671.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 23309,
+    "members": 125652,
+    "opening_themes": [
+        "\"Mukai Kaze ni Utarenagara (\u5411\u304b\u3044\u98a8\u306b\u6253\u305f\u308c\u306a\u304c\u3089)\" by Minori Chihara"
+    ],
+    "popularity": 813,
+    "premiered": "Summer 2014",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 144,
+            "name": "Pony Canyon",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+            "mal_id": 145,
+            "name": "TBS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/145/TBS"
+        }
+    ],
+    "rank": 6166,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 64391,
+                "name": "Rail Wars! Nihon Kokuyuu Tetsudou Kouantai",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/64391/Rail_Wars_Nihon_Kokuyuu_Tetsudou_Kouantai"
+            }
+        ]
+    },
+    "request_cache_expiry": 8759,
+    "request_cached": true,
+    "request_hash": "request:anime:931a09af6a3f15587f20fa7abd8e41ae2f39b33e",
+    "score": 6.46,
+    "scored_by": 56396,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 911,
+            "name": "Passione",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/911/Passione"
+        }
+    ],
+    "synopsis": "Rail Wars! takes place in an alternate universe where the Japanese government remains in control of the nation's railway systems. Because of the stability afforded by the leadership of the government, the railway system is allowed to flourish. Naoto Takayama aspires to become an employee for Japan National Railways because of the comfortable life that it will enable him to live. In order to accomplish this he enters its training program, where students must demonstrate their knowledge of trains as well as their ability to be ready for any challenge that might arise. During this time period he will encounter other students such as the athletically gifted Aoi Sakura, the constantly hungry Sho Iwaizumi, and the human encyclopedia Haruka Komi. Together they will work towards surviving their trainee period, all the while taking on purse snatchers, bomb threats, and the looming specter of the extremist \u201cRJ\u201d group who wants to privatize the railway system.",
+    "title": "Rail Wars!",
+    "title_english": "Rail Wars!",
+    "title_japanese": "RAIL WARS! [\u30ec\u30fc\u30eb\u30a6\u30a9\u30fc\u30ba]",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/gNI1s3vYoQw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23309/Rail_Wars"
+}

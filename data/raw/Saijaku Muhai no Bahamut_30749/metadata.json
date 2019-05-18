@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2016-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 11, 2016 to Mar 28, 2016",
+        "to": "2016-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Saijaku Muhai no Bahamut is the fourth project created to commemorate the 10th anniversary of the establishment of the GA Bunko imprint, the production company responsible for launching the original source material.",
+    "broadcast": "Mondays at 22:30 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Lime Tree (\u30e9\u30a4\u30e0\u30c4\u30ea\u30fc)\" by nano.RIPE"
+    ],
+    "episodes": 12,
+    "favorites": 719,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 18,
+            "name": "Mecha",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/76664.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 30749,
+    "members": 190133,
+    "opening_themes": [
+        "\"Hiryuu no Kishi (\u98db\u7adc\u306e\u9a0e\u58eb)\" by TRUE"
+    ],
+    "popularity": 505,
+    "premiered": "Winter 2016",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 1109,
+            "name": "Orange",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1109/Orange"
+        }
+    ],
+    "rank": 4297,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 56217,
+                "name": "Saijaku Muhai no Bahamut",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/56217/Saijaku_Muhai_no_Bahamut"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:a3d86db198fce325ae735bd48b656f6062b1c98c",
+    "score": 6.85,
+    "scored_by": 90575,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 456,
+            "name": "Lerche",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/456/Lerche"
+        }
+    ],
+    "synopsis": "Lux, a former prince of an empire named Arcadia that was overthrown via a rebellion five years earlier, accidentally trespasses in a female dormitory's bathing area, sees the kingdom's new princess Lisesharte naked, incurring her wrath. Lisesharte then challenges Lux to a Drag-Ride duel. Drag-Rides are ancient armored mechanical weapons that have been excavated from ruins all around the world. Lux used to be called the strongest Drag-Knight, but now he's known as the \"undefeated weakest\" Drag-Knight because he will absolutely not attack in battle. After his duel with Lisesharte, Lux ends up attending the female-only academy that trains royals to be Drag-Knights. (Source: ANN)",
+    "title": "Saijaku Muhai no Bahamut",
+    "title_english": "Undefeated Bahamut Chronicle",
+    "title_japanese": "\u6700\u5f31\u7121\u6557\u306e\u795e\u88c5\u6a5f\u7adc\u300a\u30d0\u30cf\u30e0\u30fc\u30c8\u300b",
+    "title_synonyms": [
+        "Saijaku Muhai no Bahamut"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/LYTSjZL0rl4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30749/Saijaku_Muhai_no_Bahamut"
+}

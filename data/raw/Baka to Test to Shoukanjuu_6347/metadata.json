@@ -1,0 +1,168 @@
+{
+    "aired": {
+        "from": "2010-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2010
+            }
+        },
+        "string": "Jan 7, 2010 to Apr 1, 2010",
+        "to": "2010-04-01T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Thursdays at 02:20 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"Baka Go Home\" by milktub (eps 1-6, 10-13)",
+        "\"Hare Tokidoki Egao\" by Hitomi Harada, Kaori Mizuhashi, Emiri Katou, and Tomomi Isomura (eps 7-9)"
+    ],
+    "episodes": 13,
+    "favorites": 5283,
+    "genres": [
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/50389.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 6347,
+    "members": 428866,
+    "opening_themes": [
+        "\"Perfect-area complete!\" by Natsuko Asou"
+    ],
+    "popularity": 147,
+    "premiered": "Winter 2010",
+    "producers": [
+        {
+            "mal_id": 104,
+            "name": "Lantis",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 619,
+            "name": "Cospa",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/619/Cospa"
+        },
+        {
+            "mal_id": 1015,
+            "name": "T.O Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1015/TO_Entertainment"
+        }
+    ],
+    "rank": 1047,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 12295,
+                "name": "Baka to Test to Shoukanjuu",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/12295/Baka_to_Test_to_Shoukanjuu"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 9471,
+                "name": "Baka to Test to Shoukanjuu: Matsuri",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/9471/Baka_to_Test_to_Shoukanjuu__Matsuri"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 7870,
+                "name": "Baka to Test to Shoukanjuu Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7870/Baka_to_Test_to_Shoukanjuu_Specials"
+            },
+            {
+                "mal_id": 36250,
+                "name": "Baka to Test to Shoukanjuu Mini Anime",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36250/Baka_to_Test_to_Shoukanjuu_Mini_Anime"
+            }
+        ],
+        "Spin-off": [
+            {
+                "mal_id": 7805,
+                "name": "Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/7805/Baka_to_Test_to_Shoukanjuu__Mondai_-_Christmas_ni_Tsuite_Kotae_Nasai"
+            }
+        ]
+    },
+    "request_cache_expiry": 11887,
+    "request_cached": true,
+    "request_hash": "request:anime:8605fd3bba3fa6821c9b5581b2c6ceb9734b2da9",
+    "score": 7.73,
+    "scored_by": 237809,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 300,
+            "name": "Silver Link.",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/300/Silver_Link"
+        }
+    ],
+    "synopsis": "The story centers around Akihisa Yoshii, the \"baka\" of the title. His academy rigidly divides up the student body into classes based on the results of tests. The prodigies are in the A class with reclining seats complete with air conditioning, but Akihisa is in F class, the lowest rung of the school ladder which is furnished only with low, decrepit tables and worn-out straw tatami mats. A girl named Mizuki Himeji is actually one of the smartest girls in Akihisa's sophomore year, but she had a fever on test day and was pigeonholed into the F class. Besides Mizuki (who Akihisa secretly adores), the F class also has Yuuji Sakamoto, the class president who has been Akihisa's friend and partner-in-crime since the freshman year. The school happens to have developed experiments to summon fantasy creatures, and Akihisa decides to rally F class to take on the higher-tiered classes and seize their perks. The F class uses the summoned creatures in an all-out battle for school supremacy.",
+    "title": "Baka to Test to Shoukanjuu",
+    "title_english": "Baka & Test - Summon the Beasts",
+    "title_japanese": "\u30d0\u30ab\u3068\u30c6\u30b9\u30c8\u3068\u53ec\u559a\u7363",
+    "title_synonyms": [
+        "The Idiot",
+        "the Tests",
+        "and the Summoned Creatures",
+        "Baka to Test to Shokanju",
+        "BakaTest"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/OiqsI1rNnGo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/6347/Baka_to_Test_to_Shoukanjuu"
+}

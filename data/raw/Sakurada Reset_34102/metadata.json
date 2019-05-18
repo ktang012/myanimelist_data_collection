@@ -1,0 +1,189 @@
+{
+    "aired": {
+        "from": "2017-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 13,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Apr 5, 2017 to Sep 13, 2017",
+        "to": "2017-09-13T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Sakurada Reset is a complete adaptation of Yutaka Kouno's light novel series of the same title, though the first half of the series is told in a different order than that of the novels.",
+    "broadcast": "Wednesdays at 23:30 (JST)",
+    "duration": "25 min per ep",
+    "ending_themes": [
+        "\"Tonari Au (\u30c8\u30ca\u30ea\u30a2\u30a6)\" by THE ORAL CIGARETTES (eps 3-12)",
+        "\"Colors of Happiness\" by Yui Makino (eps 13-23)",
+        "\"Dakara Boku wa Boku wo Tebanasu (\u3060\u304b\u3089\u50d5\u306f\u50d5\u3092\u624b\u653e\u3059)\" by WEAVER\" (ep 24)"
+    ],
+    "episodes": 24,
+    "favorites": 396,
+    "genres": [
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        },
+        {
+            "mal_id": 23,
+            "name": "School",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/84470.jpg",
+    "licensors": [
+        {
+            "mal_id": 376,
+            "name": "Sentai Filmworks",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+        }
+    ],
+    "mal_id": 34102,
+    "members": 94517,
+    "opening_themes": [
+        "\"Reset ~Acoustic Version~\" by Yui Makino (eps 1-2)",
+        "\"Reset\" by Yui Makino (eps 3-12)",
+        "\"Dakara Boku wa Boku wo Tebanasu (\u3060\u304b\u3089\u50d5\u306f\u50d5\u3092\u624b\u653e\u3059)\" by WEAVER (eps 13-23)"
+    ],
+    "popularity": 1051,
+    "premiered": "Spring 2017",
+    "producers": [
+        {
+            "mal_id": 108,
+            "name": "Media Factory",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+            "mal_id": 464,
+            "name": "flying DOG",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 777,
+            "name": "Showgate",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/777/Showgate"
+        },
+        {
+            "mal_id": 1223,
+            "name": "Teichiku Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1223/Teichiku_Entertainment"
+        },
+        {
+            "mal_id": 1333,
+            "name": "Hakuhodo DY Music & Pictures",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+            "mal_id": 1412,
+            "name": "Kansai Telecasting",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1412/Kansai_Telecasting"
+        },
+        {
+            "mal_id": 1416,
+            "name": "BS11",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+            "mal_id": 1516,
+            "name": "Sony PCL",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+        },
+        {
+            "mal_id": 1631,
+            "name": "Radio Osaka",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1631/Radio_Osaka"
+        },
+        {
+            "mal_id": 1635,
+            "name": "A-Sketch",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1635/A-Sketch"
+        },
+        {
+            "mal_id": 1688,
+            "name": "Parco",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1688/Parco"
+        },
+        {
+            "mal_id": 1689,
+            "name": "e-notion",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1689/e-notion"
+        }
+    ],
+    "rank": 1998,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 61379,
+                "name": "Sakurada Reset",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/61379/Sakurada_Reset"
+            }
+        ]
+    },
+    "request_cache_expiry": 11659,
+    "request_cached": true,
+    "request_hash": "request:anime:9fd0515469b9e3cac832d829f31e469fee76263f",
+    "score": 7.42,
+    "scored_by": 22036,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 287,
+            "name": "David Production",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ],
+    "synopsis": "Kei Asai lives in the oceanside city of Sakurada\u2014a town where the inhabitants are born with strange abilities. On the school rooftop one day, he meets Misora Haruki, an apathetic girl with the power to reset anything around her up to three days prior. While no one knows when she has reset, not even Haruki, Kei can retain everything before the reset thanks to his own ability: photographic memory. After they successfully help someone by combining their powers, they join the Service Club to aid others in their town. However, their club becomes involved with and begins completing missions for the mysterious Administration Bureau\u2014an organization that focuses on managing the abilities in Sakurada and manipulating the town's events for their own ends. They may find out that there are more things at work in Sakurada than the machinations of the uncanny organization. [Written by MAL Rewrite]",
+    "title": "Sakurada Reset",
+    "title_english": "Sagrada Reset",
+    "title_japanese": "\u30b5\u30af\u30e9\u30c0\u30ea\u30bb\u30c3\u30c8",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/gSVn4h0Ia58?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/34102/Sakurada_Reset"
+}

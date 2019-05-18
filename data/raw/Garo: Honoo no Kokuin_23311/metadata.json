@@ -1,0 +1,145 @@
+{
+    "aired": {
+        "from": "2014-10-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 4, 2014 to Mar 28, 2015",
+        "to": "2015-03-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Garo: Honoo no Kokuin is inspired by Garo Tokusatsu and is one of the few Tokusatsu franchises adapted into an animated work.",
+    "broadcast": "Saturdays at 01:23 (JST)",
+    "duration": "24 min per ep",
+    "ending_themes": [
+        "\"CHIASTOLITE\" by Sayaka Sasaki (eps 1-12)",
+        "\"FOCUS\" by Showtaro Morikubo (eps 13-24)"
+    ],
+    "episodes": 24,
+    "favorites": 370,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 16,
+            "name": "Magic",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/16/Magic"
+        },
+        {
+            "mal_id": 37,
+            "name": "Supernatural",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/71207.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 23311,
+    "members": 99433,
+    "opening_themes": [
+        "\"Honoo no Kokuin: DIVINE FLAME (\u708e\u306e\u523b\u5370-DIVINE FLAME-)\" by JAM Project (eps 1-12)",
+        "\"B.B.\" by JAM Project (eps 13-24)"
+    ],
+    "popularity": 1010,
+    "premiered": "Fall 2014",
+    "producers": [
+        {
+            "mal_id": 577,
+            "name": "Tohokushinsha Film Corporation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        }
+    ],
+    "rank": 1757,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Alternative setting": [
+            {
+                "mal_id": 28537,
+                "name": "Garo: Guren no Tsuki",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/28537/Garo__Guren_no_Tsuki"
+            },
+            {
+                "mal_id": 36144,
+                "name": "Garo: Vanishing Line",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/36144/Garo__Vanishing_Line"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 34613,
+                "name": "Garo: Honoo no Kokuin - Yurugaro",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/34613/Garo__Honoo_no_Kokuin_-_Yurugaro"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 32415,
+                "name": "Garo: Honoo no Kokuin - Home",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32415/Garo__Honoo_no_Kokuin_-_Home"
+            }
+        ]
+    },
+    "request_cache_expiry": 34698,
+    "request_cached": true,
+    "request_hash": "request:anime:7f97a197b29857d4ddb9ec1b0ddbd4208e63e4d9",
+    "score": 7.48,
+    "scored_by": 34553,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 569,
+            "name": "MAPPA",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ],
+    "synopsis": "In the name of the king, the Valiante Kingdom launched hunts to exterminate users of witchcraft. Seventeen years later, their pursuit is still growing in both size and brutality. Unbeknownst to the citizens, the targets of these witch hunts are the secret protectors of humanity. Known as the Makai Knights and Alchemists, they have a strong will to protect people from Horrors, demons who possess souls plagued by sadness and pain. One such Makai Knight is 17-year-old Leon Luis who inherits the legendary armor of the Golden Knight Garo from his mother. Though he possesses great power, he struggles to overcome the hatred he bears from his mother's death at the hands of the kingdom. His father German, known as Zoro the Shadow Cutting Knight, is still training Leon when he is called to investigate the upsurge of Horrors in the kingdom's capital. Although German knows Leon's will is wavering, he decides to bring Leon along to continue his training. As German and Leon head to the capital, the king's amiable son Alfonso San Valiante struggles to find a solution to the growing Horror threat. But before he can do so, he is double-crossed and banished from his own kingdom. To return home, Alfonso sets out to find the help and strength he needs to reclaim the throne. During his search, he comes across Leon, whose interactions with the prince will forever change both of their fates. [Written by MAL Rewrite]",
+    "title": "Garo: Honoo no Kokuin",
+    "title_english": "GARO: THE ANIMATION",
+    "title_japanese": "\u7259\u72fc\u3008GARO\u3009-\u708e\u306e\u523b\u5370-",
+    "title_synonyms": [
+        "Garo Project"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/TOXWJybZnco?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/23311/Garo__Honoo_no_Kokuin"
+}

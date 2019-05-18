@@ -1,0 +1,165 @@
+{
+    "aired": {
+        "from": "2015-10-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": 12,
+                "month": 12,
+                "year": 2015
+            }
+        },
+        "string": "Oct 10, 2015 to Dec 12, 2015",
+        "to": "2015-12-12T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Shinmai Maou no Testament Burst adapts volumes 4 to 7 of Tetsuto Uesu's light novel series of the same title.",
+    "broadcast": "Saturdays at 01:40 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Temperature\" by Dual Flare"
+    ],
+    "episodes": 10,
+    "favorites": 412,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 9,
+            "name": "Ecchi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 35,
+            "name": "Harem",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+            "mal_id": 6,
+            "name": "Demons",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/6/Demons"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1151/94750.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        },
+        {
+            "mal_id": 1468,
+            "name": "Crunchyroll",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        }
+    ],
+    "mal_id": 30363,
+    "members": 191312,
+    "opening_themes": [
+        "\"Over The Testament ver.1\" by Metamorphose featuring Yoko Ishida (eps 1-3)",
+        "\"Over The Testament ver.2\" by Metamorphose featuring Kaori Oda (eps 4-5)",
+        "\"Over The Testament Ver.3\" by Metamorphose featuring Aki Misato (eps 6-7)",
+        "\"Over The Testament Ver.4\" by Metamorphose featuring Megumi Ogata (eps 8-9)",
+        "\"Over The Testament Ver.5\" by Metamorphose (ep 10)"
+    ],
+    "popularity": 503,
+    "premiered": "Fall 2015",
+    "producers": [
+        {
+            "mal_id": 113,
+            "name": "Kadokawa Shoten",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+            "mal_id": 323,
+            "name": "Nippon Columbia",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        }
+    ],
+    "rank": 3318,
+    "rating": "R+ - Mild Nudity",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 49305,
+                "name": "Shinmai Maou no Testament",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/49305/Shinmai_Maou_no_Testament"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 29027,
+                "name": "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/29027/Shinmai_Maou_no_Testament__Toujou_Basara_no_Hard_Sweet_na_Nichijou"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 30365,
+                "name": "Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30365/Shinmai_Maou_no_Testament_Burst__Toujou_Basara_no_Shigoku_Heiwa_na_Nichijou"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 32409,
+                "name": "Shinmai Maou no Testament Burst Specials",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/32409/Shinmai_Maou_no_Testament_Burst_Specials"
+            }
+        ]
+    },
+    "request_cache_expiry": 7656,
+    "request_cached": true,
+    "request_hash": "request:anime:b127e27a17c3e2fcc70bba7de8832efae793b923",
+    "score": 7.11,
+    "scored_by": 99438,
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 1053,
+            "name": "Production IMS",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+        }
+    ],
+    "synopsis": "Basara Toujou has a hard life. He is the older step-brother to two demonic sisters, Mio and Maria Naruse, whom he protects from entitled demons looking to claim Mio's power for themselves. On top of that, rising political tension within the demon realm only makes his job more difficult. When a messenger arrives with summons for Mio to the demon realm, she and her friends go in spite of the danger. Now on the enemy's turf, Basara will have to grow stronger through erotic pleasure in order to do the impossible and protect everyone. [Written by MAL Rewrite]",
+    "title": "Shinmai Maou no Testament Burst",
+    "title_english": "The Testament of Sister New Devil: Burst",
+    "title_japanese": "\u65b0\u59b9\u9b54\u738b\u306e\u5951\u7d04\u8005 BURST",
+    "title_synonyms": [],
+    "trailer_url": "https://www.youtube.com/embed/4f5cBYUZmT0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/30363/Shinmai_Maou_no_Testament_Burst"
+}

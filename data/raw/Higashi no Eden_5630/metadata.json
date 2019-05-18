@@ -1,0 +1,164 @@
+{
+    "aired": {
+        "from": "2009-04-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Apr 10, 2009 to Jun 19, 2009",
+        "to": "2009-06-19T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": "Higashi no Eden won the Animation Kobe Award in the Television category during the Animation Kobe festival in 2009 as well as the best television series of the year award at the ninth annual Tokyo International Anime Fair.",
+    "broadcast": "Fridays at 00:45 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"futuristic imagination\" by school food punishment"
+    ],
+    "episodes": 11,
+    "favorites": 3871,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 24,
+            "name": "Sci-Fi",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+            "mal_id": 7,
+            "name": "Mystery",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+            "mal_id": 8,
+            "name": "Drama",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+            "mal_id": 22,
+            "name": "Romance",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+            "mal_id": 41,
+            "name": "Thriller",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/41/Thriller"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 5630,
+    "members": 379004,
+    "opening_themes": [
+        "\"FALLING DOWN\" by Oasis",
+        "\"Michael Ka Belial\" by Saori Hayami (FUNiamation OP)"
+    ],
+    "popularity": 181,
+    "premiered": "Spring 2009",
+    "producers": [
+        {
+            "mal_id": 169,
+            "name": "Fuji TV",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        },
+        {
+            "mal_id": 517,
+            "name": "Asmik Ace",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+            "mal_id": 757,
+            "name": "Sony Music Entertainment",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        }
+    ],
+    "rank": 675,
+    "rating": "R - 17+ (violence & profanity)",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 67765,
+                "name": "Shousetsu Higashi no Eden",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/67765/Shousetsu_Higashi_no_Eden"
+            }
+        ],
+        "Other": [
+            {
+                "mal_id": 6399,
+                "name": "Higashi no Eden: Falling Down",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6399/Higashi_no_Eden__Falling_Down"
+            }
+        ],
+        "Sequel": [
+            {
+                "mal_id": 6372,
+                "name": "Higashi no Eden Movie I: The King of Eden",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6372/Higashi_no_Eden_Movie_I__The_King_of_Eden"
+            }
+        ],
+        "Summary": [
+            {
+                "mal_id": 6927,
+                "name": "Higashi no Eden: Air Communication",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/6927/Higashi_no_Eden__Air_Communication"
+            }
+        ]
+    },
+    "request_cache_expiry": 43200,
+    "request_cached": false,
+    "request_hash": "request:anime:078a6dcee30a454e9c3797991abbb4e1cfc9288b",
+    "score": 7.92,
+    "scored_by": 186289,
+    "source": "Original",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 10,
+            "name": "Production I.G",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ],
+    "synopsis": "On November 22, 2010, Japan was hit by missile strikes, a terrorist act that fortunately did not harm anyone, becoming known as \"Careless Monday.\" Quickly forgotten, society goes on about their lives as normal. During her graduation trip to America three months later, friendly college student Saki Morimi's life is forever changed when she finds herself saved from unexpected trouble by Akira Takizawa. Takizawa is cheerful, but odd in many ways\u2014he is stark naked and suffers from amnesia, believing himself to be a terrorist. In addition, he possesses a strange cell phone loaded with 8.2 billion yen in digital cash. Despite Takizawa's suspicious traits, Saki quickly befriends the enigmatic young man. However, unbeknownst to her, this is the beginning of a thrilling death game involving money, cell phones, and the salvation of the world. Higashi no Eden chronicles Saki's struggle to unravel the mysteries behind her savior, while Takizawa himself battles other individuals armed with similar cell phones and returning memories which reveal his possible connection to the event from months ago. [Written by MAL Rewrite]",
+    "title": "Higashi no Eden",
+    "title_english": "Eden of The East",
+    "title_japanese": "\u6771\u306e\u30a8\u30c7\u30f3",
+    "title_synonyms": [
+        "Higashi no Eden"
+    ],
+    "trailer_url": "https://www.youtube.com/embed/h3dgXYQSeqI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/5630/Higashi_no_Eden"
+}

@@ -1,0 +1,158 @@
+{
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 6, 2014 to Jun 28, 2015",
+        "to": "2015-06-28T00:00:00+00:00"
+    },
+    "airing": false,
+    "background": null,
+    "broadcast": "Sundays at 09:00 (JST)",
+    "duration": "23 min per ep",
+    "ending_themes": [
+        "\"Haikei, Tsuratsusutora (\u62dd\u5553\u3001\u30c4\u30e9\u30c4\u30b9\u30c8\u30e9)\" by Good Morning America (\u30b0\u30c3\u30c9\u30e2\u30fc\u30cb\u30f3\u30b0\u30a2\u30e1\u30ea\u30ab) (eps 1-13)",
+        "\"Junjou (\u7d14\u60c5)\" by Leo Ieiri (\u5bb6\u5165\u30ec\u30aa) (eps 14-25)",
+        "\"Oh Yeah!!!!!!!\" by Czecho No Republic (eps 26-38)",
+        "\"GALAXY\" by Kyuuso Nekokami (eps 39-48)",
+        "\"Don't Let Me Down\" by Gacharic Spin (eps 49-61)"
+    ],
+    "episodes": 61,
+    "favorites": 504,
+    "genres": [
+        {
+            "mal_id": 1,
+            "name": "Action",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+            "mal_id": 2,
+            "name": "Adventure",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+            "mal_id": 4,
+            "name": "Comedy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+            "mal_id": 10,
+            "name": "Fantasy",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+            "mal_id": 17,
+            "name": "Martial Arts",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+            "mal_id": 27,
+            "name": "Shounen",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        },
+        {
+            "mal_id": 31,
+            "name": "Super Power",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/59275.jpg",
+    "licensors": [
+        {
+            "mal_id": 102,
+            "name": "Funimation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+    ],
+    "mal_id": 22777,
+    "members": 85699,
+    "opening_themes": [
+        "\u201cKuu-Zen-Zetsu-Go (\u7a7a\u2022\u524d\u2022\u7d76\u2022\u5f8c)\u201d by Takayoshi Tanimoto (Dragon Soul)"
+    ],
+    "popularity": 1132,
+    "premiered": "Spring 2014",
+    "producers": [],
+    "rank": 744,
+    "rating": "PG-13 - Teens 13 or older",
+    "related": {
+        "Adaptation": [
+            {
+                "mal_id": 42,
+                "name": "Dragon Ball",
+                "type": "manga",
+                "url": "https://myanimelist.net/manga/42/Dragon_Ball"
+            }
+        ],
+        "Alternative version": [
+            {
+                "mal_id": 813,
+                "name": "Dragon Ball Z",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+            }
+        ],
+        "Prequel": [
+            {
+                "mal_id": 11359,
+                "name": "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/11359/Dragon_Ball_Kai__Mirai_ni_Heiwa_wo_Goku_no_Tamashii_yo_Eien_ni"
+            }
+        ],
+        "Side story": [
+            {
+                "mal_id": 30694,
+                "name": "Dragon Ball Super",
+                "type": "anime",
+                "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super"
+            }
+        ]
+    },
+    "request_cache_expiry": 34555,
+    "request_cached": true,
+    "request_hash": "request:anime:80ac2457b62dc4bbbf3a508a8f5ac2dc90dac748",
+    "score": 7.88,
+    "scored_by": 44041,
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        {
+            "mal_id": 18,
+            "name": "Toei Animation",
+            "type": "anime",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ],
+    "synopsis": "Remastered version of the Majin Buu saga that adheres more to the manga's story.",
+    "title": "Dragon Ball Kai (2014)",
+    "title_english": "Dragon Ball Z Kai: The Final Chapters",
+    "title_japanese": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u6539",
+    "title_synonyms": [
+        "Dragonball Kai",
+        "DBK",
+        "DB Kai",
+        "DBZ Kai",
+        ""
+    ],
+    "trailer_url": "https://www.youtube.com/embed/JXVcOKppJZE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "type": "TV",
+    "url": "https://myanimelist.net/anime/22777/Dragon_Ball_Kai_2014"
+}
