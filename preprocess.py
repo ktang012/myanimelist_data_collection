@@ -2,10 +2,23 @@ import os
 import json
 import spacy
 import spacy
+import pandas as pd
 
 import utils_data as ud
 
-def tokenize_text(text, nlp, tokens_to_remove=TOKENS_TO_REMOVE, STOP_WORDS=STOP_WORDS):
+TOKENS_TO_REMOVE = set(["SPACE", "SYMBOL", "NUM", "X"])
+
+def create_stop_words(animes):
+    wc = ud.get_normalized_word_count(animes)
+    
+    stop_words = set([word[0] for word in wc.most_common(100)])
+    diff_stop_words = set(["anime", "season", "good", "not", "episode", "very", "cute",
+                           "character", "characters", "main", "story", "plot", "watch", 
+                           "series", "love", "art", "pretty", "up", "event"])
+    stop_words.difference_update(diff_stop_words)
+    return stop_words
+    
+def tokenize_text(text, nlp, STOP_WORDS, tokens_to_remove=TOKENS_TO_REMOVE):
     text = text.strip().replace("\\n", "")
     text = text.lower()
     
@@ -55,3 +68,113 @@ def tokenize_text(text, nlp, tokens_to_remove=TOKENS_TO_REMOVE, STOP_WORDS=STOP_
     
     Token.remove_extension("get_excluded_index")
     
+    return doc
+
+# splits airing date into two fields and drops time info
+def reformat_aired(row):
+    aired_field = row["aired"]
+    aired = aired_field["string"].split("to")
+    if len(aired) == 1:
+        aired.append(None)
+    elif len(aired) == 0:
+        aired = [None, None]
+    return pd.Series({'air_start': aired[0], 'air_end': aired[1]})
+
+# bins score to nearest 0.5
+def bin_score(row):
+    return pd.Series({"binned_score": round(row["score"] * 2) / 2.0})
+
+# splits studios into two fields, one with studio id and another with studio name
+# each field is a list
+def reformat_studios(row):
+    studios_field = row["studios"]
+    studio_names, studio_ids = [], []
+    for studio in studios_field:
+        studio_names.append(studio['name'])
+        studio_ids.append(studio['mal_id'])
+    return pd.Series({'studio_names': studio_names, 'studio_ids': studio_ids})
+
+# splits genres into two fields, one with genre id and another with genre name
+# each field is a tuple
+def reformat_genre(row):
+    genres_field = row["genres"]
+    genre_ids, genre_names = zip(*[(x['mal_id'], x['name']) for x in genres_field])
+    return pd.Series({"genre_names": genre_names, "genre_ids": genre_ids})   
+
+# splits related into two fields, one with related anime ids and another with their names
+# each field is a list and is only included if it is a sequal or prequel to the anime
+def reformat_related(row):
+    MEDIA_TYPES = set(["Prequel", "Sequel"])
+    related_field = row["related"]
+    related_names, related_ids = [], []
+    for media_type, media_info in related_field.items():
+        if media_type in MEDIA_TYPES:
+            for anime in media_info:
+                related_ids.append(anime["mal_id"])
+                related_names.append(anime["name"])
+    return pd.Series({"related_names": related_names, "related_ids": related_ids})
+
+def preprocess_df(animes_df):
+    animes_df = animes_df.reset_index().drop(columns=['index', 'title_synonyms', 
+                                                      'title_japanese', 'url', 'scores',
+                                                      'opening_themes', 'ending_themes',
+                                                      'producers', 'rating', 'status',
+                                                      'duration', 'episodes', 'premiered'])
+    
+    animes_df = animes_df.join(animes_df.apply(reformat_aired, axis=1, 
+                                               result_type="expand"), how="right")
+    animes_df = animes_df.drop("aired", axis=1)
+    animes_df["air_start"] = pd.to_datetime(animes_df["air_start"],
+                                            infer_datetime_format=True,
+                                            errors="coerce")
+    animes_df["air_end"] = pd.to_datetime(animes_df["air_end"], 
+                                          infer_datetime_format=True,
+                                          errors="coerce")
+    
+    animes_df = animes_df.join(animes_df.apply(bin_score, axis=1, 
+                                               result_type="expand"), how="right")
+    animes_df = animes_df.drop("score", axis=1)
+    
+    animes_df = animes_df.join(animes_df.apply(reformat_genre, axis=1, 
+                                               result_type="expand"), how="right")
+    animes_df = animes_df.drop("genres", axis=1)
+    
+    animes_df = animes_df.join(animes_df.apply(reformat_studios, axis=1, 
+                                               result_type="expand"), how="right")
+    animes_df = animes_df.drop("studios", axis=1)                                              
+                                                      
+    animes_df = animes_df.join(animes_df.apply(reformat_related, axis=1, 
+                                               result_type="expand"), how="right")
+    animes_df = animes_df.drop("related", axis=1)                                                  
+                                                      
+    return animes_df                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+

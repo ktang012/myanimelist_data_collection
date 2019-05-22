@@ -87,3 +87,53 @@ def plot_normalized_word_counts(word_counts, most_common=50):
         ax.annotate(word, xy=(indexes[i], counts[i]), xytext=xytext,
                     arrowprops=dict(facecolor="black", arrowstyle='-'),
                     fontsize='18')
+
+def count_genres(animes):
+    genres = Counter()
+    genre_ids = Counter()
+    for mal_id, anime in animes.items():
+        for genre in anime["genres"]:
+            if genre["name"] not in genres:
+                genres[genre["name"]] = 1
+                genre_ids[genre["mal_id"]] = 1
+            else:
+                genres[genre["name"]] += 1
+                genre_ids[genre["mal_id"]] += 1
+                
+    return genres, genre_ids
+    
+def count_studios(animes):
+    studios = Counter()
+    studios["Other"] = 0
+    for mal_id, anime in animes.items():
+        for studio in anime["studios"]:
+            if studio["name"] not in studios and studio["name"]:
+                studios[studio["name"]] = 1
+            else:
+                studios[studio["name"]] += 1
+    return studios
+    
+def count_ratings(animes):
+    ratings = Counter()
+    for mal_id, anime in animes.items():
+        score = round(anime["score"] * 2) / 2.0
+        
+        if score not in ratings:
+            ratings[score] = 1
+        else:
+            ratings[score] += 1
+    return ratings
+    
+def count_field(animes, field_name):
+    field = Counter()
+    for mal_id, anime in animes.items():
+        if field_name not in anime:
+            print("Could not find key", field_name, "in data")
+            return
+        field_val = anime[field_name]
+        if field_val not in field:
+            field[field_val] = 1
+        else:
+            field[field_val] += 1
+    return field
+                
