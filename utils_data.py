@@ -1,6 +1,8 @@
 import os
 import json
 import math
+import urllib
+import time
 
 from collections import Counter
 import matplotlib.pyplot as plt
@@ -42,6 +44,12 @@ def load_animes_to_memory(path):
         data = json.load(f)
     return data
 
+def retrieve_image(image_url, dest):
+    time.sleep(3)
+    urllib.request.urlretrieve(image_url, dest)
+
+
+### ----- counting and visualizing -----
 def total_num_of_reviews(animes):
     count = 0
     for id, anime in animes.items():
@@ -88,23 +96,30 @@ def plot_normalized_word_counts(word_counts, most_common=50):
                     arrowprops=dict(facecolor="black", arrowstyle='-'),
                     fontsize='18')
 
-def count_genres(animes):
+def count_genres(animes, other=None):
     genres = Counter()
     genre_ids = Counter()
+    if other:
+        genres["Other"] = 0
+        genre_ids["Other"] = 0
+    
+    
     for mal_id, anime in animes.items():
         for genre in anime["genres"]:
-            if genre["name"] not in genres:
+            if genre["name"] not in genres and genre["name"] not in other:
                 genres[genre["name"]] = 1
                 genre_ids[genre["mal_id"]] = 1
-            else:
+            elif genre["name"] not in other:
                 genres[genre["name"]] += 1
                 genre_ids[genre["mal_id"]] += 1
+            else:
+                genres["Other"] += 1
+                genre_ids["Other"] += 1
                 
     return genres, genre_ids
     
 def count_studios(animes):
     studios = Counter()
-    studios["Other"] = 0
     for mal_id, anime in animes.items():
         for studio in anime["studios"]:
             if studio["name"] not in studios and studio["name"]:

@@ -1,12 +1,15 @@
 import os
 import json
 import spacy
-import spacy
 import pandas as pd
 
 import utils_data as ud
 
 TOKENS_TO_REMOVE = set(["SPACE", "SYMBOL", "NUM", "X"])
+GENRES = set(['Action', 'Adventure', 'Comedy', 'Drama', 'Ecchi',
+              'Fantasy','Harem', 'Josei', 'Mystery', 'Romance',
+              'School', 'Sci-Fi', 'Seinen','Shoujo', 'Shounen',
+              'Slice of Life', 'Supernatural'])
 
 def create_stop_words(animes):
     wc = ud.get_normalized_word_count(animes)
@@ -114,7 +117,33 @@ def reformat_related(row):
                 related_names.append(anime["name"])
     return pd.Series({"related_names": related_names, "related_ids": related_ids})
 
-def preprocess_df(animes_df):
+# downloads cover image of anime
+def retrieve_image(row):
+    dest = os.path.join("data", "cover_image", str(row["mal_id"]) + ".jpg")
+    ud.retrieve_image(row["image_url"], dest)
+
+# turns synopsis into word vector (summed up) according to tokenize_text()
+def create_synopsis_word_vectors(row, nlp, STOP_WORDS):
+    word_vectors = tokenize_text(row["synopsis"], nlp, STOP_WORDS)
+    return pd.Series({
+        "synopsis_vector": word_vectors.vector
+    })
+
+# turn genres into dummy variables
+def create_dummy_genres(row, genres):
+    genres = set(genres)
+    is_genres = row["genre_names"]
+    dummy = {}
+    for genre in genres:
+        if genre in is_genres:
+            dummy["is_" + genre] = 1
+        else:
+            dummy["is_" + genre] = 0
+
+    return pd.Series(dummy)
+
+# the dataframe from reading the json file
+def preprocess_df(animes_df, nlp=None, stop_words=None, genres=GENRES):
     animes_df = animes_df.reset_index().drop(columns=['index', 'title_synonyms', 
                                                       'title_japanese', 'url', 'scores',
                                                       'opening_themes', 'ending_themes',
@@ -141,16 +170,30 @@ def preprocess_df(animes_df):
     
     animes_df = animes_df.join(animes_df.apply(reformat_studios, axis=1, 
                                                result_type="expand"), how="right")
-    animes_df = animes_df.drop("studios", axis=1)                                              
+    animes_df = animes_df.drop("studios", axis=1)    
                                                       
     animes_df = animes_df.join(animes_df.apply(reformat_related, axis=1, 
                                                result_type="expand"), how="right")
-    animes_df = animes_df.drop("related", axis=1)                                                  
+    animes_df = animes_df.drop("related", axis=1)
+    
+    if nlp and stop_words:
+        animes_df = animes_df.join(animes_df.apply(create_synopsis_word_vectors, 
+                                   args=(nlp, stop_words), axis=1, result_type="expand"), 
+                                   how="right")
+        animes_df = animes_df.drop("synopsis", axis=1)
+    else:
+        print("Not vectorizing synopsis")
+        
+    if genres:
+        animes_df = animes_df.join(animes_df.apply(create_dummy_genres, args=[genres],
+                                                   axis=1, result_type="expand"),
+                                   how="right")
+        animes_df.drop(labels=["genre_names", "genre_ids"], axis=1)
+    else:
+        print("Not creating genre dummy variables")
                                                       
     return animes_df                                      
-                                                      
-                                                      
-                                                      
+                                                                                                                                                           
                                                       
                                                       
                                                       
