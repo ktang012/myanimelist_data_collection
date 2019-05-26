@@ -81,42 +81,41 @@ def plot_normalized_word_counts(word_counts, most_common=50):
                     fontsize='18')
     plt.show()
 
-# input is a dict with studio_name = [popularity]
-def plot_studios_by_popularity(studios_by_popularity, figsize=(18,72), ptsize=100, n_in_row=15):
-    num_studios = len(studios_by_popularity.keys())
-    nrows = math.ceil(num_studios / n_in_row)
+# input is a dict with studio_name: [popularity]
+def scatterplot_x_by_y(dict_list, xlabel, ylabel, figsize=(18,36), ptsize=100, n_in_row=15):
+    num_items = len(dict_list.keys())
+    nrows = math.ceil(num_items / n_in_row)
     fig, ax = plt.subplots(nrows=nrows, ncols=1, figsize=figsize)
     
     row_num = 1
-    for i, (key, val) in enumerate(studios_by_popularity.items()):
+    for i, (key, val) in enumerate(dict_list.items()):
         if i % n_in_row == 0:
             plt.subplot(nrows, 1, row_num)
             row_num += 1
         plt.xticks(rotation=30, fontsize=11)
-        plt.xlabel("Studios")
-        plt.ylabel("Popularity (lower is better)")
+        plt.xlabel(xlabel)
+        plt.ylabel(ylabel)
         plt.scatter([key] * len(val), val, label=key, s=ptsize)
     
     plt.show()
 
-# boxplot of studios by score
-def boxplot_studios_by_score(studios_by_score, figsize=(18,90), n_in_row=15):
-    num_studios = len(studios_by_score.keys())
-    nrows = math.ceil(num_studios / n_in_row)
+# boxplot of studios by score; input is dict with studio_name: [scores]
+def boxplot_x_by_y(dict_list, xlabel, ylabel, figsize=(18,36), n_in_row=12):
+    num_items = len(dict_list.keys())
+    nrows = math.ceil(num_items / n_in_row)
     fig, ax = plt.subplots(nrows=nrows, ncols=1, figsize=figsize)
     
     row_num = 1
-    for keys, values in zip(grouper(studios_by_score, n_in_row), 
-                            grouper(studios_by_score.values(), n_in_row)):
+    for keys, values in zip(grouper(dict_list, n_in_row, "N/A"), 
+                            grouper(dict_list.values(), n_in_row, 0)):
         plt.subplot(nrows, 1, row_num)
-        plt.boxplot(values)
-        plt.xlabel("Studios")
-        plt.ylabel("Score (out of 10)")
+        plt.boxplot(values, notch=True, bootstrap=1000)
+        plt.xlabel(xlabel)
+        plt.ylabel(ylabel)
         plt.xticks(range(1,len(keys) + 1), keys, rotation=30, fontsize=10)
         row_num += 1
 
     plt.show()
-
 
 ### ----- counting -----
 def total_num_of_reviews(animes):
@@ -141,6 +140,36 @@ def get_normalized_word_count(animes):
                 else:
                     words[word] += 1/doc_length
     return words
+    
+def get_x_by_y(animes, x_field, y_field, ignore=[], is_round_to_half=False, drop_count = 0):
+    try:
+        x = {}
+        if ignore:
+            x["Other"] = []
+        
+        for mal_id, anime in animes.items():
+            if is_round_to_half and type(anime[y_field]) is float:
+                y_val = round_to_half(anime[y_field])
+            else:
+                y_val = anime[y_field]
+            
+            for item in anime[x_field]:
+                name = item["name"]
+                if name and name not in x and name not in ignore:
+                    x[name] = [y_val]
+                elif name not in ignore:
+                    x[name].append(y_val)
+                else:
+                    x["Other"].append(y_val)
+                    
+        if drop_count != 0:
+            x = {k: v for k, v in x.items() if len(v) > drop_count}
+    
+        return x
+    
+    except Exception as e:
+        print(e)
+        # x should be hashable and iterable in anime[x_field]
 
 def count_genres(animes, other=[]):
     genres = Counter()
@@ -171,31 +200,6 @@ def count_studios(animes):
                 studios[studio["name"]] = 1
             else:
                 studios[studio["name"]] += 1
-    return studios
-    
-def studios_by_scores(animes, is_round_to_half=True):
-    studios = {}
-    for mal_id, anime in animes.items():
-        for studio in anime["studios"]:
-            if is_round_to_half:
-                score = round_to_half(anime["score"])
-            else:
-                score = anime["score"]
-                
-            if studio["name"] not in studios and studio["name"]:
-                studios[studio["name"]] = [anime["score"]]
-            else:
-                studios[studio["name"]].append(anime["score"])
-    return studios
-                
-def studios_by_popularity(animes):
-    studios = {}
-    for mal_id, anime in animes.items():
-        for studio in anime["studios"]:
-            if studio["name"] not in studios and studio["name"]:
-                studios[studio["name"]] = [anime["popularity"]]
-            else:
-                studios[studio["name"]].append(anime["popularity"])
     return studios
     
 def count_ratings(animes):
