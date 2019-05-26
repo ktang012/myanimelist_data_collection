@@ -85,7 +85,7 @@ def reformat_aired(row):
 
 # bins score to nearest 0.5
 def bin_score(row):
-    return pd.Series({"binned_score": round(row["score"] * 2) / 2.0})
+    return pd.Series({"binned_score": ud.round_to_n(row["score"]))
 
 # splits studios into two fields, one with studio id and another with studio name
 # each field is a list
