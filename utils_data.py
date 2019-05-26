@@ -99,7 +99,7 @@ def scatterplot_x_by_y(dict_list, xlabel, ylabel, figsize=(18,36), ptsize=100, n
     
     plt.show()
 
-# boxplot of studios by score; input is dict with studio_name: [scores]
+# boxplot of x by y; input is dict with {x: [y]}
 def boxplot_x_by_y(dict_list, xlabel, ylabel, figsize=(18,36), n_in_row=12):
     num_items = len(dict_list.keys())
     nrows = math.ceil(num_items / n_in_row)
@@ -140,8 +140,10 @@ def get_normalized_word_count(animes):
                 else:
                     words[word] += 1/doc_length
     return words
-    
-def get_x_by_y(animes, x_field, y_field, ignore=[], is_round_to_half=False, drop_count = 0):
+
+# anime[x_field] is an iterable and anime[x_field][subfield] exists and is hashable (key)
+# anime[y_field] is an int/float
+def get_x_by_y(animes, x_field, y_field, subfield="name", ignore=[], is_round_to_half=False, drop_count = 0):
     try:
         x = {}
         if ignore:
@@ -153,14 +155,24 @@ def get_x_by_y(animes, x_field, y_field, ignore=[], is_round_to_half=False, drop
             else:
                 y_val = anime[y_field]
             
-            for item in anime[x_field]:
-                name = item["name"]
+            if type(anime[x_field]) is str:
+                iterable = iter([anime[x_field]])
+            else:
+                iterable = anime[x_field]
+            
+            for item in iterable:
+                if subfield is not None:
+                    name = item[subfield]
+                else:
+                    name = item 
+                
                 if name and name not in x and name not in ignore:
                     x[name] = [y_val]
                 elif name not in ignore:
                     x[name].append(y_val)
                 else:
                     x["Other"].append(y_val)
+                    
                     
         if drop_count != 0:
             x = {k: v for k, v in x.items() if len(v) > drop_count}
