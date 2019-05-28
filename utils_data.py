@@ -4,6 +4,7 @@ import math
 import urllib
 import time
 import itertools
+import collections
 
 from collections import Counter
 import matplotlib.pyplot as plt
@@ -105,9 +106,10 @@ def boxplot_x_by_y(dict_list, xlabel, ylabel, figsize=(18,36), n_in_row=12):
     nrows = math.ceil(num_items / n_in_row)
     fig, ax = plt.subplots(nrows=nrows, ncols=1, figsize=figsize)
     
+    sorted_dict_list = collections.OrderedDict(sorted(dict_list.items())) 
     row_num = 1
-    for keys, values in zip(grouper(dict_list, n_in_row, "N/A"), 
-                            grouper(dict_list.values(), n_in_row, 0)):
+    for keys, values in zip(grouper(sorted_dict_list, n_in_row, "N/A"), 
+                            grouper(sorted_dict_list.values(), n_in_row, 0)):
         plt.subplot(nrows, 1, row_num)
         plt.boxplot(values, notch=True, bootstrap=1000)
         plt.xlabel(xlabel)
@@ -135,8 +137,7 @@ def get_normalized_word_count(animes):
             for word in doc:
                 word = word.lower()
                 if word not in words:
-                    words[word] = 1/doc_length
-                    
+                    words[word] = 1/doc_length                
                 else:
                     words[word] += 1/doc_length
     return words
@@ -155,8 +156,9 @@ def get_x_by_y(animes, x_field, y_field, subfield="name", ignore=[], is_round_to
             else:
                 y_val = anime[y_field]
             
+            # Premiere Date
             if type(anime[x_field]) is str:
-                iterable = iter([anime[x_field]])
+                iterable = [anime[x_field]]
             else:
                 iterable = anime[x_field]
             
@@ -171,8 +173,7 @@ def get_x_by_y(animes, x_field, y_field, subfield="name", ignore=[], is_round_to
                 elif name not in ignore:
                     x[name].append(y_val)
                 else:
-                    x["Other"].append(y_val)
-                    
+                    x["Other"].append(y_val)      
                     
         if drop_count != 0:
             x = {k: v for k, v in x.items() if len(v) > drop_count}

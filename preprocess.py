@@ -83,10 +83,6 @@ def reformat_aired(row):
         aired = [None, None]
     return pd.Series({'air_start': aired[0], 'air_end': aired[1]})
 
-# bins score to nearest 0.5
-def bin_score(row):
-    return pd.Series({"binned_score": ud.round_to_n(row["score"]))
-
 # splits studios into two fields, one with studio id and another with studio name
 # each field is a list
 def reformat_studios(row):
@@ -104,18 +100,20 @@ def reformat_genre(row):
     genre_ids, genre_names = zip(*[(x['mal_id'], x['name']) for x in genres_field])
     return pd.Series({"genre_names": genre_names, "genre_ids": genre_ids})   
 
-# splits related into two fields, one with related anime ids and another with their names
-# each field is a list and is only included if it is a sequal or prequel to the anime
-def reformat_related(row):
+# check if it has prequels or sequels 
+def create_dummy_related(row):
     MEDIA_TYPES = set(["Prequel", "Sequel"])
+    prequel = "Prequel"
+    sequel = "Sequel"
+    
     related_field = row["related"]
-    related_names, related_ids = [], []
+    is_prequel, is_sequel = 0, 0
     for media_type, media_info in related_field.items():
-        if media_type in MEDIA_TYPES:
-            for anime in media_info:
-                related_ids.append(anime["mal_id"])
-                related_names.append(anime["name"])
-    return pd.Series({"related_names": related_names, "related_ids": related_ids})
+        if media_type == "Prequel":
+            is_prequel = 1
+        elif media_type == "Sequel":
+            is_sequel = 1
+    return pd.Series({"has_Prequel": is_prequel, "has_Sequel": is_sequel})
 
 # downloads cover image of anime
 def retrieve_image(row):
@@ -144,51 +142,73 @@ def create_dummy_genres(row, genres):
 
 # the dataframe from reading the json file
 def preprocess_df(animes_df, nlp=None, stop_words=None, genres=GENRES):
+    # need to reset index when read directly from json
     animes_df = animes_df.reset_index().drop(columns=['index', 'title_synonyms', 
-                                                      'title_japanese', 'url', 'scores',
-                                                      'opening_themes', 'ending_themes',
-                                                      'producers', 'rating', 'status',
-                                                      'duration', 'episodes', 'premiered'])
+                                          'title_japanese', 'url', 'scores',
+                                          'opening_themes', 'ending_themes',
+                                          'producers', 'rating', 'status',
+                                          'duration', 'episodes', 'premiered',
+                                          'title', 'image_url'])
     
+    # airing date -- splits into start and end dates
     animes_df = animes_df.join(animes_df.apply(reformat_aired, axis=1, 
                                                result_type="expand"), how="right")
-    animes_df = animes_df.drop("aired", axis=1)
+    animes_df.drop("aired", axis=1, inplace=True)
     animes_df["air_start"] = pd.to_datetime(animes_df["air_start"],
                                             infer_datetime_format=True,
                                             errors="coerce")
     animes_df["air_end"] = pd.to_datetime(animes_df["air_end"], 
                                           infer_datetime_format=True,
                                           errors="coerce")
+                                          
+    # score -- split into quantiles
+    quantiles=[.2, .4, .8, .9]
+    score_labels=["is_Poor", "is_Below_Average", "is_Average",
+                  "is_Above_Average", "is_Excellent"]
+    ntiles = [0.] + list(animes_df["score"].quantile(quantiles)) + [10.]
+    score_dummies = pd.get_dummies(pd.cut(animes_df["score"], bins=ntiles,
+                                   labels=score_labels))
+    animes_df = animes_df.join(score_dummies, how="right")
+    animes_df.drop("score", axis=1, inplace=True)
     
-    animes_df = animes_df.join(animes_df.apply(bin_score, axis=1, 
-                                               result_type="expand"), how="right")
-    animes_df = animes_df.drop("score", axis=1)
+    # studios of anime -- splits studio to name and id
+    # animes_df = animes_df.join(animes_df.apply(reformat_studios, axis=1, 
+    #                                            result_type="expand"), how="right")
+    animes_df.drop("studios", axis=1, inplace=True)    
     
-    animes_df = animes_df.join(animes_df.apply(reformat_genre, axis=1, 
+    # related medias -- checks if anime has a prequel or sequel
+    animes_df = animes_df.join(animes_df.apply(create_dummy_related, axis=1, 
                                                result_type="expand"), how="right")
-    animes_df = animes_df.drop("genres", axis=1)
+    animes_df.drop("related", axis=1, inplace=True)
     
-    animes_df = animes_df.join(animes_df.apply(reformat_studios, axis=1, 
-                                               result_type="expand"), how="right")
-    animes_df = animes_df.drop("studios", axis=1)    
-                                                      
-    animes_df = animes_df.join(animes_df.apply(reformat_related, axis=1, 
-                                               result_type="expand"), how="right")
-    animes_df = animes_df.drop("related", axis=1)
-    
+    # source material -- creates dummy variables for given sources
+    source_dummies = pd.get_dummies(animes_df["source"], prefix="is")
+    source_dummies.drop(source_dummies.columns.difference(["is_Manga", "is_Light novel",
+                                                   "is_Original", "is_Visual novel"]),
+                        axis=1, inplace=True)
+    animes_df = animes_df.join(source_dummies, how="right")
+    animes_df.drop("source", axis=1, inplace=True)
+         
+    # convert synopsis to word vector (mean of synopsis)
     if nlp and stop_words:
         animes_df = animes_df.join(animes_df.apply(create_synopsis_word_vectors, 
                                    args=(nlp, stop_words), axis=1, result_type="expand"), 
                                    how="right")
-        animes_df = animes_df.drop("synopsis", axis=1)
+        animes_df.drop("synopsis", axis=1, inplace=True)
     else:
         print("Not vectorizing synopsis")
-        
+    
+    
+    # anime genres -- splits genres to genre id and name
+    animes_df = animes_df.join(animes_df.apply(reformat_genre, axis=1, 
+                                               result_type="expand"), how="right")
+    animes_df = animes_df.drop("genres", axis=1)
+    # creates dummy variables with given list of genres
     if genres:
         animes_df = animes_df.join(animes_df.apply(create_dummy_genres, args=[genres],
                                                    axis=1, result_type="expand"),
                                    how="right")
-        animes_df.drop(labels=["genre_names", "genre_ids"], axis=1)
+        animes_df.drop(labels=["genre_names", "genre_ids"], axis=1, inplace=True)
     else:
         print("Not creating genre dummy variables")
                                                       
