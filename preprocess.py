@@ -83,6 +83,12 @@ def reformat_aired(row):
         aired = [None, None]
     return pd.Series({'air_start': aired[0], 'air_end': aired[1]})
 
+# splits premier date into season and year
+def split_premiered(row):
+    prem_field = row["premiered"].split(" ")
+    
+    return pd.Series({"season": prem_field[0], "year": int(prem_field[1])})
+
 # splits studios into two fields, one with studio id and another with studio name
 # each field is a list
 def reformat_studios(row):
@@ -147,20 +153,28 @@ def preprocess_df(animes_df, nlp=None, stop_words=None, genres=GENRES):
                                           'title_japanese', 'url', 'scores',
                                           'opening_themes', 'ending_themes',
                                           'producers', 'rating', 'status',
-                                          'duration', 'episodes', 'premiered',
+                                          'duration', 'episodes',
                                           'title', 'image_url'])
     
+    animes_df["title_english"] = animes_df["title_english"].astype(str) 
+    
     # airing date -- splits into start and end dates
-    animes_df = animes_df.join(animes_df.apply(reformat_aired, axis=1, 
-                                               result_type="expand"), how="right")
+    # animes_df = animes_df.join(animes_df.apply(reformat_aired, axis=1, 
+    #                                            result_type="expand"), how="right")
+    # animes_df["air_start"] = pd.to_datetime(animes_df["air_start"],
+    #                                         infer_datetime_format=True,
+    #                                         errors="coerce")
+    # animes_df["air_end"] = pd.to_datetime(animes_df["air_end"], 
+    #                                       infer_datetime_format=True,
+    #                                       errors="coerce")
     animes_df.drop("aired", axis=1, inplace=True)
-    animes_df["air_start"] = pd.to_datetime(animes_df["air_start"],
-                                            infer_datetime_format=True,
-                                            errors="coerce")
-    animes_df["air_end"] = pd.to_datetime(animes_df["air_end"], 
-                                          infer_datetime_format=True,
-                                          errors="coerce")
-                                          
+
+    # premiere date -- split into season and year
+    animes_df = animes_df.join(animes_df.apply(split_premiered, axis=1,
+                                               result_type="expand"), how="right")
+    animes_df = pd.get_dummies(animes_df, columns=["season", "year"])
+    animes_df.drop("premiered", axis=1, inplace=True)
+
     # score -- split into quantiles
     quantiles=[.2, .4, .8, .9]
     score_labels=["is_Poor", "is_Below_Average", "is_Average",
