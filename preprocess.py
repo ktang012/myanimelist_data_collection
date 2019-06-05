@@ -145,6 +145,11 @@ def create_dummy_genres(row, genres):
             dummy["is_" + genre] = 0
 
     return pd.Series(dummy)
+    
+def unroll_document_vector(row, column=None):
+    vector_field = row[column]
+    series = pd.Series({i: val for i, val in enumerate(vector_field)})
+    return series.reindex(sorted(series.keys()))
 
 # the dataframe from reading the json file
 def preprocess_df(animes_df, nlp=None, stop_words=None, genres=GENRES):
@@ -227,31 +232,4 @@ def preprocess_df(animes_df, nlp=None, stop_words=None, genres=GENRES):
         print("Not creating genre dummy variables")
                                                       
     return animes_df                                      
-                                                                                                                                                           
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
 
