@@ -190,6 +190,14 @@ def preprocess_df(animes_df, nlp=None, stop_words=None, genres=GENRES):
     animes_df = animes_df.join(score_dummies, how="right")
     animes_df.drop("score", axis=1, inplace=True)
     
+    # popularity -- split ranks
+    bins = [0, 275, 575, 955, float("inf")]
+    labels = ["is_Very_Popular", "is_Popular", "is_Unpopular", "is_Very_Unpopular"]
+    popularity_dummies = pd.get_dummies(pd.cut(animes_df["popularity"], 
+                                        bins=bins, labels=labels))
+    animes_df = animes_df.join(popularity_dummies, how="right")
+    animes_df.drop("popularity", axis=1, inplace=True)
+    
     # studios of anime -- splits studio to name and id
     # animes_df = animes_df.join(animes_df.apply(reformat_studios, axis=1, 
     #                                            result_type="expand"), how="right")
