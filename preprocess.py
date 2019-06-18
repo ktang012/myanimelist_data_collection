@@ -21,8 +21,8 @@ def create_stop_words(animes):
     stop_words.difference_update(diff_stop_words)
     return stop_words
     
-def tokenize_text(text, nlp, STOP_WORDS, tokens_to_remove=TOKENS_TO_REMOVE):
-    text = text.strip().replace("\\n", "")
+def tokenize_text(text, nlp, STOP_WORDS={}, tokens_to_remove=TOKENS_TO_REMOVE):
+    text = text.strip().replace("\\n", "").replace("\\r", "").replace("\\'", "'")
     text = text.lower()
     
     from spacy.tokens import Token, Doc
@@ -62,11 +62,12 @@ def tokenize_text(text, nlp, STOP_WORDS, tokens_to_remove=TOKENS_TO_REMOVE):
     
     doc = nlp(text)
     tokens_to_exclude = []
+    
     for token in doc:
         exclude_index = token._.get_excluded_index
         if exclude_index:
             tokens_to_exclude.append(exclude_index)
-    
+
     doc = remove_tokens(doc, tokens_to_exclude)
     
     Token.remove_extension("get_excluded_index")
