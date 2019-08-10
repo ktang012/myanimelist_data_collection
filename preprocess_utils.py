@@ -1,11 +1,14 @@
 import pandas as pd
 import spacy
 import re
+import os
 
 from pandas.io.json import json_normalize
 
-def read_animes_json(path="data/mal_data.json"):
-    return pd.read_json("data/mal_data.json", orient="index")
+DATA_PATH = os.path.join("data", "bert_vectors")
+
+def read_animes_json(path=os.path.join("data", "mal_data.json")):
+    return pd.read_json(path, orient="index")
 
 def get_reviews(anime):
     reviews = json_normalize(anime["reviews"])
@@ -29,7 +32,11 @@ def get_reviews_dataframe(animes_dataframe):
     reviews = pd.concat(animes_dataframe.apply(get_reviews, axis="columns").values.tolist())
     reviews.set_index("review_id", inplace=True)
     return reviews
-    
+
+def get_reviews_from_anime():
+    df = read_animes_json()
+    return get_reviews_dataframe(df)
+
 def drop_anime_columns(animes_dataframe):
     cols = [
         'aired', 'title_synonyms', 'title_japanese', 'url', 'scores',
@@ -166,10 +173,7 @@ def set_synopsis_embeddings(animes_dataframe, nlp=None, method=None):
                                     axis=1, result_type="expand")
         return animes_dataframe.join(df, on="mal_id")
         
-def load_and_preprocess(set_synopsis_embeddings=False):
-    animes = read_animes_json()
-    reviews = get_reviews_dataframe(animes)
-    
+def preprocess_animes(animes, use_synopsis_embeddings=False):
     animes = drop_anime_columns(animes)
     animes = round_anime_score(animes)
     animes = encode_genres(animes)
@@ -179,10 +183,13 @@ def load_and_preprocess(set_synopsis_embeddings=False):
     animes = encode_premiered(animes)
     animes = set_view_status(animes)
     
-    if set_synopsis_embeddings:
+    if use_synopsis_embeddings:
         animes = set_synopsis_embeddings(animes)
     
     return animes
+    
+def load_preprocessed_animes(path=os.path.join(DATA_PATH, "animes.hdf5")):
+    return pd.read_hdf(path, "table")
         
 def remove_newline_and_carriage_returns(text):
     return re.sub(r"\n\n|\r\n|\r|\\n", " ", text)
@@ -204,14 +211,24 @@ def set_review_embeddings(reviews_dataframe, nlp=None, method=None):
                                      axis=1, result_type="expand")
         return reviews_dataframe.join(df, on="review_id")
         
+def get_episodes_seen_percent(reviews_dataframe):
+    episodes_seen = reviews_dataframe["reviewer.episodes_seen"] / reviews_dataframe["episodes"]
+    return episodes_seen.to_frame("reviewer.percentage.episodes_seen")
     
+def set_episodes_seen_percent(reviews_dataframe):
+    df = get_episodes_seen_percent(reviews_dataframe)
+    reviews_dataframe = reviews_dataframe.join(df, on="review_id")
+    return reviews_dataframe.drop(labels=["reviewer.episodes_seen", "episodes"], axis="columns")
+
+def preprocess_reviews(reviews, use_review_embeddings=False):
+    reviews = reviews.drop_duplicates()
+    reviews = set_episodes_seen_percent(reviews)
     
+    if use_review_embeddings:
+        reviews = set_review_embeddings(reviews)
     
+    return reviews
     
-    
-    
-    
-    
-    
-    
-    
+def load_preprocessed_reviews(path=os.path.join(DATA_PATH, "reviews.hdf5")):
+    return pd.read_hdf(path, "table")
+
