@@ -2,6 +2,8 @@ import pandas as pd
 import spacy
 import re
 import os
+import cupy
+import torch
 
 from pandas.io.json import json_normalize
 
@@ -158,20 +160,28 @@ def set_view_status_percent(animes_dataframe):
     return animes_dataframe.drop(labels=view_status, axis="columns")
 
 # default: take sum across all embeddings
-def get_synopsis_embeddings(anime, nlp, method=None):
+def get_synopsis_embeddings(anime, nlp, method=None, use_gpu=False):
     if not method:
-        return pd.Series(nlp(anime["synopsis"]).tensor.sum(axis=0)).add_prefix("synopsis.vector_")
+        embed = nlp(anime["synopsis"]).tensor.sum(axis=0)
+        
+        if use_gpu:
+            embed = cupy.asnumpy(embed)
+            
+        return pd.Series(embed).add_prefix("synopsis.vector_")
     else:
         pass
         
 def set_synopsis_embeddings(animes_dataframe, nlp=None, method=None):
+    is_using_gpu = spacy.prefer_gpu()
+    if is_using_gpu:
+        torch.set_default_tensor_type("torch.cuda.FloatTensor")
+        
     if not nlp:
         nlp = spacy.load('en_pytt_bertbaseuncased_lg')
         
-    if not method:
-        df = animes_dataframe.apply(get_synopsis_embeddings, args=[nlp], 
-                                    axis=1, result_type="expand")
-        return animes_dataframe.join(df, on="mal_id")
+    df = animes_dataframe.apply(get_synopsis_embeddings, args=[nlp, method, is_using_gpu], 
+                                axis=1, result_type="expand")
+    return animes_dataframe.join(df, on="mal_id")
         
 def preprocess_animes(animes, use_synopsis_embeddings=False):
     animes = drop_anime_columns(animes)
@@ -181,7 +191,7 @@ def preprocess_animes(animes, use_synopsis_embeddings=False):
     animes = encode_related(animes)
     animes = encode_popularity(animes)
     animes = encode_premiered(animes)
-    animes = set_view_status(animes)
+    animes = set_view_status_percent(animes)
     
     if use_synopsis_embeddings:
         animes = set_synopsis_embeddings(animes)
@@ -194,22 +204,30 @@ def load_preprocessed_animes(path=os.path.join(DATA_PATH, "animes.hdf5")):
 def remove_newline_and_carriage_returns(text):
     return re.sub(r"\n\n|\r\n|\r|\\n", " ", text)
     
-def get_review_embeddings(review, nlp, method=None):
+def get_review_embeddings(review, nlp, method=None, use_gpu=False):
     content = remove_newline_and_carriage_returns(review["content"])
 
     if not method:
-        return pd.Series(nlp(content).tensor.sum(axis=0)).add_prefix("content.vector_")
+        embed = nlp(content).tensor.sum(axis=0)
+        
+        if use_gpu:
+            embed = cupy.asnumpy(embed)    
+        
+        return pd.Series(embed).add_prefix("content.vector_")
     else:
         pass
         
 def set_review_embeddings(reviews_dataframe, nlp=None, method=None):
+    is_using_gpu = spacy.prefer_gpu()
+    if is_using_gpu:
+        torch.set_default_tensor_type("torch.cuda.FloatTensor")
+        
     if not nlp:
         nlp = spacy.load('en_pytt_bertbaseuncased_lg')
     
-    if not method:
-        df = reviews_dataframe.apply(get_review_embeddings, args=[nlp], 
-                                     axis=1, result_type="expand")
-        return reviews_dataframe.join(df, on="review_id")
+    df = reviews_dataframe.apply(get_review_embeddings, args=[nlp, method, is_using_gpu], 
+                                 axis=1, result_type="expand")
+    return reviews_dataframe.join(df, on="review_id")
         
 def get_episodes_seen_percent(reviews_dataframe):
     episodes_seen = reviews_dataframe["reviewer.episodes_seen"] / reviews_dataframe["episodes"]
