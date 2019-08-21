@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 import spacy
 import re
@@ -8,6 +9,7 @@ import torch
 from pandas.io.json import json_normalize
 
 DATA_PATH = os.path.join("data", "bert_vectors")
+TOKENS_TO_REMOVE = set(["SPACE", "SYMBOL", "NUM", "X"])
 
 def read_animes_json(path=os.path.join("data", "mal_data.json")):
     return pd.read_json(path, orient="index")
@@ -28,12 +30,12 @@ def get_reviews(anime):
         reviews.drop(labels=[col], axis="columns", inplace=True)
         reviews.insert(i, col, copy)
     
-    return reviews
+    return reviews.drop_duplicates()
     
 def get_reviews_dataframe(animes_dataframe):
     reviews = pd.concat(animes_dataframe.apply(get_reviews, axis="columns").values.tolist())
     reviews.set_index("review_id", inplace=True)
-    return reviews
+    return reviews.drop_duplicates()
 
 def get_reviews_from_anime():
     df = read_animes_json()
@@ -204,31 +206,45 @@ def load_preprocessed_animes(path=os.path.join(DATA_PATH, "animes.hdf5")):
 def remove_newline_and_carriage_returns(text):
     return re.sub(r"\n\n|\r\n|\r|\\n", " ", text)
     
-def get_review_embeddings(review, nlp, method=None, use_gpu=False):
-    content = remove_newline_and_carriage_returns(review["content"])
-
-    if not method:
-        embed = nlp(content).tensor.sum(axis=0)
-        
-        if use_gpu:
-            embed = cupy.asnumpy(embed)    
-        
-        return pd.Series(embed).add_prefix("content.vector_")
-    else:
-        pass
-        
-def set_review_embeddings(reviews_dataframe, nlp=None, method=None):
+    
+def get_review_embeddings(reviews_dataframe, nlp=None, method=None, batch_size=32):
     is_using_gpu = spacy.prefer_gpu()
     if is_using_gpu:
         torch.set_default_tensor_type("torch.cuda.FloatTensor")
-        
-    if not nlp:
-        nlp = spacy.load('en_pytt_bertbaseuncased_lg')
     
-    df = reviews_dataframe.apply(get_review_embeddings, args=[nlp, method, is_using_gpu], 
-                                 axis=1, result_type="expand")
-    return reviews_dataframe.join(df, on="review_id")
-        
+    texts = list(reviews_dataframe["content"])
+    texts = [remove_newline_and_carriage_returns(text) for text in texts]
+    
+    # treats entire review as a sentence
+    if nlp == "BERT":
+        nlp = spacy.load('en_pytt_bertbaseuncased_lg')
+        embeds = []
+        for doc in nlp.pipe(texts, batch_size=batch_size):
+            if method == "mean":
+                embeds.append(cupy.asnumpy(doc._.pytt_last_hidden_state.mean(axis=0)))
+            elif method == "max":
+                embeds.append(cupy.asnumpy(doc._.pytt_last_hidden_state.max(axis=0)))
+            else:
+                embeds.append(cupy.asnumpy(doc.tensor.sum(axis=0)))
+    if nlp == "CST": 
+        nlp = spacy.load('en_core_web_lg')
+        embeds = []
+        for doc in nlp.pipe(texts, batch_size=batch_size):
+            if method == "mean":
+                embeds.append(cupy.asnumpy(doc.tensor.mean(axis=0)))
+            elif method == "max":
+                embeds.append(cupy.asnumpy(doc.tensor.max(axis=0)))
+            else:
+                embeds.append(cupy.asnumpy(doc.tensor.sum(axis=0)))
+    else:
+        nlp = spacy.load('en_core_web_lg')
+        embeds = []
+        for doc in nlp.pipe(texts, batch_size=batch_size):
+            embeds.append(cupy.asnumpy(doc.vector))
+    
+    return embeds
+    
+
 def get_episodes_seen_percent(reviews_dataframe):
     episodes_seen = reviews_dataframe["reviewer.episodes_seen"] / reviews_dataframe["episodes"]
     return episodes_seen.to_frame("reviewer.percentage.episodes_seen")
@@ -239,14 +255,83 @@ def set_episodes_seen_percent(reviews_dataframe):
     return reviews_dataframe.drop(labels=["reviewer.episodes_seen", "episodes"], axis="columns")
 
 def preprocess_reviews(reviews, use_review_embeddings=False):
-    reviews = reviews.drop_duplicates()
     reviews = set_episodes_seen_percent(reviews)
     
     if use_review_embeddings:
-        reviews = set_review_embeddings(reviews)
+        reset_index_reviews = reviews.reset_index()
+        review_col_names = list(reset_index_reviews().columns)
+    
+        embeds = get_review_embeddings(reviews)
+        embedded_reviews = pd.DataFrame([pd.np.column_stack([reviews, embeds])])
+        
+        num_review_cols = len(review_col_names)
+        num_total_cols = len(list(embedded_reviews.columns))
+        
+        rename_cols = {i: review_col_names[i] for i in range(num_review_cols)}
+        reviews.rename(columns=rename_cols, inplace=True)
+        
+        rename_embed_cols = {i: "bert_embed." + str(i-num_review_cols) for i in range(num_review_cols,num_total_cols)}
+        embedded_reviews.rename(columns=rename_embed_cols, inplace=True)
+        
+        embedded_reviews.set_index("review_id", inplace=True)
+        embedded_reviews = embedded_reviews.infer_objects()
+        
+        return embedded_reviews
     
     return reviews
     
-def load_preprocessed_reviews(path=os.path.join(DATA_PATH, "reviews.hdf5")):
+def load_preprocessed_reviews(path=os.path.join(DATA_PATH, "reviews_sum.hdf5")):
     return pd.read_hdf(path, "table")
+    
+def tokenize_text(text, nlp, STOP_WORDS={}, tokens_to_remove=TOKENS_TO_REMOVE):
+    text = text.strip().replace("\\n", "").replace("\\r", "").replace("\\'", "'")
+    text = text.lower()
+    
+    from spacy.tokens import Token, Doc
+    from spacy.attrs import LOWER, POS, ENT_TYPE, IS_ALPHA, DEP, LEMMA, LOWER, IS_PUNCT, IS_DIGIT, IS_SPACE, IS_STOP
+    import numpy as np
+    # https://gist.github.com/Jacobe2169/5086c7c4f6c56e9d3c7cfb1eb0010fe8
+    def remove_tokens(doc, index_todel,list_attr=[LOWER, POS, ENT_TYPE, IS_ALPHA, DEP, LEMMA, LOWER, IS_PUNCT, IS_DIGIT, IS_SPACE, IS_STOP]):
+        """
+        Remove tokens from a Spacy *Doc* object without losing associated information (PartOfSpeech, Dependance, Lemma, ...)
 
+        Parameters
+        ----------
+        doc : spacy.tokens.doc.Doc
+            spacy representation of the text
+        index_todel : list of integer 
+             positions of each token you want to delete from the document
+        list_attr : list, optional
+            Contains the Spacy attributes you want to keep (the default is [LOWER, POS, ENT_TYPE, IS_ALPHA, DEP, LEMMA, LOWER, IS_PUNCT, IS_DIGIT, IS_SPACE, IS_STOP])
+        Returns
+        -------
+        spacy.tokens.doc.Doc
+            Filter version of doc
+        """
+
+        np_array = doc.to_array(list_attr)
+        np_array_2 = np.delete(np_array, index_todel, axis = 0)
+        index_todel = set(index_todel)
+        doc2 = Doc(doc.vocab, words=[t.text for i, t in enumerate(doc) if i not in index_todel])
+        doc2.from_array(list_attr, np_array_2)
+        return doc2
+    
+    def get_excluded_index(token):
+        if (token.is_punct or token.text in STOP_WORDS or token.pos_ in TOKENS_TO_REMOVE):
+            return token.i
+    
+    Token.set_extension("get_excluded_index", getter=get_excluded_index, force=True)
+    
+    doc = nlp(text)
+    tokens_to_exclude = []
+    
+    for token in doc:
+        exclude_index = token._.get_excluded_index
+        if exclude_index:
+            tokens_to_exclude.append(exclude_index)
+
+    doc = remove_tokens(doc, tokens_to_exclude)
+    
+    Token.remove_extension("get_excluded_index")
+    
+    return doc
